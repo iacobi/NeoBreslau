@@ -7,47 +7,45 @@
 
 **Akcelerator:** [Sprawność i Spostrzegawczość 4] : Przerzut do **Sprawności**, dodatkowa kostka do rzutu na inicajtywę. Moze zaplacic punkt SW, żeby dostać dodatkowy unik w rundzie (maksymalnie 1 dodatkowy), Możesz zapłacić punkty SW, żeby uniknąć broni palnej (jeśli wykonujesz dodatkowy unik i jednocześnie unikasz broni palnej, to łączny koszt jest równy 2). Musisz widzieć strzelca, żeby unikać broni palnej.
 
-**???Chirurg:** [Mechanika albo Elektronika 3] : Przerzut do **Medycyny**. Jakiekolwiek leczenie wykonane przez tą postać przywraca jeden Punkt Żywotności więcej niż normalnie. Kiedy walczysz nożem w rzucie na obrażenia możesz korzystać z **Medycyny** zamiast **Siły**.
- 
-**Cwaniak:** [ - ] : Przerzut do Charakteru, Kradzieży i Hazardu.
->***Fantom:** [Fałszerstwo 4] Nawet ludzie, którzy znają Cię od lat czasem wątpią czy istniejesz naprawdę. Ukrywanie się i zacieranie śladów to Twoja druga natura, nie zostawiasz odcisków palców, unikasz kamer i rozpływasz w tłumie. Postać ma jeden przerzut do wszystkich testów Kradzieży i Fałszerstwa. Wydając punkt żywotności postać jest w stanie zmienić swoj fizyczny wygląd, w szczegolnosci rysy twarzy. Nie zmieni swojej masy, ale może udawac postać niższa lub wyższa o 10% albo chudsza albo grubsza.
+**???Chirurg:** [Mechanika albo Elektronika 3] : Przerzut do **Medycyny**. Jakiekolwiek leczenie wykonane przez tą postać przywraca jeden Punkt Żywotności więcej niż normalnie. Kiedy walczysz jednoręcznymi ostrzami w rzucie na obrażenia możesz korzystać z **Medycyny** zamiast **Siły**.
 
-**CyberArsenał:** [Siła 4] : w organizmie postaci jest ukryta broń: karabin, katana, granatnik albo coś o porównywalnych wymiarach. Ta bron jest zawsze traktowana jako najlepszej jakości, wyposażona w optykę i smartlink w przypadku broni strzeleckiej. Nawet jeśli jest ukryta jest traktowana jest jakby zawsze była w dłoni postaci. Broń Palna jest ukryta z pojedynczym magazynkiem, wymiana amunicji wymaga kilku tur.
->***CyberOstrza** [Siła 4] : jak katana - dwa przerzuty, cztery silne kostki obrażeń.
-
+**CyberOstrza** [Siła 4] : w organiźmie postaci ukryte są ostrze/ostrza. Mechanicznie traktujemy je jak katanę (dwuręczna, dwa przerzuty, cztery silne kostki obrażeń). Postać nie traci też żadnej akcji na wyciągnięcie ostrza.
+>
+>***Granatnik** [Siła 4] : jednostrzałowy granatnik 40mm, załadowanie ponownie wymaga 6 tur.
+>
 **CyberNogi:** [Sprawność i Siła 4] : Może skakać wzwyż na Siła w metrach, w dal na 2x Siła i spadać bezpiecznie z 5 x Siła metrów.
 
 **CyberRęce:** [Sprawność i Siła 4] : Dodatkowa kostka obrażeń w Walce Wręcz/Walce Bronią. Ignorujesz Odrzut i Nieporęczność broni. 
 
  **Cyngiel:** [Dowolna umiejętność strzelecka 5] : Wyciągnięcie pistoletu z kabury albo zza pasa nie zajmuje akcji. Strzelasz z lewej ręki tak samo sprawnie jak z prawej. Możesz wykonać trzy szybkie strzały w rundzie używając 4 kostek w rzucie na trafienie.
 
+**Fantom:** [ Kamuflaż 4 ] Nawet ludzie, którzy znają Cię od lat czasem wątpią czy istniejesz naprawdę. Ukrywanie się i zacieranie śladów to Twoja druga natura, nie zostawiasz odcisków palców, unikasz kamer i rozpływasz w tłumie. Wydając punkt SW postać jest w stanie zmienić swoj fizyczny wygląd, w szczegolnosci rysy twarzy. Nie zmieni swojej masy, ale może udawac postać niższa lub wyższa o 10% albo chudsza albo grubsza.
+
 **Fixer:** [Charakter albo Intuicja 4] : Przerzut do Charakteru i Inituicji. Mozesz zaplacic punkt SW, zeby tymczasowo dogadac sie w jezyku ktorego nie znasz
  
-**Kensei**: [Walka Bronią 5] : Poziom umiejętności **Walka Bronia** +1, masz jedno ulubione ostrze którym zadajesz kostkę obrażeń więcej niż wynika to z normalnych zasad. Postać wyciąga dowolne ostrze tak szybko i sprawnie, że są traktowane jakby zawsze były w dłoni postaci.
+**Kensei**: [Walka Bronią 5] : Poziom umiejętności **Walka Bronia** +1. Postać wyciąga dowolne ostrze tak szybko i sprawnie, że są traktowane jakby zawsze były w dłoni postaci. Możesz wydać punkt SW, żeby następny atak miał cechę przeciwpancerny.
 
-**Łowca:**: [Kamuflaż 5] : Masz jeden przerzut do każdego testu **Sztuki Przetrwania** i **Kamuflażu**. Dwa przerzuty do **Kamuflażu** jeśli masz czas i środki na zrobienie stroju kamuflującego. Masz jeden przerzut podczas strzałów mierzonych.
->***Nomad:**  [Kamuflaż 5] :Dwa przerzuty do kamuflażu i sztuki przetrwania na pustyni. Może wydać punkt SW, żeby zakopać się na pod piaskiem.
->
->***Nocny Łowca:**  [Kamuflaż 5] :Dwa przerzuty do kamuflażu w nocy.
-
-
-**Nanoboty**: [Medycyna 4 albo Elektronika 4] : Płacąc punkt **SW** możesz całkowicie zregenerować swoją żywotność, albo wykonać transfuzje oddać dwa punkty żywotności innej postaci. Maksymalny Poziom **Żywotności** i **SW** jest trwale obniżony o jeden.
+**Nanoboty**: [Medycyna 4 albo Elektronika 4] : Płacąc punkt **SW** możesz całkowicie zregenerować swoją żywotność, albo przywrócić dwa punkty żywotności innej postaci. Maksymalny Poziom **Żywotności** i **SW** jest trwale obniżony o jeden.
 *Do ustalenia: czy nanoboty lecza choroby, trucizny, usuwają pociski i zasklepiają rany.*
 
 **Pancerz Wewnętrzny**: [Siła 5] : Pancerz +1 ale jesteś ciężki i tracisz kostkę z każdego testu **Sprawności**. 
 >***Głupota Heroiczna:** [Sprawność i Spostrzegawczość 4] :Tak długo jak postać nie nosi jakiegokolwiek innego pancerza traktujemy jakby miała pancerz o wartości 2.
 
-
 **Smartlink:** [Informatyka albo Elektronika 3] : Możesz podłączać się do cybersprzętu (zazwyczaj daje +1 do umiejętności)
 >***Cablink (Smartlink):** [Informatyka albo Elektronika 3] :Smartlink działający wyłącznie po kablu i wyłącznie z jednym typem umiejętności (np. Broń Palna Długa albo Prowadzenie Pojazdów) ale jest odporny na ataki.
 
-**Spec:** [Trzy umiejętności techniczne każda na poziomie minimum 3] : Przerzuty do trzech wybranych technicznych umiejętności. Zawsze masz przy sobie drobne przedmioty jak zapałki, śrubki i małe narzędzia jak pilnik albo śrubokręt schowane w kieszeniach ubrania. Jeśli zapłacisz punkt mocy, możesz wyciągnąć bardziej skomplikowane części zamienne, narzędzia albo zapasową amunicje pod warunkiem, że można je upchnąć w ubraniu.
+**Snajper:**: [Kamuflaż 5] : Masz jeden przerzut do każdego testu **Sztuki Przetrwania** i **Kamuflażu**. Dwa przerzuty do **Kamuflażu** jeśli masz czas i środki na zrobienie stroju kamuflującego. Masz jeden przerzut podczas strzałów mierzonych.
+>***Nomad:**  [Kamuflaż 5] :Dwa przerzuty do kamuflażu i sztuki przetrwania na pustyni. Może wydać punkt SW, żeby zakopać się na pod piaskiem.
+>
+>***Nocny Łowca:**  [Kamuflaż 5] :Dwa przerzuty do kamuflażu w nocy, widzisz w ciemnościach bez pomocy elektroniki.
+>
+**???Spec:** [Trzy umiejętności techniczne każda na poziomie minimum 3] : Przerzuty do trzech wybranych technicznych umiejętności. Zawsze masz przy sobie drobne przedmioty jak zapałki, śrubki i małe narzędzia jak pilnik albo śrubokręt schowane w kieszeniach ubrania. Jeśli zapłacisz punkt mocy, możesz wyciągnąć bardziej skomplikowane części zamienne, narzędzia albo zapasową amunicje pod warunkiem, że można je upchnąć w ubraniu.
 
 **Twardziel**: [Wytrzymałość 5] : Przerzut do każdego testu **Wytrzymałości**. **Próg Bólu** jest podniesiony o punkt, a **Żywotność** o dwa punkty
 
 **Zen**: [ - ] : Postać ma trzy punkty SW więcej niż wynika to z poziomu Woli.
 
-  
+
 
 
 
@@ -65,26 +63,8 @@ CyberZmysły/rozszerzona percepcja: Przerzut do Spostrzegawczosci i Intuicji. No
 
 **Krzepa:** Jesteś lepiej zbudowany od większości ludzi. Żywotność postaci jest podniesiona o dwa punkty. Dostajesz jeden przerzut do każdego testu Siły i do rzutu na obrażenia w przypadku, kiedy zależą od Twojej siły. Ignorujesz cechę broni nieporęczna.
 
-**Łowca:** Masz jeden przerzut do każdego testu Sztuki Przetrwania i Kamuflażu. Masz jeden przerzut podczas strzałów mierzonych.
 
-**Mistyk:** Przerzut do każdego testu Woli. Poziom Mocy jest podniesiony o punkt i każdy test koncentracji przywraca postaci o jeden punkt mocy więcej niż wynika to z kostek.
-
-**Socjeta:** Przerzut do Wykształcenia i Charyzmy. Za każdy poziom Wykształcenia powyżej dwóch znasz jeden dodatkowy język. Pochodzisz z bogatej i wpływowej rodziny, a brylowanie w towarzystwie to Twoja druga natura. Wystarczy Ci tydzień w dowolnym dużym mieście, żeby być na Ty z większością znaczących ludzi. Wydając punkty Mocy możesz używać swoich kontaktów do drobnych przysług – szybsze ustalenie kaucji, umorzenie jakiejś niewygodnej sprawy, albo zaproszenia na bal u burmistrza. W trudnej sytuacji możesz też poprosić o przelew pieniędzy od swojej zamożnej rodziny. Koszt w punktach mocy ustala MG. Jeden punkt mocy to coś, co ułatwi postacią graczy grę, trzy punkty mocy to coś co zmieni bieg całego scenariusza.
 
 **Szelma:** Pół życia spędziłeś na ulicach w burdelach i barach. Jesteś mistrzem lepkich palców, kopa w jaja i kosy w żebra. Przerzut do Kradzieży, Hazardu i Walki Wręcz. Postać potrafi chować i wyciągać swój nóż tak szybko i sprawnie, że traktujemy, go jakby zawsze były w dłoni postaci, nawet, jeśli normalnie przenosi je gdzieś pod ubraniem.
 Przerzut do Walki Wręcz podczas ataku można wykorzystać albo podczas rzutu na trafienie albo podczas rzutu na obrażenia. Kumuluje się z przerzutami broni np. z pałką.
 
-**Szybki:** Przerzut do Sprawności. Rzucasz dodatkową kostkę na inicjatywę, wybierasz lepszą.
-
-**Szósty zmysł:** Przerzut do Intuicji oraz Spostrzegawczości. Postać ma oczy i uszy dookoła głowy. Nawet skupiona na dowolnej czynności albo podczas snu wszystkie testy spostrzegawczości i intuicji wykonuje pełną pulą kostek. Nie tracisz kostki unikając ataków strzeleckich. 
-
-**Twardziel:** postać dostaje przerzut do każdego testu Wytrzymałości. Próg Bólu i Żywotność postaci są podniesione o punkt.
-
-**Złota Rączka:** Postać zaczyna z dwoma umiejętnościami technicznymi np. Stolarstwo, Ślusarstwo, Rusznikarstwo. Ma przerzut do tych umiejętności. Zawsze masz przy sobie drobne przedmioty jak zapałki, śrubki i małe narzędzia jak pilnik albo śrubokręt pochowane w kieszeniach ubrania. Jeśli zapłacisz punkt mocy, możesz wyciągnąć bardziej skomplikowane części zamienne, narzędzia albo zapasową amunicje pod warunkiem, że można je upchnąć w ubraniu.
-
-
-
-
-<h2>Obłęd</h2>
-
-Za każdym razem, kiedy postać dostaje punkt obłędu rzuca k10 i zakreśla kropki w wylosowanym miejscu. Jeśli wypełniła wszystkie cztery pozycje – wybiera Wadę. Jeśli udało jej się wylosować miejsce, które już ma wpisaną wadę losuje do skutku. Jeśli w trakcie gry w skutek nabytych wad maksymalny poziom umiejętności spadnie poniżej posiadanego przez postać. Postać odzyskuje PD wydane na stracone poziomy.
