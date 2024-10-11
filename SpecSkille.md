@@ -6,18 +6,22 @@
 <h2>Zdolności</h2>
 
 **Akcelerator:** Przerzut do **Sprawności**, dodatkowa kostka do rzutu na inicajtywę. Moze zaplacic punkt SW, żeby dostać dodatkowy unik w rundzie (maksymalnie 1 dodatkowy), Możesz zapłacić punkty SW, żeby uniknąć broni palnej (jeśli wykonujesz dodatkowy unik i jednocześnie unikasz broni palnej, to łączny koszt jest równy 2). Musisz widzieć strzelca, żeby unikać broni palnej.
+
 *Wymagania: Sprawność i Spostrzegawczość 4*
 
 
 **???Chirurg:** Przerzut do **Medycyny**. Jakiekolwiek leczenie wykonane przez tą postać przywraca jeden Punkt Żywotności więcej niż normalnie. Kiedy walczysz nożem w rzucie na obrażenia możesz korzystać z **Medycyny** zamiast **Siły**.
  
 **CyberArsenał:** w organizmie postaci jest ukryta broń: karabin, katana, granatnik albo coś o porównywalnych wymiarach. Ta bron jest zawsze traktowana jako najlepszej jakości, wyposażona w optykę i smartlink w przypadku broni strzeleckiej. Nawet jeśli jest ukryta jest traktowana jest jakby zawsze była w dłoni postaci. Broń Palna jest ukryta z pojedynczym magazynkiem, wymiana amunicji wymaga kilku tur.
+
 *Wymagania: Mechanika albo Elektronika 3*
 
 **CyberNogi:** Może skakać wzwyż na Siła w metrach, w dal na 2x Siła i spadać bezpiecznie z 5 x Siła metrów.
+
 *Wymagania: Sprawność i Siła 4*
 
 **CyberRęce:** Dodatkowa kostka obrażeń w Walce Wręcz/Walce Bronią. Ignorujesz Odrzut i Nieporęczność broni. 
+
 *Wymagania: Sprawność i Siła 4*
 
  **Cyngiel**: Wyciągnięcie pistoletu z kabury albo zza pasa nie zajmuje akcji. Strzelasz z lewej ręki tak samo sprawnie jak z prawej. Możesz wykonać trzy szybkie strzały w rundzie używając 4 kostek w rzucie na trafienie.
