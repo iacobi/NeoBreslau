@@ -1,7 +1,7 @@
 
 <h1>Tworzenie Postaci</h1>
 
-8 punktów do rozdania na umiejętności, trzy wybrane zdolności. Podczas Tworzenia postaci nie trzeba spełniać wymagań zdolności
+8 punktów do rozdania na umiejętności, trzy wybrane zdolności. Podczas Tworzenia postaci nie trzeba spełniać wymagań zdolności. Zdolności oznaczone * to specjalne warianty podstawowej, można zamienić wersje podstawoą jeśli gracz tak chce.
 
 <h2>Zdolności</h2>
 
@@ -9,7 +9,11 @@
 
 **???Chirurg:** [Mechanika albo Elektronika 3] : Przerzut do **Medycyny**. Jakiekolwiek leczenie wykonane przez tą postać przywraca jeden Punkt Żywotności więcej niż normalnie. Kiedy walczysz nożem w rzucie na obrażenia możesz korzystać z **Medycyny** zamiast **Siły**.
  
+**Cwaniak:** [ - ] : Przerzut do Charakteru, Kradzieży i Hazardu.
+>***Fantom:** [Fałszerstwo 4] Nawet ludzie, którzy znają Cię od lat czasem wątpią czy istniejesz naprawdę. Ukrywanie się i zacieranie śladów to Twoja druga natura, nie zostawiasz odcisków palców, unikasz kamer i rozpływasz w tłumie. Postać ma jeden przerzut do wszystkich testów Kradzieży i Fałszerstwa. Wydając punkt żywotności postać jest w stanie zmienić swoj fizyczny wygląd, w szczegolnosci rysy twarzy. Nie zmieni swojej masy, ale może udawac postać niższa lub wyższa o 10% albo chudsza albo grubsza.
+
 **CyberArsenał:** [Siła 4] : w organizmie postaci jest ukryta broń: karabin, katana, granatnik albo coś o porównywalnych wymiarach. Ta bron jest zawsze traktowana jako najlepszej jakości, wyposażona w optykę i smartlink w przypadku broni strzeleckiej. Nawet jeśli jest ukryta jest traktowana jest jakby zawsze była w dłoni postaci. Broń Palna jest ukryta z pojedynczym magazynkiem, wymiana amunicji wymaga kilku tur.
+>***CyberOstrza** [Siła 4] : jak katana - dwa przerzuty, cztery silne kostki obrażeń.
 
 **CyberNogi:** [Sprawność i Siła 4] : Może skakać wzwyż na Siła w metrach, w dal na 2x Siła i spadać bezpiecznie z 5 x Siła metrów.
 
@@ -21,46 +25,33 @@
  
 **Kensei**: [Walka Bronią 5] : Poziom umiejętności **Walka Bronia** +1, masz jedno ulubione ostrze którym zadajesz kostkę obrażeń więcej niż wynika to z normalnych zasad. Postać wyciąga dowolne ostrze tak szybko i sprawnie, że są traktowane jakby zawsze były w dłoni postaci.
 
-**Łowca**: [Kamuflaż 5] : Masz jeden przerzut do każdego testu **Sztuki Przetrwania** i **Kamuflażu**. Dwa przerzuty do **Kamuflażu** jeśli masz czas i środki na zrobienie stroju kamuflującego. Masz jeden przerzut podczas strzałów mierzonych.
+**Łowca:**: [Kamuflaż 5] : Masz jeden przerzut do każdego testu **Sztuki Przetrwania** i **Kamuflażu**. Dwa przerzuty do **Kamuflażu** jeśli masz czas i środki na zrobienie stroju kamuflującego. Masz jeden przerzut podczas strzałów mierzonych.
+>***Nomad:**  [Kamuflaż 5] :Dwa przerzuty do kamuflażu i sztuki przetrwania na pustyni. Może wydać punkt SW, żeby zakopać się na pod piaskiem.
+>
+>***Nocny Łowca:**  [Kamuflaż 5] :Dwa przerzuty do kamuflażu w nocy.
+
 
 **Nanoboty**: [Medycyna 4 albo Elektronika 4] : Płacąc punkt **SW** możesz całkowicie zregenerować swoją żywotność, albo wykonać transfuzje oddać dwa punkty żywotności innej postaci. Maksymalny Poziom **Żywotności** i **SW** jest trwale obniżony o jeden.
 *Do ustalenia: czy nanoboty lecza choroby, trucizny, usuwają pociski i zasklepiają rany.*
 
 **Pancerz Wewnętrzny**: [Siła 5] : Pancerz +1 ale jesteś ciężki i tracisz kostkę z każdego testu **Sprawności**. 
+>***Głupota Heroiczna:** [Sprawność i Spostrzegawczość 4] :Tak długo jak postać nie nosi jakiegokolwiek innego pancerza traktujemy jakby miała pancerz o wartości 2.
+
 
 **Smartlink:** [Informatyka albo Elektronika 3] : Możesz podłączać się do cybersprzętu (zazwyczaj daje +1 do umiejętności)
+>***Cablink (Smartlink):** [Informatyka albo Elektronika 3] :Smartlink działający wyłącznie po kablu i wyłącznie z jednym typem umiejętności (np. Broń Palna Długa albo Prowadzenie Pojazdów) ale jest odporny na ataki.
 
 **Spec:** [Trzy umiejętności techniczne każda na poziomie minimum 3] : Przerzuty do trzech wybranych technicznych umiejętności. Zawsze masz przy sobie drobne przedmioty jak zapałki, śrubki i małe narzędzia jak pilnik albo śrubokręt schowane w kieszeniach ubrania. Jeśli zapłacisz punkt mocy, możesz wyciągnąć bardziej skomplikowane części zamienne, narzędzia albo zapasową amunicje pod warunkiem, że można je upchnąć w ubraniu.
 
 **Twardziel**: [Wytrzymałość 5] : Przerzut do każdego testu **Wytrzymałości**. **Próg Bólu** jest podniesiony o punkt, a **Żywotność** o dwa punkty
 
+**Zen**: [ - ] : Postać ma trzy punkty SW więcej niż wynika to z poziomu Woli.
+
   
-
-<h2>Warianty</h2>
-Specjalne warianty zdolności, można je wybrać zamiast podstawowych wariantów.
-
-**Nocny Łowca (Łowca) :**  Dwa przerzuty do kamuflażu w nocy.
-[Kamuflaż 5] :
-
-**Cablink (Smartlink):** Smartlink działający wyłącznie po kablu i wyłącznie z jednym typem umiejętności (np. Broń Palna Długa albo Prowadzenie Pojazdów) ale jest odporny na ataki.
-[Informatyka albo Elektronika 3] :
-
-**Głupota Heroiczna (Pancerz Wewnętrzny):** Tak długo jak postać nie nosi jakiegokolwiek innego pancerza traktujemy jakby miała pancerz o wartości 2.
-[Sprawność i Spostrzegawczość 4] :
-
-
-
 
 
 
 CyberZmysły/rozszerzona percepcja: Przerzut do Spostrzegawczosci i Intuicji. Noktowizja i Termowizja. Slyszysz fale radiowe. gadanie,
-
-  
-
-Mimikra/Fantom?: Nawet ludzie, którzy znają Cię od lat czasem wątpią czy istniejesz naprawdę. Ukrywanie się i zacieranie śladów to Twoja druga natura, nie zostawiasz odcisków palców, unikasz kamer i rozpływasz w tłumie. Zaczyna grę z wykupioną umiejętnością Fałszerstwo i może jej używać również do charakteryzacji i upodobniania się do dowolnych osób. Dodatkowo postać ma jeden przerzut do wszystkich testów Kradzieży i Fałszerstwa.
-
-Wydając punkt żywotności postać jest w stanie zmienić swoj fizyczny wygląd, w szczegolnosci rysy twarzy. Nie zmieni swojej masy, ale może udawac postać niższa lub wyższa o 10% albo chudsza albo grubsza.
-
 
 
 
