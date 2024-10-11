@@ -15,8 +15,6 @@
 >
 **CyberNogi:** [Sprawność i Siła 4] : Może skakać wzwyż na Siła w metrach, w dal na 2x Siła i spadać bezpiecznie z 5 x Siła metrów.
 
-**CyberRęce:** [Sprawność i Siła 4] : Dodatkowa kostka obrażeń w Walce Wręcz/Walce Bronią. Ignorujesz Odrzut i Nieporęczność broni. 
-
  **Cyngiel:** [Dowolna umiejętność strzelecka 5] : Wyciągnięcie pistoletu z kabury albo zza pasa nie zajmuje akcji. Strzelasz z lewej ręki tak samo sprawnie jak z prawej. Możesz wykonać trzy szybkie strzały w rundzie używając 4 kostek w rzucie na trafienie.
 
 **Fantom:** [ Kamuflaż 4 ] Nawet ludzie, którzy znają Cię od lat czasem wątpią czy istniejesz naprawdę. Ukrywanie się i zacieranie śladów to Twoja druga natura, nie zostawiasz odcisków palców, unikasz kamer i rozpływasz w tłumie. Wydając punkt SW postać jest w stanie zmienić swoj fizyczny wygląd, w szczegolnosci rysy twarzy. Nie zmieni swojej masy, ale może udawac postać niższa lub wyższa o 10% albo chudsza albo grubsza.
@@ -42,6 +40,8 @@
 **???Spec:** [Trzy umiejętności techniczne każda na poziomie minimum 3] : Przerzuty do trzech wybranych technicznych umiejętności. Zawsze masz przy sobie drobne przedmioty jak zapałki, śrubki i małe narzędzia jak pilnik albo śrubokręt schowane w kieszeniach ubrania. Jeśli zapłacisz punkt mocy, możesz wyciągnąć bardziej skomplikowane części zamienne, narzędzia albo zapasową amunicje pod warunkiem, że można je upchnąć w ubraniu.
 
 **Twardziel**: [Wytrzymałość 5] : Przerzut do każdego testu **Wytrzymałości**. **Próg Bólu** jest podniesiony o punkt, a **Żywotność** o dwa punkty
+
+**Wielki:** [ Siła 5] : Dodatkowa kostka obrażeń w Walce Wręcz/Walce Bronią. Ignorujesz Odrzut i Nieporęczność broni. 
 
 **Zen**: [ - ] : Postać ma trzy punkty SW więcej niż wynika to z poziomu Woli.
 
