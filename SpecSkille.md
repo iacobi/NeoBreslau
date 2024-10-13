@@ -13,11 +13,13 @@
 >
 >***Granatnik** [Siła 4] : jednostrzałowy granatnik 40mm, załadowanie ponownie wymaga 6 tur.
 >
+>***Struna** [Elektronika 3] : Superwytrzymała struna pod napięciem, może służyć do cięcia, obezwładniania albo jako prowizoryczna lina. W walce traktujemy ją jako maczetę (jeden przerzut, cztery zwykłe kostki obrażeń). Dostajesz przerzut do trafienia jeśli próbujesz rozbrajać albo obezwładniać ludzi. Struna jest również w stanie utrzymać Twój ciężar i obwiązać się wokół przedmiotów w odległości 8 metrów.
+>
 **CyberNogi:** [Sprawność i Siła 4] : Może skakać wzwyż na Siła w metrach, w dal na 2x Siła i spadać bezpiecznie z 5 x Siła metrów.
 
  **Cyngiel:** [Dowolna umiejętność strzelecka 5] : Wyciągnięcie pistoletu z kabury albo zza pasa nie zajmuje akcji. Strzelasz z lewej ręki tak samo sprawnie jak z prawej. Możesz wykonać trzy szybkie strzały w rundzie używając 4 kostek w rzucie na trafienie.
 
-**Fantom:** [ Kamuflaż 4 ] Nawet ludzie, którzy znają Cię od lat czasem wątpią czy istniejesz naprawdę. Ukrywanie się i zacieranie śladów to Twoja druga natura, nie zostawiasz odcisków palców, unikasz kamer i rozpływasz w tłumie. Wydając punkt SW postać jest w stanie zmienić swoj fizyczny wygląd, w szczegolnosci rysy twarzy. Nie zmieni swojej masy, ale może udawac postać niższa lub wyższa o 10% albo chudsza albo grubsza.
+**Fantom:** [Kamuflaż 4] Nawet ludzie, którzy znają Cię od lat czasem wątpią czy istniejesz naprawdę. Ukrywanie się i zacieranie śladów to Twoja druga natura, nie zostawiasz odcisków palców, unikasz kamer i rozpływasz w tłumie. Wydając punkt SW postać jest w stanie zmienić swoj fizyczny wygląd, w szczegolnosci rysy twarzy. Nie zmieni swojej masy, ale może udawac postać niższa lub wyższa o 10% albo chudsza albo grubsza.
 
 **Fixer:** [Charakter albo Intuicja 4] : Przerzut do Charakteru i Inituicji. Mozesz zaplacic punkt SW, zeby tymczasowo dogadac sie w jezyku ktorego nie znasz
  
@@ -27,13 +29,13 @@
 *Do ustalenia: czy nanoboty lecza choroby, trucizny, usuwają pociski i zasklepiają rany.*
 
 **Pancerz Wewnętrzny**: [Siła 5] : Pancerz +1 ale jesteś ciężki i tracisz kostkę z każdego testu **Sprawności**. 
->***Głupota Heroiczna:** [Sprawność i Spostrzegawczość 4] :Tak długo jak postać nie nosi jakiegokolwiek innego pancerza traktujemy jakby miała pancerz o wartości 2.
+>~~***Głupota Heroiczna:** [Sprawność i Spostrzegawczość 4] : Postać ma pancerz o wartości 1 kiedy nie nosi żadnego pancerza ale kiedy założy dowolny inny pancerz maksymalna wartośc jest zawszze 2.~~
 
 **Smartlink:** [Informatyka albo Elektronika 3] : Możesz podłączać się do cybersprzętu (zazwyczaj daje +1 do umiejętności)
 >***Cablink (Smartlink):** [Informatyka albo Elektronika 3] :Smartlink działający wyłącznie po kablu i wyłącznie z jednym typem umiejętności (np. Broń Palna Długa albo Prowadzenie Pojazdów) ale jest odporny na ataki.
 
 **Snajper:**: [Kamuflaż 5] : Masz jeden przerzut do każdego testu **Sztuki Przetrwania** i **Kamuflażu**. Dwa przerzuty do **Kamuflażu** jeśli masz czas i środki na zrobienie stroju kamuflującego. Masz jeden przerzut podczas strzałów mierzonych.
->***Nomad:**  [Kamuflaż 5] :Dwa przerzuty do kamuflażu i sztuki przetrwania na pustyni. Może wydać punkt SW, żeby zakopać się na pod piaskiem.
+>~~***Nomad:**  [Kamuflaż 5] :Dwa przerzuty do kamuflażu i sztuki przetrwania na pustyni. Może wydać punkt SW, żeby zakopać się na pod piaskiem.~~
 >
 >***Nocny Łowca:**  [Kamuflaż 5] :Dwa przerzuty do kamuflażu w nocy, widzisz w ciemnościach bez pomocy elektroniki.
 >
@@ -44,6 +46,9 @@
 **Wielki:** [ Siła 5] : Dodatkowa kostka obrażeń w Walce Wręcz/Walce Bronią. Ignorujesz Odrzut i Nieporęczność broni. 
 
 **Zen**: [ - ] : Postać ma trzy punkty SW więcej niż wynika to z poziomu Woli.
+>
+>~~**\*Pustelnik** [ - ] : Postać raz podczas sesji może zregenrować całą pulę SW. Traci kostkę z każdych testów gdzie wchodzi z interakcje z ludźmi~~
+
 
 
 
