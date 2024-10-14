@@ -52,7 +52,7 @@
 
 **Śrut:** przerzut do ataku, kumuluje się z przerzutem z dubletu. Przerzuty można wykorzystać tylko na rzut na trafienie, nie można przerzucać obrażeń
 
-**Odrzut:** umiejętność strzelania jest równana w dół do Siły postaci
+**Odrzut:** tracisz kostkę z szybkich strzałów
 
 **Prosta Obsługa:** postać wybiera czy korzysta z umiejętności broni krótkiej czy broni palnej
 
