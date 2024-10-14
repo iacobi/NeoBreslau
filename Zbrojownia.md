@@ -32,21 +32,22 @@
 
 | Broń Długa |Obrażenia|Magazynek | Ładowanie|Cechy|Cena|Info|
 |--|--|--|--|--|--|--|
-| **Pistolet Maszynowy**|zwykłe 3 kostki| 30| pół tury |Prosta Obsługa, Dublet, Ogień Ciągły | 1000 kred.|???|
-| **Ciężki Pistolet Maszynowy**|zwykłe 3 kostki| 30| pół tury |Prosta Obsługa, Dublet, Ogień Ciągły | 1000 kred.|???|
-| **Subkarabinek**|słabe 4 kostki| 30| pół tury |Dublet, Ogień Ciągły | 1000 kred.|
-| **Karabin Szturmowy (M16)**|zwykłe 4 kostki| 30| pół tury |Dublet, Ogień Ciągły | 1000 kred.|???|
-| **Ciężki Karabin Szturmowy**|silne 4 kostki| 20| pół tury |Dublet, Ogień Ciągły | 3000 kred.|???|
-| **Lekki Karabin Maszynowy** |zwykłe 4 kostki| 100 |trzy tury| Nieporęczny, Dublet, Ogień Ciągły| 4000 kred.|???|
-| **Karabin Maszynowy** |silne 4 kostki| 100 |trzy tury| Nieporęczny, Dublet, Ogień Ciągły| 5000 kred.|???|
-| **Karabin Powtarzalny**|silne 4 kostki| 5 | cała tura|Jeden strzał na turę | 2000 kred.|???|
-| **Karabin Powtarzalny Magnum**|zwykłe 5 kosetk| 5 | cała tura|Jeden strzał na turę | 5000 kred.|???|
-| **Dubeltówka (śrut)**|słabe 5 kostek| 2 | 1 nabój na turę | Dublet, Śrut | 500 kred.|???|
-| **Dubeltówka (slug)**|silne 4 kostki| 2 | 1 nabój na turę | Dublet, Odrzut| 500 kred.|???|
-| **Strzelba Powtarzalna (śrut)**|słabe 5 kostki| 8 | 1 nabój na turę | Strzelba, Śrut| 500 kred.|???|
-| **Strzelba Powtarzalna (slug)**|silne 4 kostki| 8 | 1 nabój na turę | Strzelba, Odrzut| 500 kred.|???|
-| **Strzelba Automatyczna (śrut)**|słabe 5 kostki| 20 | 1 magazynek na turę | Nieporęczna, Strzelba, Śrut| 2500 kred.|???|
-| **Strzelba Automatyczna (slug)**|silne 4 kostki| 20| 1 magazynek na turę | Nieporęczna, Strzelba, Odrzut| 2500 kred.|???|
+| **Pistolet Maszynowy**|zwykłe 3 kostki| 30| pół tury |Prosta Obsługa, Dublet, Ogień Ciągły | 1000 kred.|uzi, mp5|
+| **Ciężki Pistolet Maszynowy**|zwykłe 3 kostki| 30| pół tury |Prosta Obsługa, Dublet, Ogień Ciągły | 1000 kred.|...|
+| **Subkarabinek**|słabe 4 kostki| 30| pół tury |Dublet, Ogień Ciągły | 1000 kred.|colt commando, aks74u|
+| **Karabin Szturmowy (M16)**|zwykłe 4 kostki| 30| pół tury |Dublet, Ogień Ciągły | 1000 kred.|ak47, ak74, ar15|
+| **Ciężki Karabin Szturmowy**|silne 4 kostki| 20| pół tury |Dublet, Ogień Ciągły | 3000 kred.|6,5mm, scar-h|
+| **Lekki Karabin Maszynowy** |zwykłe 4 kostki| 100 |trzy tury| Nieporęczny, Dublet, Ogień Ciągły| 4000 kred.|m249 saw|
+| **Karabin Maszynowy** |silne 4 kostki| 100 |trzy tury| Nieporęczny, Dublet, Ogień Ciągły| 5000 kred.|m60, pkm|
+| **Karabin Powtarzalny**|silne 4 kostki| 5 | cała tura|Jeden strzał na turę | 2000 kred.|M40|
+| **Karabin Samopowtarzalny Precyzyjny**|silne 4 kostki| 5 | cała tura|Jeden strzał na turę | 2000 kred.|PSG-1|
+| **Karabin Powtarzalny Magnum**|zwykłe 5 kosetk| 5 | cała tura|Jeden strzał na turę | 5000 kred.|L96|
+| **Dubeltówka (śrut)**|słabe 5 kostek| 2 | 1 nabój na turę | Dublet, Śrut | 500 kred.|...|
+| **Dubeltówka (slug)**|silne 4 kostki| 2 | 1 nabój na turę | Dublet, Odrzut| 500 kred.|...|
+| **Strzelba Powtarzalna (śrut)**|słabe 5 kostki| 8 | 1 nabój na turę | Strzelba, Śrut| 500 kred.|...|
+| **Strzelba Powtarzalna (slug)**|silne 4 kostki| 8 | 1 nabój na turę | Strzelba, Odrzut| 500 kred.|...|
+| **Strzelba Automatyczna (śrut)**|słabe 5 kostki| 20 | 1 magazynek na turę | Nieporęczna, Strzelba, Śrut| 2500 kred.|...|
+| **Strzelba Automatyczna (slug)**|silne 4 kostki| 20| 1 magazynek na turę | Nieporęczna, Strzelba, Odrzut| 2500 kred.|...|
 
 
 
@@ -55,44 +56,21 @@
 
 
 **Lekki Pancerz Wartość Pancerza : 1**
+
 Można schować pod ubraniem i chodzić po mieście. Np. gruba jedwabna kamizelka.
   
 
 **Średni Pancerz Wartość Pancerza : 2**
+
 Nie da się ukryć noszenia średniego pancerza
  
 
 **Ciężki Pancerz Wartość Pancerza : 3**
+
 Pancerz zakłada się na kilka godzin, potem trzeba ściągnąć. Grube metalowe płyty. Jak Ned Kelly.
 
 
 
-
-<h2>Walka/Strzelanie z lewej ręki</h2>
-
-Jeśli nie masz odpowiedniej zalety, tracisz kostkę w testach używając mniej sprawnej ręki.
-
-  
-
-  
-
-<h2>Apteka</h2>
-
-W czasie sesji postać może przyjąć tyle dawek ile wynosi jej wytrzymałość.
-
-Efekty różnych narkotyków nie kumulują się.
-
-  
-  
-
-
-  
-  
-
-  
-  
-
-  
   
 
   
@@ -108,7 +86,9 @@ Efekty różnych narkotyków nie kumulują się.
 
 **Krytycznie Ranna:** Postrzał w brzuch, sieknięcia szablę przez łeb. Postać odzyskuje punkt na trzy dni.
 
+<h2>Chemia</h2>
 
+Efekty różnych narkotyków nie kumulują się.
 
 **Stimpak**: zastrzyk przywraca 3 punkty żywotności.
 
@@ -137,6 +117,14 @@ Deklarujesz przed rzutem na trafieni. Musisz przebić wymagane trafienie o jeden
 
 Deklarujesz przed rzutem na trafieni. Musisz przebić wymagane trafienie o jeden. Atak zadaje kostkę obrażeń mniej ale omija pancerz. Mogą istnieć pancerze bez luk.
 
+
+
+<h2>Walka/Strzelanie z lewej ręki</h2>
+
+Jeśli nie masz odpowiedniej zalety, tracisz kostkę w testach używając mniej sprawnej ręki.
+
+ 
+  
   
 
 <h2>Ogłuszenie</h2>
