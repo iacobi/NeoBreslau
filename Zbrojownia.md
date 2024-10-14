@@ -28,7 +28,7 @@
 | **Pistolet 10mm**  |silne 3 kostki| 12 | pół tury | Dublet| 2000 kred.|...|
 | **.357 Magnum** |silne 3 kostki| 6 | 1 nabój na turę | Dublet| 2000 kred.|...|
 | **.44 Magnum** |zwykłe 4 kostki| 6 | 1 nabój na turę | | 2000 kred.|...|
-| **.454 Casull** |silne 4 kostki| 6 | 1 nabój na turę | | 2000 kred.|...|
+| **.454 Casull** |silne 4 kostki| 6 | 1 nabój na turę | Odrzut | 2000 kred.|...|
 
 | Broń Długa |Obrażenia|Magazynek | Ładowanie|Cechy|Cena|Info|
 |--|--|--|--|--|--|--|
@@ -41,7 +41,7 @@
 | **Karabin Maszynowy** |silne 4 kostki| 100 |trzy tury| Nieporęczny, Dublet, Ogień Ciągły| 5000 kred.|m60, pkm|
 | **Karabin Powtarzalny**|silne 4 kostki| 5 | cała tura|Jeden strzał na turę | 2000 kred.|M40|
 | **Karabin Samopowtarzalny Precyzyjny**|silne 4 kostki| 5 | cała tura|Jeden strzał na turę | 2000 kred.|PSG-1|
-| **Karabin Powtarzalny Magnum**|zwykłe 5 kosetk| 5 | cała tura|Jeden strzał na turę | 5000 kred.|L96|
+| **Karabin Powtarzalny Magnum**|zwykłe 5 kosetk| 5 | cała tura|Jeden strzał na turę, Odrzut | 5000 kred.|L96|
 | **Dubeltówka (śrut)**|słabe 5 kostek| 2 | 1 nabój na turę | Dublet, Śrut | 500 kred.|...|
 | **Dubeltówka (slug)**|silne 4 kostki| 2 | 1 nabój na turę | Dublet, Odrzut| 500 kred.|...|
 | **Strzelba Powtarzalna (śrut)**|słabe 5 kostki| 8 | 1 nabój na turę | Strzelba, Śrut| 500 kred.|...|
@@ -49,6 +49,18 @@
 | **Strzelba Automatyczna (śrut)**|słabe 5 kostki| 20 | 1 magazynek na turę | Nieporęczna, Strzelba, Śrut| 2500 kred.|...|
 | **Strzelba Automatyczna (slug)**|silne 4 kostki| 20| 1 magazynek na turę | Nieporęczna, Strzelba, Odrzut| 2500 kred.|...|
 
+
+**Śrut:** przerzut do ataku, kumuluje się z przerzutem z dubletu. Przerzuty można wykorzystać tylko na rzut na trafienie, nie można przerzucać obrażeń
+
+**Odrzut:** umiejętność strzelania jest równana w dół do Siły postaci
+
+**Prosta Obsługa:** postać wybiera czy korzysta z umiejętności broni krótkiej czy broni palnej
+
+**Dublet:** zużywa 2 pociski, przerzut do ataku
+
+**Ogień Ciągły:** 3 ataki po 5 kostek, +1 kostka obrażeń
+
+**Nieporęczna:** Jeśli postać nie poświęci całej tury na przygotowanie się do strzału traci kostkę z każdego rzutu na trafienie
 
 
 
