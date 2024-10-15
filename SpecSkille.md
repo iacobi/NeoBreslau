@@ -22,10 +22,8 @@
 
 **Fixer:** [Charakter albo Intuicja 4] : Przerzut do Charakteru i Inituicji. Mozesz zaplacic punkt SW, zeby tymczasowo dogadac sie w jezyku ktorego nie znasz. 
 >
->***Zimny Dran** [Charakter 4] : Przerzut do Charakteru i Presji/Zastraszania
+>***Grozny** [Charakter 4] : Przerzut do Charakteru i Presji/Zastraszania, Mozesz zaplacic punkt SW, zeby wybrana postac spadla w kolejce inicjatywy za Ciebie. Jesli postac ma Wole wyzsza niz Zastraszanie postaci, kosztuje to dwa SW.
 >
-
-**Boss:** [Dominacja 4] : Przerzut do Charyzmy i Dominacji. Jesli zapłacisz punkt SW automatycznie jestes pierwszy w kolejce inicjatywy, działa tylko napostacie, ktorych Wola jest rowna lub mniejsza od Twojej Dominacji. Nie działa na ataki z zaskoczenia.
  
 **Kensei**: [Walka Bronią 5] : Poziom umiejętności **Walka Bronia** +1. Postać wyciąga dowolne ostrze tak szybko i sprawnie, że są traktowane jakby zawsze były w dłoni postaci. Możesz wydać punkt SW, żeby następny atak miał cechę przeciwpancerny.
 
