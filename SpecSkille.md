@@ -25,8 +25,7 @@
  
 **Kensei**: [Walka Bronią 5] : Poziom umiejętności **Walka Bronia** +1. Postać wyciąga dowolne ostrze tak szybko i sprawnie, że są traktowane jakby zawsze były w dłoni postaci. Możesz wydać punkt SW, żeby następny atak miał cechę przeciwpancerny.
 
-**MonoStruny** [Elektronika 3] : Superwytrzymała struna, może służyć do cięcia, obezwładniania albo jako prowizoryczna lina. W walce traktujemy ja jako  
-szable (dwa przerzuty, zwykłe 4 kostki obrazen). Jesli probujesz kogos obezwladnic albo rozbroic nie jestes traktowany jako nieuzbrojony i masz jeden przerzut do rzutu na trafienie. Struna jest również w stanie utrzymać Twój ciężar i obwiązać się wokół przedmiotów w odległości 8 metrów (ten zasieg da sie wykorzystac tylko poza walka, w walce efektywny zasieg struny nie rozni sie od np. katany) Nauka walki struna jest skomplikowana i postac uzywa nizszej ze swoich dwoch umiejetnosci Walka Wrecz / Walka Bronia.
+**MonoStruny** [Elektronika 3] : Superwytrzymała struna, może służyć do cięcia, obezwładniania albo jako prowizoryczna lina. Użyta w walce ma dwa przerzuty i zadaje zwykłe 4 kostki obrażeń. Jesli probujesz kogos obezwladnic albo rozbroic nie jestes traktowany jako nieuzbrojony i masz jeden przerzut do rzutu na trafienie. Struna jest również w stanie utrzymać Twój ciężar i obwiązać się wokół przedmiotów w odległości 8 metrów (ten zasieg da sie wykorzystac tylko poza walka, w walce efektywny zasieg struny nie rozni sie od np. katany) Nauka walki struna jest skomplikowana i postac uzywa nizszej ze swoich dwoch umiejetnosci **Walka Wręcz** / **Walka Bronia**.
 
 **Nanoboty**: [Medycyna 4 albo Elektronika 4] : Płacąc punkt **SW** możesz całkowicie zregenerować swoją żywotność, albo przywrócić dwa punkty żywotności innej postaci. Maksymalny Poziom **Żywotności** i **SW** jest trwale obniżony o jeden.
 *Do ustalenia: czy nanoboty lecza choroby, trucizny, usuwają pociski i zasklepiają rany.*
