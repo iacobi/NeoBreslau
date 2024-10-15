@@ -38,7 +38,7 @@
 **Smartlink:** [Informatyka albo Elektronika 3] : Możesz podłączać się do cybersprzętu (zazwyczaj daje +1 do umiejętności)
 >***Cablink** [Elektronika 3] :Smartlink działający wyłącznie po kablu i wyłącznie z jednym typem umiejętności (np. Broń Palna Długa albo Prowadzenie Pojazdów) ale jest odporny na ataki.
 
-**Snajper:**: [Kamuflaż 5] : Masz jeden przerzut do każdego testu **Sztuki Przetrwania** i **Kamuflażu**. Dwa przerzuty do **Kamuflażu** jeśli masz czas i środki na zrobienie stroju kamuflującego. Masz jeden przerzut podczas strzałów mierzonych.
+**Łowca:**: [Kamuflaż 5] : Masz jeden przerzut do każdego testu **Sztuki Przetrwania** i **Kamuflażu**. Dwa przerzuty do **Kamuflażu** jeśli masz czas i środki na zrobienie stroju kamuflującego. Masz jeden przerzut podczas strzałów mierzonych.
 >
 >***Nocny Łowca:**  [Kamuflaż 5] :Dwa przerzuty do kamuflażu w nocy, widzisz w ciemnościach bez pomocy elektroniki.
 >
