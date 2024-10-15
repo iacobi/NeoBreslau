@@ -20,7 +20,11 @@
 
 **Fantom:** [Kamuflaż 4] Nawet ludzie, którzy znają Cię od lat czasem wątpią czy istniejesz naprawdę. Ukrywanie się i zacieranie śladów to Twoja druga natura, nie zostawiasz odcisków palców, unikasz kamer i rozpływasz w tłumie. Wydając punkt SW postać jest w stanie zmienić swoj fizyczny wygląd, w szczegolnosci rysy twarzy. Nie zmieni swojej masy, ale może udawac postać niższa lub wyższa o 10% albo chudsza albo grubsza.
 
-**Fixer:** [Charakter albo Intuicja 4] : Przerzut do Charakteru i Inituicji. Mozesz zaplacic punkt SW, zeby tymczasowo dogadac sie w jezyku ktorego nie znasz
+**Fixer:** [Charakter albo Intuicja 4] : Przerzut do Charakteru i Inituicji. Mozesz zaplacic punkt SW, zeby tymczasowo dogadac sie w jezyku ktorego nie znasz. 
+>
+>***Zimny Dran** [Charakter 4] : Przerzut do Charakteru i Presji/Zastraszania
+>
+
 **Boss:** [Dominacja 4] : Przerzut do Charyzmy i Dominacji. Jesli zapłacisz punkt SW automatycznie jestes pierwszy w kolejce inicjatywy, działa tylko napostacie, ktorych Wola jest rowna lub mniejsza od Twojej Dominacji. Nie działa na ataki z zaskoczenia.
  
 **Kensei**: [Walka Bronią 5] : Poziom umiejętności **Walka Bronia** +1. Postać wyciąga dowolne ostrze tak szybko i sprawnie, że są traktowane jakby zawsze były w dłoni postaci. Możesz wydać punkt SW, żeby następny atak miał cechę przeciwpancerny.
@@ -37,9 +41,10 @@
 >***Cablink** [Elektronika 3] :Smartlink działający wyłącznie po kablu i wyłącznie z jednym typem umiejętności (np. Broń Palna Długa albo Prowadzenie Pojazdów) ale jest odporny na ataki.
 
 **Snajper:**: [Kamuflaż 5] : Masz jeden przerzut do każdego testu **Sztuki Przetrwania** i **Kamuflażu**. Dwa przerzuty do **Kamuflażu** jeśli masz czas i środki na zrobienie stroju kamuflującego. Masz jeden przerzut podczas strzałów mierzonych.
->~~***Nomad:**  [Kamuflaż 5] :Dwa przerzuty do kamuflażu i sztuki przetrwania na pustyni. Może wydać punkt SW, żeby zakopać się na pod piaskiem.~~
 >
 >***Nocny Łowca:**  [Kamuflaż 5] :Dwa przerzuty do kamuflażu w nocy, widzisz w ciemnościach bez pomocy elektroniki.
+>
+>>>~~***Nomad:**  [Kamuflaż 5] :Dwa przerzuty do kamuflażu i sztuki przetrwania na pustyni. Może wydać punkt SW, żeby zakopać się na pod piaskiem.~~
 >
 **Spec:** [Trzy umiejętności techniczne każda na poziomie minimum 3] : Przerzuty do trzech wybranych technicznych umiejętności. Zawsze masz przy sobie drobne przedmioty jak zapałki, śrubki i małe narzędzia jak pilnik albo śrubokręt schowane w kieszeniach ubrania. Jeśli zapłacisz punkt SW, możesz wyciągnąć bardziej skomplikowane części zamienne, narzędzia albo zapasową amunicje pod warunkiem, że można je upchnąć w ubraniu.
 
@@ -49,9 +54,9 @@
 
 **Zen**: [ - ] : Postać ma trzy punkty SW więcej niż wynika to z poziomu Woli.
 >
->~~**\*Pustelnik** [ - ] : Postać raz podczas sesji może zregenrować całą pulę SW. Traci kostkę z każdych testów gdzie wchodzi z interakcje z ludźmi~~
-
-
+>**\*Outsider** [ - ] : Postać raz podczas sesji może całkowicie zregenrowac punkty SW. Postac traci kostke z kazdego testu kiedy trzeba rozmawiac z ludzmi.
+>
+>**\*???Szaman** [ Charakter 4 ] : Postać raz podczas sesji może odzyska¢ tyle SW ile zdobedzie sukcesow w tescie Charakteru, mozesz dawac swoje punkty SW innym graczom. Zeby odzyskac puntky SW musisz miec 2 godziny spokoju.
 
 
 
