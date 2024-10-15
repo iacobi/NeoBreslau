@@ -77,8 +77,7 @@ Nie da się ukryć noszenia średniego pancerza
 
 **Ciężki Pancerz Wartość Pancerza : 3**
 
-Pancerz zakłada się na kilka godzin, potem trzeba ściągnąć. Grube metalowe płyty. Jak Ned Kelly.
-
+W ciężkim pancerzu możesz efektywnie się poruszać tyle godzin ile wynosi niższa z cech **Siła** albo **Wytrzymałość**.
 
 
   
