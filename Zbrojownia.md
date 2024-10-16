@@ -100,7 +100,7 @@ Efekty różnych narkotyków nie kumulują się.
 
 **Stimpak**: zastrzyk przywraca 3 punkty żywotności.
 
-**SuperStimpak**: zastrzyk przywraca 3 punkty żywotności.
+**SuperStimpak**: pełna regeneracja zywotnosci.
 
 **Amfetamina**: Rzucasz dodatkową kostką na inicjatywę. Na potrzeby **testów i rzutu na obrażenia**: **Siła**, **Sprawność** i **Wytrzymałość** są podniesione o jeden. Kilka godzin działania.
 
