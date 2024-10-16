@@ -58,7 +58,7 @@
 
 **Dubeltówka:** jeśli wystrzeli z obu rur podczas jednego ataku, zadaje kostke obrażeń więcej i ma jeden przerzut do ataku (tylko na trafienie)
 
-**Skrócenie lufy**: Siła -1
+**Wersje Kompaktowe**: Pistolety i rewolwery kieszonkowe albo karabiny szturmowe w wersji PDW majæ skrocone lufy, wiec dla rzutow na obrazenia uznajemy, ze ich Sila jest mniejsza o jeden.
 
 
 <h2>Pancerze</h2>
