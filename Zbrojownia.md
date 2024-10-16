@@ -32,18 +32,18 @@
 
 |Broń Długa|Obrażenia|Magazynek|Ładowanie|Cechy|Cena|Info|
 |--|:--:|:--:|--|--|--|--|
-| **Pistolet Maszynowy**|zwykłe 3 kostki| 30| pół tury |Prosta Obsługa, Krótka Seria, Ogień Ciągły | 1000 kred.|uzi, mp5|
-| **Ciężki Pistolet Maszynowy**|silne 3 kostki| 30| pół tury |Prosta Obsługa, Krótka Seria, Ogień Ciągły | 1000 kred.|...|
-| **Karabin Szturmowy**|zwykłe 4 kostki| 30| pół tury |Krótka Seria, Ogień Ciągły | 1000 kred.|ak47, ak74, ar15|
-| **Ciężki Karabin Szturmowy**|silne 4 kostki| 24| pół tury |Krótka Seria, Ogień Ciągły | 3000 kred.|6,5mm, scar-h|
-| **Lekki Karabin Maszynowy** |zwykłe 4 kostki| 100 |trzy tury| Nieporęczny, Krótka Seria, Ogień Ciągły| 4000 kred.|m249 saw|
-| **Karabin Maszynowy** |silne 4 kostki| 100 |trzy tury| Nieporęczny, Krótka Seria, Ogień Ciągły| 5000 kred.|m60, pkm|
-| **Karabin Powtarzalny**|silne 4 kostki| 5 | cała tura|Jeden strzał na turę | 2000 kred.|M40|
-| **Karabin Samopowtarzalny Precyzyjny**|silne 4 kostki| 5 | cała tura|Jeden strzał na turę | 2000 kred.|PSG-1|
-| **Karabin Powtarzalny Magnum**|zwykłe 5 kosetk| 5 | cała tura|Jeden strzał na turę, Odrzut | 5000 kred.|L96|
-| **Dubeltówka**|słabe 5 kostek| 2 | 1 nabój na turę | Dubeltówka | 500 kred.|...|
-| **Strzelba Powtarzalna**|słabe 5 kostek| 8 | 1 nabój na turę | | 500 kred.|...|
-| **Strzelba Automatyczna**|słabe 5 kostek| 20 | 1 magazynek na turę | Krótka Seria, Ogień Ciągły, Nieporęczna| 2500 kred.|...|
+| **Pistolet Maszynowy**|'zwykłe 3 kostki'| 30| pół tury |Prosta Obsługa, Krótka Seria, Ogień Ciągły | 1000 kred.|uzi, mp5|
+| **Ciężki Pistolet Maszynowy**|'silne 3 kostki'| 30| pół tury |Prosta Obsługa, Krótka Seria, Ogień Ciągły | 1000 kred.|...|
+| **Karabin Szturmowy**|'zwykłe 4 kostki'| 30| pół tury |Krótka Seria, Ogień Ciągły | 1000 kred.|ak47, ak74, ar15|
+| **Ciężki Karabin Szturmowy**|'silne 4 kostki'| 24| pół tury |Krótka Seria, Ogień Ciągły | 3000 kred.|6,5mm, scar-h|
+| **Lekki Karabin Maszynowy** |'zwykłe 4 kostki'| 100 |trzy tury| Nieporęczny, Krótka Seria, Ogień Ciągły| 4000 kred.|m249 saw|
+| **Karabin Maszynowy** |'silne 4 kostki'| 100 |trzy tury| Nieporęczny, Krótka Seria, Ogień Ciągły| 5000 kred.|m60, pkm|
+| **Karabin Powtarzalny**|'silne 4 kostki'| 5 | cała tura|Jeden strzał na turę | 2000 kred.|M40|
+| **Karabin Samopowtarzalny Precyzyjny**|'silne 4 kostki'| 5 | cała tura|Jeden strzał na turę | 2000 kred.|PSG-1|
+| **Karabin Powtarzalny Magnum**|'zwykłe 5 kostek'| 5 | cała tura|Jeden strzał na turę, Odrzut | 5000 kred.|L96|
+| **Dubeltówka**|'słabe 5 kostek'| 2 | 1 nabój na turę | Dubeltówka | 500 kred.|...|
+| **Strzelba Powtarzalna**|'słabe 5 kostek'| 8 | 1 nabój na turę | | 500 kred.|...|
+| **Strzelba Automatyczna**|'słabe 5 kostek'| 20 | 1 magazynek na turę | Krótka Seria, Ogień Ciągły, Nieporęczna| 2500 kred.|...|
 
 
 **Odrzut:** tracisz kostkę z szybkich strzałów
