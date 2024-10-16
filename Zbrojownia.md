@@ -32,7 +32,7 @@
 
 |Broń Długa|Obrażenia|Magazynek|Ładowanie|Cechy|Cena|Info|
 |--|:--:|:--:|--|--|--|--|
-| **Pistolet Maszynowy**|`zwykłe 3 kostki`| 30| pół tury |Prosta Obsługa, Krótka Seria, Ogień Ciągły | 1000 kred.|uzi, mp5|
+| **Pistolet Maszynowy**|zwykłe&nbsp3&nbspkostki| 30| pół tury |Prosta Obsługa, Krótka Seria, Ogień Ciągły | 1000 kred.|uzi, mp5|
 | **Ciężki Pistolet Maszynowy**|'silne 3 kostki'| 30| pół tury |Prosta Obsługa, Krótka Seria, Ogień Ciągły | 1000 kred.|...|
 | **Karabin Szturmowy**|'zwykłe 4 kostki'| 30| pół tury |Krótka Seria, Ogień Ciągły | 1000 kred.|ak47, ak74, ar15|
 | **Ciężki Karabin Szturmowy**|'silne 4 kostki'| 24| pół tury |Krótka Seria, Ogień Ciągły | 3000 kred.|6,5mm, scar-h|
