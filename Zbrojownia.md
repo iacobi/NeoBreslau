@@ -22,16 +22,16 @@
 
 <h2>Broń Palna</h2>
 
-| Broń Krótka|Obrażenia|Magazynek | Ładowanie|Cechy|Cena|Info|
-|--|--|--|--|--|--|--|
+|Broń Krótka|Obrażenia|Magazynek|Ładowanie|Cechy|Cena|Info|
+|--|:--:|:--:|--|--|--|--|
 | **Pistolet 9mm**  |zwykłe 3 kostki| 15 | pół tury | Krótka Seria| 1000 kred.|Glock, Beretta itp.|
 | **Pistolet 10mm**  |silne 3 kostki| 12 | pół tury | Krótka Seria| 2000 kred.|...|
 | **.357 Magnum** |silne 3 kostki| 6 | 1 nabój na turę | Krótka Seria| 2000 kred.|...|
 | **.44 Magnum** |zwykłe 4 kostki| 6 | 1 nabój na turę | - | 2000 kred.|...|
 | **.454 Casull** |silne 4 kostki| 6 | 1 nabój na turę | Odrzut | 2000 kred.|...|
 
-| Broń Długa |Obrażenia|Magazynek | Ładowanie|Cechy|Cena|Info|
-|--|--|--|--|--|--|--|
+|Broń Długa|Obrażenia|Magazynek|Ładowanie|Cechy|Cena|Info|
+|--|:--:|:--:|--|--|--|--|
 | **Pistolet Maszynowy**|zwykłe 3 kostki| 30| pół tury |Prosta Obsługa, Krótka Seria, Ogień Ciągły | 1000 kred.|uzi, mp5|
 | **Ciężki Pistolet Maszynowy**|silne 3 kostki| 30| pół tury |Prosta Obsługa, Krótka Seria, Ogień Ciągły | 1000 kred.|...|
 | **Karabin Szturmowy**|zwykłe 4 kostki| 30| pół tury |Krótka Seria, Ogień Ciągły | 1000 kred.|ak47, ak74, ar15|
