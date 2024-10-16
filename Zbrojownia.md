@@ -25,7 +25,7 @@
 |Broń Krótka|Obrażenia|Magazynek|Ładowanie|Cechy|Cena|Info|
 |--|:--:|:--:|--|--|--|--|
 | **Pistolet 9mm**  |zwykłe&nbsp;3&nbsp;kostki| 15 | pół tury | Krótka Seria| 1000 kred.|Glock, Beretta itp.|
-| **Pistolet 10mm**  |silne&nbsp;3&nbsp;kostki| 12 | pół tury | Krótka Seria| 2000 kred.|...|
+| **Pistolet 10mm**  |slabe&nbsp;4&nbsp;kostki| 12 | pół tury | Krótka Seria| 2000 kred.|...|
 | **.357 Magnum** |silne&nbsp;3&nbsp;kostki| 6 | 1 nabój na turę | Krótka Seria| 2000 kred.|...|
 | **.44 Magnum** |zwykłe&nbsp;4&nbsp;kostki| 6 | 1 nabój na turę | - | 2000 kred.|...|
 | **.454 Casull** |silne&nbsp;4&nbsp;kostki| 6 | 1 nabój na turę | Odrzut | 2000 kred.|...|
