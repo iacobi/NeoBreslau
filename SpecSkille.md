@@ -20,9 +20,9 @@
 
 **Fantom:** [Kamuflaż 4] Nawet ludzie, którzy znają Cię od lat czasem wątpią czy istniejesz naprawdę. Ukrywanie się i zacieranie śladów to Twoja druga natura, nie zostawiasz odcisków palców, unikasz kamer i rozpływasz w tłumie. Wydając punkt SW postać jest w stanie zmienić swoj fizyczny wygląd, w szczegolnosci rysy twarzy. Nie zmieni swojej masy, ale może udawac postać niższa lub wyższa o 10% albo chudsza albo grubsza.
 
-**Fixer:** [Charakter albo Intuicja 4] : Przerzut do Charakteru i Inituicji. Mozesz zaplacic punkt SW, zeby tymczasowo dogadac sie w jezyku ktorego nie znasz. 
+**Fixer:** [Charyzma albo Intuicja 4] : Przerzut do **Charyzmy**, **Zastraszania** i **Inituicji**. Mozesz zaplacic punkt SW, zeby zalatwiac przyslugi albo towary na miescie
 >
->***Grozny** [Charakter 4] : Przerzut do Charakteru i Presji/Zastraszania, Mozesz zaplacic punkt SW, zeby wybrana postac spadla w kolejce inicjatywy za Ciebie. Jesli postac ma Wole wyzsza niz Zastraszanie postaci, kosztuje to dwa SW.
+>***Grozny** [Zastraszanie 4] : Przerzut do **Charyzmy** i **Zastraszania**, Mozesz zaplacic punkt SW, zeby wybrana postac spadla w kolejce inicjatywy za Ciebie. Jesli postac ma Wole wyzsza niz Zastraszanie postaci, kosztuje to dwa SW.
 >
  
 **Kensei**: [Walka Bronią 5] : Poziom umiejętności **Walka Bronia** +1. Postać wyciąga dowolne ostrze tak szybko i sprawnie, że są traktowane jakby zawsze były w dłoni postaci. Możesz wydać punkt SW, żeby następny atak miał cechę przeciwpancerny.
@@ -54,7 +54,7 @@
 >
 >**\*Outsider** [ - ] : Postać raz podczas sesji może całkowicie zregenrowac punkty SW. Postac traci kostke z kazdego testu kiedy trzeba rozmawiac z ludzmi.
 >
->**\*???Szaman** [ Charakter 4 ] : Postać raz podczas sesji może odzyska¢ tyle SW ile zdobedzie sukcesow w tescie Charakteru, mozesz dawac swoje punkty SW innym graczom. Zeby odzyskac puntky SW musisz miec 2 godziny spokoju.
+>**\*???Szaman** [ Charyzma 4 ] : Postać raz podczas sesji może odzyska¢ tyle SW ile zdobedzie sukcesow w tescie Charyzmy, mozesz dawac swoje punkty SW innym graczom. Zeby odzyskac puntky SW musisz miec 2 godziny spokoju.
 
 
 
