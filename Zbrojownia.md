@@ -27,14 +27,13 @@
 | **Pistolet 9mm**  |zwykłe 3 kostki| 15 | pół tury | Krótka Seria| 1000 kred.|Glock, Beretta itp.|
 | **Pistolet 10mm**  |silne 3 kostki| 12 | pół tury | Krótka Seria| 2000 kred.|...|
 | **.357 Magnum** |silne 3 kostki| 6 | 1 nabój na turę | Krótka Seria| 2000 kred.|...|
-| **.44 Magnum** |zwykłe 4 kostki| 6 | 1 nabój na turę | | 2000 kred.|...|
+| **.44 Magnum** |zwykłe 4 kostki| 6 | 1 nabój na turę | - | 2000 kred.|...|
 | **.454 Casull** |silne 4 kostki| 6 | 1 nabój na turę | Odrzut | 2000 kred.|...|
 
 | Broń Długa |Obrażenia|Magazynek | Ładowanie|Cechy|Cena|Info|
 |--|--|--|--|--|--|--|
 | **Pistolet Maszynowy**|zwykłe 3 kostki| 30| pół tury |Prosta Obsługa, Krótka Seria, Ogień Ciągły | 1000 kred.|uzi, mp5|
-| **Ciężki Pistolet Maszynowy**|zwykłe 3 kostki| 30| pół tury |Prosta Obsługa, Krótka Seria, Ogień Ciągły | 1000 kred.|...|
-| **Subkarabinek**|słabe 4 kostki| 30| pół tury |Krótka Seria, Ogień Ciągły | 1000 kred.|colt commando, aks74u|
+| **Ciężki Pistolet Maszynowy**|silne 3 kostki| 30| pół tury |Prosta Obsługa, Krótka Seria, Ogień Ciągły | 1000 kred.|...|
 | **Karabin Szturmowy**|zwykłe 4 kostki| 30| pół tury |Krótka Seria, Ogień Ciągły | 1000 kred.|ak47, ak74, ar15|
 | **Ciężki Karabin Szturmowy**|silne 4 kostki| 24| pół tury |Krótka Seria, Ogień Ciągły | 3000 kred.|6,5mm, scar-h|
 | **Lekki Karabin Maszynowy** |zwykłe 4 kostki| 100 |trzy tury| Nieporęczny, Krótka Seria, Ogień Ciągły| 4000 kred.|m249 saw|
@@ -43,8 +42,8 @@
 | **Karabin Samopowtarzalny Precyzyjny**|silne 4 kostki| 5 | cała tura|Jeden strzał na turę | 2000 kred.|PSG-1|
 | **Karabin Powtarzalny Magnum**|zwykłe 5 kosetk| 5 | cała tura|Jeden strzał na turę, Odrzut | 5000 kred.|L96|
 | **Dubeltówka**|słabe 5 kostek| 2 | 1 nabój na turę | Dubeltówka | 500 kred.|...|
-| **Strzelba Powtarzalna**|słabe 5 kostek| 8 | 1 nabój na turę | Strzelba| 500 kred.|...|
-| **Strzelba Automatyczna**|słabe 5 kostek| 20 | 1 magazynek na turę | Krótka Seria, Ogień Ciągły, Nieporęczna, Strzelba| 2500 kred.|...|
+| **Strzelba Powtarzalna**|słabe 5 kostek| 8 | 1 nabój na turę | | 500 kred.|...|
+| **Strzelba Automatyczna**|słabe 5 kostek| 20 | 1 magazynek na turę | Krótka Seria, Ogień Ciągły, Nieporęczna| 2500 kred.|...|
 
 
 **Odrzut:** tracisz kostkę z szybkich strzałów
@@ -59,7 +58,7 @@
 
 **Dubeltówka:** jeśli wystrzeli z obu rur podczas jednego ataku, zadaje kostke obrażeń więcej i ma jeden przerzut do ataku (tylko na trafienie)
 
-**Strzelba:** przerzut do ataku, kumuluje się z przerzutem z Krótka Seriau. Przerzuty można wykorzystać tylko na rzut na trafienie, nie można przerzucać obrażeń
+**Skrócenie lufy**: Siła -1
 
 
 <h2>Pancerze</h2>
@@ -218,9 +217,3 @@ Desperacki rzut (-2 kostki obrażeń, -1 kostka do trafiania, zajmuje całą run
 
   
 
-
-  
-
-  
-
-  
