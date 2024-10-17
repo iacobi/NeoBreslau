@@ -67,7 +67,7 @@
 
 **Inteligenta Amunicja**: Wymaga smartlinka, +1 do umiejętności strzelania, -1 kostka obrażen.
 
-**Gumowa Amunicja**: zadaje kostke obrażeń mniej, tylko strzelby
+**Gumowa Amunicja**: zadaje kostke obrażeń mniej, tylko strzelby. Nie powoduje utraty żywotności, ale jeśli atak pokona próg bólu celu, cel jest wyłączony z walki. Można stosować z z zasadami ataku w punkty witalne, żeby zwiększyć szanse na pokonanie progu bólu.
 
 **Amunicja Przeciwpancerna**: Tracisz kostkę z rzutu na trafienie i rzutu na obrażenia, broń zyskuje cechę przeciwpancarna
 
