@@ -5,45 +5,45 @@
 *Walcząc **Bez Broni** albo **Kastetem** zawsze tracisz kostkę z rzutów na trafienie kiedy walczysz z kimś uzbrojonym w normalną broń
 |Broń | Obrażenia | Przerzuty | Umiejętność| Cechy| Cena |
 |--|:--:|:--:|--|--|--|
-| **Bez broni***  |słabe 4 kostki|-|Walka Wręcz| - |0$|
-| **Kastet*** |słabe 4 kostki| 1|Walka Wręcz|-| 1$|
-| **Pałka** |słabe 4 kostki|1|Walka Bronią / Walka Wręcz|-|0$| 
-| **Nóż** |zwykłe 4 kostki|-|Walka Bronią / Walka Wręcz| - |0$|
-| **Tomahawk** | silne 4 kostki |-|Walka Bronią |-|10$|
-| **Topór**  |silne 4 kostki|1|Walka Bronią| dwuręczna|10$|
-| **Maczuga Okopowa**  |zwykłe 4 kostki|-|Walka Bronią / Walka Wręcz| przeciwpancerna |0$| 
-| **Młot Budowlany**  |silne 4 kostki|-|Walka Bronią| przeciwpancerny, dwuręczny|10$| 
-| **Maczeta** | zwykłe 4 kostki |1| Walka Bronią |- |10$| 
-| **Szabla** | zwykłe 4 kostki |2|Walka Bronią |- |20$| 
-| **Katana** | silne 4 kostki |2|Walka Bronią | dwuręczna|100$
-| **Włócznia** | zwykłe 4 kostki |3|Walka Bronią | dwuręczna|10$| 
-| **Widły**  |zwykłe 4 kostki|2|Walka Bronią| dwuręczne|10$| 
-| **Łopata**  |zwykłe 4 kostki|1|Walka Bronią| dwuręczna|10$| 
+| **Bez broni***  |słabe 4 kostki|-|Walka Wręcz| - |...$|
+| **Kastet*** |słabe 4 kostki| 1|Walka Wręcz|-|...$|
+| **Pałka** |słabe 4 kostki|1|Walka Bronią / Walka Wręcz|-|...$| 
+| **Nóż** |zwykłe 4 kostki|-|Walka Bronią / Walka Wręcz| - |...$|
+| **Tomahawk** | silne 4 kostki |-|Walka Bronią |-|...$|
+| **Topór**  |silne 4 kostki|1|Walka Bronią| dwuręczna|...$|
+| **Maczuga Okopowa**  |zwykłe 4 kostki|-|Walka Bronią / Walka Wręcz| przeciwpancerna |...$| 
+| **Młot Budowlany**  |silne 4 kostki|-|Walka Bronią| przeciwpancerny, dwuręczny|...$| 
+| **Maczeta** | zwykłe 4 kostki |1| Walka Bronią |- |...$| 
+| **Szabla** | zwykłe 4 kostki |2|Walka Bronią |- |...$| 
+| **Katana** | silne 4 kostki |2|Walka Bronią | dwuręczna|...$|
+| **Włócznia** | zwykłe 4 kostki |3|Walka Bronią | dwuręczna|...$| 
+| **Widły**  |zwykłe 4 kostki|2|Walka Bronią| dwuręczne|...$| 
+| **Łopata**  |zwykłe 4 kostki|1|Walka Bronią| dwuręczna|...$| 
 
 <h2>Broń Palna</h2>
 
-|Broń Krótka|Obrażenia|Magazynek|Ładowanie|Cechy|Cena|Info|
-|--|:--:|:--:|--|--|--|--|
-| **Pistolet 9mm**  |zwykłe&nbsp;3&nbsp;kostki| 15 | pół tury | Krótka Seria| 1000 kred.|Glock, Beretta itp.|
-| **Pistolet 10mm**  |slabe&nbsp;4&nbsp;kostki| 12 | pół tury | Krótka Seria| 2000 kred.|...|
-| **.357 Magnum** |silne&nbsp;3&nbsp;kostki| 6 | 1 nabój na turę | Krótka Seria| 2000 kred.|...|
-| **.44 Magnum** |zwykłe&nbsp;4&nbsp;kostki| 6 | 1 nabój na turę | - | 2000 kred.|...|
-| **.454 Casull** |silne&nbsp;4&nbsp;kostki| 6 | 1 nabój na turę | Odrzut | 2000 kred.|...|
+|Broń Krótka|Obrażenia|Magazynek|Ładowanie|Cechy|Cena|
+|--|:--:|:--:|--|--|--:|
+| **Pistolet 9mm**  |zwykłe&nbsp;3&nbsp;kostki| 15 | pół tury | Krótka Seria| 1000 kred.|
+| **Pistolet 10mm**  |slabe&nbsp;4&nbsp;kostki| 12 | pół tury | Krótka Seria| 2000 kred.|
+| **.357 Magnum** |silne&nbsp;3&nbsp;kostki| 6 | 1 nabój na turę | Krótka Seria| 2000 kred.|
+| **.44 Magnum** |zwykłe&nbsp;4&nbsp;kostki| 6 | 1 nabój na turę | - | 2000 kred.|
+| **.454 Casull** |silne&nbsp;4&nbsp;kostki| 6 | 1 nabój na turę | Odrzut | 2000 kred.|
 
-|Broń Długa|Obrażenia|Magazynek|Ładowanie|Cechy|Cena|Info|
-|--|:--:|:--:|--|--|--|--|
-| **Pistolet Maszynowy**|zwykłe&nbsp;3&nbsp;kostki| 30| pół tury |Prosta Obsługa, Krótka Seria, Ogień Ciągły | 1000 kred.|uzi, mp5|
-| **Ciężki Pistolet Maszynowy**|silne&nbsp;3&nbsp;kostki| 30| pół tury |Prosta Obsługa, Krótka Seria, Ogień Ciągły | 1000 kred.|...|
-| **Karabin Szturmowy**|zwykłe&nbsp;4&nbsp;kostki| 30| pół tury |Krótka Seria, Ogień Ciągły | 1000 kred.|ak47, ak74, ar15|
-| **Ciężki Karabin Szturmowy**|silne&nbsp;4&nbsp;kostki| 24| pół tury |Krótka Seria, Ogień Ciągły | 3000 kred.|6,5mm, scar-h|
-| **Lekki Karabin Maszynowy** |zwykłe&nbsp;4&nbsp;kostki| 100 |trzy tury| Nieporęczny, Krótka Seria, Ogień Ciągły| 4000 kred.|m249 saw|
-| **Karabin Maszynowy** |silne&nbsp;4&nbsp;kostki| 100 |trzy tury| Nieporęczny, Krótka Seria, Ogień Ciągły| 5000 kred.|m60, pkm|
-| **Karabin Powtarzalny**|silne&nbsp;4&nbsp;kostki| 5 | cała tura|Jeden strzał na turę | 2000 kred.|M40|
-| **Karabin Samopowtarzalny Precyzyjny**|silne&nbsp;4&nbsp;kostki| 5 | cała tura|Jeden strzał na turę | 2000 kred.|PSG-1|
-| **Karabin Powtarzalny Magnum**|zwykłe&nbsp;5&nbsp;kostek| 5 | cała tura|Jeden strzał na turę, Odrzut | 5000 kred.|L96|
-| **Dubeltówka**|słabe&nbsp;5&nbsp;kostek| 2 | 1 nabój na turę | Dubeltówka | 500 kred.|...|
-| **Strzelba Powtarzalna**|słabe&nbsp;5&nbsp;kostek| 8 | 1 nabój na turę | | 500 kred.|...|
-| **Strzelba Automatyczna**|słabe&nbsp;5&nbsp;kostek| 20 | cała tura | Krótka Seria, Ogień Ciągły, Nieporęczna| 2500 kred.|...|
+|Broń Długa|Obrażenia|Magazynek|Ładowanie|Cechy|Cena|
+|--|:--:|:--:|--|--|--:|
+| **Pistolet Maszynowy 9mm**|zwykłe&nbsp;3&nbsp;kostki| 30| pół tury |Prosta Obsługa, Krótka Seria, Ogień Ciągły | 1000&nbsp;kred.|
+| **Pistolet Maszynowy 10mm**|słabe&nbsp;4&nbsp;kostki| 30| pół tury |Prosta Obsługa, Krótka Seria, Ogień Ciągły | 1000&nbsp;kred.|
+| **Karabin Szturmowy 5,56mm/5,54mm**|zwykłe&nbsp;4&nbsp;kostki| 30| pół tury |Krótka Seria, Ogień Ciągły | 1000&nbsp;kred.|
+| **Karabin Szturmowy 6,5mm/7,62mm**|silne&nbsp;4&nbsp;kostki| 20| pół tury |Krótka Seria, Ogień Ciągły | 3000&nbsp;kred.|
+| **Dubeltówka**|słabe&nbsp;5&nbsp;kostek| 2 | 1 nabój na turę | Dubeltówka | 500&nbsp;kred.|
+| **Strzelba Powtarzalna**|słabe&nbsp;5&nbsp;kostek| 8 | 1 nabój na turę | | 500&nbsp;kred.|
+| **Strzelba Automatyczna**|słabe&nbsp;5&nbsp;kostek| 20 | cała tura | Krótka Seria, Ogień Ciągły, Nieporęczna| 2500&nbsp;kred.|
+| **Karabin Maszynowy 5,56mm/5,45mm** |zwykłe&nbsp;4&nbsp;kostki| 100 |trzy tury| Nieporęczny, Krótka Seria, Ogień Ciągły| 4000&nbsp;kred.|
+| **Karabin Maszynowy 7,62mm** |silne&nbsp;4&nbsp;kostki| 100 |trzy tury| Nieporęczny, Krótka Seria, Ogień Ciągły| 5000&nbsp;kred.|
+| **Karabin Wyborowy 7,62mm**|silne&nbsp;4&nbsp;kostki| 5 | cała tura|Jeden strzał na turę | 2000&nbsp;kred.|
+| **Samopowtarzalny Karabin Wyborowy**|silne&nbsp;4&nbsp;kostki| 5 | cała tura|Jeden strzał na turę | 2000&nbsp;kred.|
+| **Karabin Powtarzalny Magnum**|zwykłe&nbsp;5&nbsp;kostek| 5 | cała tura|Jeden strzał na turę, Odrzut | 5000&nbsp;kred.|
 
 
 **Odrzut:** tracisz kostkę z szybkich strzałów
