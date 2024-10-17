@@ -36,7 +36,7 @@
 | **Pistolet Maszynowy 10mm**|słabe&nbsp;4&nbsp;kostki| 30| pół tury |Prosta Obsługa, Krótka Seria, Ogień Ciągły | 1000&nbsp;kred.|
 | **Karabin Szturmowy 5,56mm/5,54mm**|zwykłe&nbsp;4&nbsp;kostki| 30| pół tury |Krótka Seria, Ogień Ciągły | 1000&nbsp;kred.|
 | **Karabin Szturmowy 6,5mm/7,62mm**|silne&nbsp;4&nbsp;kostki| 20| pół tury |Krótka Seria, Ogień Ciągły | 3000&nbsp;kred.|
-| **Dubeltówka**|słabe&nbsp;5&nbsp;kostek| 2 | 1 nabój na turę | Dubeltówka | 500&nbsp;kred.|
+| **Dubeltówka\***|słabe&nbsp;5&nbsp;kostek| 2 | 1 nabój na turę | - | 500&nbsp;kred.|
 | **Strzelba Powtarzalna**|słabe&nbsp;5&nbsp;kostek| 8 | 1 nabój na turę | | 500&nbsp;kred.|
 | **Strzelba Automatyczna**|słabe&nbsp;5&nbsp;kostek| 20 | cała tura | Krótka Seria, Ogień Ciągły, Nieporęczna| 2500&nbsp;kred.|
 | **Karabin Maszynowy 5,56mm/5,45mm** |zwykłe&nbsp;4&nbsp;kostki| 100 |trzy tury| Nieporęczny, Krótka Seria, Ogień Ciągły| 4000&nbsp;kred.|
@@ -45,6 +45,9 @@
 | **Samopowtarzalny Karabin Wyborowy**|silne&nbsp;4&nbsp;kostki| 5 | cała tura|Jeden strzał na turę | 2000&nbsp;kred.|
 | **Karabin Powtarzalny Magnum**|zwykłe&nbsp;5&nbsp;kostek| 5 | cała tura|Jeden strzał na turę, Odrzut | 5000&nbsp;kred.|
 
+*jeśli wystrzeli z obu rur podczas jednego ataku, zadaje kostke obrażeń więcej i ma jeden przerzut do ataku (tylko na trafienie)
+
+<h3>Cechy</h3>
 
 **Odrzut:** tracisz kostkę z szybkich strzałów
 
@@ -56,9 +59,21 @@
 
 **Nieporęczna:** Jeśli postać nie poświęci całej tury na przygotowanie się do strzału traci kostkę z każdego rzutu na trafienie
 
-**Dubeltówka:** jeśli wystrzeli z obu rur podczas jednego ataku, zadaje kostke obrażeń więcej i ma jeden przerzut do ataku (tylko na trafienie)
+<h3>Modyfikacje Broni</h3>
+
+**Optyka**: +1 do umiejętności podczas strzałów mierzonych
+
+**CyberOptyka**: Wymaga smartlinka, zastępuje zwykłą optyke, +1 do umiejętności strzelania
+
+**Inteligenta Amunicja**: Wymaga smartlinka, +1 do umiejętności strzelania, -1 kostka obrażen.
+
+**Gumowa Amunicja**: zadaje kostke obrażeń mniej, tylko strzelby
+
+**Amunicja Przeciwpancerna**: Tracisz kostkę z rzutu na trafienie i rzutu na obrażenia, broń zyskuje cechę przeciwpancarna
 
 **Wersje Kompaktowe**: Pistolety i rewolwery kieszonkowe albo karabiny szturmowe w wersji PDW majæ skrocone lufy, wiec dla rzutow na obrazenia uznajemy, ze ich Sila jest mniejsza o jeden.
+
+  
 
 
 <h2>Pancerze</h2>
@@ -66,7 +81,7 @@
 
 **Lekki Pancerz Wartość Pancerza : 1**
 
-Można schować pod ubraniem i chodzić po mieście. Np. gruba jedwabna kamizelka.
+Można schować pod ubraniem i chodzić po mieście.
   
 
 **Średni Pancerz Wartość Pancerza : 2**
@@ -152,25 +167,6 @@ W tej mechanice nie ma „łatwych ogłuszeń”. Żeby postać straciła przyto
 Żeby kogoś obezwładnić trzeba go najpierw trafić atakiem **Bez Broni** używając kostki mniej na trafienie. Cel obezwładnienia może ten atak unikać albo kontrować na normalnych zasadach. Po trafieniu zamiast rzutu na obrażenia wykonuje się przeciwstawny test **Siły,** który trzeba wygrać. Jeśli cel ma broń w rękach trzeba go najpierw **rozbroić**, żeby móc go **obezwładnić**.
 
 
-
-<h2>Lunety/Optyka</h2>
-
-+1 do umiejętności podczas strzałów mierzonych
-
-
-  
-
-<h2>Obrzyny</h2>
-
-Postać wybiera gorszą z dwóch umiejętność Broń Krótka/Broń Długa a i tak musi używać obrzyna oburącz. Jeśli chce strzelać jedną ręką z obrzyna wybiera gorszą z umiejętności Broń Krótka/Broń Długa/Siła.
-
-Winchestery obrzyny mają połowę pojemności magazynka.
-
-  
-
-<h2>Breneka</h2>
-
-Strzelby załadowane Breneką mają 4 silne kostki obrażeń zamiast słabych i tracą cechę śrut.
 
  
 
