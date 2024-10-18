@@ -19,9 +19,9 @@
 
 **Fantom:** [Kamuflaż 4] Nawet ludzie, którzy znają Cię od lat czasem wątpią czy istniejesz naprawdę. Ukrywanie się i zacieranie śladów to Twoja druga natura, nie zostawiasz odcisków palców, unikasz kamer i rozpływasz w tłumie. Wydając punkt SW postać jest w stanie zmienić swoj fizyczny wygląd, w szczegolnosci rysy twarzy. Nie zmieni swojej masy, ale może udawac postać niższa lub wyższa o 10% albo chudsza albo grubsza.
 
-**Fixer:** [Charyzma albo Intuicja 4] : Przerzut do **Charyzmy**, **Zastraszania** i **Inituicji**. Mozesz zaplacic punkt SW, zeby zalatwiac przyslugi albo towary na miescie
+**Fixer:** [Charakter albo Intuicja 4] : Przerzut do **Charakteru**, **Zastraszania** i **Inituicji**. Mozesz zaplacic punkt SW, zeby zalatwiac przyslugi albo towary na miescie
 >
->***Groźny** [Zastraszanie 4] : Przerzut do **Charyzmy** i **Zastraszania**, Mozesz zaplacic punkt SW, zeby wybrana postac spadla w kolejce inicjatywy za Ciebie. Jesli postac ma Wole wyzsza niz Zastraszanie postaci, kosztuje to dwa SW.
+>***Groźny** [Charakter 4] : Przerzut do **Charakteru**. Mozesz zaplacic punkt SW, zeby wybrana postac spadla w kolejce inicjatywy za Ciebie. Jesli postac ma Wole wyzsza niz **Charakter** postaci, kosztuje to dwa SW.
 >
 **Kensei**: [Walka Bronią 5] : Poziom umiejętności **Walka Bronia** +1. Postać wyciąga dowolne ostrze tak szybko i sprawnie, że są traktowane jakby zawsze były w dłoni postaci. Możesz wydać punkt SW, żeby następny atak miał cechę przeciwpancerny.
 
@@ -38,7 +38,7 @@
 
 **Pancerz Wewnętrzny**: [Siła 5] : Pancerz +1 ale jesteś ciężki i tracisz kostkę z każdego testu **Sprawności**. 
 
-**Smartlink:** [Informatyka albo Elektronika 3] : Możesz podłączać się do cybersprzętu (zazwyczaj daje +1 do umiejętności)
+**Smartlink:** [Informatyka albo Elektronika 3] : Możesz podłączać się do cybersprzętu (zazwyczaj daje +1 do umiejętności). Traktujemy też jako wbudowany komputer/telefon komórkowy, daje +1 do testów Oprogramowania.
 >***Cablink** [Elektronika 3] :Smartlink działający wyłącznie po kablu i wyłącznie z jednym typem umiejętności (np. Broń Palna Długa albo Prowadzenie Pojazdów) ale jest odporny na ataki.
 
 **Spec:** [Trzy umiejętności techniczne każda na poziomie minimum 3] : Przerzuty do trzech wybranych technicznych umiejętności. Zawsze masz przy sobie drobne przedmioty jak zapałki, śrubki i małe narzędzia jak pilnik albo śrubokręt schowane w kieszeniach ubrania. Jeśli zapłacisz punkt SW, możesz wyciągnąć bardziej skomplikowane części zamienne, narzędzia albo zapasową amunicje pod warunkiem, że można je upchnąć w ubraniu.
@@ -49,6 +49,6 @@
 
 **Zen**: [ - ] : Postać ma trzy punkty SW więcej niż wynika to z poziomu Woli.
 >
->**\*???Outsider** [ - ] : Postać raz podczas sesji może całkowicie zregenrowac punkty SW. Regeneracja może odbyć się tylko w miejscu gdzie nie widać i nie słychać innych ludzi przez co najmniej godzinę. Tracisz kostkę z każdego testu Charyzmy i Intuicji.
+>**\*???Outsider** [ - ] : Postać raz podczas sesji może całkowicie zregenrowac punkty SW. Regeneracja może odbyć się tylko w miejscu gdzie nie widać i nie słychać innych ludzi przez co najmniej godzinę. Tracisz kostkę z każdego testu Charakteru i Intuicji.
 >
->**\*???Szaman** [ Charyzma 4 ] : Postać raz podczas sesji może odzyska¢ tyle SW ile zdobedzie sukcesow w tescie Charyzmy, mozesz dawac swoje punkty SW innym graczom. Zeby odzyskac puntky SW musisz miec 2 godziny spokoju.
+>**\*???Szaman** [ Charakter 4 ] : Postać raz podczas sesji może odzyska¢ tyle SW ile zdobedzie sukcesow w tescie Charakteru, mozesz dawac swoje punkty SW innym graczom. Zeby odzyskac puntky SW musisz miec 2 godziny spokoju.
