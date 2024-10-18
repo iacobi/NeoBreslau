@@ -24,11 +24,12 @@
 >***Groźny** [Zastraszanie 4] : Przerzut do **Charyzmy** i **Zastraszania**, Mozesz zaplacic punkt SW, zeby wybrana postac spadla w kolejce inicjatywy za Ciebie. Jesli postac ma Wole wyzsza niz Zastraszanie postaci, kosztuje to dwa SW.
 >
 **Kensei**: [Walka Bronią 5] : Poziom umiejętności **Walka Bronia** +1. Postać wyciąga dowolne ostrze tak szybko i sprawnie, że są traktowane jakby zawsze były w dłoni postaci. Możesz wydać punkt SW, żeby następny atak miał cechę przeciwpancerny.
+
 **Łowca:**: [Kamuflaż 5] : Masz jeden przerzut do każdego testu **Sztuki Przetrwania** i **Kamuflażu**. Dwa przerzuty do **Kamuflażu** jeśli masz czas i środki na zrobienie stroju kamuflującego. Masz jeden przerzut podczas strzałów mierzonych.
 >
 >***Nocny Łowca:**  [Kamuflaż 5] :Dwa przerzuty do kamuflażu w nocy, widzisz w ciemnościach bez pomocy elektroniki.
 >
->>>~~***Nomad:**  [Kamuflaż 5] :Dwa przerzuty do kamuflażu i sztuki przetrwania na pustyni. Może wydać punkt SW, żeby zakopać się na pod piaskiem.~~
+>***???Fedajkin:**  [Kamuflaż 5] :Dwa przerzuty do kamuflażu i sztuki przetrwania na pustyni. Może wydać punkt SW, żeby zakopać się na pod piaskiem.
 >
 **MonoStruny** [Elektronika 3] : Superwytrzymała struna, może służyć do cięcia, obezwładniania albo jako prowizoryczna lina. Użyta w walce ma dwa przerzuty i zadaje zwykłe 4 kostki obrażeń. Jesli probujesz kogos obezwladnic albo rozbroic nie jestes traktowany jako nieuzbrojony i masz jeden przerzut do rzutu na trafienie. Struna jest również w stanie utrzymać Twój ciężar i obwiązać się wokół przedmiotów w odległości 8 metrów (ten zasieg da sie wykorzystac tylko poza walka, w walce efektywny zasieg struny nie rozni sie od np. katany) Nauka walki struna jest skomplikowana i postac uzywa nizszej ze swoich dwoch umiejetnosci **Walka Wręcz** / **Walka Bronia**.
 
