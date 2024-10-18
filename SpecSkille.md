@@ -18,6 +18,8 @@
 
  **Cyngiel:** [Dowolna umiejętność strzelecka 5] : Wyciągnięcie pistoletu z kabury albo zza pasa nie zajmuje akcji. Strzelasz z lewej ręki tak samo sprawnie jak z prawej. Możesz wykonać trzy szybkie strzały w rundzie używając 4 kostek w rzucie na trafienie.
 
+ **Droniarz::** [Pilotaż 3] : Postać jest bardzo dobra w obsłudze dronów. Może mieć na raz do trzech aktywnych dronów w roju. Użycie drona w walce nie zabiera akcji. Może użyć wszystkich dronów w jednej rundzie.
+
 **Fantom:** [Kamuflaż 4] Nawet ludzie, którzy znają Cię od lat czasem wątpią czy istniejesz naprawdę. Ukrywanie się i zacieranie śladów to Twoja druga natura, nie zostawiasz odcisków palców, unikasz kamer i rozpływasz w tłumie. Wydając punkt SW postać jest w stanie zmienić swoj fizyczny wygląd, w szczegolnosci rysy twarzy. Nie zmieni swojej masy, ale może udawac postać niższa lub wyższa o 10% albo chudsza albo grubsza.
 
 **Fixer:** [Charyzma albo Intuicja 4] : Przerzut do **Charyzmy**, **Zastraszania** i **Inituicji**. Mozesz zaplacic punkt SW, zeby zalatwiac przyslugi albo towary na miescie
