@@ -79,17 +79,17 @@
 <h2>Pancerze</h2>
 
 
-**Lekki Pancerz Wartość Pancerza : 1**
+**Lekki Pancerz** Wartość Pancerza : 1
 
 Można schować pod ubraniem i chodzić po mieście.
   
 
-**Średni Pancerz Wartość Pancerza : 2**
+**Średni Pancerz** Wartość Pancerza : 2
 
 Nie da się ukryć noszenia średniego pancerza
  
 
-**Ciężki Pancerz Wartość Pancerza : 3**
+**Ciężki Pancerz** Wartość Pancerza : 3
 
 W ciężkim pancerzu możesz efektywnie się poruszać tyle godzin ile wynosi niższa z cech **Siła** albo **Wytrzymałość**.
 
