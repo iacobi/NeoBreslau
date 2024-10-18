@@ -94,10 +94,14 @@ Nie da się ukryć noszenia średniego pancerza
 W ciężkim pancerzu możesz efektywnie się poruszać tyle godzin ile wynosi niższa z cech **Siła** albo **Wytrzymałość**.
 
 
-  
+<h2> Granaty </h2>
 
-  
-  
+Zakładamy, że **użycie granatu zajmuje dwie tury**. Granat trzeba wyciągnąć, odbezpieczyć, i rzucić. Musi też upłynąć te kilka sekund, żeby granat wybuchł. Postać w pierwszej turze deklaruje użycie granatu i w domyśle rzuca go. W drugiej turze wykonuje test rzucania, żeby ustalić czy udało jej się trafić. **Granaty zadają słabe 5 kostek obrażeń**. Można unikać granatów na normalnych zasadch uniku.
+
+<h2> Drony </h2>
+
+Drony-Kamikadze zadają **słabe 6 kostek obrażeń**. Umiejętnością odpowiedzialną za trafienie jest **Pilotaż**.
+Drony-Kamikadze mogą wykonać kontrę przeciwko innym droną albo granatom. Lecą wtedy w strone nadlatującego wrogiego drona albo granatu i wybuchają niszcząc zagrożenie. Żeby wykonać kontrę trzeba uzystkać więcej sukcesów na swoim teście pilotażu niż atakujący na swoim  teście pilotażu albo rzucania.
 
 <h2>Leczenie</h2>
 
@@ -125,9 +129,7 @@ Efekty różnych narkotyków nie kumulują się.
 <h1>Zasady Różne</h1>
   
 
-<h2>Unikanie Broni Strzeleckiej (eksperymentalnie) </h2>
 
-Postacie graczy mają prawo wykonać unik przeciwko broni strzeleckiej pod warunkiem, że widzą postac oddającą strzał. Tracą kostkę z rzutu na unik.
 
 
 <h2>Strzały w Głowę / Atak w punkty witalne.</h2>
