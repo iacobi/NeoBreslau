@@ -103,15 +103,7 @@ Zakładamy, że **użycie granatu zajmuje dwie tury**. Granat trzeba wyciągną�
 Drony-Kamikadze zadają **słabe 6 kostek obrażeń**. Umiejętnością odpowiedzialną za trafienie jest **Pilotaż**.
 Drony-Kamikadze mogą wykonać kontrę przeciwko innym droną albo granatom. Lecą wtedy w strone nadlatującego wrogiego drona albo granatu i wybuchają niszcząc zagrożenie. Żeby wykonać kontrę trzeba uzystkać więcej sukcesów na swoim teście pilotażu niż atakujący na swoim  teście pilotażu albo rzucania.
 
-<h2>Leczenie</h2>
 
-Żywotność traktujemy jako paliwo organizmu – jeśli postać ma jeszcze żywotność, może działać. Regeneracja zależy od tego w jakim stanie jest postać:
-
-**Lekko Ranna**: Postać została pobita, potłukła się spadając z drzewa albo schodów, jest chora albo zmęczona. Regeneruje jeden punkt żywotności dziennie, albo dwa kiedy odpoczywa.
-
-**Poważnie Ranna:** Pobicie – ale takie żelaznym prętem, ciężka choroba, albo połamała się skacząc z pociągu. Musi być opatrzona, żeby w ogóle myśleć o regeneracji, odpoczynek przywraca jeden punkt na dzień.
-
-**Krytycznie Ranna:** Postrzał w brzuch, sieknięcia szablę przez łeb. Postać odzyskuje punkt na trzy dni.
 
 <h2>Chemia</h2>
 
@@ -119,7 +111,7 @@ Efekty różnych narkotyków nie kumulują się.
 
 **Stimpak**: zastrzyk przywraca 3 punkty żywotności.
 
-**SuperStimpak**: pełna regeneracja zywotnosci.
+**TraumaPak**: Regeneruje tyle żywotności ile sukcesów postać uzyska w teście Medycyny. Jeśli postać używa TraumaPaka sama na sobie traci kostkę z testu Medycyny.
 
 **Amfetamina**: Rzucasz dodatkową kostką na inicjatywę. Na potrzeby **testów i rzutu na obrażenia**: **Siła**, **Sprawność** i **Wytrzymałość** są podniesione o jeden. Kilka godzin działania.
 
@@ -213,5 +205,15 @@ Desperacki rzut (-1 kostka obrażeń, -1 kostka do trafiania, zajmuje całą run
 
 Desperacki rzut (-2 kostki obrażeń, -1 kostka do trafiania, zajmuje całą rundę)
 
+
+<h2>Leczenie</h2>
+
+~Żywotność traktujemy jako paliwo organizmu – jeśli postać ma jeszcze żywotność, może działać. Regeneracja zależy od tego w jakim stanie jest postać:
+
+**Lekko Ranna**: Postać została pobita, potłukła się spadając z drzewa albo schodów, jest chora albo zmęczona. Regeneruje jeden punkt żywotności dziennie, albo dwa kiedy odpoczywa.
+
+**Poważnie Ranna:** Pobicie – ale takie żelaznym prętem, ciężka choroba, albo połamała się skacząc z pociągu. Musi być opatrzona, żeby w ogóle myśleć o regeneracji, odpoczynek przywraca jeden punkt na dzień.
+
+**Krytycznie Ranna:** Postrzał w brzuch, sieknięcia szablę przez łeb. Postać odzyskuje punkt na trzy dni.
   
 
