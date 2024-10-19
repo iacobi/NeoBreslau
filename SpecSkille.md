@@ -5,8 +5,6 @@
 
 <h2>Zdolności</h2>
 
-**Akcelerator:** [Sprawność i Spostrzegawczość 4] : Przerzut do **Sprawności**, dodatkowa kostka do rzutu na inicajtywę. Moze zaplacic punkt SW, żeby dostać dodatkowy unik w rundzie (maksymalnie 1 dodatkowy), Możesz zapłacić punkty SW, żeby uniknąć broni palnej (jeśli wykonujesz dodatkowy unik i jednocześnie unikasz broni palnej, to łączny koszt jest równy 2). Musisz widzieć strzelca, żeby unikać broni palnej.
-
 **???Chirurg:** [Medycyna 3] : Przerzut do **Medycyny**. Jakiekolwiek leczenie wykonane przez tą postać przywraca jeden Punkt Żywotności więcej niż normalnie. Kiedy walczysz jednoręcznymi ostrzami w rzucie na obrażenia możesz korzystać z **Medycyny** zamiast **Siły**.
 
 **CyberOstrza** [Siła 4] : w organiźmie postaci ukryte są ostrze/ostrza. Mechanicznie traktujemy je jak katanę (dwuręczna, dwa przerzuty, cztery silne kostki obrażeń). Postać nie traci też żadnej akcji na wyciągnięcie ostrza. Za kazdy punkt siły powyzej przecietnego w organizmie postaci ukryte jest dodatkowe ostrze, ktorym moze wystrzelic jak bronia palna (zwykle 4 kostki obrazen).
@@ -15,15 +13,15 @@
 
  **Cyngiel:** [Dowolna Broń Palna 5] : Wyciągnięcie pistoletu z kabury nie zajmuje akcji. Strzelasz z lewej ręki tak samo sprawnie jak z prawej. Możesz wykonać trzy szybkie strzały w rundzie używając 4 kostek w rzucie na trafienie.
 >
->**\*Kowboj** [Dowolna Broń Palna 5] : Jeśli używasz pozbawionych optyki rewolwerów albo strzelb umiejętność strzelania jest wyższa o punkt. Wyciągnięcie rewolweru z kabury nie zajmuje akcji. Strzelby zadają zwykłe kostki obrażeń zamiast słabych.
+>**\*Kowboj** [Dowolna Broń Palna 5] : Wyciągnięcie rewolweru z kabury nie zajmuje akcji. Strzelasz z lewej ręki tak samo sprawnie jak z prawej. Strzelby zadają zwykłe kostki obrażeń zamiast słabych. Jeśli używasz pozbawionych optyki rewolwerów albo strzelb umiejętność strzelania jest wyższa o punkt.
 >
  **Droniarz::** [Pilotaż 3] : Przerzut do testów pilotażu kiedy steruje dronem. Postać ma aktywny rój lekkich dronów (ilość równa umiejętności Oprogramowanie, ale minimalnie dwa). Drony są w połowie autonomicznie, mogą samodzielnie latać i towarzyszyć postaci, albo być schowane w wielkim plecaku, torbie albo skrzyni. Wypuszczenie albo schowanie dronów trwa turę, drony robią to samodzielnie i nie zabierją akcji postaci. Użycie drona z roju do ataku albo kontry nie zabiera akcji. Postać jeśli chce może użyć wszystkich dronów w jednej rundzie. Odnowienie roju kosztuje 1 punkt SW, trwa godzinę, wymaga wyłączenia obecnego i zastąpienia straconych dronów nowymi.
 
 **Fantom:** [Kamuflaż 4] Nawet ludzie, którzy znają Cię od lat czasem wątpią czy istniejesz naprawdę. Ukrywanie się i zacieranie śladów to Twoja druga natura, nie zostawiasz odcisków palców, unikasz kamer i rozpływasz w tłumie. Wydając punkt SW postać jest w stanie zmienić swoj fizyczny wygląd, w szczegolnosci rysy twarzy. Nie zmieni swojej masy, ale może udawac postać niższa lub wyższa o 10% albo chudsza albo grubsza.
 
-**Fixer:** [Charakter albo Intuicja 4] : Przerzut do **Charakteru**, **Zastraszania** i **Inituicji**. Mozesz zaplacic punkt SW, zeby zalatwiac przyslugi albo towary na miescie
+**Cwaniak:** [Charakter albo Intuicja 4] : Przerzut do **Charakteru**, **Kradzieży** i **Inituicji**. Mozesz zaplacic punkt SW, zeby zalatwiac przyslugi albo towary na miescie
 >
->**\*Groźny** [Charakter 4] : Przerzut do **Charakteru**. Mozesz zaplacic punkt SW, zeby wybrana postac spadla w kolejce inicjatywy za Ciebie. Jesli postac ma Wole wyzsza niz **Charakter** postaci, kosztuje to dwa SW.
+>**\*???Groźny** [Charakter 4] : Przerzut do **Charakteru**. Mozesz zaplacic punkt SW, zeby wybrana postac spadla w kolejce inicjatywy za Ciebie. Jesli postac ma Wole wyzsza niz **Charakter** postaci, kosztuje to dwa SW.
 >
 **Kensei**: [Walka Bronią 5] : Poziom umiejętności **Walka Bronia** +1. Postać wyciąga dowolne ostrze tak szybko i sprawnie, że są traktowane jakby zawsze były w dłoni postaci. Możesz wydać punkt SW, żeby następny atak miał cechę przeciwpancerny.
 
@@ -44,6 +42,8 @@
 >***Cablink** [Elektronika 3] :Smartlink działający wyłącznie po kablu i wyłącznie z jednym typem umiejętności (np. Broń Palna Długa albo Prowadzenie Pojazdów) ale jest odporny na ataki.
 
 **Spec:** [Trzy umiejętności techniczne każda na poziomie minimum 3] : Przerzuty do trzech wybranych technicznych umiejętności. Zawsze masz przy sobie drobne przedmioty jak zapałki, śrubki i małe narzędzia jak pilnik albo śrubokręt schowane w kieszeniach ubrania. Jeśli zapłacisz punkt SW, możesz wyciągnąć bardziej skomplikowane części zamienne, narzędzia albo zapasową amunicje pod warunkiem, że można je upchnąć w ubraniu.
+
+**Szybki:** [Sprawność i Spostrzegawczość 4] : Przerzut do **Sprawności**, dodatkowa kostka do rzutu na inicajtywę (wybierasz lepszą) Moze zaplacic punkt SW, żeby dostać dodatkowy unik w rundzie (maksymalnie 1 dodatkowy), Możesz zapłacić punkty SW, żeby uniknąć broni palnej (jeśli wykonujesz dodatkowy unik i jednocześnie unikasz broni palnej, to łączny koszt jest równy 2). Musisz widzieć strzelca, żeby unikać broni palnej.
 
 **Twardziel**: [Wytrzymałość 5] : Przerzut do każdego testu **Wytrzymałości**. **Próg Bólu** jest podniesiony o punkt, a **Żywotność** o dwa punkty
 
