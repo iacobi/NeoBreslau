@@ -13,9 +13,9 @@
 
 **CyberNogi:** [Sprawność i Siła 4] : Może skakać wzwyż na Siła w metrach, w dal na 2x Siła i spadać bezpiecznie z 5 x Siła metrów.
 
- **Cyngiel:** [Dowolna Broń Palna 5] : Wyciągnięcie pistoletu z kabury albo zza pasa nie zajmuje akcji. Strzelasz z lewej ręki tak samo sprawnie jak z prawej. Możesz wykonać trzy szybkie strzały w rundzie używając 4 kostek w rzucie na trafienie.
+ **Cyngiel:** [Dowolna Broń Palna 5] : Wyciągnięcie pistoletu z kabury nie zajmuje akcji. Strzelasz z lewej ręki tak samo sprawnie jak z prawej. Możesz wykonać trzy szybkie strzały w rundzie używając 4 kostek w rzucie na trafienie.
 >
->**\*Kowboj** [Dowolna Broń Palna 5] : Jeśli używasz pozbawionych optyki rewolwerów albo strzelb umiejętność strzelania jest wyższa o punkt. Siła broni jest wyższa o punkt podczas strzałów mierzonych.
+>**\*Kowboj** [Dowolna Broń Palna 5] : Jeśli używasz pozbawionych optyki rewolwerów albo strzelb umiejętność strzelania jest wyższa o punkt. Wyciągnięcie rewolweru z kabury nie zajmuje akcji. Strzelby zadają zwykłe kostki obrażeń zamiast słabych.
 >
  **Droniarz::** [Pilotaż 3] : Przerzut do testów pilotażu kiedy steruje dronem. Postać ma aktywny rój lekkich dronów (ilość równa umiejętności Oprogramowanie, ale minimalnie dwa). Drony są w połowie autonomicznie, mogą samodzielnie latać i towarzyszyć postaci, albo być schowane w wielkim plecaku, torbie albo skrzyni. Wypuszczenie albo schowanie dronów trwa turę, drony robią to samodzielnie i nie zabierją akcji postaci. Użycie drona z roju do ataku albo kontry nie zabiera akcji. Postać jeśli chce może użyć wszystkich dronów w jednej rundzie. Odnowienie roju kosztuje 1 punkt SW, trwa godzinę, wymaga wyłączenia obecnego i zastąpienia straconych dronów nowymi.
 
