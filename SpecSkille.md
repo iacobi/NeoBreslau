@@ -19,6 +19,8 @@
 
 **Fantom:** [Kamuflaż 4] Nawet ludzie, którzy znają Cię od lat czasem wątpią czy istniejesz naprawdę. Ukrywanie się i zacieranie śladów to Twoja druga natura, nie zostawiasz odcisków palców, unikasz kamer i rozpływasz w tłumie. Wydając punkt SW postać jest w stanie zmienić swoj fizyczny wygląd, w szczegolnosci rysy twarzy. Nie zmieni swojej masy, ale może udawac postać niższa lub wyższa o 10% albo chudsza albo grubsza.
 
+**Hart**: [Wytrzymałość 5] : **Żywotność** jest podniesiona o dwa punkty. Przerzut do każdego testu **Wytrzymałości**.
+
 **Cwaniak:** [Charakter albo Intuicja 4] : Przerzut do **Charakteru**, **Kradzieży** i **Inituicji**. Mozesz zaplacic punkt SW, zeby zalatwiac przyslugi albo towary na miescie
 >
 >**\*???Groźny** [Charakter 4] : Przerzut do **Charakteru**. Mozesz zaplacic punkt SW, zeby wybrana postac spadla w kolejce inicjatywy za Ciebie. Jesli postac ma Wole wyzsza niz **Charakter** postaci, kosztuje to dwa SW.
@@ -36,6 +38,8 @@
 **Nanoboty**: [Medycyna 4 albo Elektronika 4] : Płacąc punkt **SW** możesz całkowicie zregenerować swoją żywotność, albo przywrócić dwa punkty żywotności innej postaci. Maksymalny Poziom **Żywotności** i **SW** jest trwale obniżony o jeden.
 *Do ustalenia: czy nanoboty lecza choroby, trucizny, usuwają pociski i zasklepiają rany.*
 
+**Niezłomny**: [Wola 5] : Przerzut do każdego testu **Woli**. **Próg Bólu** i **Żywotność** są wyższe o punkt.
+
 **Pancerz Wewnętrzny**: [Siła 5] : Pancerz +1 ale jesteś ciężki i tracisz kostkę z każdego testu **Sprawności**. 
 
 **Smartlink:** [Informatyka albo Elektronika 3] : Możesz podłączać się do cybersprzętu (zazwyczaj daje +1 do umiejętności). Traktujemy też jako wbudowany komputer/telefon komórkowy, daje +1 do testów Oprogramowania.
@@ -44,8 +48,6 @@
 **Spec:** [Trzy umiejętności techniczne każda na poziomie minimum 3] : Przerzuty do trzech wybranych technicznych umiejętności. Zawsze masz przy sobie drobne przedmioty jak zapałki, śrubki i małe narzędzia jak pilnik albo śrubokręt schowane w kieszeniach ubrania. Jeśli zapłacisz punkt SW, możesz wyciągnąć bardziej skomplikowane części zamienne, narzędzia albo zapasową amunicje pod warunkiem, że można je upchnąć w ubraniu.
 
 **Szybki:** [Sprawność i Spostrzegawczość 4] : Przerzut do **Sprawności**, dodatkowa kostka do rzutu na inicajtywę (wybierasz lepszą) Moze zaplacic punkt SW, żeby dostać dodatkowy unik w rundzie (maksymalnie 1 dodatkowy), Możesz zapłacić punkty SW, żeby uniknąć broni palnej (jeśli wykonujesz dodatkowy unik i jednocześnie unikasz broni palnej, to łączny koszt jest równy 2). Musisz widzieć strzelca, żeby unikać broni palnej.
-
-**Twardziel**: [Wytrzymałość 5] : Przerzut do każdego testu **Wytrzymałości**. **Próg Bólu** jest podniesiony o punkt, a **Żywotność** o dwa punkty
 
 **Wielki:** [ Siła 5] : Dodatkowa kostka obrażeń w Walce Wręcz/Walce Bronią. Ignorujesz Odrzut i Nieporęczność broni. 
 
