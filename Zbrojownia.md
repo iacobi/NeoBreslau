@@ -103,7 +103,12 @@ Zakładamy, że **użycie granatu zajmuje dwie tury**. Granat trzeba wyciągną�
 Drony-Kamikadze zadają **słabe 6 kostek obrażeń**. Umiejętnością odpowiedzialną za trafienie jest **Pilotaż**.
 Drony-Kamikadze mogą wykonać kontrę przeciwko innym droną albo granatom. Lecą wtedy w strone nadlatującego wrogiego drona albo granatu i wybuchają niszcząc zagrożenie. Żeby wykonać kontrę trzeba uzystkać więcej sukcesów na swoim teście pilotażu niż atakujący na swoim  teście pilotażu albo rzucania.
 
+<h2> Scrambler </h2>
 
+W trybie pasywnym pozwala kontrować nadlatujące drony. Jeśli postać wygra test **Elektronika** vs **Pilotaż** nadlatującej drony, drona jest rozbrojona i wyłączona. Ta kontra jest możliwa jeśli postać nie wykonała jeszcze żadnej akcji w rundzie.
+W trybie aktywnym powoduje, że każda nadlatująca drona jest kontrowana. Te kontry są akcją darmową. Scrambler w trybie aktywnym można atakować innymi Scramblerami. Wykonuje się wtedy test przeciwstawny Elektroniki operatorów. Przegrane scramblery są wyłączone, w przypadku remisu wszystkie scramblery są wyłączone. Nie mogą działać nawet w trybie pasywnym.
+W przypadku walki kilku scramblerów liczy się tylko najwyższy wynik, wszystkie przegrane scramblery są wyłączone.
+Scramblery w trybie aktywnym zdradzają swoją pozycje.
 
 <h2>Chemia</h2>
 
