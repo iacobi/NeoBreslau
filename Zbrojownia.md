@@ -116,6 +116,8 @@ Efekty różnych narkotyków nie kumulują się.
 
 **Stimpak**: zastrzyk przywraca 3 punkty żywotności.
 
+**Wendigo(PCP)**: podnosi próg bólu o punkt
+
 **TraumaPak**: Regeneruje tyle żywotności ile sukcesów postać uzyska w teście Medycyny. Jeśli postać używa TraumaPaka sama na sobie traci kostkę z testu Medycyny.
 
 **Amfetamina**: Rzucasz dodatkową kostką na inicjatywę. Na potrzeby **testów i rzutu na obrażenia**: **Siła**, **Sprawność** i **Wytrzymałość** są podniesione o jeden. Kilka godzin działania.
