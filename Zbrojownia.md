@@ -105,7 +105,8 @@ Drony-Kamikadze mogą wykonać kontrę przeciwko innym droną albo granatom. Lec
 
 <h2> Scrambler </h2>
 
-W trybie pasywnym pozwala kontrować nadlatujące drony. Jeśli postać wygra test **Elektronika** vs **Pilotaż** nadlatującej drony, drona jest rozbrojona i wyłączona. Ta kontra jest możliwa jeśli postać nie wykonała jeszcze żadnej akcji w rundzie.
+W trybie aktywnym pozwala wyłączać wszystkie drony wlatujące w zasięg działania (50m) Jeśli operator wygra test **Elektronika** vs **Pilotaż** nadlatującej drony, drona jest rozbrojona i wyłączona.
+W trybie pasywnym tylko raz
 W trybie aktywnym powoduje, że każda nadlatująca drona jest kontrowana. Te kontry są akcją darmową. Scrambler w trybie aktywnym można atakować innymi Scramblerami. Wykonuje się wtedy test przeciwstawny Elektroniki operatorów. Przegrane scramblery są wyłączone, w przypadku remisu wszystkie scramblery są wyłączone. Nie mogą działać nawet w trybie pasywnym.
 W przypadku walki kilku scramblerów liczy się tylko najwyższy wynik, wszystkie przegrane scramblery są wyłączone.
 Scramblery w trybie aktywnym zdradzają swoją pozycje.
