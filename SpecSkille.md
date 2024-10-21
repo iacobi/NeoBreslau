@@ -9,6 +9,8 @@
 
 **CyberOstrza** [Siła 4] : w organiźmie postaci ukryte są ostrze/ostrza. Mechanicznie traktujemy je jak katanę (dwuręczna, dwa przerzuty, cztery silne kostki obrażeń). Postać nie traci też żadnej akcji na wyciągnięcie ostrza. Za kazdy punkt siły powyzej przecietnego w organizmie postaci ukryte jest dodatkowe ostrze, ktorym moze wystrzelic jak bronia palna (zwykle 4 kostki obrazen).
 
+**CyberRęce:** [ Siła 5] : Dodatkowa kostka obrażeń w Walce Wręcz/Walce Bronią. Ignorujesz Odrzut i Nieporęczność broni. 
+
 **CyberNogi:** [Sprawność i Siła 4] : Może skakać wzwyż na Siła w metrach, w dal na 2x Siła i spadać bezpiecznie z 5 x Siła metrów.
 
  **Cyngiel:** [Dowolna Broń Palna 5] : Wyciągnięcie pistoletu z kabury nie zajmuje akcji. Strzelasz z lewej ręki tak samo sprawnie jak z prawej. Możesz wykonać trzy szybkie strzały w rundzie używając 4 kostek w rzucie na trafienie.
@@ -18,8 +20,6 @@
  **Droniarz::** [Pilotaż 3] : Przerzut do testów pilotażu kiedy steruje dronem. Postać ma aktywny rój lekkich dronów (ilość równa umiejętności Oprogramowanie, ale minimalnie dwa). Drony są w połowie autonomicznie, mogą samodzielnie latać i towarzyszyć postaci, albo być schowane w wielkim plecaku, torbie albo skrzyni. Wypuszczenie albo schowanie dronów trwa turę, drony robią to samodzielnie i nie zabierją akcji postaci. Użycie drona z roju do ataku albo kontry nie zabiera akcji. Postać jeśli chce może użyć wszystkich dronów w jednej rundzie. Odnowienie roju kosztuje 1 punkt SW, trwa godzinę, wymaga wyłączenia obecnego i zastąpienia straconych dronów nowymi.
 
 **Fantom:** [Kamuflaż 4] Nawet ludzie, którzy znają Cię od lat czasem wątpią czy istniejesz naprawdę. Ukrywanie się i zacieranie śladów to Twoja druga natura, nie zostawiasz odcisków palców, unikasz kamer i rozpływasz w tłumie. Wydając punkt SW postać jest w stanie zmienić swoj fizyczny wygląd, w szczegolnosci rysy twarzy. Nie zmieni swojej masy, ale może udawac postać niższa lub wyższa o 10% albo chudsza albo grubsza.
-
-**Hart**: [Wytrzymałość 5] : **Żywotność** jest podniesiona o dwa punkty. Przerzut do każdego testu **Wytrzymałości**.
 
 **Cwaniak:** [Charakter albo Intuicja 4] : Przerzut do **Charakteru**, **Kradzieży** i **Inituicji**. Mozesz zaplacic punkt SW, zeby zalatwiac przyslugi albo towary na miescie
 >
@@ -38,8 +38,6 @@
 **Nanoboty**: [Medycyna 4 albo Elektronika 4] : Płacąc punkt **SW** możesz całkowicie zregenerować swoją żywotność, albo przywrócić dwa punkty żywotności innej postaci. Maksymalny Poziom **Żywotności** i **SW** jest trwale obniżony o jeden.
 *Do ustalenia: czy nanoboty lecza choroby, trucizny, usuwają pociski i zasklepiają rany.*
 
-**Niezłomny**: [Wola 5] : Przerzut do każdego testu **Woli**. **Próg Bólu** i **Żywotność** są wyższe o punkt.
-
 **Pancerz Wewnętrzny**: [Siła 5] : Pancerz +1 ale jesteś ciężki i tracisz kostkę z każdego testu **Sprawności**. 
 
 **Smartlink:** [Informatyka albo Elektronika 3] : Możesz podłączać się do cybersprzętu (zazwyczaj daje +1 do umiejętności). Traktujemy też jako wbudowany komputer/telefon komórkowy, daje +1 do testów Oprogramowania.
@@ -49,7 +47,9 @@
 
 **Szybki:** [Sprawność i Spostrzegawczość 4] : Przerzut do **Sprawności**, dodatkowa kostka do rzutu na inicajtywę (wybierasz lepszą) Moze zaplacic punkt SW, żeby dostać dodatkowy unik w rundzie (maksymalnie 1 dodatkowy), Możesz zapłacić punkty SW, żeby uniknąć broni palnej (jeśli wykonujesz dodatkowy unik i jednocześnie unikasz broni palnej, to łączny koszt jest równy 2). Musisz widzieć strzelca, żeby unikać broni palnej.
 
-**Wielki:** [ Siła 5] : Dodatkowa kostka obrażeń w Walce Wręcz/Walce Bronią. Ignorujesz Odrzut i Nieporęczność broni. 
+**Twardziel**: [Wytrzymałość 5] : Przerzut do każdego testu **Wytrzymałości**. **Próg Bólu** i **Żywotność** są wyższe o punkt.
+
+**Wielki:** [ Siła 5] : **Siła** posyaci jest o punkt wyższa niż wynika to z normalnych zasad. **Żywotność** jest wyższa o dwa punkty
 
 **Zen**: [ - ] : Postać ma trzy punkty SW więcej niż wynika to z poziomu Woli.
 >
