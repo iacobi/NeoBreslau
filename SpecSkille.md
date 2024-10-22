@@ -40,10 +40,10 @@
 
 **Pancerz Wewnętrzny**: [Siła 5] : Pancerz +1 ale jesteś ciężki i tracisz kostkę z każdego testu **Sprawności**. 
 
-**Smartlink:** [Informatyka albo Elektronika 3] : Możesz podłączać się do cybersprzętu (zazwyczaj daje +1 do umiejętności). Traktujemy też jako wbudowany komputer/telefon komórkowy, daje +1 do testów Oprogramowania.
->***Cablink** [Elektronika 3] :Smartlink działający wyłącznie po kablu i wyłącznie z jednym typem umiejętności (np. Broń Palna Długa albo Prowadzenie Pojazdów) ale jest odporny na ataki.
+**Smartlink:** [Oprogramowanie albo Elektronika 3] : Możesz podłączać się do cybersprzętu (zazwyczaj daje +1 do umiejętności). Traktujemy też jako wbudowany komputer/telefon komórkowy, daje +1 do testów Oprogramowania.
 
-**Spec:** [Trzy umiejętności techniczne każda na poziomie minimum 3] : Przerzuty do trzech wybranych technicznych umiejętności. Zawsze masz przy sobie drobne przedmioty jak zapałki, śrubki i małe narzędzia jak pilnik albo śrubokręt schowane w kieszeniach ubrania. Jeśli zapłacisz punkt SW, możesz wyciągnąć bardziej skomplikowane części zamienne, narzędzia albo zapasową amunicje pod warunkiem, że można je upchnąć w ubraniu.
+**Spec:** [Elektronika 3] : Przerzut do Elektroniki. Kiedy obsługujesz Scrambler, nie musisz wygrać testu, żeby przeciwko Pilotażowi operatoa Drona, wystarczy że będziesz miał tyle samo sukcesów, żeby rozbroić drone ??
+?? Masz dwie akcje zamiast jednej ??
 
 **Szybki:** [Sprawność i Spostrzegawczość 4] : Przerzut do **Sprawności**, dodatkowa kostka do rzutu na inicajtywę (wybierasz lepszą) Moze zaplacic punkt SW, żeby dostać dodatkowy unik w rundzie (maksymalnie 1 dodatkowy), Możesz zapłacić punkty SW, żeby uniknąć broni palnej (jeśli wykonujesz dodatkowy unik i jednocześnie unikasz broni palnej, to łączny koszt jest równy 2). Musisz widzieć strzelca, żeby unikać broni palnej.
 
