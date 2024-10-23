@@ -99,9 +99,18 @@ W ciężkim pancerzu możesz efektywnie się poruszać tyle godzin ile wynosi ni
 Zakładamy, że **użycie granatu zajmuje dwie tury**. Granat trzeba wyciągnąć, odbezpieczyć, i rzucić. Musi też upłynąć te kilka sekund, żeby granat wybuchł. Postać w pierwszej turze deklaruje użycie granatu i w domyśle rzuca go. W drugiej turze wykonuje test rzucania, żeby ustalić czy udało jej się trafić. **Granaty zadają słabe 5 kostek obrażeń**. Można unikać granatów na normalnych zasadch uniku.
 
 <h2> Drony </h2>
+Postaci może towarzyć jeden wybrany dron (rój-kamikadze mechanicznie traktujemy jak jeden). Postać może w turze albo wykonać swoje akcje albo działać jako dron.
 
-Drony-Kamikadze zadają **słabe 6 kostek obrażeń**. Umiejętnością odpowiedzialną za trafienie jest **Pilotaż**.
+<h3>Rój</h3>
+
+Postać ma aktywny rój lekkich dronów (ilość równa umiejętności Oprogramowanie, ale minimalnie dwa). Drony są w połowie autonomicznie, mogą samodzielnie latać i towarzyszyć postaci, albo być schowane w wielkim plecaku, torbie albo skrzyni. Wypuszczenie albo schowanie dronów trwa turę, drony robią to samodzielnie i nie zabierją akcji postaci. Użycie drona z roju do ataku albo kontry nie zabiera akcji. Postać jeśli chce może użyć wszystkich dronów w jednej rundzie. Odnowienie roju kosztuje 1 punkt SW, trwa godzinę, wymaga wyłączenia obecnego i zastąpienia straconych dronów nowymi.
+
+Drony-Kamikadze zadają **słabe 5 kostek obrażeń**. Umiejętnością odpowiedzialną za trafienie jest **Pilotaż**.
 Drony-Kamikadze mogą wykonać kontrę przeciwko innym droną albo granatom. Lecą wtedy w strone nadlatującego wrogiego drona albo granatu i wybuchają niszcząc zagrożenie. Żeby wykonać kontrę trzeba uzystkać więcej sukcesów na swoim teście pilotażu niż atakujący na swoim  teście pilotażu albo rzucania.
+
+<h3>FPV</h3>
+
+**silne 5 kostek obrażeń**
 
 <h2> Scrambler </h2>
 
