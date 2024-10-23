@@ -15,7 +15,7 @@
 >
 >**\*Kowboj** [Dowolna Broń Palna 5] : Wyciągnięcie rewolweru z kabury nie zajmuje akcji. Strzelasz z lewej ręki tak samo sprawnie jak z prawej. Jeśli używasz pozbawionych optyki rewolwerów albo strzelb umiejętność strzelania jest wyższa o punkt. Przed rzutem na obrażenia rewolweru albo strzelby możesz zapłacić jeden punkt SW i uznać, że obrażenia ignorują pancerz.
 >
- **Droniarz::** [Pilotaż 3] : Przerzut do testów pilotażu kiedy steruje dronem. Użycie towarzyszącego drona w walce jest akcją darmową. Efektywnie postać wykonuje w swojej inicjatywie dwie tury. Jedną dla siebie i jedną dla drona/dronów.
+ **Droniarz::** [Pilotaż 3] : Przerzut do testów pilotażu kiedy steruje latającymi dronami. Nie traci akcji, żeby użyć swojego drona w walce. Efektywnie postać wykonuje w swojej inicjatywie dwie tury. Jedną dla siebie i jedną dla drona/dronów.
 
 **Fantom:** [Kamuflaż 4] Nawet ludzie, którzy znają Cię od lat czasem wątpią czy istniejesz naprawdę. Ukrywanie się i zacieranie śladów to Twoja druga natura, nie zostawiasz odcisków palców, unikasz kamer i rozpływasz w tłumie. Wydając punkt SW postać jest w stanie zmienić swoj fizyczny wygląd, w szczegolnosci rysy twarzy. Nie zmieni swojej masy, ale może udawac postać niższa lub wyższa o 10% albo chudsza albo grubsza.
 
