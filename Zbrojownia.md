@@ -42,8 +42,8 @@
 | **Karabin Maszynowy 5,56mm/5,45mm** |zwykłe&nbsp;4&nbsp;kostki| 100 |trzy tury| Nieporęczny, Krótka Seria, Ogień Ciągły| 4000&nbsp;kred.|
 | **Karabin Maszynowy 7,62mm** |silne&nbsp;4&nbsp;kostki| 100 |trzy tury| Nieporęczny, Krótka Seria, Ogień Ciągły| 5000&nbsp;kred.|
 | **Karabin Wyborowy 7,62mm**|silne&nbsp;4&nbsp;kostki| 5 | cała tura|Jeden strzał na turę | 2000&nbsp;kred.|
-| **Samopowtarzalny Karabin Wyborowy**|silne&nbsp;4&nbsp;kostki| 5 | cała tura|Jeden strzał na turę | 2000&nbsp;kred.|
-| **Karabin Powtarzalny Magnum**|zwykłe&nbsp;5&nbsp;kostek| 5 | cała tura|Jeden strzał na turę, Odrzut | 5000&nbsp;kred.|
+| **Samopowtarzalny Karabin Wyborowy**|silne&nbsp;4&nbsp;kostki| 5 | cała tura| | 2000&nbsp;kred.|
+| **Karabin Wyborowy .338**|zwykłe&nbsp;5&nbsp;kostek| 5 | cała tura|Jeden strzał na turę, Odrzut | 5000&nbsp;kred.|
 
 *jeśli wystrzeli z obu rur podczas jednego ataku, zadaje kostke obrażeń więcej i ma jeden przerzut do ataku (tylko na trafienie)
 
