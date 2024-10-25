@@ -53,17 +53,21 @@
 
 **Prosta Obsługa:** postać wybiera czy korzysta z umiejętności broni krótkiej czy broni palnej
 
-**Krótka Seria:** zużywa 3 pociski, przerzut do ataku
+**Krótka Seria:** zużywa 3 pociski, przerzut do ataku, może być użyta zarówno jako szybki strzał, albo jako strzał mierzony
 
-**Ogień Ciągły:** 3 ataki po 5 kostek, +1 kostka obrażeń, zużywa 15 pocisków
+**Ogień Ciągły:** Postać wykonuje 3 ataki, używając 6 kostek, potem 5 kostek, potem  4 kostek na trafienie. Jeśli którykolwiek atak spudłuje nie wykonuje już kolejnych. Każde trafienie zadaje o kostkę obrażeń więcej niż normalnie.
 
 **Nieporęczna:** Jeśli postać nie poświęci całej tury na przygotowanie się do strzału traci kostkę z każdego rzutu na trafienie
+
+<h3>Ogień Zaporowy</h3>
+
+Każda broń, która jest zdolna do ognia ciągłego może wykonać ogień zaporowy. Jeśli przeciwnik wykonał dowolną akcje w której rzucał kostkami, postać może zadeklarować ogien zaporowy i przerwać tą akcje, jeśli wyrzuci więcej sukcesów w teście trafienia niż przeciwnik w swojej akcji. Obie postacie tracą wtedy tą turę. Postać wykonująca Ogień Zaporowy zużywa 15 pocisków.
 
 <h3>Modyfikacje Broni</h3>
 
 **Optyka**: +1 do umiejętności podczas strzałów mierzonych
 
-**CyberOptyka**: Wymaga smartlinka, zastępuje zwykłą optyke, +1 do umiejętności strzelania
+**CyberOptyka**: Wymaga smartlinka, zastępuje zwykłą optyke, +1 do umiejętności strzelania.
 
 **Inteligenta Amunicja**: Wymaga smartlinka, +1 do umiejętności strzelania, -1 kostka obrażen.
 
@@ -73,6 +77,7 @@
 
 **Wersje Kompaktowe**: Pistolety i rewolwery kieszonkowe albo karabiny szturmowe w wersji PDW majæ skrocone lufy, wiec dla rzutow na obrazenia uznajemy, ze ich Sila jest mniejsza o jeden.
 
+**Lekki Zamek**: Pistolety Maszynowe, Karabiny Maszynowe i Strzelby Automatyczne. Ogień Ciągły i Ogień Zaporowy zużywają teraz 20 pocisków zamiast 15 ale dostają przerzut do każdego z tych rzutów. Broń z Lekkim Zamkiem nie ma żadnych plusów za zainstalowanie optyki
   
 
 
