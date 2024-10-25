@@ -126,26 +126,17 @@ Scrambler to narzędzie do walki elektronicznej. Zazwyczaj jest to plecak z zest
 **Detekecja i Wyłączenie Scramblerów**: Jeśli Scramblery nałożą się polami działania wiedzą o tym, że w pobliżu jest kolejny scrambler. Jeśli znajdąsię w swoim zasięgu mogą się zwalczać. Wykonuje się wtedy test przeciwstawny Elektroniki operatorów. Przegrane scramblery są wyłączone, w przypadku remisu wszystkie scramblery są wyłączone. W przypadku walki kilku scramblerów liczy się tylko najwyższy wynik, wszystkie przegrane scramblery są wyłączone.
 
 
-<h2>Chemia</h2>
+<h2>Chemia Bojowa</h2>
 
-Efekty różnych narkotyków nie kumulują się.
+Postać może przyjąć na sesji tyle dawek narktyków bojowych ile wynosi jej Wytrzymałość. Efekty każdego trwają ~8 godzin. Efekty tego samego typu narkotyku nie kumulują się, ale możesz wziąść dwa różne narkotyki na raz. Postać na sesji może zabrać tylko tyle Chemii Bojowej ile wynosi jej Wytrzymałość, potem organizm jest zbyt zniszczony, żeby chemia na niego działała.
 
-**Stimpak**: zastrzyk przywraca 3 punkty żywotności.
+**TraumaPack**: Przywraca tyle punktów żywotności ile uzyskało się sukcesów w rzucie na Medycyne. Używając TraumaPacka na samym sobie traci się kostę z testu Medycyny.
 
-**Wendigo(PCP)**: podnosi próg bólu o punkt
+**Wendigo(PCP)**: Podnosi próg bólu o punkt
 
-**TraumaPak**: Regeneruje tyle żywotności ile sukcesów postać uzyska w teście Medycyny. Jeśli postać używa TraumaPaka sama na sobie traci kostkę z testu Medycyny.
-
-**Amfetamina**: Rzucasz dodatkową kostką na inicjatywę. Na potrzeby **testów i rzutu na obrażenia**: **Siła**, **Sprawność** i **Wytrzymałość** są podniesione o jeden. Kilka godzin działania.
-
-**Kokaina**: Rzucasz dodatkową kostką na inicjatywę. Na potrzeby **testów**: **Sprawność**, **Spostrzegawczość**, **Charyzma** i **Intuicja** są podniesione o jeden. Kilkadziesiąt minut działania.
-
+**Blitz(Speed)**: Rzucasz dodatkową kostkę na Inicjatywę.
 
 <h1>Zasady Różne</h1>
-  
-
-
-
 
 <h2>Strzały w Głowę / Atak w punkty witalne.</h2>
 
