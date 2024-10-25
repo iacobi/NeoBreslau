@@ -23,6 +23,8 @@
 >
 >**\*???Groźny** [Charakter 4] : Przerzut do **Charakteru**. Mozesz zaplacic punkt SW, zeby wybrana postac spadla w kolejce inicjatywy za Ciebie. Jesli postac ma Wole wyzsza niz **Charakter** postaci, kosztuje to dwa SW.
 >
+>**\*Szaman** [ Intuicja 4 ] : Przerzut do **Inituicji**. Za każdym razem kiedy postać używa Lux może przywrócić jeden punkt SW dowolnej postaci w drużynie.
+>
 **Kensei**: [Walka Bronią 5] : Poziom umiejętności **Walka Bronia** +1. Postać wyciąga dowolne ostrze tak szybko i sprawnie, że są traktowane jakby zawsze były w dłoni postaci. Możesz wydać punkt SW, żeby następny atak miał cechę przeciwpancerny.
 
 **Łowca:**: [Kamuflaż 5] : Masz jeden przerzut do każdego testu **Sztuki Przetrwania** i **Kamuflażu**. Dwa przerzuty do **Kamuflażu** jeśli masz czas i środki na zrobienie stroju kamuflującego. Masz jeden przerzut podczas strzałów mierzonych.
@@ -51,7 +53,4 @@
 **Wirus:**  [Oprogramowanie 5] : Placąc punkt SW i dotykając przez co najmniej minutę dowolnej osoby ze smartlinkiem możesz przejąć nad nią kontrolę. Musisz wygrać test swojej umiejętności **Oprogramowanie** kontra Wola celu. Kontrola ciała trwa do momentu świadomego wyłączenia albo utraty przytomności przez cel. Kontrolujący pozostaje wtedy w stanie letargu.
 
 **Zen**: [ - ] : Postać na początku sesji dostaje trzy punkty SW więcej niż normalnie.
->
->**\*???Outsider** [ - ] : Postać raz podczas sesji może całkowicie zregenrowac punkty SW. Regeneracja może odbyć się tylko w miejscu gdzie nie widać i nie słychać innych ludzi przez co najmniej godzinę. Tracisz kostkę z każdego testu Charakteru i Intuicji.
->
->**\*???Szaman** [ Charakter 4 ] : Postać raz podczas sesji może odzyska¢ tyle SW ile zdobedzie sukcesow w tescie Charakteru, mozesz dawac swoje punkty SW innym graczom. Zeby odzyskac puntky SW musisz miec 2 godziny spokoju.
+
