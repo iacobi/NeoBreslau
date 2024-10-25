@@ -133,11 +133,13 @@ Scrambler to narzędzie do walki elektronicznej. Zazwyczaj jest to plecak z zest
 
 <h2>Chemia Bojowa</h2>
 
-Postać może przyjąć na sesji tyle dawek narktyków bojowych ile wynosi jej Wytrzymałość. Efekty każdego trwają ~8 godzin. Efekty tego samego typu narkotyku nie kumulują się, ale możesz wziąść dwa różne narkotyki na raz. Postać na sesji może zabrać tylko tyle Chemii Bojowej ile wynosi jej Wytrzymałość, potem organizm jest zbyt zniszczony, żeby chemia na niego działała.
+Postać może przyjąć na sesji tyle dawek chemii bojowej bojowych ile wynosi jej Wytrzymałość. Efekty dwóch identycznych substancji nie kumulują się. Wendigo i Blitz działają aż do momentu aż postać straci przytomność albo pójdzie spać.
 
-**TraumaPack**: Przywraca tyle punktów żywotności ile uzyskało się sukcesów w rzucie na Medycyne. Używając TraumaPacka na samym sobie traci się kostę z testu Medycyny.
+**TraumaPack**: Przywraca tyle punktów żywotności ile uzyskało się sukcesów w rzucie na Medycyne. Używając TraumaPacka na samym sobie traci się kostę z testu Medycyny. Nie można przekroczyć maksymalnego poziomu Żywotności
 
-**Wendigo(PCP)**: Podnosi próg bólu o punkt
+**Lux** : Odzyskujesz dwa punkty SW. Nie można przekroczyć maksymalnego poziomu Żywotności.
+
+**Wendigo(PCP)**: Podnosi próg bólu o punkt, postać może działać nawet jeśli ma równo zero Żywotnośći.
 
 **Blitz(Speed)**: Rzucasz dodatkową kostkę na Inicjatywę.
 
