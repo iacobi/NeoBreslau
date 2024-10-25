@@ -50,7 +50,7 @@
 
 **Wirus:**  [Oprogramowanie 5] : Placąc punkt SW i dotykając przez co najmniej minutę dowolnej osoby ze smartlinkiem możesz przejąć nad nią kontrolę. Musisz wygrać test swojej umiejętności **Oprogramowanie** kontra Wola celu. Kontrola ciała trwa do momentu świadomego wyłączenia albo utraty przytomności przez cel. Kontrolujący pozostaje wtedy w stanie letargu.
 
-**Zen**: [ - ] : Postać ma trzy punkty SW więcej niż wynika to z poziomu Woli.
+**Zen**: [ - ] : Postać na początku sesji dostaje trzy punkty SW więcej niż normalnie.
 >
 >**\*???Outsider** [ - ] : Postać raz podczas sesji może całkowicie zregenrowac punkty SW. Regeneracja może odbyć się tylko w miejscu gdzie nie widać i nie słychać innych ludzi przez co najmniej godzinę. Tracisz kostkę z każdego testu Charakteru i Intuicji.
 >
