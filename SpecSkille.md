@@ -7,7 +7,7 @@
 
 <h2>Zdolności</h2>
 
-**Chirurg** [Medycyna 3] : Przerzut do **Medycyny**. Jakiekolwiek leczenie wykonane przez tą postać przywraca jeden Punkt Żywotności więcej niż normalnie. Masz tak pewną rękę, że kiedy atakujesz kogoś skalpelem, nożem, maczetą albo podobnym jednoręcznym ostrzem możesz zapłacić punkt SW, żeby całkowicie zignorwać jego pancerz.
+**Chirurg** [Medycyna 3] : Przerzut do **Medycyny**. Jakiekolwiek leczenie wykonane przez tą postać przywraca jeden Punkt Żywotności więcej niż normalnie. Masz tak pewną rękę, że kiedy atakujesz kogoś skalpelem, nożem, albo podobnym jednoręcznym ostrzem możesz zapłacić punkt SW, żeby całkowicie zignorwać jego pancerz.
 
 **CyberOstrza** [Siła 4] : w organiźmie postaci ukryte są ostrze/ostrza. Mechanicznie traktujemy je jak katanę (dwuręczna, dwa przerzuty, cztery silne kostki obrażeń). Postać nie traci też żadnej akcji na wyciągnięcie ostrza. Za kazdy punkt siły powyzej przecietnego w organizmie postaci ukryte jest dodatkowe ostrze, ktorym moze wystrzelic jak bronia palna (zwykle 4 kostki obrazen).
 
