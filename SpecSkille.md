@@ -1,7 +1,9 @@
 
 <h1>Tworzenie Postaci</h1>
 
-8 punktów do rozdania na umiejętności, trzy wybrane zdolności. Podczas Tworzenia postaci nie trzeba spełniać wymagań zdolności. Zdolności oznaczone * to specjalne warianty podstawowej, można zamienić wersje podstawoą jeśli gracz tak chce.
+**Osiem punktów** do rozdania na **umiejętności** - maksymalnie do czwartej kropki.
+
+**Trzy wybrane zdolności**. Podczas Tworzenia postaci nie trzeba spełniać wymagań podanych w nawiasach kwadratowych. Niektóre zdolności mają alternatywne wersje oznaczone *, postać może mieć tylko jedną wersje takiej zdolności.
 
 <h2>Zdolności</h2>
 
