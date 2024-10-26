@@ -25,8 +25,10 @@
 >
 >**\*Groźny** [Charakter 4] : Przerzut do **Charakteru**. Mozesz zaplacic punkt SW, zeby wybrana postac spadla w kolejce inicjatywy za Ciebie. Jesli postac ma Wole wyzsza niz **Charakter** postaci, kosztuje to dwa SW.
 >
-**Kensei**: [Walka Bronią 5] : Poziom umiejętności **Walka Bronia** +1. Postać wyciąga dowolne ostrze tak szybko i sprawnie, że są traktowane jakby zawsze były w dłoni postaci.
-
+**Kensei**: [Walka Bronią 5] : Masz swoje wybrane ulubione ostrze, kiedy go używasz poziom umiejętności **Walka Bronia** jest wyższy o jeden. Postać wyciąga to ostrze tak szybko i sprawnie, że są traktowane jakby zawsze były w dłoni postaci.
+>
+>**\*Mistrz** [Walka Wręcz 5] : Przerzut do **Walki Wręcz**. Niezależnie od tego co robiłeś w turze walki masz jeden darmowy atak, pod warunkiem, że używasz w nim **Walki Wręcz** jako umiejętności odpowiedzialnej za trafienie.
+>
 **Łowca** [Kamuflaż 5] : Masz jeden przerzut do każdego testu **Sztuki Przetrwania** i **Kamuflażu**. Dwa przerzuty do **Kamuflażu** jeśli masz czas i środki na zrobienie stroju kamuflującego. Masz jeden przerzut podczas strzałów mierzonych.
 >
 >**\*Nocny Łowca** [Kamuflaż 5] :Dwa przerzuty do kamuflażu w nocy, widzisz w ciemnościach bez pomocy elektroniki.
