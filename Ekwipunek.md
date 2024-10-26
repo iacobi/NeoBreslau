@@ -1,4 +1,4 @@
-<h1>Zbrojownia/Ekwipunek</h1>
+<h1>Ekwipunek</h1>
 
 <h2>Broń Biała</h2>
 
@@ -130,12 +130,11 @@ Mały gąsienicowy pojazd uzbrojony w karabin maszynowy. Poza poruszaniem się m
 
 Scrambler to narzędzie do walki elektronicznej. Zazwyczaj jest to plecak z zestawem anten i interfejsem. Może być podłączony smartlinkiem. Scrambler ma zasięg 50 metrów.
 
-**Zakłócanie Smartlinków**: Każda używająca smartlinku postać, która wejdzie w zasięg działania scramblera nie dodaje rzutu kostką do inciajtywy.
+**Zwiad Elektroniczny**: Scrambler może wykryć podłączone do sieci urządzenia w jego zasięgu: telefony, samochody, sprzęty domowe, smartlinki itp. Wykrycie jest automatyczne i większość cywilnych urządzeń nie wie, że ktoś je namierza. W przypadku zabezpieczonych systemów, wojskowej elektroniki itp. trzeba zdać test Elektroniki (PT ustala MG), żeby ping Scramblera pozostał niewykryty
 
-**Zakłócanie Dron**: Scrambler może wyłączyć każdą dronę znajdującą się w jego zasięgu. Jeśli operator wygra test **Elektronika** vs **Pilotaż** nadlatującej drony, drona jest rozbrojona i wyłączona.
+**Zakłócanie Dron**: Scrambler atakuje każdą dronę wlatującą w zasięg jego działania. Wykonuje się test przeciwstawny **Elektronika** operatora Scramblera vs **Pilotaż** operatora drony. Jeśli operator drony przegra jego drona jest rozbrojona i wyłączona. Dla operatora Scramblera to całkowicie darmowa akcja i działa na każdą nadlatującą dronę, niezależnie od ich ilości.
 
-**Detekecja i Wyłączenie Scramblerów**: Jeśli Scramblery nałożą się polami działania wiedzą o tym, że w pobliżu jest kolejny scrambler. Jeśli znajdąsię w swoim zasięgu mogą się zwalczać. Wykonuje się wtedy test przeciwstawny Elektroniki operatorów. Przegrane scramblery są wyłączone, w przypadku remisu wszystkie scramblery są wyłączone. W przypadku walki kilku scramblerów liczy się tylko najwyższy wynik, wszystkie przegrane scramblery są wyłączone.
-
+**Walka Scramblerów**: Jeśli Scramblery nałożą się polami działania wiedzą o tym, że w pobliżu jest kolejny scrambler. Jeśli znajdąsię w swoim zasięgu mogą się zwalczać. Wykonuje się wtedy test przeciwstawny Elektroniki operatorów. Przegrane scramblery są wyłączone, w przypadku remisu wszystkie scramblery są wyłączone. W przypadku walki kilku scramblerów liczy się tylko najwyższy wynik, wszystkie przegrane scramblery są wyłączone.
 
 
 
