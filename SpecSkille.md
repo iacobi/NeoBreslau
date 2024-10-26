@@ -31,7 +31,7 @@
 >
 >**\*Nocny Łowca:**  [Kamuflaż 5] :Dwa przerzuty do kamuflażu w nocy, widzisz w ciemnościach bez pomocy elektroniki.
 >
->**\*???Fedajkin:**  [Kamuflaż 5] :Dwa przerzuty do kamuflażu i sztuki przetrwania na pustyni. Może wydać punkt SW, żeby zakopać się na pod piaskiem.
+>**\*Duch Pustyni:**  [Kamuflaż 5] :Dwa przerzuty do kamuflażu i sztuki przetrwania na pustyni. Może wydać punkt SW, żeby zakopać się na pod piaskiem.
 >
 **MonoStruny** [Elektronika 3] : Superwytrzymała struna, może służyć do cięcia, obezwładniania albo jako prowizoryczna lina. Użyta w walce ma dwa przerzuty i zadaje zwykłe 4 kostki obrażeń. Jesli probujesz kogos obezwladnic albo rozbroic nie jestes traktowany jako nieuzbrojony i masz jeden przerzut do rzutu na trafienie. Struna jest również w stanie utrzymać Twój ciężar i obwiązać się wokół przedmiotów w odległości 8 metrów (ten zasieg da sie wykorzystac tylko poza walka, w walce efektywny zasieg struny nie rozni sie od np. katany) Nauka walki struna jest skomplikowana i postac uzywa nizszej ze swoich dwoch umiejetnosci **Walka Wręcz** / **Walka Bronia**.
 
