@@ -13,7 +13,7 @@
 
  **Cyngiel:** [Dowolna Broń Palna 5] : Wyciągnięcie pistoletu z kabury nie zajmuje akcji. Strzelasz z lewej ręki tak samo sprawnie jak z prawej. Możesz wykonać trzy szybkie strzały w rundzie używając 4 kostek w rzucie na trafienie.
 >
->**\*Kowboj** [Dowolna Broń Palna 5] : Wyciągnięcie rewolweru z kabury nie zajmuje akcji. Strzelasz z lewej ręki tak samo sprawnie jak z prawej. Jeśli używasz pozbawionych optyki rewolwerów albo strzelb umiejętność strzelania jest wyższa o punkt. Przed rzutem na obrażenia rewolweru albo strzelby możesz zapłacić jeden punkt SW i uznać, że obrażenia ignorują pancerz.
+>**\*Kowboj** [Dowolna Broń Palna 5] : Wyciągnięcie rewolweru z kabury nie zajmuje akcji. Strzelasz z lewej ręki tak samo sprawnie jak z prawej. Jeśli używasz pozbawionych optyki rewolwerów albo strzelb możesz zapłacić jeden punkt SW przed rzutem na obrażenia, żeby dostać dodatkową kostkę do rzutu.
 >
  **Droniarz::** [Pilotaż 3] : Przerzut do testów **Pilotażu** i **Prowadzenia Pojazdów** kiedy postać steruje dronami. Jesteś tak dobry w obsłudze dron, że nie poświęcasz tury, żeby sterować nią w walce. Efektywnie postać wykonuje w swojej inicjatywie dwie tury. Jedną dla siebie i jedną dla swojego drona.
 
@@ -21,7 +21,7 @@
 
 **Cwaniak:** [Charakter albo Intuicja 4] : Przerzut do **Charakteru**, **Kradzieży** i **Inituicji**. Mozesz zaplacic punkt SW, zeby zalatwiac przyslugi albo towary na miescie
 >
->**\*???Groźny** [Charakter 4] : Przerzut do **Charakteru**. Mozesz zaplacic punkt SW, zeby wybrana postac spadla w kolejce inicjatywy za Ciebie. Jesli postac ma Wole wyzsza niz **Charakter** postaci, kosztuje to dwa SW.
+>**\*Groźny** [Charakter 4] : Przerzut do **Charakteru**. Mozesz zaplacic punkt SW, zeby wybrana postac spadla w kolejce inicjatywy za Ciebie. Jesli postac ma Wole wyzsza niz **Charakter** postaci, kosztuje to dwa SW.
 >
 **Kensei**: [Walka Bronią 5] : Poziom umiejętności **Walka Bronia** +1. Postać wyciąga dowolne ostrze tak szybko i sprawnie, że są traktowane jakby zawsze były w dłoni postaci. Możesz wydać punkt SW, żeby następny atak miał cechę przeciwpancerny.
 
