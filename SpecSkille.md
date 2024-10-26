@@ -27,7 +27,7 @@
 >
 **Kensei**: [Walka Bronią 5] : Masz swoje wybrane ulubione ostrze, kiedy go używasz poziom umiejętności **Walka Bronia** jest wyższy o jeden. Postać wyciąga to ostrze tak szybko i sprawnie, że są traktowane jakby zawsze były w dłoni postaci.
 >
->**\*Mistrz** [Walka Wręcz 5] : Przerzut do **Walki Wręcz**. Niezależnie od tego co robiłeś w turze walki masz jeden darmowy atak, pod warunkiem, że używasz w nim **Walki Wręcz** jako umiejętności odpowiedzialnej za trafienie.
+>**\*Mistrz** [Walka Wręcz 5] : Przerzut do **Walki Wręcz**. Niezależnie od tego co robiłeś w turze walki masz jeden darmowy atak, pod warunkiem, że używasz w nim **Walki Wręcz** jako umiejętności odpowiedzialnej za trafienie. Postać nie traci kostki jeśli atakuje nieuzbrojona uzbrojonego przeciwnika.
 >
 **Łowca** [Kamuflaż 5] : Masz jeden przerzut do każdego testu **Sztuki Przetrwania** i **Kamuflażu**. Dwa przerzuty do **Kamuflażu** jeśli masz czas i środki na zrobienie stroju kamuflującego. Masz jeden przerzut podczas strzałów mierzonych.
 >
