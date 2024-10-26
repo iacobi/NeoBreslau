@@ -105,26 +105,25 @@ Postać może przyjąć na sesji tyle dawek chemii bojowej bojowych ile wynosi j
 
 <h1>Ekwipunek Specjalny</h1>
 
+Postać na raz może używać tylko jednego typu ekwipunku specjalnego.
+
+<h2>ElektroMaskałat</h2>
+
+Maskuje ślad termiczny i elektromagnetyczny postaci. Dodatkowo jeśli postać pozostaje bez ruchu przybiera wygląd otoczenia i postać dostaje modyfikator +1 do umiejętności **Kamuflaż**.
+
 <h2>Tarcza Retrokinetyczna</h2>
 
-//TO DO
-
+Za każdym razem kiedy postać otrzyma obrażenia od broni palnej rzuca k10. "0" traktujemy jak 10. Jeśli wyrzuciłeś więcej niż obrażenia - tarcza ochroniła Cię przed obrażeniami. W przeciwnym wypadku tarcza również obroniła Cię przed obrażeniami ale przepaliła się i przestała działać. Tarcza chroni przed granatami i dronami-kamikadze ale ich wybuch zawsze przepala tarcze - nie ma potrzeby rzucać k10.
 <h2> Drony </h2>
 
 Drony są w pewnym stopniu autonomiczne i mogą podążać za użytkownikiem. W walce postać musi wybrać czy wykonuje swoją turę jako swoja postać czy jako dron. Jeśli drony pozwalają na kontry to działają według normalnych zasad, czyli cała tura jest przeznaczona na kontrę. Postać na raz może mieć aktywny tylko jeden typ drona.
 
-<h3>FPV-HE</h3>
+**Venator**: Standardowy dron bojowy. Podlatuje i wybucha zadając **silne 5 kostek** obrażeń. W turze potrafi przelecieć 40 metrów. Do trafienia używana jest umiejętność **Pilotaż**. Może też wykonywać kontre - wlecieć w zbliżające się wrogie drony, granaty albo rakiety i wybuchąć. Nie trzeba rzutów na obrażenia - drony są na tyle delikatne, że wystarczy trafienie do zniszczenia. Żeby kontra była skuteczna trzeba uzyskać w rzucie na **Pilotaż** więcej niż atakujący miał w swoim rzucie na trafienie.
 
-Standardowy dron bojowy. Podlatuje i wybucha zadając **silne 5 kostek** obrażeń. W turze potrafi przelecieć 40 metrów. Do trafienia używana jest umiejętność **Pilotaż**. Może też wykonywać kontre - wlecieć w zbliżające się wrogie drony, granaty albo rakiety i wybuchąć. Nie trzeba rzutów na obrażenia - drony są na tyle delikatne, że wystarczy trafienie do zniszczenia. Żeby kontra była skuteczna trzeba uzyskać w rzucie na **Pilotaż** więcej niż atakujący miał w swoim rzucie na trafienie.
-
-<h3>Rój</h3>
-
-Rój małych dronów FPV. Są mniejsze i ładunek wybuchowy jest słabszy - **słabe 5 kostek** obrażeń. Ich ilość, którą można kontrolować na raz jest równa
+**Rój**: Rój małych dronów FPV. Są mniejsze i ładunek wybuchowy jest słabszy - **słabe 5 kostek** obrażeń. Ich ilość, którą można kontrolować na raz jest równa
 umiejętności **Oprogramowanie**. Postać nadal musi poświęcić swoją turę, żeby sterować rojem, ale ilość akcji w roju jest ograniczona przez ilość dronów. Jeśli postać np. kontroluej 3 drony, może użyć dwóch z nich jako kontre do zniszczenia nadlatujących wrogich dronów, a jednego do ataku. Może też wykonać tylko jedną akcje, a pozostałe 2 drony zostawić w rezerwie.
 
-<h3>Muł</h3>
-
-Mały gąsienicowy pojazd uzbrojony w karabin maszynowy. Poza poruszaniem się może wykonywać tylko akcje **Ogień Ciągły** albo **Ogień Zaporowy**.
+**Secutor**: Mały gąsienicowy pojazd uzbrojony w karabin maszynowy. Poza poruszaniem się może wykonywać tylko akcje **Ogień Ciągły** albo **Ogień Zaporowy**.
 
 <h2> Scrambler </h2>
 
