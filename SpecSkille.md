@@ -5,7 +5,7 @@
 
 <h2>Zdolności</h2>
 
-**???Chirurg:** [Medycyna 3] : Przerzut do **Medycyny**. Jakiekolwiek leczenie wykonane przez tą postać przywraca jeden Punkt Żywotności więcej niż normalnie. Kiedy walczysz jednoręcznymi ostrzami w rzucie na obrażenia możesz korzystać z **Medycyny** zamiast **Siły**.
+**Chirurg:** [Medycyna 3] : Przerzut do **Medycyny**. Jakiekolwiek leczenie wykonane przez tą postać przywraca jeden Punkt Żywotności więcej niż normalnie. Masz tak pewną rękę, że kiedy atakujesz kogoś skalpelem, nożem, maczetą albo podobnym jednoręcznym ostrzem możesz zapłacić punkt SW, żeby całkowicie zignorwać jego pancerz.
 
 **CyberOstrza** [Siła 4] : w organiźmie postaci ukryte są ostrze/ostrza. Mechanicznie traktujemy je jak katanę (dwuręczna, dwa przerzuty, cztery silne kostki obrażeń). Postać nie traci też żadnej akcji na wyciągnięcie ostrza. Za kazdy punkt siły powyzej przecietnego w organizmie postaci ukryte jest dodatkowe ostrze, ktorym moze wystrzelic jak bronia palna (zwykle 4 kostki obrazen).
 
@@ -23,7 +23,7 @@
 >
 >**\*Groźny** [Charakter 4] : Przerzut do **Charakteru**. Mozesz zaplacic punkt SW, zeby wybrana postac spadla w kolejce inicjatywy za Ciebie. Jesli postac ma Wole wyzsza niz **Charakter** postaci, kosztuje to dwa SW.
 >
-**Kensei**: [Walka Bronią 5] : Poziom umiejętności **Walka Bronia** +1. Postać wyciąga dowolne ostrze tak szybko i sprawnie, że są traktowane jakby zawsze były w dłoni postaci. Możesz wydać punkt SW, żeby następny atak miał cechę przeciwpancerny.
+**Kensei**: [Walka Bronią 5] : Poziom umiejętności **Walka Bronia** +1. Postać wyciąga dowolne ostrze tak szybko i sprawnie, że są traktowane jakby zawsze były w dłoni postaci.
 
 **Łowca:**: [Kamuflaż 5] : Masz jeden przerzut do każdego testu **Sztuki Przetrwania** i **Kamuflażu**. Dwa przerzuty do **Kamuflażu** jeśli masz czas i środki na zrobienie stroju kamuflującego. Masz jeden przerzut podczas strzałów mierzonych.
 >
