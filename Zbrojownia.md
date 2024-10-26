@@ -71,35 +71,43 @@
 
 **Gumowa Amunicja**: zadaje kostke obrażeń mniej, tylko strzelby. Nie powoduje utraty żywotności, ale jeśli atak pokona próg bólu celu, cel jest wyłączony z walki. Można stosować z z zasadami ataku w punkty witalne, żeby zwiększyć szanse na pokonanie progu bólu.
 
-**Amunicja Przeciwpancerna**: Tracisz kostkę z rzutu na trafienie i rzutu na obrażenia, broń zyskuje cechę przeciwpancarna
+**Amunicja Przeciwpancerna**: Tracisz kostkę z rzutu na obrażenia, broń zyskuje cechę przeciwpancerna/
 
-**Wersje Kompaktowe**: Pistolety i rewolwery kieszonkowe albo karabiny szturmowe w wersji PDW majæ skrocone lufy, wiec dla rzutow na obrazenia uznajemy, ze ich Sila jest mniejsza o jeden.
+<h2> Granaty </h2>
 
-**Lekki Zamek**: Pistolety Maszynowe, Karabiny Maszynowe i Strzelby Automatyczne. Ogień Ciągły i Ogień Zaporowy zużywają teraz 20 pocisków zamiast 15 ale dostają przerzut do każdego z tych rzutów. Broń z Lekkim Zamkiem nie ma żadnych plusów za zainstalowanie optyki
-  
-
+Zakładamy, że **użycie granatu zajmuje dwie tury**. Granat trzeba wyciągnąć, odbezpieczyć, i rzucić. Musi też upłynąć te kilka sekund, żeby granat wybuchł. Postać w pierwszej turze deklaruje użycie granatu i w domyśle rzuca go. W drugiej turze wykonuje test rzucania, żeby ustalić czy udało jej się trafić. **Granaty zadają słabe 5 kostek obrażeń**. Można unikać granatów na normalnych zasadch uniku.
 
 <h2>Pancerze</h2>
-
 
 **Lekki Pancerz** Wartość Pancerza : 1
 
 Można schować pod ubraniem i chodzić po mieście.
-  
 
 **Średni Pancerz** Wartość Pancerza : 2
 
 Nie da się ukryć noszenia średniego pancerza
- 
 
 **Ciężki Pancerz** Wartość Pancerza : 3
 
 W ciężkim pancerzu możesz efektywnie się poruszać tyle godzin ile wynosi niższa z cech **Siła** albo **Wytrzymałość**.
 
+<h2>Chemia Bojowa</h2>
 
-<h2> Granaty </h2>
+Postać może przyjąć na sesji tyle dawek chemii bojowej bojowych ile wynosi jej Wytrzymałość. Efekty dwóch identycznych substancji nie kumulują się. Wendigo i Blitz działają aż do momentu aż postać straci przytomność albo pójdzie spać.
 
-Zakładamy, że **użycie granatu zajmuje dwie tury**. Granat trzeba wyciągnąć, odbezpieczyć, i rzucić. Musi też upłynąć te kilka sekund, żeby granat wybuchł. Postać w pierwszej turze deklaruje użycie granatu i w domyśle rzuca go. W drugiej turze wykonuje test rzucania, żeby ustalić czy udało jej się trafić. **Granaty zadają słabe 5 kostek obrażeń**. Można unikać granatów na normalnych zasadch uniku.
+**TraumaPack**: Przywraca tyle punktów żywotności ile uzyskało się sukcesów w rzucie na Medycyne. Używając TraumaPacka na samym sobie traci się kostę z testu Medycyny. Nie można przekroczyć maksymalnego poziomu Żywotności
+
+**Lux** : Odzyskujesz dwa punkty SW. Nie można przekroczyć maksymalnego poziomu Żywotności.
+
+**Wendigo(PCP)**: Podnosi próg bólu o punkt, postać może działać nawet jeśli ma równo zero Żywotnośći.
+
+**Blitz(Speed)**: Rzucasz dodatkową kostkę na Inicjatywę.
+
+<h1>Ekwipunek Specjalny</h1>
+
+<h2>Tarcza Retrokinetyczna</h2>
+
+//TO DO
 
 <h2> Drony </h2>
 
@@ -129,17 +137,7 @@ Scrambler to narzędzie do walki elektronicznej. Zazwyczaj jest to plecak z zest
 **Detekecja i Wyłączenie Scramblerów**: Jeśli Scramblery nałożą się polami działania wiedzą o tym, że w pobliżu jest kolejny scrambler. Jeśli znajdąsię w swoim zasięgu mogą się zwalczać. Wykonuje się wtedy test przeciwstawny Elektroniki operatorów. Przegrane scramblery są wyłączone, w przypadku remisu wszystkie scramblery są wyłączone. W przypadku walki kilku scramblerów liczy się tylko najwyższy wynik, wszystkie przegrane scramblery są wyłączone.
 
 
-<h2>Chemia Bojowa</h2>
 
-Postać może przyjąć na sesji tyle dawek chemii bojowej bojowych ile wynosi jej Wytrzymałość. Efekty dwóch identycznych substancji nie kumulują się. Wendigo i Blitz działają aż do momentu aż postać straci przytomność albo pójdzie spać.
-
-**TraumaPack**: Przywraca tyle punktów żywotności ile uzyskało się sukcesów w rzucie na Medycyne. Używając TraumaPacka na samym sobie traci się kostę z testu Medycyny. Nie można przekroczyć maksymalnego poziomu Żywotności
-
-**Lux** : Odzyskujesz dwa punkty SW. Nie można przekroczyć maksymalnego poziomu Żywotności.
-
-**Wendigo(PCP)**: Podnosi próg bólu o punkt, postać może działać nawet jeśli ma równo zero Żywotnośći.
-
-**Blitz(Speed)**: Rzucasz dodatkową kostkę na Inicjatywę.
 
 <h1>Zasady Różne</h1>
 
@@ -147,33 +145,22 @@ Postać może przyjąć na sesji tyle dawek chemii bojowej bojowych ile wynosi j
 
 Deklarujesz przed rzutem na trafieni. Musisz przebić wymagane trafienie o jeden. Atak zadaje jeden punkt obrażeń więcej albo minimalnie 3 punkty obrażeń – wybierasz wyższą wartość.
 
-  
-
 <h2>Ominięcia Pancerza</h2>
 
 Deklarujesz przed rzutem na trafieni. Musisz przebić wymagane trafienie o jeden. Atak zadaje kostkę obrażeń mniej ale omija pancerz. Mogą istnieć pancerze bez luk.
 
-
-
 <h2>Walka/Strzelanie z lewej ręki</h2>
 
 Jeśli nie masz odpowiedniej zalety, tracisz kostkę w testach używając mniej sprawnej ręki.
-
- 
-  
   
 
 <h2>Ogłuszenie</h2>
 
 W tej mechanice nie ma „łatwych ogłuszeń”. Żeby postać straciła przytomność trzeba ją sprowadzić do zera żywotności albo w jednym ataku zadać tyle obrażeń ile wynosi jej **próg bólu**. Obie sytuacje mogą się skończyć śmiercią zamiast ogłuszeniem.
-
   
-
 <h2>Rozbrojenie</h2>
 
 Żeby kogoś rozbroić trzeba najpierw go trafić dowolnym atakiem używając kostki mniej na trafienie (można tą próbę dowolnie unikać albo kontrować.) Po trafieniu zamiast rzutu na obrażenia wykonuje się przeciwstawny test **Siły,** który trzeba wygrać. Jeśli udało się wygrać cel jest rozbrojony. Jeśli cel miał dwie sztuki broni w dłoniach rozbrojenie pozbawia go wszystkich.
-
-  
 
 <h2>Obezwładnienie</h2>
 
