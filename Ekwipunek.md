@@ -67,7 +67,7 @@
 
 **CyberOptyka**: Wymaga sprzęgu, zastępuje zwykłą optyke, +1 do umiejętności strzelania.
 
-**Inteligenta Amunicja**: Wymaga sprzęgu, +1 do umiejętności strzelania, -1 kostka obrażen.
+**Inteligenta Amunicja**: Wymaga CyberOptyki, łącznie dają +2 do umiejętności strzelania, ale -1 kostka obrażeń.
 
 **Gumowa Amunicja**: zadaje kostke obrażeń mniej, tylko strzelby. Nie powoduje utraty żywotności, ale jeśli atak pokona próg bólu celu, cel jest wyłączony z walki. Można stosować z z zasadami ataku w punkty witalne, żeby zwiększyć szanse na pokonanie progu bólu.
 
