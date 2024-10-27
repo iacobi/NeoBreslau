@@ -65,9 +65,9 @@
 
 **Optyka**: +1 do umiejętności podczas strzałów mierzonych
 
-**CyberOptyka**: Wymaga smartlinka, zastępuje zwykłą optyke, +1 do umiejętności strzelania.
+**CyberOptyka**: Wymaga sprzęgu, zastępuje zwykłą optyke, +1 do umiejętności strzelania.
 
-**Inteligenta Amunicja**: Wymaga smartlinka, +1 do umiejętności strzelania, -1 kostka obrażen.
+**Inteligenta Amunicja**: Wymaga sprzęgu, +1 do umiejętności strzelania, -1 kostka obrażen.
 
 **Gumowa Amunicja**: zadaje kostke obrażeń mniej, tylko strzelby. Nie powoduje utraty żywotności, ale jeśli atak pokona próg bólu celu, cel jest wyłączony z walki. Można stosować z z zasadami ataku w punkty witalne, żeby zwiększyć szanse na pokonanie progu bólu.
 
@@ -127,9 +127,9 @@ umiejętności **Oprogramowanie**. Postać nadal musi poświęcić swoją turę,
 
 <h2> Scrambler </h2>
 
-Scrambler to narzędzie do walki elektronicznej. Zazwyczaj jest to plecak z zestawem anten i interfejsem. Może być podłączony smartlinkiem. Scrambler ma zasięg 50 metrów.
+Scrambler to narzędzie do walki elektronicznej. Zazwyczaj jest to plecak z zestawem anten i interfejsem. Może być podłączony sprzęgiem. Scrambler ma zasięg 50 metrów.
 
-**Zwiad Elektroniczny**: Scrambler może wykryć podłączone do sieci urządzenia w jego zasięgu: telefony, samochody, sprzęty domowe, smartlinki itp. Wykrycie jest automatyczne i większość cywilnych urządzeń nie wie, że ktoś je namierza. W przypadku zabezpieczonych systemów, wojskowej elektroniki itp. trzeba zdać test Elektroniki (PT ustala MG), żeby ping Scramblera pozostał niewykryty
+**Zwiad Elektroniczny**: Scrambler może wykryć podłączone do sieci urządzenia w jego zasięgu: telefony, samochody, sprzęty domowe, sprzęgi itp. Wykrycie jest automatyczne i większość cywilnych urządzeń nie wie, że ktoś je namierza. W przypadku zabezpieczonych systemów, wojskowej elektroniki itp. trzeba zdać test Elektroniki (PT ustala MG), żeby ping Scramblera pozostał niewykryty
 
 **Zakłócanie Dron**: Scrambler atakuje każdą dronę wlatującą w zasięg jego działania. Wykonuje się test przeciwstawny **Elektronika** operatora Scramblera vs **Pilotaż** operatora drony. Jeśli operator drony przegra jego drona jest rozbrojona i wyłączona. Dla operatora Scramblera to całkowicie darmowa akcja i działa na każdą nadlatującą dronę, niezależnie od ich ilości.
 
