@@ -17,7 +17,7 @@
 
 **CyberNogi** [Sprawność i Siła 4] : Możesz skakać wzwyż na Siła w metrach, w dal na 2x Siła i spadać bezpiecznie z 5 x Siła metrów.
 
- **Cyngiel** [Dowolna Broń Palna 5] : Wyciągnięcie pistoletu z kabury nie zajmuje akcji. Strzelasz z lewej ręki tak samo sprawnie jak z prawej. Możesz wykonać trzy szybkie strzały w rundzie używając 4 kostek w rzucie na trafienie.
+ **Cyngiel** [Dowolna Broń Palna 5] : Wyciągnięcie pistoletu z kabury nie zajmuje akcji. Strzelasz z lewej ręki tak samo sprawnie jak z prawej. Możesz wykonać trzy szybkie strzały w rundzie używając 4 kostek w rzucie na trafienie. Jeśli zepniesz ze sobą dwa magazynki możesz zmieniać je tak szybko, że nie tracisz na to akcji - efektywnie karabiny szturmowe i karabiny bojowe mają podwojoną pojemność magazynka.
 >
 >**\*Kowboj** [Dowolna Broń Palna 5] : Wyciągnięcie rewolweru z kabury nie zajmuje akcji. Strzelasz z lewej ręki tak samo sprawnie jak z prawej. Jeśli używasz pozbawionych optyki rewolwerów albo strzelb możesz zapłacić jeden punkt SW przed rzutem na obrażenia, żeby dostać dodatkową kostkę do rzutu.
 >
