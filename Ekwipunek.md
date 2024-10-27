@@ -71,7 +71,7 @@
 
 **Gumowa Amunicja**: zadaje kostke obrażeń mniej, tylko strzelby. Nie powoduje utraty żywotności, ale jeśli atak pokona próg bólu celu, cel jest wyłączony z walki. Można stosować z z zasadami ataku w punkty witalne, żeby zwiększyć szanse na pokonanie progu bólu.
 
-**Amunicja Przeciwpancerna**: Tracisz kostkę z rzutu na obrażenia, broń zyskuje cechę przeciwpancerna/
+**Amunicja Przeciwpancerna**: Tylko karabiny 7,62 i .338. Tracisz kostkę z rzutu na obrażenia, broń zyskuje cechę Przeciwpancerna i Odrzut
 
 <h2> Granaty </h2>
 
