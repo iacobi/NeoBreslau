@@ -42,7 +42,9 @@
 **Nanoboty** [Medycyna 4 albo Elektronika 4] : Raz podczas sesji możesz całkowicie zregenerować swoją żywotność, wyleczyć wszystkie rany, choroby i trucizny. Możesz zrobić to w dowolnym momencie.
 
 **Pancerz Wewnętrzny** [Siła 5] : Pancerz +1 ale jesteś ciężki i tracisz kostkę z każdego testu **Sprawności**. 
-
+>
+>**\*Aegis** [Elektronika 4] : Masz specjalnie przerobioną tarczę retrokinetyczną. Działa tylko z lekkim pancerzem, ale rzucasz dwoma kostkami zamiast jednej za każdym razem kiedyk ktoś Cię trafi.
+>
 **Smartlink** [Oprogramowanie albo Elektronika 3] : Możesz podłączać się do cybersprzętu (zazwyczaj daje +1 do umiejętności). Traktujemy też jako wbudowany komputer/telefon komórkowy, daje +1 do testów Oprogramowania.
 
 **Szybki** [Sprawność i Spostrzegawczość 4] : Przerzut do **Sprawności**, dodatkowa kostka do rzutu na inicajtywę (wybierasz lepszą) Moze zaplacic punkt SW, żeby dostać dodatkowy unik w rundzie (maksymalnie 1 dodatkowy), Możesz zapłacić punkty SW, żeby uniknąć broni palnej (jeśli wykonujesz dodatkowy unik i jednocześnie unikasz broni palnej, to łączny koszt jest równy 2). Musisz widzieć strzelca, żeby unikać broni palnej.
