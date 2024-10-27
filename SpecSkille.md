@@ -37,7 +37,7 @@
 >
 >**\*Duch Pustyni** [Kamuflaż 5] :Dwa przerzuty do kamuflażu i sztuki przetrwania na pustyni. Może wydać punkt SW, żeby zakopać się na pod piaskiem.
 >
-**MonoStruny** [Elektronika 3] : Superwytrzymała struna, może służyć do cięcia, obezwładniania albo jako prowizoryczna lina. Użyta w walce ma dwa przerzuty i zadaje zwykłe 4 kostki obrażeń. Jesli probujesz kogos obezwladnic albo rozbroic nie jestes traktowany jako nieuzbrojony i masz jeden przerzut do rzutu na trafienie. Struna jest również w stanie utrzymać Twój ciężar i obwiązać się wokół przedmiotów w odległości 8 metrów (ten zasieg da sie wykorzystac tylko poza walka, w walce efektywny zasieg struny nie rozni sie od np. katany) Nauka walki struna jest skomplikowana i postac uzywa nizszej ze swoich dwoch umiejetnosci **Walka Wręcz** / **Walka Bronia**.
+**MonoStruny** [Mechanika 3] : Superwytrzymała struna, może służyć do cięcia, obezwładniania albo jako prowizoryczna lina. Użyta w walce ma dwa przerzuty i zadaje zwykłe 4 kostki obrażeń. Jesli probujesz kogos obezwladnic albo rozbroic nie jestes traktowany jako nieuzbrojony i masz jeden przerzut do rzutu na trafienie. Walcząc strunami postać używa umiejęności **Walka Wręcz**. Struna jest również w stanie utrzymać Twój ciężar i obwiązać się wokół przedmiotów w odległości 10 metrów. Ten dodatkowy zasięg można wykorzystać tylko do wspianania się albo łapania przedmiotów w walce zasięg struny jest identyczny jak każdej innej broni białej.
 
 **Nanoboty** [Medycyna 4 albo Elektronika 4] : Raz podczas sesji możesz całkowicie zregenerować swoją żywotność, wyleczyć wszystkie rany, choroby i trucizny. Możesz zrobić to w dowolnym momencie.
 
