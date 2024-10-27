@@ -45,7 +45,7 @@
 >
 >**\*Aegis** [Elektronika 4] : Masz specjalnie przerobioną tarczę retrokinetyczną. Działa tylko z lekkim pancerzem, ale rzucasz dwoma kostkami zamiast jednej za każdym razem kiedyk ktoś Cię trafi.
 >
-**Smartlink** [Oprogramowanie albo Elektronika 3] : Możesz podłączać się do cybersprzętu (zazwyczaj daje +1 do umiejętności). Traktujemy też jako wbudowany komputer/telefon komórkowy, daje +1 do testów Oprogramowania.
+**Sprzęg** [Oprogramowanie albo Elektronika 3] : Możesz podłączać się do cybersprzętu (zazwyczaj daje +1 do umiejętności). Traktujemy też jako wbudowany komputer/telefon komórkowy, daje +1 do testów Oprogramowania.
 
 **Szybki** [Sprawność 4] : Przerzut do **Sprawności**, dodatkowa kostka do rzutu na inicajtywę (wybierasz lepszą) Moze zaplacic punkt SW, żeby dostać dodatkowy unik w rundzie (maksymalnie 1 dodatkowy), Możesz zapłacić punkty SW, żeby uniknąć broni palnej (jeśli wykonujesz dodatkowy unik i jednocześnie unikasz broni palnej, to łączny koszt jest równy 2). Musisz widzieć strzelca, żeby unikać broni palnej.
 
@@ -57,7 +57,7 @@
 >
 **Wielki** [ Siła 5] : Dodatkowa kostka obrażeń w Walce Wręcz/Walce Bronią. Ignorujesz Odrzut i Nieporęczność broni. 
 
-**Wirus**  [Oprogramowanie 5] : Placąc punkt SW i dotykając przez co najmniej minutę dowolnej osoby ze smartlinkiem możesz przejąć nad nią kontrolę. Musisz wygrać test swojej umiejętności **Oprogramowanie** kontra Wola celu. Kontrola ciała trwa do momentu świadomego wyłączenia albo utraty przytomności przez cel. Kontrolujący pozostaje wtedy w stanie letargu.
+**Wirus**  [Oprogramowanie 5] : Placąc punkt SW i dotykając przez co najmniej minutę dowolnej osoby ze sprzęgiem możesz przejąć nad nią kontrolę. Musisz wygrać test swojej umiejętności **Oprogramowanie** kontra Wola celu. Kontrola ciała trwa do momentu świadomego wyłączenia albo utraty przytomności przez cel. Kontrolujący pozostaje wtedy w stanie letargu.
 
 **Zen** [ - ] : Postać na początku sesji dostaje trzy punkty SW więcej niż normalnie.
 
