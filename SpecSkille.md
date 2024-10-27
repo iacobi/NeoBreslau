@@ -8,7 +8,8 @@
 <h2>Zdolności</h2>
 
 **Chirurg** [Medycyna 3] : Przerzut do **Medycyny**. Jakiekolwiek leczenie wykonane przez tą postać przywraca jeden Punkt Żywotności więcej niż normalnie. Masz tak pewną rękę, że kiedy atakujesz kogoś skalpelem, nożem, albo podobnym jednoręcznym ostrzem możesz zapłacić punkt SW, żeby całkowicie zignorwać jego pancerz.
-**Cwaniak** [Charakter albo Intuicja 4] : Przerzut do **Charakteru**, **Kradzieży** i **Inituicji**. Mozesz zaplacic punkt SW, zeby zalatwiac przyslugi albo towary na miescie
+
+**Cwaniak** [Charakter 4] : Masz cięty język i zwinne palce. Przerzut do **Charakteru** i **Kradzieży**. Postać potrafi chować i wyciągać nóż albo kompaktowy pistolet tak szybko i sprawnie, że traktujemy, go jakby zawsze były w dłoni postaci, nawet, jeśli normalnie przenosi je gdzieś pod ubraniem. 
 >
 >**\*Groźny** [Charakter 4] : Przerzut do **Charakteru**. Mozesz zaplacic punkt SW, zeby wybrana postac spadla w kolejce inicjatywy za Ciebie. Jesli postac ma Wole wyzsza niz **Charakter** postaci, kosztuje to dwa SW.
 >
