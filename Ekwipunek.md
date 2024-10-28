@@ -109,7 +109,7 @@ Postać na raz może używać tylko jednego typu ekwipunku specjalnego.
 
 <h2>ElektroMaskałat</h2>
 
-Maskuje ślad termiczny i elektromagnetyczny postaci. Dodatkowo jeśli postać pozostaje bez ruchu przybiera wygląd otoczenia i postać dostaje modyfikator +1 do umiejętności **Kamuflaż**.
+Maskuje ślad termiczny i elektromagnetyczny postaci. Przerzut do testów **Kamuflażu**.
 
 <h2>Tarcza Retrokinetyczna</h2>
 
