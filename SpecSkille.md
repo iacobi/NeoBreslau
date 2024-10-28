@@ -43,7 +43,7 @@
 
 **Pancerz Wewnętrzny** [Siła 5] : Pancerz +1 ale jesteś ciężki i tracisz kostkę z każdego testu **Sprawności**. 
 >
->**\*Aegis** [Elektronika 4] : Masz specjalnie przerobioną tarczę retrokinetyczną. Działa tylko z lekkim pancerzem, ale rzucasz dwoma kostkami zamiast jednej za każdym razem kiedyk ktoś Cię trafi.
+>**\*Aegis** [Elektronika 4] : Jeśli używasz tarczy retrokinetycznej i przepaliła się wskutek otrzymania obrażeń raz podczas sesji możesz uznać, że to nierpawda, tarcza wyłączyłą się na ułamek sekundy i zaczęła działać ponownie.
 >
 **Sprzęg** [Oprogramowanie albo Elektronika 3] : Możesz podłączać się do cybersprzętu (zazwyczaj daje +1 do umiejętności). Traktujemy też jako wbudowany komputer/telefon komórkowy, daje +1 do testów Oprogramowania.
 
