@@ -13,6 +13,8 @@
 >
 >**\*Groźny** [Charakter 4] : Przerzut do **Charakteru**. Mozesz zaplacic punkt SW, zeby wybrana postac spadla w kolejce inicjatywy za Ciebie. Jesli postac ma Wole wyzsza niz **Charakter** postaci, kosztuje to dwa SW.
 >
+>**\*Aktor** [Charakter 4] : Przerzut do **Charakteru** i **Intuicji**. Mozesz zaplacic punkt SW, żeby zmienić wygląd swojej postaci.
+>
 **CyberOstrza** [Siła 4] : w organiźmie postaci ukryte są ostrze/ostrza. Mechanicznie traktujemy je jak katanę (dwuręczna, dwa przerzuty, cztery silne kostki obrażeń). Postać nie traci też żadnej akcji na wyciągnięcie ostrza. Za kazdy punkt siły powyzej przecietnego w organizmie postaci ukryte jest dodatkowe ostrze, ktorym moze wystrzelic jak bronia palna (zwykle 4 kostki obrazen).
 
 **CyberNogi** [Sprawność i Siła 4] : Możesz skakać wzwyż na Siła w metrach, w dal na 2x Siła i spadać bezpiecznie z 5 x Siła metrów.
@@ -23,17 +25,15 @@
 >
  **Droniarz** [Pilotaż 3] : Przerzut do testów **Pilotażu** i **Prowadzenia Pojazdów** kiedy postać steruje dronami. Jesteś tak dobry w obsłudze dron, że nie poświęcasz tury, żeby sterować nią w walce. Efektywnie postać wykonuje w swojej inicjatywie dwie tury. Jedną dla siebie i jedną dla swojego drona.
 
-**Fantom:** [Kamuflaż 4] Nawet ludzie, którzy znają Cię od lat czasem wątpią czy istniejesz naprawdę. Ukrywanie się i zacieranie śladów to Twoja druga natura, nie zostawiasz odcisków palców, unikasz kamer i rozpływasz w tłumie. Wydając punkt SW postać jest w stanie zmienić swoj fizyczny wygląd, w szczegolnosci rysy twarzy. Nie zmieni swojej masy, ale może udawac postać niższa lub wyższa o 10% albo chudsza albo grubsza.
-
 **Haker** [Oprogramowanie 5] : Przerzut do **Oprogramowania**. Możesz używać scramblerów, żeby zdalnie włamywać się podłączonych do sieci sprzętów domowych, telefonów i samochodów w zasięgu działani scramblera. Postać zyskuje wtedy pełną kontrolę nad urządzeniem. PT od 2 dla przejęcia kontroli nad czyimś telefonem, PT 3 dla samochodu, PT 4 dla pojazdu rządowego, PT 5-6 dla sprzętu wojskowego.
 
 **Kensei**: [Walka Bronią 5] : Masz swoje wybrane ulubione ostrze, kiedy go używasz poziom umiejętności **Walka Bronia** jest wyższy o jeden. Postać wyciąga to ostrze tak szybko i sprawnie, że są traktowane jakby zawsze były w dłoni postaci.
 >
 >**\*Mistrz** [Walka Wręcz 5] : Przerzut do **Walki Wręcz**. Niezależnie od tego co robiłeś w turze walki masz jeden darmowy atak, pod warunkiem, że używasz w nim **Walki Wręcz** jako umiejętności odpowiedzialnej za trafienie. Postać nie traci kostki jeśli atakuje nieuzbrojona uzbrojonego przeciwnika.
 >
-**Łowca** [Kamuflaż 5] : Masz jeden przerzut do każdego testu **Sztuki Przetrwania** i **Kamuflażu**. Dwa przerzuty do **Kamuflażu** jeśli masz czas i środki na zrobienie stroju kamuflującego. Masz jeden przerzut podczas strzałów mierzonych.
+**Łowca** [Kamuflaż 5] : Masz jeden przerzut do każdego testu **Sztuki Przetrwania** i **Kamuflażu**. Jeden przerzut podczas strzałów mierzonych.
 >
->**\*Nocny Łowca** [Kamuflaż 5] :Dwa przerzuty do kamuflażu w nocy, widzisz w ciemnościach bez pomocy elektroniki.
+>**\*Fantom** [Kamuflaż 5] : Nawet ludzie, którzy znają Cię od lat czasem wątpią czy istniejesz naprawdę. Ukrywanie się i zacieranie śladów to Twoja druga natura, nie zostawiasz odcisków palców, unikasz kamer i rozpływasz w tłumie. Masz jeden przerzut do testów **Kamuflażu**. Dwa przerzuty jeśli próbujesz wtopić się w tłum. Nie możesz mieć widocznej broni i pancerza jeśli próbujesz wtopić się w tłum przechodniów w mieście albo ludzi w nocnym klubie.
 >
 >**\*Duch Pustyni** [Kamuflaż 5] :Dwa przerzuty do kamuflażu i sztuki przetrwania na pustyni. Może wydać punkt SW, żeby zakopać się na pod piaskiem.
 >
