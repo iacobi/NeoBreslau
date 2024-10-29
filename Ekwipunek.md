@@ -59,7 +59,7 @@
 
 **\*Dubeltówka:** jeśli wystrzeli z obu rur podczas jednego ataku, zadaje kostke obrażeń więcej i ma jeden przerzut do ataku (tylko na trafienie)
 
-**\*\*Karabiny Maszynowe:** Karabiny Maszynowe nie dostają +1 za zainstalwoanie optyki. **Ogień Ciągły** zużywa 20 pocisków zamiast 15 ale dostają jeden przerzut na każdy atak w ogniu ciągłym. Mogą wykonać **Ogień Zaporowy**. Jeśli przeciwnik wykonał dowolną akcje w której rzucał kostkami, postać może zadeklarować ogien zaporowy i przerwać tą akcje, jeśli wyrzuci więcej sukcesów w teście trafienia niż przeciwnik w swojej akcji. Obie postacie tracą wtedy tą turę. Postać wykonująca Ogień Zaporowy zużywa 20 pocisków.
+**\*\*Karabiny Maszynowe:** KKarabiny maszynowe nie otrzymują +1 za zainstalowanie optyki. **Ogień Ciągły** zużywa 20 pocisków zamiast 15, ale broń ta otrzymuje jeden przerzut na każdy atak w ogniu ciągłym. Mogą wykonać **Ogień Zaporowy**. Jeśli przeciwnik wykona dowolną akcję, w której rzucał kostkami, postać może zadeklarować ogień zaporowy i przerwać tę akcję, jeśli uzyska więcej sukcesów w teście trafienia niż przeciwnik w swojej akcji. Obie postacie tracą wtedy tę turę. Postać wykonująca Ogień Zaporowy zużywa 20 pocisków.
 
 <h2>Modyfikacje Broni</h2>
 
@@ -99,7 +99,7 @@ Postać może przyjąć na sesji tyle dawek chemii bojowej bojowych ile wynosi j
 
 **Lux** : Odzyskujesz dwa punkty SW. Nie można przekroczyć maksymalnego poziomu Żywotności.
 
-**Wendigo(PCP)**: Podnosi próg bólu o punkt, postać może działać nawet jeśli ma równo zero Żywotnośći.
+**Wendigo(PCP)**: Podnosi próg bólu o punkt.
 
 **Blitz(Speed)**: Rzucasz dodatkową kostkę na Inicjatywę.
 
@@ -109,11 +109,12 @@ Postać na raz może używać tylko jednego typu ekwipunku specjalnego.
 
 <h2>ElektroMaskałat</h2>
 
-Maskuje ślad termiczny i elektromagnetyczny postaci. Przerzut do testów **Kamuflażu**.
+Przerzut do testów **Kamuflażu**. Maskuje ślad termiczny i elektromagnetyczny postaci.
 
 <h2>Tarcza Retrokinetyczna</h2>
 
 Za każdym razem kiedy postać otrzyma obrażenia od broni palnej rzuca k10. "0" traktujemy jak 10. Jeśli wyrzuciłeś więcej niż obrażenia - tarcza ochroniła Cię przed obrażeniami. W przeciwnym wypadku tarcza również obroniła Cię przed obrażeniami ale przepaliła się i przestała działać. Tarcza chroni przed granatami i dronami-kamikadze ale ich wybuch zawsze przepala tarcze - nie ma potrzeby rzucać k10.
+
 <h2> Drony </h2>
 
 Drony są w pewnym stopniu autonomiczne i mogą podążać za użytkownikiem. W walce postać musi wybrać czy wykonuje swoją turę jako swoja postać czy jako dron. Jeśli drony pozwalają na kontry to działają według normalnych zasad, czyli cała tura jest przeznaczona na kontrę. Postać na raz może mieć aktywny tylko jeden typ drona.
