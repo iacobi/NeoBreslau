@@ -26,10 +26,10 @@
 |Broń Krótka|Obrażenia|Magazynek|Ładowanie|Cechy|Cena|
 |--|:--:|:--:|--|--|--:|
 | **Pistolet 9mm**  |zwykłe&nbsp;3&nbsp;kostki| 15 | pół tury | Krótka Seria, Ogień Ciągły| 1000 kred.|
-| **Pistolet 10mm**  |silne&nbsp;3&nbsp;kostki| 12 | pół tury | Krótka Seria| 2000 kred.|
-| **.38 Magnus**  |slabe&nbsp;4&nbsp;kostki| 8 | cała tura | Krótka Seria| 1000 kred.|
-| **.44 Magnus** |zwykłe&nbsp;4&nbsp;kostki| 6 | cała tura | - | 2000 kred.|
-| **.454 Spatha** |silne&nbsp;4&nbsp;kostki| 6 | cała tura | Odrzut | 2000 kred.|
+| **Pistolet 10mm**  |słabe&nbsp;4&nbsp;kostki| 12 | pół tury | Krótka Seria| 3000 kred.|
+| **.38 Magnum**  |silne&nbsp;3&nbsp;kostki| 6 | cała tura | Krótka Seria| 2000 kred.|
+| **.44 Magnum** |zwykłe&nbsp;4&nbsp;kostki| 6 | cała tura | - | 2000 kred.|
+| **.454 Casull** |silne&nbsp;4&nbsp;kostki| 6 | cała tura | Odrzut | 3000 kred.|
 
 |Broń Długa|Obrażenia|Magazynek|Ładowanie|Cechy|Cena|
 |--|:--:|:--:|--|--|--:|
