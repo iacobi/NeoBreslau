@@ -1,15 +1,38 @@
-Hanza
 
-<img src="images/hansa.jpg" alt="Logo" width="200">
 
-<img src="images/pilot.jpg" alt="Logo" width="200">
+<div align="center">
+<img src="images/hansa.jpg" alt="Logo" width="400">
+  <div>
+    <h2>Hanza</h2>
+  </div>
+  </div>
+  Opis
 
-<img src="images/vet.jpg" alt="Logo" width="200">
+<div align="center">
+<img src="images/cybrog.png" alt="Logo" width="400">
+    <div>
+    <h2>Katedra</h2>
+  </div>
+</div>
+Muszą zacząć z wykupionym Sprzęgiem
 
-<img src="images/cybrog.jpg" alt="Logo" width="200">
+<div align="center">
+<img src="images/pilot.jpg" alt="Logo" width="400">
+  <img src="images/pilot.jpg" alt="Logo" width="400">
 
-Katedra
+  <div>
+    <h2>Dzieci Gagarina</h2>
+  </div>
+</div>
 
-Dom Wilka
 
-Dzieci Gagarina
+<div align="center">
+<img src="images/vet.jpg" alt="Logo" width="400">
+    <div>
+    <h2>Wolne Kompanie</h2>
+  </div>
+</div>
+Musisz wydać co najmniej połowę dostępnych punktów wolnych na umiejętności związane z walką albo sprawnością fizyczną
+
+
+
