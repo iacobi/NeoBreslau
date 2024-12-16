@@ -1,6 +1,20 @@
 
 <h1>Tworzenie Postaci</h1>
 
+<h2>Pochodzenie</h2>
+
+**Na razie nie używamy pochodzenia**
+
+**Dzieci Gagarina**: Wykupiony Pilotaż
+
+**Hanza**: Charakter +1, Intuicja +1
+
+**Katedra**: Transhumaniści, którzy wierzą, że przyszłość ludzkości leży w zespoleniu z maszyną. Muszą wybrać **Sprzęg**. Elektronika +1, Informatyka +1
+
+**Weteran**:
+
+<h2>Tworzenie Postaci</h2>
+
 **Osiem punktów** do rozdania na **umiejętności** - maksymalnie do czwartej kropki.
 
 **Trzy wybrane zdolności**. Podczas Tworzenia postaci nie trzeba spełniać wymagań podanych w nawiasach kwadratowych. Niektóre zdolności mają alternatywne wersje oznaczone *, postać może mieć tylko jedną wersje takiej zdolności.
@@ -45,6 +59,8 @@
 >
 >**\*Aegis** [Elektronika 4] : Jeśli używasz tarczy retrokinetycznej i przepaliła się wskutek otrzymania obrażeń raz podczas sesji możesz uznać, że to nieprawda, tarcza wyłączyła się na ułamek sekundy i zaczęła działać ponownie.
 >
+**Repozytorium** [ - ] : Postać ma wgrane gigantyczne biblioteki wiedzy. Jeśli chce zamiast używać swojego normalnego poziomu umiejętności może użyć repozytorium, umiejętność jest wtedy równa 4. Repozytorium nie działa na umiejętnośc podstawowe.
+
 **Sprzęg** [Oprogramowanie albo Elektronika 3] : Możesz podłączać się do cybersprzętu (zazwyczaj daje +1 do umiejętności). Traktujemy też jako wbudowany komputer/telefon komórkowy, daje +1 do testów Oprogramowania.
 
 **Szybki** [Sprawność 4] : Przerzut do **Sprawności**, dodatkowa kostka do rzutu na inicajatywę (wybierasz lepszą) Moze zaplacic punkt SW, żeby dostać dodatkowy unik w rundzie (maksymalnie 1 dodatkowy), Możesz zapłacić punkty SW, żeby uniknąć broni palnej (jeśli wykonujesz dodatkowy unik i jednocześnie unikasz broni palnej, to łączny koszt jest równy 2). Musisz widzieć strzelca, żeby unikać broni palnej.
