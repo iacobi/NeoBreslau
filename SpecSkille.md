@@ -41,7 +41,7 @@
 >
 >**\*Aegis** [Elektronika 4] : Jeśli używasz tarczy retrokinetycznej i przepaliła się wskutek otrzymania obrażeń raz podczas sesji możesz uznać, że to nieprawda, tarcza wyłączyła się na ułamek sekundy i zaczęła działać ponownie.
 >
-**Repozytorium** [ - ] : Postać ma wgrane gigantyczne biblioteki wiedzy. Jeśli chce zamiast używać swojego normalnego poziomu umiejętności może użyć repozytorium, umiejętność jest wtedy równa 4. Repozytorium nie działa na umiejętnośc podstawowe.
+**Repozytorium** [ - ] : Postać ma wgrane gigantyczne biblioteki wiedzy. Jeśli chce zamiast używać swojego normalnego poziomu umiejętności może użyć repozytorium, umiejętność jest wtedy równa 4. Repozytorium nie działa na czysto fizyczne aktywności - jak np. test Siły albo Walki Wręcz.
 
 **Snajper** [Kamuflaż 4 i Broń Długa 4] : Masz jeden przerzut do każdego testu **Kamuflażu**. Jeden przerzut podczas strzałów mierzonych. Jeśli jesteś w terenie możesz wydać punkt SW i poświęcić godzinę, żeby stworzyć improwizowany strój maskujący (dodatkowy przezut do **Kamuflażu**).
 
