@@ -30,3 +30,16 @@ Musisz wydać co najmniej połowę dostępnych punktów wolnych na umiejętnośc
 
 
 
+~~<h2>Pochodzenie [in progress] </h2>~~
+
+~~**Na razie nie używamy pochodzenia**~~
+
+~~**Dzieci Gagarina**: Wykupiony Pilotaż~~
+
+~~**Hanza**: Charakter +1, Intuicja +1~~
+
+~~**Katedra**: Transhumaniści, którzy wierzą, że przyszłość ludzkości leży w zespoleniu z maszyną. Muszą wybrać **Sprzęg**. Elektronika +1, Informatyka +1~~
+
+~~*Weteran**:~~
+
+~~<h2>Tworzenie Postaci</h2>~~
