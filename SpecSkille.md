@@ -9,9 +9,9 @@
 
 **Chirurg** : Przerzut do **Medycyny**. Jakiekolwiek leczenie wykonane przez tą postać przywraca jeden Punkt Żywotności więcej niż normalnie.
 
-**Cwaniak** : Masz cięty język i zwinne palce. Przerzut do **Charakteru** i **Kradzieży**. Postać potrafi chować i wyciągać nóż albo kompaktowy pistolet tak szybko i sprawnie, że traktujemy, go jakby zawsze były w dłoni postaci, nawet, jeśli normalnie przenosi je gdzieś pod ubraniem. 
+**Cwaniak** : Masz cięty język i zwinne palce. Przerzut do **Charakteru** i **Kradzieży**. Postać potrafi chować i wyciągać nóż albo pistolet tak szybko i sprawnie, że traktujemy, go jakby zawsze były w dłoni postaci, nawet, jeśli normalnie przenosi je gdzieś pod ubraniem. 
 >
->**\*Groźny** : Przerzut do **Charakteru**. Możesz zapłacić punkt SW, żeby wybrana postać spadła w kolejce inicjatywy za Ciebie. Jeśli postac ma Wole wyższą niż **Charakter** postaci, kosztuje to dwa SW.
+>**\*??Złodziej** : Dwa przerzuty do **Kradzieży**. Możesz używać umiejętności **Kradzież** podczas testów otwierania zamków zamiast Mechaniki albo Eletkroniki. Postać potrafi chować i wyciągać nóż albo pistolet tak szybko i sprawnie, że traktujemy, go jakby zawsze były w dłoni postaci, nawet, jeśli normalnie przenosi je gdzieś pod ubraniem. 
 >
 **CyberOstrza** : w organizmie postaci ukryte są ostrze/ostrza. Mechanicznie traktujemy je jak katanę (dwuręczna, dwa przerzuty, cztery silne kostki obrażeń). Postać nie traci też żadnej akcji na wyciągnięcie ostrza. Za każdy punkt siły powyżej przeciętnego, w organizmie postaci ukryte jest dodatkowe ostrze, którym może wystrzelić jak bronią palną (zwykle 4 kostki obrażeń).
 
@@ -19,8 +19,14 @@
 
  **Cyngiel** : Wyciągnięcie pistoletu z kabury nie zajmuje akcji. Strzelasz z lewej ręki tak samo sprawnie jak z prawej. Możesz wykonać trzy szybkie strzały w rundzie używając 4 kostek w rzucie na trafienie. Jeśli zepniesz ze sobą dwa magazynki możesz zmieniać je tak szybko, że nie tracisz na to akcji - efektywnie pistolety maszynowe, i karabiny mają podwojoną pojemność magazynka.
 
+**??Czujny** : Przerzut do **Intuicji** oraz **Spostrzegawczości**. Postać ma oczy i uszy dookoła głowy. Nawet skupiona na dowolnej czynności albo podczas snu wszystkie testy spostrzegawczości i intuicji wykonuje pełną pulą kostek.
+
  **Droniarz** : Przerzut do testów **Pilotażu** i **Prowadzenia Pojazdów** kiedy postać steruje dronami. Jesteś tak dobry w obsłudze dron, że nie poświęcasz tury, żeby sterować nią w walce. Efektywnie postać wykonuje w swojej inicjatywie dwie tury. Jedną dla siebie i jedną dla swojego drona.
 
+**??Empata** : Przerzut do **Charakteru** i **Intuicji**. Możesz dawać innym ludziom swoje punkty SW
+>
+>**\*??Groźny** : Przerzut do **Charakteru**. Możesz zapłacić punkt SW, żeby wybrana postać spadła w kolejce inicjatywy za Ciebie. Jeśli postac ma Wole wyższą niż **Charakter** postaci, kosztuje to dwa SW.
+>
 **Fantom** : Nawet ludzie, którzy znają Cię od lat czasem wątpią czy istniejesz naprawdę. Ukrywanie się i zacieranie śladów to Twoja druga natura, nie zostawiasz odcisków palców, unikasz kamer i rozpływasz w tłumie. Jeśli ukrywasz się w grupie ludzi (na ulicy, w klubie itp.) i nie masz żadnej widocznej broni ani pancerza otrzymujesz przerzut do **Kamuflażu**. Możesz zapłacić punkt SW, żeby zmienić wygląd swojej postaci - musisz mieć narzędzie do tworzenia realistycznych masek.
 
 **Farciarz** : Możesz powtórzyć trzy dowolne rzuty na sesji.
