@@ -1,45 +1,54 @@
-<h1>Frakcje</h1>
-
-<div align="center">
-<div><h2>Hanza</h2></div>
-<img src="images/hansa.jpg" alt="Hanza" width="600">
-</div>
-Opis
-<hr>
-
-<div align="center">
-<div><h2>Katedra</h2></div>
-<img src="images/cyborg.png" alt="cyborg" width="600">
-</div>
-Muszą zacząć z wykupionym Sprzęgiem
-<hr>
-
-<div align="center">
-<div><h2>Dzieci Gagarina</h2></div>
-<img src="images/pilot2.jpg" alt="Pilot" width="600">
-</div>
-Opis
-<hr>
-
-<div align="center">
-<div><h2>Wolne Kompanie</h2></div>
-<img src="images/vet.jpg" alt="wojsko" width="600">
-</div>
-Musisz wydać co najmniej połowę dostępnych punktów wolnych na umiejętności związane z walką albo sprawnością fizyczną
-<hr>
+<h1>Tło</h1>
 
 
+<h3>Weteran</h3>
 
-~~<h2>Pochodzenie [in progress] </h2>~~
+**Opis** : Był wojskowy
 
-~~**Na razie nie używamy pochodzenia**~~
+**Umiejętności** : Broń Palna Krótka, Broń Palna Długa, Wytrzymałość
 
-~~**Dzieci Gagarina**: Wykupiony Pilotaż~~
+**Specjalne** : Twardziel
 
-~~**Hanza**: Charakter +1, Intuicja +1~~
+**Ekwipunek** : Lekki albo Średni pancerz
 
-~~**Katedra**: Transhumaniści, którzy wierzą, że przyszłość ludzkości leży w zespoleniu z maszyną. Muszą wybrać **Sprzęg**. Elektronika +1, Informatyka +1~~
+<h3>Katedra</h3>
 
-~~*Weteran**:~~
+**Opis** : Transhumaniści
 
-~~<h2>Tworzenie Postaci</h2>~~
+**Umiejętności** : Mechanika, Elektronika, Oprogramowanie
+
+**Specjalne** : Sprzęg
+
+**Ekwipunek** : ???
+
+<h3>Hanza</h3>
+
+**Opis** : ...
+
+**Umiejętności** : Nawigacja, Charakter, Intuicja
+
+**Specjalne** : ???
+
+**Ekwipunek** : ???
+
+<h3>Dzieci Gagarina</h3>
+
+**Opis** : belterzy
+
+**Umiejętności** : Nawigacja, Pilotaż, Mechanika
+
+**Specjalne** : Ścigacz
+
+**Ekwipunek** : ???
+
+<h3>Android/h3>
+
+**Opis** : ???
+
+**Umiejętności** : Siła, Sprawność, Wytrzymałość
+
+**Specjalne** : Syntetyk
+
+**Ekwipunek** : ???
+
+
