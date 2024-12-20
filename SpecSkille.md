@@ -31,19 +31,21 @@
 
 **Kensei** : Masz swoje wybrane ulubione ostrze, kiedy go używasz poziom umiejętności **Walka Bronia** jest wyższy o jeden. Postać wyciąga to ostrze tak szybko i sprawnie, że są traktowane jakby zawsze były w dłoni postaci.
 
-**Pięściarz** : Przerzut do **Walki Wręcz**. Niezależnie od tego co robiłeś w turze walki masz jeden darmowy szybki atak, pod warunkiem, że używasz w nim **Walki Wręcz** jako umiejętności odpowiedzialnej za trafienie. Postać nie traci kostki jeśli atakuje nieuzbrojona uzbrojonego przeciwnika.
+**Misja** : Ilość punktów Siły Woli jest większa o trzy niż normalnie.
 
 **MonoStruny** : Superwytrzymała struna może służyć do cięcia, obezwładniania albo jako prowizoryczna lina. Użyta w walce, ma dwa przerzuty i zadaje zwykłe 4 kostki obrażeń. Jeśli próbujesz kogoś obezwładnić albo rozbroić, nie jesteś traktowany jako nieuzbrojony i masz jeden przerzut do rzutu na trafienie. Walcząc strunami, postać używa umiejętności **Walka Wręcz**. Struna jest również w stanie utrzymać Twój ciężar i obwiązać się wokół przedmiotów w odległości 10 metrów. Ten dodatkowy zasięg można wykorzystać tylko do wspianania się albo łapania przedmiotów w walce zasięg struny jest identyczny jak każdej innej broni białej.
 
 **Nanoboty** : Raz podczas sesji możesz całkowicie zregenerować swoją żywotność, wyleczyć wszystkie rany, choroby i trucizny. Możesz zrobić to w dowolnym momencie.
 
-**??Mechanizacja** : Przerzut do każdego testu **Wytrzymałości**. Postać otrzymuje jeden punkt obrażeń mniej niż wynika to z normalnych zasad, a potrzeba snu jest zmniejszona o połowę. Chemia Bojowa przestaje działać na postać (wliczając w to TraumaPack).
-
 **Repozytorium** : Postać ma wgrane gigantyczne biblioteki wiedzy. Jeśli chce zamiast używać swojego normalnego poziomu umiejętności może użyć repozytorium, umiejętność jest wtedy równa 4. Repozytorium nie działa na czysto fizyczne aktywności - jak np. test Siły albo Walki Wręcz.
+
+**Silnoręki** : Przerzut do **Walki Wręcz**. Niezależnie od tego co robiłeś w turze walki masz jeden darmowy szybki atak, pod warunkiem, że używasz w nim **Walki Wręcz** jako umiejętności odpowiedzialnej za trafienie. Postać nie traci kostki jeśli atakuje nieuzbrojona uzbrojonego przeciwnika.
 
 **Snajper** : Masz jeden przerzut do każdego testu **Kamuflażu**. Jeden przerzut podczas strzałów mierzonych. Jeśli jesteś w terenie możesz wydać punkt SW i poświęcić godzinę, żeby stworzyć improwizowany strój maskujący (dodatkowy przezut do **Kamuflażu**).
 
 **Sprzęg** : Możesz podłączać się do cybersprzętu (zazwyczaj daje +1 do umiejętności). Traktujemy też jako wbudowany komputer/telefon komórkowy, daje +1 do testów Oprogramowania.
+
+**Syntetyk** : Przerzut do każdego testu **Wytrzymałości**. Postać otrzymuje jeden punkt obrażeń mniej niż wynika to z normalnych zasad, a potrzeba snu jest zmniejszona o połowę. Chemia Bojowa przestaje działać na postać (wliczając w to TraumaPack).
 
 **Szybki** : Przerzut do **Sprawności**, dodatkowa kostka do rzutu na inicajatywę (wybierasz lepszą) Moze zaplacic punkt SW, żeby dostać dodatkowy unik w rundzie (maksymalnie 1 dodatkowy), Możesz zapłacić punkty SW, żeby uniknąć broni palnej (jeśli wykonujesz dodatkowy unik i jednocześnie unikasz broni palnej, to łączny koszt jest równy 2). Musisz widzieć strzelca, żeby unikać broni palnej.
 
@@ -56,5 +58,3 @@
 **Wielki** : Dodatkowa kostka obrażeń w Walce Wręcz/Walce Bronią. Ignorujesz Odrzut i Nieporęczność broni. 
 
 **Wirus** : Płacąc punkt SW i dotykając przez co najmniej minutę dowolnej osoby ze sprzęgiem możesz przejąć nad nią kontrolę. Musisz wygrać test swojej umiejętności **Oprogramowanie** kontra Wola celu. Kontrola ciała trwa do momentu świadomego wyłączenia albo utraty przytomności przez cel. Kontrolujący pozostaje wtedy w stanie letargu.
-
-**Zabijaka** : Przerzut do **Walki Wręcz**. Niezależnie od tego co robiłeś w turze walki masz jeden darmowy szybki atak, pod warunkiem, że używasz w nim **Walki Wręcz** jako umiejętności odpowiedzialnej za trafienie. Postać nie traci kostki jeśli atakuje nieuzbrojona uzbrojonego przeciwnika.
