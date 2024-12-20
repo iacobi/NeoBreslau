@@ -21,6 +21,8 @@
 
 **??Czujny** : Przerzut do **Intuicji** oraz **Spostrzegawczości**. Postać ma oczy i uszy dookoła głowy. Nawet skupiona na dowolnej czynności albo podczas snu wszystkie testy spostrzegawczości i intuicji wykonuje pełną pulą kostek.
 
+**??Dopalacze** : Przerzut do testów **Pilotażu**, **Pilotażu Kosmos** i **Prowadzenia Pojazdów** kiedy postać jest w pojeździe.
+
  **Droniarz** : Przerzut do testów **Pilotażu** i **Prowadzenia Pojazdów** kiedy postać steruje dronami. Jesteś tak dobry w obsłudze dron, że nie poświęcasz tury, żeby sterować nią w walce. Efektywnie postać wykonuje w swojej inicjatywie dwie tury. Jedną dla siebie i jedną dla swojego drona.
 
 **??Empata** : Przerzut do **Charakteru** i **Intuicji**. Możesz dawać innym ludziom swoje punkty SW
@@ -54,8 +56,6 @@
 **??Syntetyk** : Przerzut do każdego testu **Wytrzymałości**. Postać otrzymuje jeden punkt obrażeń mniej niż wynika to z normalnych zasad, a potrzeba snu jest zmniejszona o połowę. Postać przestaje być podatna na chemię (pozytwną i negatywną, wliczając w to TraumaPack)
 
 **Szybki** : Przerzut do **Sprawności**, dodatkowa kostka do rzutu na inicajatywę (wybierasz lepszą) Moze zaplacic punkt SW, żeby dostać dodatkowy unik w rundzie (maksymalnie 1 dodatkowy), Możesz zapłacić punkty SW, żeby uniknąć broni palnej (jeśli wykonujesz dodatkowy unik i jednocześnie unikasz broni palnej, to łączny koszt jest równy 2). Musisz widzieć strzelca, żeby unikać broni palnej.
-
-**Ścigacz** : Przerzut do testów **Pilotażu** i **Prowadzenia Pojazdów** kiedy postać jest w pojeździe.
 
 **Technik** : Przerzut do **Elektroniki** i **Mechaniki**.
 
