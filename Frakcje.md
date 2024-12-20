@@ -41,7 +41,7 @@
 
 **Ekwipunek** : ???
 
-<h3>Android/h3>
+<h3>Android</h3>
 
 **Opis** : ???
 
