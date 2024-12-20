@@ -35,7 +35,7 @@
 
 **Opis** : belterzy
 
-**Umiejętności** : Nawigacja, Pilotaż, Mechanika
+**Umiejętności** : Nawigacja, Pilotaż Kosmos, Mechanika
 
 **Specjalne** : Ścigacz
 
@@ -51,4 +51,12 @@
 
 **Ekwipunek** : ???
 
+<h3>Szpieg</h3>
 
+**Opis** : ???
+
+**Umiejętności** : Intuicja, Kamuflaż, Oprogramowanie
+
+**Specjalne** : Fantom
+
+**Ekwipunek** : ???
