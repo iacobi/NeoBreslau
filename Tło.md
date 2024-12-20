@@ -1,4 +1,31 @@
-<h1>Tło</h1>
+<h1>Pochodzenie</h1>
+
+<h3>Slumsy</h3>
+
+**Opis** : ...
+
+**Umiejętności** : Broń Palna Krótka, Broń Palna Długa, Wytrzymałość
+
+**Specjalne** : Cwaniak
+
+<h3>NoLife</h3>
+
+**Opis** : ...
+
+**Umiejętności** : Oprogramowanie, Elektronika, ???
+
+**Specjalne** : Sprzęg
+
+<h3>Wasteland</h3>
+
+**Opis** : ...
+
+**Umiejętności** : Szuka Przetrwania, Prowadzenie Pojazdów, Wytrzymałość
+
+**Specjalne** : Inżynieria Polowa
+
+
+<h1>Kariera</h1>
 
 
 <h3>Weteran</h3>
