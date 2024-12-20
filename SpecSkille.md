@@ -18,9 +18,7 @@
 **CyberNogi** : Możesz skakać wzwyż na 1x Siła metrów, w dal na 2x Siła metrów i spadać bezpiecznie z 5 x Siła metrów.
 
  **Cyngiel** : Wyciągnięcie pistoletu z kabury nie zajmuje akcji. Strzelasz z lewej ręki tak samo sprawnie jak z prawej. Możesz wykonać trzy szybkie strzały w rundzie używając 4 kostek w rzucie na trafienie. Jeśli zepniesz ze sobą dwa magazynki możesz zmieniać je tak szybko, że nie tracisz na to akcji - efektywnie pistolety maszynowe, i karabiny mają podwojoną pojemność magazynka.
->
->**\*Kowboj** : Wyciągnięcie rewolweru z kabury nie zajmuje akcji. Strzelasz z lewej ręki tak samo sprawnie jak z prawej. Jeśli używasz pozbawionych optyki rewolwerów albo strzelb możesz zapłacić jeden punkt SW przed rzutem na obrażenia, żeby dostać dodatkową kostkę do rzutu.
->
+
  **Droniarz** : Przerzut do testów **Pilotażu** i **Prowadzenia Pojazdów** kiedy postać steruje dronami. Jesteś tak dobry w obsłudze dron, że nie poświęcasz tury, żeby sterować nią w walce. Efektywnie postać wykonuje w swojej inicjatywie dwie tury. Jedną dla siebie i jedną dla swojego drona.
 
 **Fantom** : Nawet ludzie, którzy znają Cię od lat czasem wątpią czy istniejesz naprawdę. Ukrywanie się i zacieranie śladów to Twoja druga natura, nie zostawiasz odcisków palców, unikasz kamer i rozpływasz w tłumie. Jeśli ukrywasz się w grupie ludzi (na ulicy, w klubie itp.) i nie masz żadnej widocznej broni ani pancerza otrzymujesz przerzut do **Kamuflażu**. Możesz zapłacić punkt SW, żeby zmienić wygląd swojej postaci - musisz mieć narzędzie do tworzenia realistycznych masek.
@@ -39,10 +37,8 @@
 
 **Nanoboty** : Raz podczas sesji możesz całkowicie zregenerować swoją żywotność, wyleczyć wszystkie rany, choroby i trucizny. Możesz zrobić to w dowolnym momencie.
 
-**Pancerz Wewnętrzny** : Pancerz +1 ale jesteś ciężki i tracisz kostkę z każdego testu **Sprawności**. 
->
->**\*Aegis** : Jeśli używasz tarczy retrokinetycznej i przepaliła się wskutek otrzymania obrażeń raz podczas sesji możesz uznać, że to nieprawda, tarcza wyłączyła się na ułamek sekundy i zaczęła działać ponownie.
->
+**??Mechanizacja** : Przerzut do każdego testu **Wytrzymałości**. Postać otrzymuje jeden punkt obrażeń mniej niż wynika to z normalnych zasad, a potrzeba snu jest zmniejszona o połowę. Chemia Bojowa przestaje działać na postać (wliczając w to TraumaPack).
+
 **Repozytorium** : Postać ma wgrane gigantyczne biblioteki wiedzy. Jeśli chce zamiast używać swojego normalnego poziomu umiejętności może użyć repozytorium, umiejętność jest wtedy równa 4. Repozytorium nie działa na czysto fizyczne aktywności - jak np. test Siły albo Walki Wręcz.
 
 **Snajper** : Masz jeden przerzut do każdego testu **Kamuflażu**. Jeden przerzut podczas strzałów mierzonych. Jeśli jesteś w terenie możesz wydać punkt SW i poświęcić godzinę, żeby stworzyć improwizowany strój maskujący (dodatkowy przezut do **Kamuflażu**).
@@ -60,7 +56,5 @@
 **Wielki** : Dodatkowa kostka obrażeń w Walce Wręcz/Walce Bronią. Ignorujesz Odrzut i Nieporęczność broni. 
 
 **Wirus** : Płacąc punkt SW i dotykając przez co najmniej minutę dowolnej osoby ze sprzęgiem możesz przejąć nad nią kontrolę. Musisz wygrać test swojej umiejętności **Oprogramowanie** kontra Wola celu. Kontrola ciała trwa do momentu świadomego wyłączenia albo utraty przytomności przez cel. Kontrolujący pozostaje wtedy w stanie letargu.
-
-**Wysoka Tolerancja** : Postać potrafi przyjąć trzy dawki chemii więcej niż wynosi jego Wytrzymałość.
 
 **Zabijaka** : Przerzut do **Walki Wręcz**. Niezależnie od tego co robiłeś w turze walki masz jeden darmowy szybki atak, pod warunkiem, że używasz w nim **Walki Wręcz** jako umiejętności odpowiedzialnej za trafienie. Postać nie traci kostki jeśli atakuje nieuzbrojona uzbrojonego przeciwnika.
