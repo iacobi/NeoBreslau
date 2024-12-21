@@ -2,40 +2,58 @@
 
 <h3>Korpokracja</h3>
 
+**Alternatywne Nazwy** : Oligarchia
+
 **Opis** : Światem rządzi pieniądz, a wolny rynek to jedyny sposób, żeby sprawiedliwe ocenić kto zasługuje na pieniądze.
 
-**Umiejętności** : Charakter, Wola, Oprogramowanie
+**Umiejętności** (wybierz trzy) : Charakter, Wola, Oprogramowanie, Prawo
 
-**Specjalne** : Empata
+**Specjalne** (wybierz dwa) : Empata
 
-<h3>Agema (Kohorta)</h3>
+<hr>
 
-**Opis** : Ludzie potrzebują hierarchi i dyscypliny.
+<h3>Agema</h3>
 
-**Umiejętności** : Charaker, Wola, Wytrzymałość
+**Alternatywne Nazwy** : Kohorta
 
-**Specjalne** : Twardziel
+**Opis** : Ludzie potrzebują hierarchii i dyscypliny.
 
-<h3>Katedra (TechnoUnia, Technokracja)</h3>
+**Umiejętności** (wybierz trzy) : Charaker, Wola, Wytrzymałość
+
+**Specjalne** (wybierz dwa) : Twardziel
+
+<hr>
+
+<h3>Katedra</h3>
+
+**Alternatywne Nazwy** : TechnoUnia, Technokracja
 
 **Opis** : Przyszłość w jedności z maszyną.
 
-**Umiejętności** : Oprogramowanie, Elektronika, *Cybernetyka
+**Umiejętności** (wybierz trzy) : Oprogramowanie, Elektronika, Cybernetyka
 
-**Specjalne** : Sprzęg
+**Specjalne** (wybierz jeden) : Sprzęg, Technik, Droniarz
 
-<h3>Dzieci Gagarina (Asteri, Argonauci)</h3>
+<hr>
+
+<h3>Dzieci Gagarina</h3>
+
+**Alternatywne Nazwy** : Asteri, Argonauci
 
 **Opis** : Nomadzi kosmosu, eksploratorzy i podróżnicy. Wierzą w kosmiczne przeznaczenie i odkrywanie nowych światów.
 
-**Umiejętności** : Mechanika, Pilotaż Kosmos, *Nawigacja
+**Umiejętności** (wybierz trzy ): Mechanika, Pilotaż Kosmos, Elektronika, Oprogramowanie, Nawigacja
 
-**Specjalne** : Technik
+**Specjalne** (wybierz dwa) : Technik, Droniarz
+
+<hr>
 
 <h3>Zieloni</h3>
 
+**Alternatywne Nazwy** : ???
+
 **Opis** : Technologia to tylko narzędzie natury, a ewolucja to język życia. Technologia pozwoli ewolucji podbić gwiazdy.
 
-**Umiejętności** : Medycyna, Intuicja, *Biologia
+**Umiejętności** (wybierz trzy) : Medycyna, Intuicja, Biologia
 
-**Specjalne** : Empata
+**Specjalne** (wybierz dwa) : Empata, Chirurg,
