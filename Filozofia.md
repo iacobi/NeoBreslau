@@ -6,9 +6,9 @@
 
 **Opis** : Światem rządzi pieniądz, a wolny rynek to jedyny sposób, żeby sprawiedliwe ocenić kto zasługuje na pieniądze.
 
-**Umiejętności** (wybierz trzy) : Charakter, Wola, Oprogramowanie, Prawo
+**Umiejętności** Charakter, Intuicja, Oprogramowanie, Prawo, Spostrzegawczość
 
-**Specjalne** (wybierz dwa) : Empata
+**Specjalne** : Lepszy ekwipunek na start
 
 <hr>
 
@@ -18,9 +18,7 @@
 
 **Opis** : Ludzie potrzebują hierarchii i dyscypliny.
 
-**Umiejętności** (wybierz trzy) : Charaker, Wola, Wytrzymałość
-
-**Specjalne** (wybierz dwa) : Twardziel
+**Umiejętności**: Charaker, Prawo, Siła, Wola, Wytrzymałość
 
 <hr>
 
@@ -30,9 +28,9 @@
 
 **Opis** : Przyszłość w jedności z maszyną.
 
-**Umiejętności** (wybierz trzy) : Oprogramowanie, Elektronika, Cybernetyka
+**Umiejętności**: Cybernetyka, Elektronika, Mechanika, Oprogramowanie
 
-**Specjalne** (wybierz jeden) : Sprzęg, Technik, Droniarz
+**Specjalne** : Postać musi wybrać Sprzęg jako jedną z startowych zalet
 
 <hr>
 
@@ -42,9 +40,7 @@
 
 **Opis** : Nomadzi kosmosu, eksploratorzy i podróżnicy. Wierzą w kosmiczne przeznaczenie i odkrywanie nowych światów.
 
-**Umiejętności** (wybierz trzy ): Mechanika, Pilotaż Kosmos, Elektronika, Oprogramowanie, Nawigacja
-
-**Specjalne** (wybierz dwa) : Technik, Droniarz
+**Umiejętności**: Elektronika, Mechanika, Nawigacja, Oprogramowanie, Pilotaż Kosmos
 
 <hr>
 
@@ -54,6 +50,4 @@
 
 **Opis** : Technologia to tylko narzędzie natury, a ewolucja to język życia. Technologia pozwoli ewolucji podbić gwiazdy.
 
-**Umiejętności** (wybierz trzy) : Medycyna, Intuicja, Biologia
-
-**Specjalne** (wybierz dwa) : Empata, Chirurg,
+**Umiejętności**: Biologia, Intuicja, Kamuflaż, Medycyna, Spostrzegawczość, Sztuka Przetrwania
