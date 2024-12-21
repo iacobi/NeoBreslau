@@ -2,9 +2,7 @@
 
 <h3>Korpokracja</h3>
 
-**Alternatywne Nazwy** : Oligarchia
-
-**Opis** : Światem rządzi pieniądz, a wolny rynek to jedyny sposób, żeby sprawiedliwe ocenić kto zasługuje na pieniądze.
+**Opis** : Światem rządzi pieniądz, a wolny rynek to jedyny sposób, żeby sprawiedliwe ocenić kto zasługuje na pieniądze. Ekonomia to język Cywilizacji.
 
 **Umiejętności** Charakter, Intuicja, Oprogramowanie, Prawo, Spostrzegawczość
 
@@ -16,7 +14,7 @@
 
 **Alternatywne Nazwy** : Kohorta
 
-**Opis** : Ludzie potrzebują hierarchii i dyscypliny.
+**Opis** : Ludzie potrzebują hierarchii i dyscypliny. Dzięki temu zbudujemy wielkie floty, odkryjemy nowe światy i zbudujemy potężną cywilizacje.
 
 **Umiejętności**: Charaker, Prawo, Siła, Wola, Wytrzymałość
 
@@ -57,4 +55,16 @@
 **Umiejętności**: Biologia, Intuicja, Kamuflaż, Medycyna, Spostrzegawczość, Sztuka Przetrwania
 
 **Ekwipunek** : Zaczynasz z 6 dawkami Lux
+
+<hr>
+
+<h3>Religijni</h3>
+
+**Alternatywne Nazwy** : ???
+
+**Opis** : Misją ludzkości jest zaniesienie Słowa Bożego w gwiazdy
+
+**Umiejętności**: ???
+
+**Ekwipunek** : ???
 
