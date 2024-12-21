@@ -8,7 +8,7 @@
 
 **Umiejętności** Charakter, Intuicja, Oprogramowanie, Prawo, Spostrzegawczość
 
-**Specjalne** : Lepszy ekwipunek na start
+**Ekwipunek** : Zaczynasz z tarczą retrokinetyczną
 
 <hr>
 
@@ -20,6 +20,8 @@
 
 **Umiejętności**: Charaker, Prawo, Siła, Wola, Wytrzymałość
 
+**Ekwipunek** : Zaczynasz z tarczą retrokinetyczną
+
 <hr>
 
 <h3>Katedra</h3>
@@ -30,7 +32,7 @@
 
 **Umiejętności**: Cybernetyka, Elektronika, Mechanika, Oprogramowanie
 
-**Specjalne** : Postać musi wybrać Sprzęg jako jedną z startowych zalet
+**Ekwipunek** : Zaczynasz z doskonałym komputerem (można kupować sukcesy na zerach)
 
 <hr>
 
@@ -42,6 +44,8 @@
 
 **Umiejętności**: Elektronika, Mechanika, Nawigacja, Oprogramowanie, Pilotaż Kosmos
 
+**Ekwipunek** : Zaczynasz z skafanderm kosmicznym zintegrowanym ze średnim pancerzem
+
 <hr>
 
 <h3>Zieloni</h3>
@@ -51,3 +55,6 @@
 **Opis** : Technologia to tylko narzędzie natury, a ewolucja to język życia. Technologia pozwoli ewolucji podbić gwiazdy.
 
 **Umiejętności**: Biologia, Intuicja, Kamuflaż, Medycyna, Spostrzegawczość, Sztuka Przetrwania
+
+**Ekwipunek** : Zaczynasz z 6 dawkami Lux
+
