@@ -48,6 +48,6 @@
 
 **Alternatywne Nazwy** : Kohorta, Retrosi, Spartanie
 
-**Opis** : Człowiek jest silny, człowiek jest na pierwszym miejscu, technologia jest drugorzędna. Tylko najsilniejsi mogą rządzić.
+**Opis** : Siła, indywidualizm. Idealizacja klasycznych ideałów. Technologia służy, żeby stworzyć silną jednostkę. Ludzie powinni taką samą wagę przykładać do umiejętności pisania programów, zbudowania domu z drewna jak do sprawności na zapaśniczej macie. Człowiek powininen dążyć do bycia kompetentnym w każdym aspekcie życia.
 
 **Postać** : Siła, Wytrzymałość, Walka Wręcz, Sztuka Przetrwania
