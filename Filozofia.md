@@ -40,7 +40,7 @@
 
 <hr>
 
-<h3>Zieloni</h3>
+<h3>Terra Magna</h3>
 
 **Alternatywne Nazwy** : ???
 
