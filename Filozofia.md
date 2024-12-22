@@ -44,4 +44,8 @@
 
 <hr>
 
+<h3>Retrosi/Spartanie</h3>
 
+**Opis** : Człowiek jest silny, człowiek jest na pierwszym miejscu, technologia jest drugorzędna. Tylko najsilniejsi mogą rządzić.
+
+**Postać** : Siła, Wytrzymałość, Walka Wręcz, Sztuka Przetrwania
