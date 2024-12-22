@@ -8,9 +8,9 @@
 
 <hr>
 
-<h3>Agema</h3>
+<h3>NeoOptimates</h3>
 
-**Alternatywne Nazwy** : Kohorta, Ordomachia
+**Alternatywne Nazwy** : Ordomachia, Optimates
 
 **Opis** : Ludzie potrzebują hierarchii i dyscypliny. Dzięki temu zbudujemy wielkie floty, odkryjemy nowe światy i zbudujemy potężną cywilizacje.
 
@@ -44,7 +44,9 @@
 
 <hr>
 
-<h3>Retrosi/Spartanie</h3>
+<h3>Agema</h3>
+
+**Alternatywne Nazwy** : Kohorta, Retrosi, Spartanie
 
 **Opis** : Człowiek jest silny, człowiek jest na pierwszym miejscu, technologia jest drugorzędna. Tylko najsilniejsi mogą rządzić.
 
