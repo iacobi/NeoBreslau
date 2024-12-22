@@ -40,7 +40,7 @@
 
 **Opis** : Technologia to tylko narzędzie natury, a ewolucja to język życia. Technologia pozwoli ewolucji podbić gwiazdy.
 
-**Postać** : Siła, Spostrzegawczość, Medycyna, Biologia
+**Postać** : Siła, Spostrzegawczość, Medycyna, Biotechnika
 
 <hr>
 
