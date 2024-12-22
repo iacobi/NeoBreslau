@@ -53,8 +53,6 @@
 
 **Sprzęg** : Możesz podłączać się do cybersprzętu (zazwyczaj daje +1 do umiejętności). Traktujemy też jako wbudowany komputer/telefon komórkowy, daje +1 do testów Oprogramowania.
 
-~~**??Syntetyk** : Przerzut do każdego testu **Wytrzymałości**. Postać otrzymuje jeden punkt obrażeń mniej niż wynika to z normalnych zasad, a potrzeba snu jest zmniejszona o połowę. Postać przestaje być podatna na chemię (pozytwną i negatywną, wliczając w to TraumaPack)~~
-
 **Szybki** : Przerzut do **Sprawności**, dodatkowa kostka do rzutu na inicajatywę (wybierasz lepszą) Moze zaplacic punkt SW, żeby dostać dodatkowy unik w rundzie (maksymalnie 1 dodatkowy), Możesz zapłacić punkty SW, żeby uniknąć broni palnej (jeśli wykonujesz dodatkowy unik i jednocześnie unikasz broni palnej, to łączny koszt jest równy 2). Musisz widzieć strzelca, żeby unikać broni palnej.
 
 **Technik** : Przerzut do **Elektroniki** i **Mechaniki**.
@@ -64,3 +62,13 @@
 **Wielki** : Dodatkowa kostka obrażeń w Walce Wręcz/Walce Bronią. Ignorujesz Odrzut i Nieporęczność broni. Przerzut do testów **Siły** (tylko testów, nie rzutów na obrażenia)
 
 **Wirus** : Płacąc punkt SW i dotykając przez co najmniej minutę dowolnej osoby ze sprzęgiem możesz przejąć nad nią kontrolę. Musisz wygrać test swojej umiejętności **Oprogramowanie** kontra Wola celu. Kontrola ciała trwa do momentu świadomego wyłączenia albo utraty przytomności przez cel. Kontrolujący pozostaje wtedy w stanie letargu.
+
+
+<h3>Zalety [Work In Progress]</h3>
+
+**Pancerz Wewnętrzny** : Postać otrzymuje jeden punkt obrażeń mniej niż wynika to z normalnych zasad. Problem: dodatkowy punkt pancerza to bardzo potężna zaleta
+
+**Survival** : Przerzut do **Wytrzymałości**, **Sztuki Przetrwania** i **Łucznictwa**. Problem: to bardzo słaba zaleta
+
+**Groźny[Charyzma]** : Przerzut do Charakteru. Płacąc punkt SW możesz wyprzedzić przeciwnika w kolejce inicjatywy.
+
