@@ -12,7 +12,7 @@
 
 <h3>Agema</h3>
 
-**Alternatywne Nazwy** : Kohorta
+**Alternatywne Nazwy** : Kohorta, Ordomachia
 
 **Opis** : Ludzie potrzebują hierarchii i dyscypliny. Dzięki temu zbudujemy wielkie floty, odkryjemy nowe światy i zbudujemy potężną cywilizacje.
 
@@ -22,11 +22,11 @@
 
 <hr>
 
-<h3>Katedra</h3>
+<h3>Technomachia</h3>
 
-**Alternatywne Nazwy** : TechnoUnia, Technokracja
+**Alternatywne Nazwy** : TechnoUnia, Technokracja, Katedra
 
-**Opis** : Przyszłość w jedności z maszyną.
+**Opis** : Władza technologii. Przyszłość w jedności z maszyną.
 
 **Umiejętności**: Cybernetyka, Elektronika, Mechanika, Oprogramowanie
 
