@@ -4,9 +4,7 @@
 
 **Opis** : Światem rządzi pieniądz, a wolny rynek to jedyny sposób, żeby sprawiedliwe ocenić kto zasługuje na pieniądze. Ekonomia to język Cywilizacji.
 
-**Umiejętności** Charakter, Intuicja, Oprogramowanie, Prawo, Spostrzegawczość
-
-**Ekwipunek** : Zaczynasz z tarczą retrokinetyczną
+**Start** : Zaczynasz z zaletą **Charyzma** i punktami w **Intuicji** i **Spostrzegawczości**
 
 <hr>
 
@@ -16,9 +14,7 @@
 
 **Opis** : Ludzie potrzebują hierarchii i dyscypliny. Dzięki temu zbudujemy wielkie floty, odkryjemy nowe światy i zbudujemy potężną cywilizacje.
 
-**Umiejętności**: Charaker, Prawo, Siła, Wola, Wytrzymałość
-
-**Ekwipunek** : Zaczynasz z tarczą retrokinetyczną
+**Start** :  Zaczynasz z zaletą **Determinacja** i punktami w **Charakterze** i **Woli**
 
 <hr>
 
@@ -28,9 +24,7 @@
 
 **Opis** : Władza technologii. Przyszłość w jedności z maszyną.
 
-**Umiejętności**: Cybernetyka, Elektronika, Mechanika, Oprogramowanie
-
-**Ekwipunek** : Zaczynasz z doskonałym komputerem (można kupować sukcesy na zerach)
+**Start** :  Zaczynasz z zaletą **Sprzęg** i punktami w **Elektronice** i **Oprogramowaniu**
 
 <hr>
 
@@ -42,7 +36,7 @@
 
 **Umiejętności**: Elektronika, Mechanika, Nawigacja, Oprogramowanie, Pilotaż Kosmos
 
-**Ekwipunek** : Zaczynasz z skafanderm kosmicznym zintegrowanym ze średnim pancerzem
+**Postać** : Zaczynasz z zaletą **Wędrowiec** i wykupionymi **Pilotaż Kosmos** i **Nawigacja**
 
 <hr>
 
@@ -54,7 +48,7 @@
 
 **Umiejętności**: Biologia, Intuicja, Kamuflaż, Medycyna, Spostrzegawczość, Sztuka Przetrwania
 
-**Ekwipunek** : Zaczynasz z 6 dawkami Lux
+**Postać** : Zaczynasz z zaletą **???** i punktami w **Medycynie** i **???**
 
 <hr>
 
@@ -64,7 +58,5 @@
 
 **Opis** : Misją ludzkości jest zaniesienie Słowa Bożego w gwiazdy
 
-**Umiejętności**: ???
-
-**Ekwipunek** : ???
+**Postać** : Zaczynasz z zaletą **???** i punktami w **???** i **???**
 
