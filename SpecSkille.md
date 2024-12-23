@@ -23,8 +23,6 @@
 
  **Cyngiel** : Wyciągnięcie pistoletu z kabury nie zajmuje akcji. Strzelasz z lewej ręki tak samo sprawnie jak z prawej. Możesz wykonać trzy szybkie strzały w rundzie używając 4 kostek w rzucie na trafienie. Jeśli zepniesz ze sobą dwa magazynki możesz zmieniać je tak szybko, że nie tracisz na to akcji - efektywnie pistolety maszynowe, i karabiny mają podwojoną pojemność magazynka.
 
-**Czujny** : Przerzut do **Intuicji** oraz **Spostrzegawczości**. Postać ma oczy i uszy dookoła głowy. Nawet skupiona na dowolnej czynności albo podczas snu wszystkie testy spostrzegawczości i intuicji wykonuje pełną pulą kostek.
-
 **Determinacja** : Przerzut do testów **Woli**. Ilość punktów Siły Woli jest większa o trzy niż normalnie.
 
 **??Wędrowiec** : Przerzut do testów **Pilotażu**, **Pilotażu Kosmos** i **Prowadzenia Pojazdów** kiedy postać jest w pojeździe.
@@ -63,6 +61,7 @@
 
 **Wirus** : Płacąc punkt SW i dotykając przez co najmniej minutę dowolnej osoby ze sprzęgiem możesz przejąć nad nią kontrolę. Musisz wygrać test swojej umiejętności **Oprogramowanie** kontra Wola celu. Kontrola ciała trwa do momentu świadomego wyłączenia albo utraty przytomności przez cel. Kontrolujący pozostaje wtedy w stanie letargu.
 
+**Zmysły Łowcy** : Przerzut do **Intuicji** oraz **Spostrzegawczości**. Postać widzi w ciemności. Wszystkie zmysły są tak wyczulone, że na odległości 15 metrów poznaje ludzi po zapachu. Podczas snu wszystkie testy spostrzegawczości i intuicji wykonuje pełną pulą kostek.
 
 <h3>Zalety [Work In Progress]</h3>
 
