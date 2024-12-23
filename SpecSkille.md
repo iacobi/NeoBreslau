@@ -51,7 +51,7 @@
 
 **Sprzęg** : Możesz podłączać się do cybersprzętu (zazwyczaj daje +1 do umiejętności). Traktujemy też jako wbudowany komputer/telefon komórkowy, daje +1 do testów Oprogramowania.
 
-**Szybki** : Przerzut do **Sprawności**, dodatkowa kostka do rzutu na inicajatywę (wybierasz lepszą) Moze zaplacic punkt SW, żeby dostać dodatkowy unik w rundzie (maksymalnie 1 dodatkowy), Możesz zapłacić punkty SW, żeby uniknąć broni palnej (jeśli wykonujesz dodatkowy unik i jednocześnie unikasz broni palnej, to łączny koszt jest równy 2). Musisz widzieć strzelca, żeby unikać broni palnej.
+**Szybki** : Przerzut do **Sprawności**, dodatkowa kostka do rzutu na inicjatywę (wybierasz lepszą).
 
 **Technik** : Przerzut do **Elektroniki** i **Mechaniki**.
 
