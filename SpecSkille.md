@@ -1,7 +1,7 @@
 
 <h1>Tworzenie Postaci</h1>
 
-**Osiem punktów** do rozdania na **umiejętności** - maksymalnie do czwartej kropki.
+**Pięć punktów** do rozdania na **umiejętności** - maksymalnie do czwartej kropki.
 
 **Trzy wybrane zdolności**. Podczas Tworzenia postaci nie trzeba spełniać wymagań podanych w nawiasach kwadratowych. Niektóre zdolności mają alternatywne wersje oznaczone *, postać może mieć tylko jedną wersje takiej zdolności.
 
