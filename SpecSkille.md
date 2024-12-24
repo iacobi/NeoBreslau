@@ -23,7 +23,7 @@
 
  **Cyngiel** : Wyciągnięcie pistoletu z kabury nie zajmuje akcji. Strzelasz z lewej ręki tak samo sprawnie jak z prawej. Możesz wykonać trzy szybkie strzały w rundzie używając 4 kostek w rzucie na trafienie. Jeśli zepniesz ze sobą dwa magazynki możesz zmieniać je tak szybko, że nie tracisz na to akcji - efektywnie pistolety maszynowe, i karabiny mają podwojoną pojemność magazynka.
 
-**Determinacja** : Przerzut do testów **Woli**. Postać zaczyna sesje z trzema punktami siły woli więcej niż wynika to z normalnych zasad.
+**Determinacja** : Postać zaczyna sesje z trzema punktami siły woli więcej niż wynika to z normalnych zasad.
 
 **??Wędrowiec** : Przerzut do testów **Pilotażu**, **Pilotażu Kosmos** i **Prowadzenia Pojazdów** kiedy postać jest w pojeździe.
 
@@ -39,7 +39,7 @@
 
 **MonoStruny** : Superwytrzymała struna może służyć do cięcia, obezwładniania albo jako prowizoryczna lina. Użyta w walce, ma dwa przerzuty i zadaje zwykłe 4 kostki obrażeń. Jeśli próbujesz kogoś obezwładnić albo rozbroić, nie jesteś traktowany jako nieuzbrojony i masz jeden przerzut do rzutu na trafienie. Walcząc strunami, postać używa umiejętności **Walka Wręcz**. Struna jest również w stanie utrzymać Twój ciężar i obwiązać się wokół przedmiotów w odległości 10 metrów. Ten dodatkowy zasięg można wykorzystać tylko do wspianania się albo łapania przedmiotów w walce zasięg struny jest identyczny jak każdej innej broni białej.
 
-**Nanoboty** : Raz podczas sesji możesz całkowicie zregenerować swoją żywotność, wyleczyć wszystkie rany, choroby i trucizny. Możesz zrobić to w dowolnym momencie.
+**Regeneracja** : Przerzut do **Wytrzymałości**. Raz podczas sesji możesz całkowicie zregenerować swoją żywotność, wyleczyć wszystkie rany, choroby i trucizny. Możesz zrobić to w dowolnym momencie. Twoja tolerancja na brak snu, jedzenia, wody i tlenu jest trzykrotnie wyższa niż normalnego człowieka.
 
 **Repozytorium** : Postać ma wgrane gigantyczne biblioteki wiedzy. Jeśli chce zamiast używać swojego normalnego poziomu umiejętności może użyć repozytorium, umiejętność jest wtedy równa 4. Repozytorium nie działa na czysto fizyczne aktywności - jak np. test Siły albo Walki Wręcz.
 
@@ -57,7 +57,7 @@
 
 **Wielki** : Dodatkowa kostka obrażeń w Walce Wręcz/Walce Bronią. Ignorujesz Odrzut i Nieporęczność broni. Przerzut do testów **Siły** (tylko testów, nie rzutów na obrażenia)
 
-**Wirus** : Przerzut do **Oprogramowania**. Jeśli masz fizyczny dostęp do sprzęgu dowolnej osoby możesz spróbować przejąć and nią kontrolę. Musisz zapłacić jeden punkt SW i wygrać test swojej umiejętności Oprogramowanie kontra Wola celu. Można przeprowadzić tylko na nieprzytomnej albo obezwładnionej osobie. Kontrola ciała trwa do momentu świadomego wyłączenia albo utraty przytomności przez cel. Kontrolujący pozostaje wtedy w stanie letargu. Wszystkie testy wykonuje się wtedy mniejszą z dwóch umiejętności kontrolowanego lub konotrolującego. 
+**Wirus** : Przerzut do **Oprogramowania**. Jeśli masz fizyczny dostęp do sprzęgu dowolnej osoby możesz spróbować przejąć and nią kontrolę. Musisz zapłacić jeden punkt SW i wygrać test swojej umiejętności Oprogramowanie kontra Wytrzymałość celu. Można przeprowadzić tylko na nieprzytomnej albo obezwładnionej osobie. Kontrola ciała trwa do momentu świadomego wyłączenia albo utraty przytomności przez cel. Kontrolujący pozostaje wtedy w stanie letargu. Wszystkie testy wykonuje się wtedy mniejszą z dwóch umiejętności kontrolowanego lub konotrolującego. 
 
 **Zmysły Łowcy** : Przerzut do **Intuicji** oraz **Spostrzegawczości**. Postać widzi w ciemności. Wszystkie zmysły są tak wyczulone, że na odległości 15 metrów poznaje ludzi po zapachu. Podczas snu wszystkie testy spostrzegawczości i intuicji wykonuje pełną pulą kostek.
 
