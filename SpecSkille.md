@@ -39,7 +39,7 @@
 
 **MonoStruny** : Superwytrzymała struna może służyć do cięcia, obezwładniania albo jako prowizoryczna lina. Użyta w walce, ma dwa przerzuty i zadaje zwykłe 4 kostki obrażeń. Jeśli próbujesz kogoś obezwładnić albo rozbroić, nie jesteś traktowany jako nieuzbrojony i masz jeden przerzut do rzutu na trafienie. Walcząc strunami, postać używa umiejętności **Walka Wręcz**. Struna jest również w stanie utrzymać Twój ciężar i obwiązać się wokół przedmiotów w odległości 10 metrów. Ten dodatkowy zasięg można wykorzystać tylko do wspianania się albo łapania przedmiotów w walce zasięg struny jest identyczny jak każdej innej broni białej.
 
-**Regeneracja** : Przerzut do **Wytrzymałości**. Raz podczas sesji możesz całkowicie zregenerować swoją żywotność, wyleczyć wszystkie rany, choroby i trucizny. Możesz zrobić to w dowolnym momencie. Twoja tolerancja na brak snu, jedzenia, wody i tlenu jest trzykrotnie wyższa niż normalnego człowieka.
+**Regeneracja** : Płacąc punktami SW możesz całkowicie zregenerować swoją żywotność, wyleczyć wszystkie rany, choroby i trucizny. Pierwsza regeneracja kosztuje jeden punkt SW, druga dwa punkty, trzecia trzy itp. itd.
 
 **Repozytorium** : Postać ma wgrane gigantyczne biblioteki wiedzy. Jeśli chce zamiast używać swojego normalnego poziomu umiejętności może użyć repozytorium, umiejętność jest wtedy równa 4. Repozytorium nie działa na czysto fizyczne aktywności - jak np. test Siły albo Walki Wręcz.
 
