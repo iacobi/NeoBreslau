@@ -14,7 +14,7 @@
 
 **Opis** : Ludzie potrzebują hierarchii i dyscypliny. Dzięki temu zbudujemy wielkie floty, odkryjemy nowe światy i zbudujemy potężną cywilizacje.
 
-**Start** :  Charakter, Siła, Wola, Prawo
+**Start** :  Charakter, Siła, Wytrzymałość, Prawo
 
 <hr>
 
