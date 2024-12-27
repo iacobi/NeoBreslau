@@ -1,10 +1,3 @@
-
-<h1>Tworzenie Postaci</h1>
-
-**Pięć punktów** do rozdania na **umiejętności** - maksymalnie do czwartej kropki.
-
-**Trzy wybrane zdolności**. Podczas Tworzenia postaci nie trzeba spełniać wymagań podanych w nawiasach kwadratowych. Niektóre zdolności mają alternatywne wersje oznaczone *, postać może mieć tylko jedną wersje takiej zdolności.
-
 <h2>Zdolności</h2>
 
 **Charyzma** : Przerzut do **Charakteru**. Możesz dawać innym ludziom swoje punkty SW
