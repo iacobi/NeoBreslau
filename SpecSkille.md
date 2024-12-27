@@ -57,7 +57,7 @@ Niektóre zdolności mają alternatywne wersje oznaczone *, nie można mieć jed
 
 **Zmysły Łowcy** : Przerzut do **Intuicji** oraz **Spostrzegawczości**. Postać widzi w ciemności. Wszystkie zmysły są tak wyczulone, że na odległości 15 metrów poznaje ludzi po zapachu. Podczas snu wszystkie testy spostrzegawczości i intuicji wykonuje pełną pulą kostek.
 
-<h3>Zalety [Work In Progress]</h3>
+<h3>Zdolności [Work In Progress]</h3>
 
 **Haker** : Przerzut do **Oprogramowania**. Możesz używać scramblerów, żeby zdalnie włamywać się podłączonych do sieci sprzętów domowych, telefonów i samochodów w zasięgu działania scramblera. Postać zyskuje wtedy pełną kontrolę nad urządzeniem. PT od 2 dla przejęcia kontroli nad czyimś telefonem, PT 3 dla samochodu, PT 4 dla pojazdu rządowego, PT 5-6 dla sprzętu wojskowego.
 
