@@ -1,8 +1,10 @@
 <h1>Filozofia</h1>
 
+Gracz wybiera filozofie swojej postaci. Określa jej światopogląd, jakie wartości wyznaje i jak myśli,że społeczeństwo powinno działać. Filozofia daje też cztery punktu w umiejętnościach, które są typowe dla jej przedstawicieli.
+
 <h3>Korpokracja</h3>
 
-**Opis** : Światem rządzi pieniądz, a wolny rynek to jedyny sposób, żeby sprawiedliwe ocenić kto zasługuje na pieniądze. Ekonomia to język Cywilizacji.
+**Opis** : Światem rządzi pieniądz, a wolny rynek to jedyny sposób, żeby sprawiedliwe ocenić kto zasługuje na pieniądze. Ekonomia to język Cywilizacji. T
 
 **Start** : Charakter, Intuicja, Spostrzegawczość, Prawo
 
@@ -20,7 +22,7 @@
 
 <h3>Technomachia</h3>
 
-**Opis** : Władza technologii. Przyszłość w jedności z maszyną.
+**Opis** : Władza technologii. Jutro. w jedności z maszyną. Transhumanizm to nasze przeznaczenie, trzeba porzucić dawne zacofane poglądy na temat tego czym jest człowiek i śmiało wybiec w przyszłość
 
 **Start** :  Elektronika, Oprogramowanie, Spostrzegawczość, Cybernetyka
 
@@ -28,7 +30,7 @@
 
 <h3>Exodus</h3>
 
-**Opis** : Nomadzi kosmosu, eksploratorzy i podróżnicy. Wierzą w kosmiczne przeznaczenie i odkrywanie nowych światów.
+**Opis** : Nomadzi kosmosu, eksploratorzy i podróżnicy. Wierzą w kosmiczne przeznaczenie i odkrywanie nowych światów. Ludzie powinni porzucić planety i traktować je tylko jako źródło surowców. Przestrzeń kosmiczna to właściwe miejsce do życia i rozwoju naszej cywilizacji. Wszystkie totalitarne rządy nie będą miały sensu w tej przyszłości. Jak pierwsze prymitywne plemiona przemierzały Ziemię tak teraz wolne plemiona na statkach powinny przemierzać galaktykę.
 
 **Umiejętności**: Elektronika, Mechanika, Nawigacja, Oprogramowanie, Pilotaż Kosmos
 
@@ -38,7 +40,7 @@
 
 <h3>Terra Magna</h3>
 
-**Opis** : Technologia to tylko narzędzie natury, a ewolucja to język życia. Technologia pozwoli ewolucji podbić gwiazdy.
+**Opis** : Technologia to tylko narzędzie natury, a ewolucja to język życia. Technologia pozwoli ewolucji podbić gwiazdy. Powinniśmy zmienić całą galaktykę w wielki ogród.
 
 **Postać** : Siła, Spostrzegawczość, Medycyna, Biotechnika
 
