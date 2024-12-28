@@ -113,7 +113,7 @@ Przerzut do testów **Kamuflażu**. Maskuje ślad termiczny i elektromagnetyczny
 
 <h2>Tarcza Retrokinetyczna</h2>
 
-Za każdym razem kiedy postać otrzyma obrażenia od broni palnej rzuca k10. "0" traktujemy jak 10. Jeśli wyrzuciłeś więcej niż obrażenia - tarcza ochroniła Cię przed obrażeniami. W przeciwnym wypadku tarcza również obroniła Cię przed obrażeniami ale przepaliła się i przestała działać. Tarcza chroni przed granatami i dronami-kamikadze ale ich wybuch zawsze przepala tarcze - nie ma potrzeby rzucać k10.
+Tarcza Retrokinetyczna pozwala obnizyć obrażenia otrzymane od broni palnej i materiałów wybuchowych. Za każdym razem kiedy postać zostanie trafiona ale przed rzutem na obrażenia może rzucić k10 i obniżyć otrzymane obrażenia o ilość podaną na kostce. Jedna tarcza ma 5 ładunków i tyle razy można jej użyć przed ładowaniem. Nie ma limitów ile razy można użyć tarczy w ciągu rundy. Na jeden atak można rzucić tylko jedną kostką. Tarcza nie broni przed bronią białą.
 
 <h2> Drony </h2>
 
