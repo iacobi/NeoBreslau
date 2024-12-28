@@ -3,8 +3,6 @@
 Niektóre zdolności mają alternatywne wersje oznaczone *, nie można mieć jednocześnie wersji podstawoej i alternatywnej. Np. postać musi wybrać czy chce zaletę **Cwaniak** czy **Złodziej**
 <hr>
 
-**Aegis** : Bardzo dobrze posługujesz się tarczą retrokinetyczną. Masz o jeden ładunek więcej niż normalni ludzie. Kiedy rzucasz na redukcje obrażeń możesz rzucić po zobaczeniu rzutu na obrażenia i możesz zużyć kilka ładunków w jednym rzucie. Rzucasz wtedy tyloma kostkami ile zużywasz ładunków, wybierasz najwyższą kostkę.
-
 **Charyzma** : Przerzut do **Charakteru**. Możesz dawać innym ludziom swoje punkty SW
 >
 >**\*Empata** : Przerzut do **Charakteru** i **Intuicji**
@@ -59,7 +57,7 @@ Niektóre zdolności mają alternatywne wersje oznaczone *, nie można mieć jed
 
 **Zmysły Łowcy** : Przerzut do **Intuicji** oraz **Spostrzegawczości**. Postać widzi w ciemności. Wszystkie zmysły są tak wyczulone, że na odległości 15 metrów poznaje ludzi po zapachu. Podczas snu wszystkie testy spostrzegawczości i intuicji wykonuje pełną pulą kostek.
 
-<h3>Zdolności [Work In Progress]</h3>
+<h3>Wycofane Zdolności</h3>
 
 **Haker** : Przerzut do **Oprogramowania**. Możesz używać scramblerów, żeby zdalnie włamywać się podłączonych do sieci sprzętów domowych, telefonów i samochodów w zasięgu działania scramblera. Postać zyskuje wtedy pełną kontrolę nad urządzeniem. PT od 2 dla przejęcia kontroli nad czyimś telefonem, PT 3 dla samochodu, PT 4 dla pojazdu rządowego, PT 5-6 dla sprzętu wojskowego.
 
@@ -69,3 +67,4 @@ Niektóre zdolności mają alternatywne wersje oznaczone *, nie można mieć jed
 
 **Groźny[Charyzma]** : Przerzut do Charakteru. Płacąc punkt SW możesz wyprzedzić przeciwnika w kolejce inicjatywy.
 
+**Aegis** : Bardzo dobrze posługujesz się tarczą retrokinetyczną. Masz o jeden ładunek więcej niż normalni ludzie. Kiedy rzucasz na redukcje obrażeń możesz rzucić po zobaczeniu rzutu na obrażenia i możesz zużyć kilka ładunków w jednym rzucie. Rzucasz wtedy tyloma kostkami ile zużywasz ładunków, wybierasz najwyższą kostkę.
