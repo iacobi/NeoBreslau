@@ -113,7 +113,8 @@ Przerzut do testów **Kamuflażu**. Maskuje ślad termiczny i elektromagnetyczny
 
 <h2>Tarcza Retrokinetyczna</h2>
 
-Tarcza Retrokinetyczna pozwala obnizyć obrażenia otrzymane od broni palnej i materiałów wybuchowych. Za każdym razem kiedy postać zostanie trafiona ale przed rzutem na obrażenia może rzucić k10 i obniżyć otrzymane obrażenia o ilość podaną na kostce. Jedna tarcza ma 5 ładunków i tyle razy można jej użyć przed ładowaniem. Nie ma limitów ile razy można użyć tarczy w ciągu rundy. Na jeden atak można rzucić tylko jedną kostką. Tarcza nie broni przed bronią białą.
+Za każdym razem kiedy postać ma otrzymać obrażenia od broni palnej i materiałów wybuchowych rzuca 1k10 i obniża otrzymane obrażenia. "0" jest liczone jako 10. Tarcza nie działa na broń białą.Pancerz postaci działa normalnie i również redukuje obrażenia. Jedna tarcza ma 6 ładunków i tyle razy można jej użyć przed ładowaniem albo wymianą.
+Aktywna Tarcza otacza postać widoczną przezroczystą poświatą, jest słyszalna z kilkunastu metrów. oraz jest natychmiast widoczna dla zwiadu elektronicznego (Scrambler) i w termowizji. **Postać traci kostkę z każdego testu Kamuflażu** kiedy nosi aktywną tarczę retrokinetyczną. Wyłączenie tarczy jest natychmiastowe ale aktywacja zajmuje turę.
 
 <h2> Drony </h2>
 
@@ -136,6 +137,7 @@ Scrambler to narzędzie do walki elektronicznej. Zazwyczaj jest to plecak z zest
 
 **Walka Scramblerów**: Jeśli Scramblery nałożą się polami działania wiedzą o tym, że w pobliżu jest kolejny scrambler. Jeśli znajdąsię w swoim zasięgu mogą się zwalczać. Wykonuje się wtedy test przeciwstawny Elektroniki operatorów. Przegrane scramblery są wyłączone, w przypadku remisu wszystkie scramblery są wyłączone. W przypadku walki kilku scramblerów liczy się tylko najwyższy wynik, wszystkie przegrane scramblery są wyłączone.
 
+**Hackowanie**: Możesz używać scramblerów, żeby zdalnie włamywać się podłączonych do sieci sprzętów domowych, telefonów i samochodów w zasięgu działania scramblera. Postać zyskuje wtedy pełną kontrolę nad urządzeniem. PT od 2 dla przejęcia kontroli nad czyimś telefonem, PT 3 dla samochodu, PT 4 dla pojazdu rządowego, PT 5-6 dla sprzętu wojskowego.
 
 
 <h1>Zasady Różne</h1>
