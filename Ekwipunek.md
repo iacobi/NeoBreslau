@@ -27,7 +27,7 @@
 |--|:--:|:--:|--|--|--:|
 | **Pistolet 9mm**  |zwykłe&nbsp;3&nbsp;kostki| 15 | pół tury | Krótka Seria, Ogień Ciągły| 1000 kred.|
 | **Pistolet 10mm**  |słabe&nbsp;4&nbsp;kostki| 12 | pół tury | Krótka Seria| 3000 kred.|
-| **.38 Magnum**  |silne&nbsp;3&nbsp;kostki| 6 | cała tura | Krótka Seria| 2000 kred.|
+| **.357 Magnum**  |silne&nbsp;3&nbsp;kostki| 6 | cała tura | Krótka Seria| 2000 kred.|
 | **.44 Magnum** |zwykłe&nbsp;4&nbsp;kostki| 6 | cała tura | - | 2000 kred.|
 | **.454 Casull** |silne&nbsp;4&nbsp;kostki| 6 | cała tura | Odrzut | 3000 kred.|
 
