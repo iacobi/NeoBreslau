@@ -1,6 +1,11 @@
 
   
 
+<h3>Blok</h3>
+
+**Używasz zamiast uniku**. W walce wręcz używając swojej siły możesz zablokować każdy atak **nieuzbrojonego przeciwnika** jeśli w teście siły wyrzucisz **więcej** sukcesów niż atakujący w rzucie na trafienie. Jeśli uda ci się znaleźć tarcze (lub przedmiot, który może działać jako tarcza) możesz blokować każdy atak w walce wręcz/bronią oraz wystarczy, że rzucisz **co najmniej tyle samo** sukcesów co atakujący.
+
+
   
 
   
