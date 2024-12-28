@@ -22,4 +22,6 @@ Wykupienie nowej zdolności kosztuje 200 PD za pierwszą, 400PD za drugą i 600P
 
 [Mechanika](Mechanika.md)
 
+[Umiejętnośći](Umiejętności.md)
+
 [Ekwipunek](Ekwipunek.md)
