@@ -7,28 +7,28 @@
 
 To prostu miara tego jak silna jest postać. Ile możesz wycisnąć na klatę, jak daleko rzucić i jak mocno przywalić. Im wyższa siła tym postać staje wyraźnie większa od innych ludzi. Cecha wpływa bezpośrednio na obrażenia zadawane w walce wręcz, oraz na maksymalny ciężar, jaki postać może udźwignąć.
 
-|||
-|--|--|
-|●|Dziecko|
-|● ●|Nastolatek|
-|● ● ●| Przeciętnie silny mężczyzna, przysiad ze 100kg na plecach to nie problem.|
-|● ● ● ●|Wyciśniesz stówkę na klatę parę razy.|
-|● ● ● ● ●|Z łatwością podniesiesz 100kg nad głowę|
-|● ● ● ● ●|Setką to pompujesz bicepsy | 
+||||
+|--|--|--|
+|●|...|Dziecko|
+|● ●|...|Nastolatek|
+|● ● ●|...|Przeciętnie silny mężczyzna, przysiad ze 100kg na plecach to nie problem.|
+|● ● ● ●|...|Wyciśniesz stówkę na klatę parę razy.|
+|● ● ● ● ●|...|Z łatwością podniesiesz 100kg nad głowę|
+|● ● ● ● ●|...|Setką to pompujesz bicepsy | 
 
 <h3>Spostrzegawczość</h3>
 
 Określa Twoją szeroko pojętą percepcje, zdolność do obserwowania i analizy otoczenia za pomocą wszystkich zmysłów Wysoka Spostrzegawczość jest potrzebna podczas przeszukiwania pomieszczeń, wykrywania pułapek oraz zakamuflowanych przeciwników. Wpływa bezpośrednio na inicjatywę.
 
 
-|||
-|--|--|
-|●|Tragiczny|
-|● ●|Słaby|
-|● ● ●| Przeciętnie|
-|● ● ● ●|Dobry|
-|● ● ● ● ●|Bardzo Dobry|
-|● ● ● ● ●|Wybitny| 
+||||
+|--|--|--|
+|●|Tragiczny|...|
+|● ●|Słaby|...|
+|● ● ●| Przeciętnie|...|
+|● ● ● ●|Dobry|...|
+|● ● ● ● ●|Bardzo Dobry|...|
+|● ● ● ● ●|Wybitny|...|
 
   
 
@@ -53,15 +53,14 @@ Szybkość, refleks, koordynacja i zwinność. Poziom sprawności określa jak d
 Determinacja, odwaga i odporność psychiczna. Od woli bezpośrednio zależy liczba punktów siły woli na sesji.
 
 
-|||
-|--|--|
-|●|Tragiczny|
-|● ●|Słaby|
-|● ● ●| Przeciętnie|
-|● ● ● ●|Dobry|
-|● ● ● ● ●|Bardzo Dobry|
-|● ● ● ● ●|Wybitny| 
-
+||||
+|--|--|--|
+|●|Tragiczny|...|
+|● ●|Słaby|...|
+|● ● ●| Przeciętnie|...|
+|● ● ● ●|Dobry|...|
+|● ● ● ● ●|Bardzo Dobry|...|
+|● ● ● ● ●|Wybitny|...|
 
   
 
@@ -70,15 +69,14 @@ Determinacja, odwaga i odporność psychiczna. Od woli bezpośrednio zależy lic
 Odporność organizmu na obrażenia, zmęczenie, choroby, trucizny i czynniki pogodowe. Ile jesteś w stanie znieść, zanim twój organizm siądzie. Długotrwałe biegi i marsze, zimno wiatr i deszcz, oraz pozbawienie snu, wszystko to będzie wymagać testu wytrzymałości. Wysoka wytrzymałość pozwoli też przyjąć więcej obrażeń.
 
 
-|||
-|--|--|
-|●|Tragiczny|
-|● ●|Słaby|
-|● ● ●| Przeciętnie|
-|● ● ● ●|Dobry|
-|● ● ● ● ●|Bardzo Dobry|
-|● ● ● ● ●|Wybitny| 
-
+||||
+|--|--|--|
+|●|Tragiczny|...|
+|● ●|Słaby|...|
+|● ● ●| Przeciętnie|...|
+|● ● ● ●|Dobry|...|
+|● ● ● ● ●|Bardzo Dobry|...|
+|● ● ● ● ●|Wybitny|...|
   
 
 <h2>Umiejętności Bojowe</h2>
@@ -171,41 +169,41 @@ Zdolność do wpływania na ludzi i narzucania im swojej woli, może przyjąć p
 
 Ogólna znajomość zasad i taktyk wszystkich znanych gier hazardowych, których wynik chociaż w jakimś stopniu zależy od umiejętności gracza.
 
-|||
-|--|--|
-|●|Tragiczny|
-|● ●|Słaby|
-|● ● ●| Przeciętnie|
-|● ● ● ●|Dobry|
-|● ● ● ● ●|Bardzo Dobry|
-|● ● ● ● ●|Wybitny| 
+||||
+|--|--|--|
+|●|Tragiczny|...|
+|● ●|Słaby|...|
+|● ● ●| Przeciętnie|...|
+|● ● ● ●|Dobry|...|
+|● ● ● ● ●|Bardzo Dobry|...|
+|● ● ● ● ●|Wybitny|...|
 
 <h3>Intuicja</h3>
 
 Zdolność do odgadnięcia uczuć i motywacji drugiej osoby, także do wyczucia kłamstwa. Niski poziom intuicji powoduje, że postać często pakuje się w niezręczne sytuacje.
 
-|||
-|--|--|
-|●|Tragiczny|
-|● ●|Słaby|
-|● ● ●| Przeciętnie|
-|● ● ● ●|Dobry|
-|● ● ● ● ●|Bardzo Dobry|
-|● ● ● ● ●|Wybitny| 
+||||
+|--|--|--|
+|●|Tragiczny|...|
+|● ●|Słaby|...|
+|● ● ●| Przeciętnie|...|
+|● ● ● ●|Dobry|...|
+|● ● ● ● ●|Bardzo Dobry|...|
+|● ● ● ● ●|Wybitny|...|
   
 
 <h3>Kamuflaż</h3>
 
 Umiejętność cichego poruszania, oraz ukrywania w terenie zarówno siebie jak i przedmiotów, oraz pojazdów.
 
-|||
-|--|--|
-|●|Tragiczny|
-|● ●|Słaby|
-|● ● ●| Przeciętnie|
-|● ● ● ●|Dobry|
-|● ● ● ● ●|Bardzo Dobry|
-|● ● ● ● ●|Wybitny| 
+||||
+|--|--|--|
+|●|Tragiczny|...|
+|● ●|Słaby|...|
+|● ● ●| Przeciętnie|...|
+|● ● ● ●|Dobry|...|
+|● ● ● ● ●|Bardzo Dobry|...|
+|● ● ● ● ●|Wybitny|...|
 
 <h3>Kradzież</h3>
 
@@ -224,24 +222,24 @@ Zręczność palców, pozwalająca cicho i niepostrzeżenie uwolnić kogoś od w
 <h3>Medycyna</h3>
 
 Leczenie chorób, chirurgia, znajomość leków. Trzy to poziom pielęgniarki albo aptekarza. Cztery to lekarz w miejskim szpitalu.
-|||
-|--|--|
-|●|Tragiczny|
-|● ●|Słaby|
-|● ● ●| Przeciętnie|
-|● ● ● ●|Dobry|
-|● ● ● ● ●|Bardzo Dobry|
-|● ● ● ● ●|Wybitny| 
+||||
+|--|--|--|
+|●|Tragiczny|...|
+|● ●|Słaby|...|
+|● ● ●| Przeciętnie|...|
+|● ● ● ●|Dobry|...|
+|● ● ● ● ●|Bardzo Dobry|...|
+|● ● ● ● ●|Wybitny|...|
   
 
 <h3>Wykształcenie</h3>
 
-|||
-|--|--|
-|●|Masz poważne problemy z czytaniem i pisaniem|
-|● ●|Skończyłeś szkołę|
-|● ● ●| Magister|
-|● ● ● ●|Doktor|
-|● ● ● ● ●|Profesor|
-|● ● ● ● ●|Być może dostaniesz kiedyś Nobla|   
+||||
+|--|--|--|
+|●|Tragiczny|...|
+|● ●|Słaby|...|
+|● ● ●| Przeciętnie|...|
+|● ● ● ●|Dobry|...|
+|● ● ● ● ●|Bardzo Dobry|...|
+|● ● ● ● ●|Wybitny|...|
 
