@@ -545,27 +545,38 @@ _Jeśli Rolf miałby zaletę Cyngiel – Iwan nie mógłby nic zrobić, żeby po
 
   
 
-ZAAWANSOWANE ZASADY
+<h2>Zasady Różne</h2>
 
-Wprowadzcie go jak ogarniecie podstawy już:
+<h4>Strzały w Głowę / Atak w punkty witalne.</h4>
 
+Deklarujesz przed rzutem na trafieni. Musisz przebić wymagane trafienie o jeden. Atak zadaje jeden punkt obrażeń więcej albo minimalnie 3 punkty obrażeń – wybierasz wyższą wartość. Jeśli postać nie nosi hełmu strzał w głowę również omija pancerz.
+
+<h4>Ominięcia Pancerza</h4>
+
+Deklarujesz przed rzutem na trafieni. Musisz przebić wymagane trafienie o jeden. Atak zadaje kostkę obrażeń mniej ale omija pancerz. Mogą istnieć pancerze bez luk.
+
+<h4>Walka/Strzelanie z lewej ręki</h4>
+
+Jeśli nie masz odpowiedniej zalety, tracisz kostkę w testach używając mniej sprawnej ręki.
   
 
+<h4>Ogłuszenie</h4>
+
+W tej mechanice nie ma „łatwych ogłuszeń”. Żeby postać straciła przytomność trzeba ją sprowadzić do zera żywotności albo w jednym ataku zadać tyle obrażeń ile wynosi jej **próg bólu**. Obie sytuacje mogą się skończyć śmiercią zamiast ogłuszeniem. Pewniejszymi metodami jest **rozbrojenie** i **obezwładnienie** (patrz niżej) albo użycie specjalnej broni (gumowe pociski albo paralizatory)
   
+<h4>Rozbrojenie</h4>
+
+Żeby kogoś rozbroić trzeba najpierw go trafić dowolnym atakiem używając kostki mniej na trafienie (można tą próbę dowolnie unikać albo kontrować.) Po trafieniu zamiast rzutu na obrażenia wykonuje się przeciwstawny test **Siły**. Jeśli udało się wygrać cel jest rozbrojony. Jeśli cel miał dwie sztuki broni w dłoniach rozbrojenie pozbawia go wszystkich.
+
+<h4>Obezwładnienie</h4>
+
+Żeby kogoś obezwładnić trzeba go najpierw trafić atakiem **Bez Broni** używając kostki mniej na trafienie. Cel obezwładnienia może ten atak unikać albo kontrować na normalnych zasadach. Po trafieniu zamiast rzutu na obrażenia wykonuje się przeciwstawny test **Siły**. Od tego momentu możesz go używać jako tarczy (przerzut do uników). Na początku swojej następnej tury możesz obezwładnionego udusić, zasztyletować, zastrzelić albo rozbroić bez żadnych dodatkowych testów. Obezwładniony może podjąć JEDNĄ i tylko JEDNĄ próbę uwolnienia się musi w przeciwstawnym teście siły uzyskać jeden sukces więcej niż trzymająca go postać.
+  
+<h4>Obezwładnienie bez Rozbrojenia</h4>
+
+Możesz spróbować obezwładnić cel od razu bez rozbrojenia. Tracisz wtedy dwie kostki z rzutu na trafienie i jedną kostkę z późniejszego testu siły.  
 
   
-
-**Rozbrojenie**: Tylko walka wręcz albo walka bronią, po trafieniu zamiast zadawać obrażenia wykonujesz przeciwstawny test siły, jeśli wygrasz rozbrajasz cel.
-
-  
-
-**Obezwładnienie**: Tylko walka wręcz, po trafieniu zamiast zadawać obrażenia wykonujesz przeciwstawny test siły, jeśli wygrasz obezwładniasz cel. Trzeba pamiętać, że atakując bez broni uzbrojonych przeciwników traci się dodatkową kostkę – więc może być rozsądniej najpierw cel rozbroić potem obezwładnić.
-
-Przeciwnik jest przez Ciebie obezwładniony. Od tego momentu możesz go używać jako tarczy (przerzut do uników). Na początku swojej następnej tury możesz obezwładnionego udusić, zasztyletować, zastrzelić albo rozbroić bez żadnych dodatkowych testów. Obezwładniony może podjąć JEDNĄ i tylko JEDNĄ próbę uwolnienia się musi wygrać wtedy przeciwstawny test siły.
-
-  
-
-*ataki w głowę/kończynę mogą ignorować pancerz – wszystko zależy czy cel ma hełm albo opancerzone kończyny
 
   
 
