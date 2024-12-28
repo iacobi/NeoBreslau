@@ -44,6 +44,10 @@ Podstawą mechaniki jest test za pomocą sześciu kostek k10. **Każda kostka, n
 Test zawsze dotyczy jednej jedynej umiejętności albo cechy. Nie ma żadnego dodawania albo wyciągania średniej, jeśli okaże się jakaś sytuacja, która w równej mierze wymaga dwóch umiejętności i nie można tego rozbić na osobne testy bierzemy pod uwagę mniejszą z dwóch umiejętności.
 
 Dla sprawnego przebiegu sesji potrzeba zastosowania dwóch zestawów sześciu k10 tj. jednego dla Graczy, drugiego dla Mistrza Gry. (Ideałem byłoby oczywiście, gdyby każda grająca osoba miała swoje sześć kości)
+  
+<h3>Test Przeciwstawny/Test Sporny</h3>
+
+Przeprowadzany kiedy konfrontujemy ze sobą dwie osoby, np. test sprawności podczas pościgu, albo charakteru podczas kłótni. Test przeciwstawny wygrywa postać, która uzyskała więcej sukcesów. W przypadku remisu wygrywa postać o wyższym poziomie umiejętności jeśli inne reguły nie móœią inaczej (np. w przypadku testu uniku, unikajaca postać musi wygrać - mieć więcej sukcesów).
 
 <h3>Przerzuty</h3>
 
@@ -52,10 +56,6 @@ Czasami postaci mogą przysługiwać przerzuty do testu (specjalne zdolności al
 <h3>Siła Woli</h3>
 
 Każdej postaci gracza podczas sesji przysługuje tyle punktów siły woli ile wynosi jej umiejętność **Wola.** Płacąc jeden punkt siły woli można w dowolnym momencie zamienić jedną z rzuconych kostek na automatyczny sukces. **Nie można kupić sukcesu na kości na której wypadło 0. Nie można kupić więcej niż dwóch sukcesów w jednym teście.** Siła Woli przyznawana jest raz na całą długość trwania sesji i podlega regeneracji tylko w specjalnych okolicznościach (np. zażywanie Lux)
-  
-<h3>Test Przeciwstawny/Test Sporny</h3>
-
-Przeprowadzany kiedy konfrontujemy ze sobą dwie osoby, np. test sprawności podczas pościgu, albo charakteru podczas kłótni. Test przeciwstawny wygrywa postać, która uzyskała więcej sukcesów. W przypadku remisu wygrywa postać o wyższym poziomie umiejętności jeśli inne reguły nie móœią inaczej (np. w przypadku testu uniku, unikajaca postać musi wygrać - mieć więcej sukcesów).
 
 <h3>Moc MG</h3>
 
@@ -69,14 +69,12 @@ Kiedy żywotnosć postaci osiągnie poziom zero - traci przytomność. Jeśli ut
 
 Jeśli obrażenia spowodują, że żywotność spadła by poniżej zera - trzeba zawsze udzielić pomocy medycznej. W przypadku nieważnych NPC postać poprostu umiera.
 
-
 Regeneracje żywotności ustala MG według własnego uznania, jeśli np. została tylko dotkliwie pobita bez żadnych trwałych uszkodzeń, żywotność może wracać w tempie np. dwóch punktów dziennie. Regeneracja po ranie postrzałowej to punkt żywotności na kilka dni.
 
 
 <h3>Próg Bólu</h3>
 
 Dla przeciętnego człowieka jest równy 3. Kiedy wskutek jednego ataku postać straci tyle żywotności ile wynosi jej próg bólu staje się niezdolna do walki przez kilka minut wskutek bólu, szoku albo utraty krwi. Może stracić przytomność na krótki czas, albo być absolutnie niezdolna do ruszania się i patrzeć tępo na krwawiąca ranę. Można zignorować ten efekt płacąc punktem Siły Woli.
-
 
 <h3>Kiedy Postać spadnie do zera żywotności</h3>
 
@@ -91,24 +89,17 @@ Zwykli ludzie: trup
 
 Postacie graczy/Twardzi NPC: Test Wytrzymałośći albo Woli – gracz wybiera lepszą dla siebie umiejętność, jeśli otrzyma tyle sukcesów ile punktów jest na minusie – może wrócić do akcji po kilku minutach tracąc dwie kostki z każdego testu. Płacąc punkt SW może wrócić do akcji natychmiast.
 
-
-
 <h3>Punkty Doświadczenia</h3>
 
 Standardowo na sesje przyznaje się od 80 do 120 PD. Dzięki temu gracz średnio co sesje może kupić nowy poziom umiejętności. To optymalny rozwój jeśli gracie mniej więcej raz w miesiącu.
 
-  
-
-Jeśli sesją są dużo częściej np. co tydzień i przed wami jest długa kampania na kilkadziesiąt przygód to lepszym wyjściem jest przyznawanie około 50PD na sesje.
-
-  
+Jeśli sesją są dużo częściej np. co tydzień i przed wami jest długa kampania na kilkadziesiąt przygód to lepszym wyjściem jest przyznawanie około 50PD na sesje.  
 
 Każdy poziom od 1 do 4 kosztuje 100 PD
 
 Poziom 5 kosztuje 200PD
 
 Poziom 6 kosztuje 300PD
-
 
 <h2>Mechanika Walki</h2> 
 
@@ -240,10 +231,6 @@ Z reguły nie bawimy się w mierzenie linijką kto ile może przebiec w jednej t
 **Atak z Zaskoczenia**
 
 Wykonując atak z zaskoczenia, atakujący dostają jedną darmową turę, w której wróg nie może nic zrobić.
-
-  
-
-  
 
   
 
