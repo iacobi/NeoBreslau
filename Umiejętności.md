@@ -11,9 +11,9 @@ To prostu miara tego jak silna jest postać. Ile możesz wycisnąć na klatę, j
 |--|--|--|
 |●|...|Dziecko|
 |● ●|...|Nastolatek|
-|● ● ●|...|Przeciętnie silny mężczyzna, przysiad ze 100kg na plecach to nie problem.|
+|● ● ●|...|Przeciętnie silny mężczyzna, kilka przysiadów ze 100kg na plecach to nie problem.|
 |● ● ● ●|...|Wyciśniesz stówkę na klatę parę razy.|
-|● ● ● ● ●|...|Z łatwością podniesiesz 100kg nad głowę|
+|● ● ● ● ●|...|Jesteś w stanie podnieść 100kg nad głowę|
 |● ● ● ● ●|...|Setką to pompujesz bicepsy | 
 
 <h3>Spostrzegawczość</h3>
