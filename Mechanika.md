@@ -11,15 +11,15 @@ Każda postać jest opisana przez kilkanaście umiejętności przyjmujące warto
 
 2: **Kiepski**: Poniżej poziomu kompetencji ale to już nie tragedia.
 
-3: **Przeciętny**, postać może pracować w dziedzinie związanej z umiejętnością np. przeciętne medycyna pozwala na otworzenie praktyki lekarskiej.
+3: **Przeciętny:** postać może pracować w dziedzinie związanej z umiejętnością np. przeciętne medycyna pozwala na otworzenie praktyki lekarskiej.
 
-4: **Dobry**: Fachowiec, jesteś w stanie wykładać tą dziedzinę na uczelni
+4: **Dobry:** Fachowiec, jesteś w stanie wykładać tą dziedzinę na uczelni
 
-5: **Bardzo Dobry**, świetne zorientowanie w temacie, jest w stanie wykładać dziedzinę na uczelni
+5: **Bardzo Dobry:** świetne zorientowanie w temacie, jest w stanie wykładać dziedzinę na uczelni
 
-6: **Ekspert** – światowej klasy specjalista
+6: **Ekspert:** – światowej klasy specjalista
 
-7: **Wybitny** – Poziom olimpijskiego kilka osób na świecie ma ten poziom jeśli całe życie poświęcili tej dziedzinie. Postacie graczy nie mogą naturalnie rozwinąć swoich umiejętności do tego poziomu, ale są w stanie osiągnąć go za pomocą cybernetyki albo specjalnych kombinacji wad i zalet.
+7: **Wybitny:** – Poziom olimpijskiego kilka osób na świecie ma ten poziom jeśli całe życie poświęcili tej dziedzinie. Postacie graczy nie mogą naturalnie rozwinąć swoich umiejętności do tego poziomu, ale są w stanie osiągnąć go za pomocą cybernetyki albo specjalnych kombinacji wad i zalet.
 
 Przy każdym poziomie umieszczone są słowa klucze: "kiepski" "przeciętny", "dobry" – służą one temu, żeby podczas gry przekazywać informacje o mechanice np. Nikt nie powie, że pilotuje statki na 4, tylko „jestem dobrym pilotem”.
 
@@ -31,56 +31,44 @@ Podstawą mechaniki jest test za pomocą sześciu kostek k10. **Każda kostka, n
 
 1.  Łatwe (otwarcie zwykłego zamka, proste naprawy)
     
-2.  Problematyczne (zoperowanie rany postrzałowej)
+2.  Problematyczne (zoperowanie rany postrzałowej, trafienie celu w walce)
     
 3.  Trudne (wspinaczka po śliskiej ścianie, włamanie na dobrze zabezpieczony serwer)
     
-4.  Bardzo Trudne
+4.  Bardzo Trudne (skomplikowana operacja na mózgu)
     
-5.  Ekstremalnie Trudne.
+5.  Ekstremalnie Trudne (...)
     
-6.  Legendarne.
+6.  Praktycznie Niemożliwe (...)
     
-
-  
-
 Test zawsze dotyczy jednej jedynej umiejętności albo cechy. Nie ma żadnego dodawania albo wyciągania średniej, jeśli okaże się jakaś sytuacja, która w równej mierze wymaga dwóch umiejętności i nie można tego rozbić na osobne testy bierzemy pod uwagę mniejszą z dwóch umiejętności.
 
-Słowa klucze poziomów trudności funkcjonują tak samo jak przy poziomach umiejętności. Zamiast mówić „To zadanie wymaga 3 sukcesów”. Można powiedzieć, że „To trudne zadanie”
-
-  
-
 Dla sprawnego przebiegu sesji potrzeba zastosowania dwóch zestawów sześciu k10 tj. jednego dla Graczy, drugiego dla Mistrza Gry. (Ideałem byłoby oczywiście, gdyby każda grająca osoba miała swoje sześć kości)
-
-  
 
 <h3>Przerzuty</h3>
 
 Czasami postaci mogą przysługiwać przerzuty do testu (specjalne zdolności albo lepszy sprzęt). Jeden przerzut pozwala na przerzucanie jednej kostki, wynik na tej kostce trzeba zaakceptować. **Nie można przerzucać kostek na których wypadło 0. Nie można przerzucać dwa razy tej samej kostki.**
 
+<h3>Siła Woli</h3>
+
+Każdej postaci gracza podczas sesji przysługuje tyle punktów siły woli ile wynosi jej umiejętność **Wola.** Płacąc jeden punkt siły woli można w dowolnym momencie zamienić jedną z rzuconych kostek na automatyczny sukces. **Nie można kupić sukcesu na kości na której wypadło 0. Nie można kupić więcej niż dwóch sukcesów w jednym teście.** Siła Woli przyznawana jest raz na całą długość trwania sesji i podlega regeneracji tylko w specjalnych okolicznościach (np. zażywanie Lux)
   
-
-<h3>Moc</h3>
-
-Każdej postaci gracza podczas sesji przysługuje tyle punktów siły woli ile wynosi jej umiejętność **Wola.** Płacąc jeden punkt siły woli można w dowolnym momencie zamienić jedną z rzuconych kostek na automatyczny sukces. **Nie można kupić sukcesu na kości na której wypadło 0. Nie można kupić więcej niż dwóch sukcesów w jednym teście.** Siła Woli przyznawana jest raz na całą długość trwania sesji i normalnie nie podlega regeneracji – MG może zdecydować inaczej jeśli przygotował wyjątkowo długą sesje.
-
-  
-
 <h3>Test Przeciwstawny/Test Sporny</h3>
 
-  
-
-Przeprowadzany kiedy konfrontujemy ze sobą dwie osoby, np. test sprawności podczas pościgu, albo charakteru podczas kłótni. Test przeciwstawny wygrywa postać, która uzyskała więcej sukcesów. W przypadku tej samej liczby sukcesów, rozstrzyga MG np. wygrywa postać o wyższym poziomie umiejętności, albo która miała jakąś drobną przewagę nie uwzględnioną przez normalną mechanikę. Może też wprowadzić do świata gry remis np. pościg trwa tak długo i między biegnącymi cały czas jest ten sam dystans, można zarządzić kolejny test np. wytrzymałości, żeby sprawdzić kto padnie pierwszy.
+Przeprowadzany kiedy konfrontujemy ze sobą dwie osoby, np. test sprawności podczas pościgu, albo charakteru podczas kłótni. Test przeciwstawny wygrywa postać, która uzyskała więcej sukcesów. W przypadku remisu wygrywa postać o wyższym poziomie umiejętności jeśli inne reguły nie móœią inaczej (np. w przypadku testu uniku, unikajaca postać musi wygrać - mieć więcej sukcesów).
 
 <h3>Moc MG</h3>
 
 MG podczas sesji dysponuje swoimi punktami mocy w liczbie równej postaciom graczy na sesji (niektóre wady mogą zmienić tą wartość). Wydając punkt mocy MG może dodać dwa sukcesy do testu umiejętności dowolnego Bohatera Niezależnego, niezlażnie od ilości rzuconych kostek i na ilu z nich wypadły zera.
 
-<h3>Żywotność**
+<h3>Żywotność</h3>
 
 Postać dostaje tyle punktów Żywotności ile wynosi jej Wytrzymałość. Przeciętny człowiek ma trzy punkty żywotności – dlatego utrata chociaż jednego punktu żywotności to bardzo dużo.
 
-.
+Kiedy żywotnosć postaci osiągnie poziom zero - traci przytomność. Jeśli utrata żywotności zaszła wskutek pobicia albo upadku - będzie w stanie sama wsta i się opatrzyć. Jeśli
+
+Jeśli obrażenia spowodują, że żywotność spadła by poniżej zera - trzeba zawsze udzielić pomocy medycznej. W przypadku nieważnych NPC postać poprostu umiera.
+
 
 Regeneracje żywotności ustala MG według własnego uznania, jeśli np. została tylko dotkliwie pobita bez żadnych trwałych uszkodzeń, żywotność może wracać w tempie np. dwóch punktów dziennie. Regeneracja po ranie postrzałowej to punkt żywotności na kilka dni.
 
@@ -88,7 +76,6 @@ Regeneracje żywotności ustala MG według własnego uznania, jeśli np. został
 <h3>Próg Bólu</h3>
 
 Dla przeciętnego człowieka jest równy 3. Kiedy wskutek jednego ataku postać straci tyle żywotności ile wynosi jej próg bólu staje się niezdolna do walki przez kilka minut wskutek bólu, szoku albo utraty krwi. Może stracić przytomność na krótki czas, albo być absolutnie niezdolna do ruszania się i patrzeć tępo na krwawiąca ranę. Można zignorować ten efekt płacąc punktem Siły Woli.
-
 
 
 <h3>Kiedy Postać spadnie do zera żywotności</h3>
@@ -122,21 +109,6 @@ Poziom 5 kosztuje 200PD
 
 Poziom 6 kosztuje 300PD
 
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
 
 <h2>Skrótowy opis umiejętności:</h2>
 
@@ -390,7 +362,7 @@ Leczenie chorób, chirurgia, znajomość leków. Trzy to poziom pielęgniarki al
 
 **Inicjatywa: Sprawność + Spostrzegawczość + k10**
 
-Inicjatywa postaci to suma jej _sprawności_ i _spostrzegawczości_ i rzutu k10. Wszystkie postacie wykonują swoje akcje zaczynając od tej z najwyższą inicjatywą, kończąc na tej z najniższą. Niektóre akcje (jak np. rzut granatem, strzały mierzone) powodują spadek **„na koniec tury”**. Postać wypada wtedy z normalnej kolejki akcji i czeka na swoją kolej na końcu tury. Jeśli kilka postaci spadnie na koniec tury, wtedy ich akcje wykonuje się z zgodnie z porządkiem inicjatywy.. Dla uproszczenia, jeśli gracze i BN'i mają taką samą wartość inicjatywy, gracze zawsze działają pierwsi. Turę traktujemy jako **kilka sekund** czasu rzeczywistego.
+Inicjatywa postaci to suma jej _sprawności_ i _spostrzegawczości_ i rzutu k10. Wszystkie postacie wykonują swoje akcje zaczynając od tej z najwyższą inicjatywą, kończąc na tej z najniższą. Dla uproszczenia, jeśli gracze i BN'i mają taką samą wartość inicjatywy, gracze zawsze działają pierwsi. Turę traktujemy jako **kilka sekund** czasu rzeczywistego.
 
 <h3>Lokacja Trafienia</h3>
 
@@ -608,16 +580,6 @@ Jeśli postać chce może jako kontry użyć broni palnej (lub kuszy). Wtedy wys
 **Kontra Ogniem Ciągłym (opcjonalne)**
 
 Jeśli masz broń zdolną do ognia ciągłego możesz dzięki tej sile ognia kontrować nawet innych strzelających. Zasady jak normalna kontra. (wystarczy zremisować z atakującymi Cię wręcz, ale trzeba wygrać ze strzelającymi.) Dodatkowo po udanej kontrze, przejmujesz inicjatywę i możesz wykonać jeszcze jeden szybki atak w dowolny cel w zasięgu. Kontra Ogniem Ciągłym tak jak ogień ciągły zużywa 15 pocisków i dostaje dodatkową kostkę obrażeń. Ogniem Ciągłym można też kontrować ruch postaci.
-
-  
-
-  
-
-**Unikanie Broni Palnej (opcjonalne)**
-
-Jeśli postać nie wykonała żadnej akcji w rundzie – może uniknąć ataku bronią palną. Rzuca się na ziemie albo za osłonę zanim atakujący wycelował i wystrzelił, ale traci wtedy całą turę.
-
-  
 
   
 
