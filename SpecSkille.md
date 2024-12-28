@@ -3,6 +3,8 @@
 Niektóre zdolności mają alternatywne wersje oznaczone *, nie można mieć jednocześnie wersji podstawoej i alternatywnej. Np. postać musi wybrać czy chce zaletę **Cwaniak** czy **Złodziej**
 <hr>
 
+**Aegis** : Bardzo dobrze posługujesz się tarczą retrokinetyczną. Masz o jeden ładunek więcej niż normalni ludzie. Kiedy rzucasz na redukcje obrażeń możesz rzucić po zobaczeniu rzutu na obrażenia i możesz zużyć kilka ładunków w jednym rzucie. Rzucasz wtedy tyloma kostkami ile zużywasz ładunków, wybierasz najwyższą kostkę.
+
 **Charyzma** : Przerzut do **Charakteru**. Możesz dawać innym ludziom swoje punkty SW
 >
 >**\*Empata** : Przerzut do **Charakteru** i **Intuicji**
