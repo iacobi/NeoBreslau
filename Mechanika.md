@@ -367,85 +367,8 @@ Inicjatywa postaci to suma jej _sprawności_ i _spostrzegawczości_ i rzutu k10.
 <h3>Lokacja Trafienia</h3>
 
 Brak. Nie ma żadnej specjalnej mechaniki za to odpowiadającej. MG po prostu arbitralnie ustala gdzie kto oberwał zgodnie z własnym zdrowym rozsądkiem i sytuacji panującej w grze. Takie małe uproszczenie dla przyspieszenia rozgrywki. Zakładamy, że podczas wymiany ognia większość ludzi celuje w korpus
-  
-
-<h3>Pancerz</h3>
-
-Od zadanych obrażeń odejmujemy wartość pancerza . Dopiero ta wartość to stracona żywotność.
-
-Lekki i Średni pancerz można ominąć celując w głowę albo w kończyny. Ciężki Pancerz zawsze ma pełną osłonę głowy i można go ominąć strzelając tylko w kończyny.
 
   
-
-
-<h3>Ataki</h3>
-
-Są dwa rodzaje ataków, szybkie ataki i potężne ataki, dla broni strzeleckiej szybkie strzały i strzały mierzone. Postać może wykonać **dwa szybkie ataki w rundzie**, albo szybki atak i jakąś akcje jak np. wyciągnięcie innej broni. Może wykonać jeden **potężny atak** albo **strzał mierzony**, który zajmuję całą turę.
-
--   Rzut na trafienie podczas **szybkich** **ataków** i **szybkich** **strzałów** wykonuje się **5 kostkami.**
--   Rzut na trafienie podczas **potężnych** **ataków** albo **strzałów** **mierzonych** wykonuje się **6 kostkami.**
--   **Szybkie ataki tracą jedną kostkę z rzutu na trafienie i rzutu na obrażenia**
--   **Szybkie strzały tracą jedną kostkę z rzutu na trafienie, obrażenia pozostają bez zmian**
-    
-
-  
-
-<h3>Poziom Trudności</h3>
-
-Standardowy poziom trudności trafienia kogoś w walce wręcz to **2**, ale MG może dowolnie modyfikować to zależnie od sytuacji. Np. walka po ciemku, albo po kolana w błocie.
-
-Przy atakach strzeleckich PT bywa bardziej zmienna i jest ustalane przez MG.
-
-  
-
-  
-
-  
-
-<h3>Przerzut</h3>
-
-Jeśli broń daje przerzut można przerzucić kostkę w rzucie na trafienie, albo w rzucie na obrażenia Np. szabla może przerzucić dwie kostki testu na trafienie albo jedną kostkę teście na trafienie i jedną kostkę testu na obrażenia, albo dwie kostki w teście na obrażenia. Każdą kostkę można przerzucać tylko raz na test.
-
-<h3>Unik</h3>
-
-Postaci przysługuje jeden unik na turę. Jest to **akcja darmowa** i pozwala uniknąć dowolnego ataku pięściami, bronią do walki wręcz albo miotaną (również granatów). Wystarczy, że w teście sprawności wyrzuci **więcej** sukcesów niż atakujący w rzucie na trafienie. Unik ma identyczne zasady dla postaci prowadzącej albo pilotującej pojazdy, tylko zamiast sprawności używa się umiejętności odpowiadającej za sterowanie pojazdem – opisane w zasadach dla pojazów.
-
-<h3>Blok</h3>
-
-**Używasz zamiast uniku**. W walce wręcz używając swojej siły możesz zablokować każdy atak **nieuzbrojonego przeciwnika** jeśli w teście siły wyrzucisz **więcej** sukcesów niż atakujący w rzucie na trafienie. Jeśli uda ci się znaleźć tarcze (lub przedmiot, który może działać jako tarcza) możesz blokować każdy atak w walce wręcz/bronią oraz wystarczy, że rzucisz **co najmniej tyle samo** sukcesów co atakujący.
-
-<h3>Kontra</h3>
-
-Jeśli postać jeszcze nie wykonała żadnej akcji w tej turze może skontrować wrogi atak w walce wręcz. Wykonuje swój **potężny atak** i porównuje wynik z atakiem przeciwnika. Jeśli uzyska **więcej** sukcesów to właśnie ona zadaje obrażenia (dolicza się jedna dodatkowa kostka obrażeń za potężny atak). Niezależnie czy kontra się powiodła czy nie, postać traci swoją pozostałą turę. Można unikać i kontrować ten sam atak w dowolnej kolejności.
-
-<h3>"Na koniec tury"</h3>
-
-Jeśli jakiś manewr, przedmiot, umiejętność mówi, że korzystająca z tego postać spada na koniec tury to znaczy, że spada na koniec kolejki inicjatywy i wszyscy pozostali wykonują swoje akcje przed nią. Jeśli kilka postaci spada na koniec tury wykonują one tam swoje akcje zgodnie z inicjatywą. Przykład postacie: A(9), B(8), C(6). (w nawiasach wartości inicjatywy). A deklaruje użycie granatu – spada na koniec tury. B atakuje maczetą, więc działa normalnie. C też deklaruje użycie granatu – spada na koniec tury. Nie już innych postaci w tej turzę, więc teraz akcje wykonuje A, a potem C.
-
-  
-
-<h3>Ścisk</h3>
-
-Jeśli postać znajdzie się w trudnym terenie jak mały tunel, okop, albo ściśnięta w tłumie nie może efektywnie używać długich broni jak np. szable. Ta broń w takich warunkach traci wszystkie swoje przerzuty.
-
-  
-
-<h3>Ruch w walce</h3>
-
-Z reguły nie bawimy się w mierzenie linijką kto ile może przebiec w jednej turze. Dla potrzeb walki wręcz zakładamy, że w zasięgu ataku jest każda postać w odległości równej Sprawności w metrach.
-
-  
-
-<h3>Lewa Ręka</h3>
-
-Jeśli postać musi posługiwać się mniej sprawną ręką – traci kostkę z testów. Wyjątkiem będą testy powiązane jakoś z zaletami postaci – zakładamy, że Cyngiel strzela tak samo dobrze lewą i prawą ręką, a Fantom tak samo sprawnie kradnie.
-
-  
-
-  
-
-  
-
 <h3>Obrażenia</h3>
 
 Każda broń ma przypisane swoje obrażenia. Zapisane jakością i ilością kostek. Jakość to słabe/zwykłe/silne. Ilość wiadomo. Kostki mają jeszcze swoją siłę, którą testujemy. W przypadku broni mechanicznych to zawsze 6. W przypadku broni do walki wręcz to siła postaci. Każda kostka na której wypadło 6 lub mniej (albo siłą postaci i mniej) to obrażenie. Dodatkowo jeśli kostki są opisane jako silne, zadajemy dodatkowe obrażenie, za każdą 1 i 2. Jeśli kostki są zwykłe dodatkowe obrażenie jest na 1. Słabe kostki nie mają żadnych dodatkowych obrażeń.
@@ -496,16 +419,67 @@ Gdyby słabe, zadałby 2. (słabe kostki nie zadają dodatkowych obrażeń.
 
 Obrażenia to liczba punktów żywotności, którą traci cel (minus ewentualny pancerz)
 
-  
+
+
+<h3>Pancerz</h3>
+
+Od zadanych obrażeń odejmujemy wartość pancerza . Dopiero ta wartość to stracona żywotność.
+
+Lekki i Średni pancerz można ominąć celując w głowę albo w kończyny. Ciężki Pancerz zawsze ma pełną osłonę głowy i można go ominąć strzelając tylko w kończyny.
 
   
 
 
+<h3>Ataki</h3>
+
+Są dwa rodzaje ataków, szybkie ataki i potężne ataki, dla broni strzeleckiej szybkie strzały i strzały mierzone. Postać może wykonać **dwa szybkie ataki w rundzie**, albo szybki atak i jakąś akcje jak np. wyciągnięcie innej broni. Może wykonać jeden **potężny atak** albo **strzał mierzony**, który zajmuję całą turę.
+
+-   Rzut na trafienie podczas **szybkich** **ataków** i **szybkich** **strzałów** wykonuje się **5 kostkami.**
+-   Rzut na trafienie podczas **potężnych** **ataków** albo **strzałów** **mierzonych** wykonuje się **6 kostkami.**
+-   **Szybkie ataki tracą jedną kostkę z rzutu na trafienie i rzutu na obrażenia**
+-   **Szybkie strzały tracą jedną kostkę z rzutu na trafienie, obrażenia pozostają bez zmian**
+    
+
   
 
-**Granaty**
+<h3>Poziom Trudności</h3>
 
-Używając granatu spadasz na koniec tury. PT trafienia wyznacza MG, zazwyczaj nie jest wysokie ponieważ trzeba rzucić tylko gdzieś w pobliże celu, nie idealnie w cel.
+Standardowy poziom trudności trafienia kogoś w walce wręcz to **2**, ale MG może dowolnie modyfikować to zależnie od sytuacji. Np. walka po ciemku, albo po kolana w błocie.
+
+Przy atakach strzeleckich PT bywa bardziej zmienna i jest ustalane przez MG.
+
+
+
+<h3>Przerzut</h3>
+
+Jeśli broń daje przerzut można przerzucić kostkę w rzucie na trafienie, albo w rzucie na obrażenia Np. szabla może przerzucić dwie kostki testu na trafienie albo jedną kostkę teście na trafienie i jedną kostkę testu na obrażenia, albo dwie kostki w teście na obrażenia. Każdą kostkę można przerzucać tylko raz na test.
+
+<h3>Unik</h3>
+
+Postaci przysługuje jeden unik na turę. Jest to **akcja darmowa** i pozwala uniknąć dowolnego ataku pięściami, bronią do walki wręcz albo miotaną (również granatów). Wystarczy, że w teście sprawności wyrzuci **więcej** sukcesów niż atakujący w rzucie na trafienie. Unik ma identyczne zasady dla postaci prowadzącej albo pilotującej pojazdy, tylko zamiast sprawności używa się umiejętności odpowiadającej za sterowanie pojazdem – opisane w zasadach dla pojazów.
+
+<h3>Kontra</h3>
+
+Jeśli postać jeszcze nie wykonała żadnej akcji w tej turze może skontrować wrogi atak w walce wręcz. Wykonuje swój **potężny atak** i porównuje wynik z atakiem przeciwnika. Jeśli uzyska **więcej** sukcesów to właśnie ona zadaje obrażenia. Niezależnie czy kontra się powiodła czy nie, postać traci swoją pozostałą turę. Można unikać i kontrować ten sam atak w dowolnej kolejności.
+
+<h3>"Na koniec tury"</h3>
+
+Jeśli jakiś manewr, przedmiot, umiejętność mówi, że korzystająca z tego postać spada na koniec tury to znaczy, że spada na koniec kolejki inicjatywy i wszyscy pozostali wykonują swoje akcje przed nią. Jeśli kilka postaci spada na koniec tury wykonują one tam swoje akcje zgodnie z inicjatywą. Przykład postacie: A(9), B(8), C(6). (w nawiasach wartości inicjatywy). A deklaruje użycie granatu – spada na koniec tury. B atakuje maczetą, więc działa normalnie. C też deklaruje użycie granatu – spada na koniec tury. Nie już innych postaci w tej turzę, więc teraz akcje wykonuje A, a potem C.
+
+  
+
+<h3>Ścisk</h3>
+
+Jeśli postać znajdzie się w trudnym terenie jak mały tunel, okop, albo ściśnięta w tłumie nie może efektywnie używać długich broni jak np. szable. Ta broń w takich warunkach traci wszystkie swoje przerzuty.
+
+  
+
+<h3>Ruch w walce</h3>
+
+Z reguły nie bawimy się w mierzenie linijką kto ile może przebiec w jednej turze. Dla potrzeb walki wręcz zakładamy, że w zasięgu ataku jest każda postać w odległości równej Sprawności w metrach.
+
+  
+
 
   
 
@@ -558,7 +532,6 @@ Deklarujesz przed rzutem na trafieni. Musisz przebić wymagane trafienie o jeden
 <h4>Walka/Strzelanie z lewej ręki</h4>
 
 Jeśli nie masz odpowiedniej zalety, tracisz kostkę w testach używając mniej sprawnej ręki.
-  
 
 <h4>Ogłuszenie</h4>
 
@@ -575,53 +548,3 @@ W tej mechanice nie ma „łatwych ogłuszeń”. Żeby postać straciła przyto
 <h4>Obezwładnienie bez Rozbrojenia</h4>
 
 Możesz spróbować obezwładnić cel od razu bez rozbrojenia. Tracisz wtedy dwie kostki z rzutu na trafienie i jedną kostkę z późniejszego testu siły.  
-
-  
-
-  
-
-  
-
-**Kontra Bronią Palną (opcjonalne)**
-
-Jeśli postać chce może jako kontry użyć broni palnej (lub kuszy). Wtedy wystarczy, **zremisować** z atakującym przeciwnikiem, żeby przerwać jego atak i zadać obrażenia.
-
-  
-
-**Kontra Ogniem Ciągłym (opcjonalne)**
-
-Jeśli masz broń zdolną do ognia ciągłego możesz dzięki tej sile ognia kontrować nawet innych strzelających. Zasady jak normalna kontra. (wystarczy zremisować z atakującymi Cię wręcz, ale trzeba wygrać ze strzelającymi.) Dodatkowo po udanej kontrze, przejmujesz inicjatywę i możesz wykonać jeszcze jeden szybki atak w dowolny cel w zasięgu. Kontra Ogniem Ciągłym tak jak ogień ciągły zużywa 15 pocisków i dostaje dodatkową kostkę obrażeń. Ogniem Ciągłym można też kontrować ruch postaci.
-
-  
-
-  
-
-**Zasady Obciążenia**
-
-Większość graczy z powodzeniem ignoruje zasady obciążenia – wiadomo na sesji są zazwyczaj ciekawsze rzeczy do roboty niż liczenie ile kilogramów ma na sobie postać, ale bywają przygody kiedy przenoszony sprzęt jest kluczowym elementem scenariusza, a od decyzji czego i ile postać zabierze na pieszą wyprawę w głąb dżungli, albo na pustynie zależy jej życie.
-
-Dla prostego rachunku ustalamy, że obciążenie bojowe każdej postaci to Siła*10kg. Czyli 30kg dla przeciętnego faceta. To maksymalna waga ekwipunku z którym postać może chodzić i walczyć przez kilka dni bez żadnych efektów ubocznych. Oczywiście podnieść i przenieść może o wiele więcej, ale zakładamy, że to jest optymalna waga, której żadna rozsądna osoba nie przekracza.
-
-
-
-
-
-  
-
-**Walka strzelecka na dalekie odległości [eksperymentalnie]**
-
-Jeśli prowadzimy walkę strzelecką na dalekie odległości (tak powyżej 300 metrów) zmieniamy trochę zasady. Jedna tura trwa około minuty, krótkie akcje takie jak zmiany magazynków i drobne zmiany położenia są nieistotne. Każda broń zadaje jedną kostkę obrażeń mniej. Pistolety i Strzelby nie liczą się na tych odległościach i każdej postaci przysługuje tylko jeden atak w zależności od tego jak jest uzbrojona.
-
-  
-
-**Karabiny Szturmowe – 5 kostek na trafienie, zużywają 10 pocisków. Odpadają po 500 metrach**
-
-**Karabiny Bojowe 7,62x51 – 5 kostek na trafienie, zużywają 5 pocisków. Odpadają po kilometrze**
-
-**Karabiny Maszynowe – 6 kostek na trafienie, zużywają 20 pocisków. Odpadają po kilometrze**
-
-**Karabiny Snajperskie – 6 kostek na trafienie, zużywają 1 pocisk.**
-
-  
-
-**Standardowe PT na te odległości to 3 dla stojącego celu, 4 dla próbującego się ukryć**
