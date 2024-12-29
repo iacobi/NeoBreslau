@@ -59,7 +59,7 @@
 
 **\*Dubeltówka:** jeśli wystrzeli z obu rur podczas jednego ataku, zadaje kostke obrażeń więcej i ma jeden przerzut do ataku (tylko na trafienie)
 
-**\*\*Karabiny Maszynowe:** KKarabiny maszynowe nie otrzymują +1 za zainstalowanie optyki. **Ogień Ciągły** zużywa 20 pocisków zamiast 15, ale broń ta otrzymuje jeden przerzut na każdy atak w ogniu ciągłym. Mogą wykonać **Ogień Zaporowy**. Jeśli przeciwnik wykona dowolną akcję, w której rzucał kostkami, postać może zadeklarować ogień zaporowy i przerwać tę akcję, jeśli uzyska więcej sukcesów w teście trafienia niż przeciwnik w swojej akcji. Obie postacie tracą wtedy tę turę. Postać wykonująca Ogień Zaporowy zużywa 20 pocisków.
+**\*\*Karabiny Maszynowe:** Karabiny maszynowe nie otrzymują +1 za zainstalowanie optyki albo cyberoptyki **Ogień Ciągły** zużywa 20 pocisków zamiast 15, ale każdy rzut na trafienei wykonuje się 6 kostkami.
 
 <h2>Modyfikacje Broni</h2>
 
