@@ -115,6 +115,7 @@ Przerzut do testów **Kamuflażu**. Maskuje ślad termiczny i elektromagnetyczny
 
 Za każdym razem kiedy postać ma otrzymać obrażenia od broni palnej i materiałów wybuchowych rzuca 1k10 i obniża otrzymane obrażenia. "0" jest liczone jako 10. Tarcza nie działa na broń białą.Pancerz postaci działa normalnie i również redukuje obrażenia. Jedna tarcza ma 6 ładunków i tyle razy można jej użyć przed ładowaniem albo wymianą.
 Aktywna Tarcza otacza postać widoczną przezroczystą poświatą, jest słyszalna z kilkunastu metrów. oraz jest natychmiast widoczna dla zwiadu elektronicznego (Scrambler) i w termowizji. **Postać traci kostkę z każdego testu Kamuflażu** kiedy nosi aktywną tarczę retrokinetyczną. Wyłączenie tarczy jest natychmiastowe ale aktywacja zajmuje turę.
+Tarcze można podpiąć do zewnętrznego źródła energii np. baterii samochodu wtedy ilość ładunków jest wieloktornie większa, ale używający jej musi cały czas pozostawać podłączony kablem.
 
 <h2> Drony </h2>
 
