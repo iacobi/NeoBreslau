@@ -22,7 +22,9 @@ Wybierasz trzy dowolne przedmioty
 
 **TraumaPack** (4 sztuki) - regeneracja Żywotności
 
-**Narzędzia** : 
+**Narzędzia** : torba z narzędziami mechanika albo elektronika
+
+**TacMod** : moduł do walki elektronicznej, zakłócanie dron i przejmowanie kontroli nad pojazdami.
 
 **Optyka** - +1 podczas strzałów mierzonych
 
