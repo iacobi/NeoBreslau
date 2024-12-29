@@ -129,43 +129,18 @@ umiejętności **Oprogramowanie**. Postać nadal musi poświęcić swoją turę,
 
 <h2> Scrambler </h2>
 
-Scrambler to narzędzie do walki elektronicznej. Zazwyczaj jest to plecak z zestawem anten i interfejsem. Może być podłączony sprzęgiem. Scrambler ma zasięg 50 metrów.
+Scramblera nie można używać kiedy ma się włączoną tarczę retrokinetyczną albo elektromaskałat.
 
-**Zwiad Elektroniczny**: Scrambler może wykryć podłączone do sieci urządzenia w jego zasięgu: telefony, samochody, sprzęty domowe, sprzęgi itp. Wykrycie jest automatyczne i większość cywilnych urządzeń nie wie, że ktoś je namierza. W przypadku zabezpieczonych systemów, wojskowej elektroniki itp. trzeba zdać test Elektroniki (PT ustala MG), żeby ping Scramblera pozostał niewykryty
+~~Scrambler to narzędzie do walki elektronicznej. Zazwyczaj jest to plecak z zestawem anten i interfejsem. Może być podłączony sprzęgiem. Scrambler ma zasięg 50 metrów.~~
 
-**Zakłócanie Dron**: Scrambler atakuje każdą dronę wlatującą w zasięg jego działania. Wykonuje się test przeciwstawny **Elektronika** operatora Scramblera vs **Pilotaż** operatora drony. Jeśli operator drony przegra jego drona jest rozbrojona i wyłączona. Dla operatora Scramblera to całkowicie darmowa akcja i działa na każdą nadlatującą dronę, niezależnie od ich ilości.
+~~**Zwiad Elektroniczny**: Scrambler może wykryć podłączone do sieci urządzenia w jego zasięgu: telefony, samochody, sprzęty domowe, sprzęgi itp. Wykrycie jest automatyczne i większość cywilnych urządzeń nie wie, że ktoś je namierza. W przypadku zabezpieczonych systemów, wojskowej elektroniki itp. trzeba zdać test Elektroniki (PT ustala MG), żeby ping Scramblera pozostał niewykryty~~
 
-**Walka Scramblerów**: Jeśli Scramblery nałożą się polami działania wiedzą o tym, że w pobliżu jest kolejny scrambler. Jeśli znajdąsię w swoim zasięgu mogą się zwalczać. Wykonuje się wtedy test przeciwstawny Elektroniki operatorów. Przegrane scramblery są wyłączone, w przypadku remisu wszystkie scramblery są wyłączone. W przypadku walki kilku scramblerów liczy się tylko najwyższy wynik, wszystkie przegrane scramblery są wyłączone.
+**Zakłócanie Dron**: Możesz kontrować każdy atak dronów w zasięgu 50 metrów. Jeśli w swoim teście **Elektroniki** uzyskasz więcej sukcesów niż operator drony w teście **Pilotażu** drona zostaje rozbrojna i wyłączona. Dla operatora Scramblera to całkowicie darmowa akcja i działa na każdą nadlatującą dronę, niezależnie od ich ilości.
 
-**Hackowanie**: Możesz używać scramblerów, żeby zdalnie włamywać się podłączonych do sieci sprzętów domowych, telefonów i samochodów w zasięgu działania scramblera. Postać zyskuje wtedy pełną kontrolę nad urządzeniem. PT od 2 dla przejęcia kontroli nad czyimś telefonem, PT 3 dla samochodu, PT 4 dla pojazdu rządowego, PT 5-6 dla sprzętu wojskowego.
+~~**Walka Scramblerów**: Jeśli Scramblery nałożą się polami działania wiedzą o tym, że w pobliżu jest kolejny scrambler. Jeśli znajdąsię w swoim zasięgu mogą się zwalczać. Wykonuje się wtedy test przeciwstawny Elektroniki operatorów. Przegrane scramblery są wyłączone, w przypadku remisu wszystkie scramblery są wyłączone. W przypadku walki kilku scramblerów liczy się tylko najwyższy wynik, wszystkie przegrane scramblery są wyłączone.~~
 
+~~**Hackowanie**: Możesz używać scramblerów, żeby zdalnie włamywać się podłączonych do sieci sprzętów domowych, telefonów i samochodów w zasięgu działania scramblera. Postać zyskuje wtedy pełną kontrolę nad urządzeniem. PT od 2 dla przejęcia kontroli nad czyimś telefonem, PT 3 dla samochodu, PT 4 dla pojazdu rządowego, PT 5-6 dla sprzętu wojskowego.~~
 
-<h2>Zasady Różne</h2>
-
-<h4>Strzały w Głowę / Atak w punkty witalne.</h4>
-
-Deklarujesz przed rzutem na trafieni. Musisz przebić wymagane trafienie o jeden. Atak zadaje jeden punkt obrażeń więcej albo minimalnie 3 punkty obrażeń – wybierasz wyższą wartość. Jeśli postać nie nosi hełmu strzał w głowę również omija pancerz.
-
-<h4>Ominięcia Pancerza</h4>
-
-Deklarujesz przed rzutem na trafieni. Musisz przebić wymagane trafienie o jeden. Atak zadaje kostkę obrażeń mniej ale omija pancerz. Mogą istnieć pancerze bez luk.
-
-<h4>Walka/Strzelanie z lewej ręki</h4>
-
-Jeśli nie masz odpowiedniej zalety, tracisz kostkę w testach używając mniej sprawnej ręki.
-  
-
-<h4>Ogłuszenie</h4>
-
-W tej mechanice nie ma „łatwych ogłuszeń”. Żeby postać straciła przytomność trzeba ją sprowadzić do zera żywotności albo w jednym ataku zadać tyle obrażeń ile wynosi jej **próg bólu**. Obie sytuacje mogą się skończyć śmiercią zamiast ogłuszeniem. Pewniejszymi metodami jest **rozbrojenie** i **obezwładnienie** (patrz niżej) albo użycie specjalnej broni (gumowe pociski albo paralizatory)
-  
-<h4>Rozbrojenie</h4>
-
-Żeby kogoś rozbroić trzeba najpierw go trafić dowolnym atakiem używając kostki mniej na trafienie (można tą próbę dowolnie unikać albo kontrować.) Po trafieniu zamiast rzutu na obrażenia wykonuje się przeciwstawny test **Siły,** który trzeba wygrać. Jeśli udało się wygrać cel jest rozbrojony. Jeśli cel miał dwie sztuki broni w dłoniach rozbrojenie pozbawia go wszystkich.
-
-<h4>Obezwładnienie</h4>
-
-Żeby kogoś obezwładnić trzeba go najpierw trafić atakiem **Bez Broni** używając kostki mniej na trafienie. Cel obezwładnienia może ten atak unikać albo kontrować na normalnych zasadach. Po trafieniu zamiast rzutu na obrażenia wykonuje się przeciwstawny test **Siły,** który trzeba wygrać. Jeśli cel ma broń w rękach trzeba go najpierw **rozbroić**, żeby móc go **obezwładnić**.
 
 
 
