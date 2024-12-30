@@ -53,7 +53,7 @@ Niektóre zdolności mają alternatywne wersje oznaczone *, nie można mieć jed
 
 **??Wędrowiec** : Przerzut do testów **Pilotażu**, **Pilotażu Kosmos** i **Prowadzenia Pojazdów** kiedy postać jest w pojeździe.
 
-**Wielki** : Dodatkowa kostka obrażeń w Walce Wręcz/Walce Bronią. Ignorujesz Odrzut i Nieporęczność broni. Przerzut do testów **Siły** (tylko testów, nie rzutów na obrażenia)
+**Wielki** : Ignorujesz Odrzut i Nieporęczność broni. **Żywotność** jest wyższa o punkt. **Siła** postaci jest wyższa o dwa punkty (dodajemy +2 do liczby wykupionych kropek, jeśli postać wykupi wszystkie 6 kropek, jej siła będzie równa 8).
 
 **Wirus** : Przerzut do **Oprogramowania**. Jeśli masz fizyczny dostęp do sprzęgu dowolnej osoby możesz spróbować przejąć and nią kontrolę. Musisz zapłacić jeden punkt SW i wygrać test swojej umiejętności Oprogramowanie kontra Wytrzymałość celu. Można przeprowadzić tylko na nieprzytomnej albo obezwładnionej osobie. Kontrola ciała trwa do momentu świadomego wyłączenia albo utraty przytomności przez cel. Kontrolujący pozostaje wtedy w stanie letargu. Wszystkie testy wykonuje się wtedy mniejszą z dwóch umiejętności kontrolowanego lub konotrolującego. 
 
