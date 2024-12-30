@@ -99,7 +99,7 @@ Postać może przyjąć na sesji tyle dawek chemii bojowej bojowych ile wynosi j
 
 **Lux** : Odzyskujesz dwa punkty SW. Nie można przekroczyć maksymalnego poziomu Żywotności.
 
-**Wendigo(PCP)**: Podnosi próg bólu o punkt.
+**Wendigo(PCP)**: Podnosi próg bólu o punkt. W Walce Wręcz i Walce Bronią zadajesz jedną kostkę obrażeń więcej.
 
 **Blitz(Speed)**: Rzucasz dodatkową kostkę na Inicjatywę.
 
