@@ -16,10 +16,10 @@ Niektóre zdolności mają alternatywne wersje oznaczone *, nie można mieć jed
 **CyberNogi** : Możesz skakać wzwyż na 1x Siła metrów, w dal na 2x Siła metrów i spadać bezpiecznie z 5 x Siła metrów.
 
  **Cyngiel** : Wyciągnięcie pistoletu z kabury nie zajmuje akcji. Strzelasz z lewej ręki tak samo sprawnie jak z prawej. Możesz wykonać trzy szybkie strzały w rundzie używając 4 kostek w rzucie na trafienie. Jeśli zepniesz ze sobą dwa magazynki możesz zmieniać je tak szybko, że nie tracisz na to akcji - efektywnie pistolety maszynowe, i karabiny mają podwojoną pojemność magazynka.
-
+>
+>**\*??Desperado** : Możesz strzelać z dwóch pistoletów maszynowych na raz, na zasięgach do 20 metrów. Zużywasz 30 pocisków ale wykonujesz 4 ataki, każdy 5 kostek na trafienie i kostka obrażeń więcej.
+>
 **Determinacja** : Postać zaczyna sesje z trzema punktami siły woli więcej niż wynika to z normalnych zasad.
-
-**??Wędrowiec** : Przerzut do testów **Pilotażu**, **Pilotażu Kosmos** i **Prowadzenia Pojazdów** kiedy postać jest w pojeździe.
 
 **Droniarz** : Przerzut do testów **Pilotażu** i **Prowadzenia Pojazdów** kiedy postać steruje dronami. Jesteś tak dobry w obsłudze dron, że nie poświęcasz tury, żeby sterować nią w walce. Efektywnie postać wykonuje w swojej inicjatywie dwie tury. Jedną dla siebie i jedną dla swojego drona.
 
@@ -50,6 +50,8 @@ Niektóre zdolności mają alternatywne wersje oznaczone *, nie można mieć jed
 **Technik** : Przerzut do **Elektroniki** i **Mechaniki**.
 
 **Twardziel**: Przerzut do każdego testu **Wytrzymałości**. **Próg Bólu** jest podniesiony o punkt, a **Żywotność** o dwa punkty
+
+**??Wędrowiec** : Przerzut do testów **Pilotażu**, **Pilotażu Kosmos** i **Prowadzenia Pojazdów** kiedy postać jest w pojeździe.
 
 **Wielki** : Dodatkowa kostka obrażeń w Walce Wręcz/Walce Bronią. Ignorujesz Odrzut i Nieporęczność broni. Przerzut do testów **Siły** (tylko testów, nie rzutów na obrażenia)
 
