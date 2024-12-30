@@ -128,26 +128,20 @@ umiejętności **Oprogramowanie**. Postać nadal musi poświęcić swoją turę,
 
 **Secutor**: Mały gąsienicowy pojazd uzbrojony w karabin maszynowy. Poza poruszaniem się może wykonywać tylko akcje **Ogień Ciągły** albo **Ogień Zaporowy**.
 
-<h2> TacMod </h2>
+<h2> TacMod / Scrambler </h2>
 
-TacModa nie można używać kiedy ma się włączoną tarczę retrokinetyczną albo elektromaskałat. Każdy TacMod można podłączyć sprzęgiem do postaci.
+Narzędzie do walki elektronicznej w postaci plecaka z zestawem anten. TacModa nie można używać kiedy ma się włączoną tarczę retrokinetyczną albo elektromaskałat. Każdy TacMod można podłączyć sprzęgiem do postaci, daje do +1 do wszystkich testów. Sprzęg pozwala na **hackowanie iot** w walce, zajmuje to jedną turę. Jeśli operator nie ma sprzęgu hackowanie zajmuje za dużo czasu i musi to robić poza walką
 
 **Zakłócanie Dron**: Możesz kontrować każdy atak dronów w zasięgu 50 metrów. Jeśli w swoim teście **Elektroniki** uzyskasz więcej sukcesów niż operator drony w teście **Pilotażu** drona zostaje rozbrojna i wyłączona. Dla operatora TacMod to całkowicie darmowa akcja i działa na każdą nadlatującą dronę, niezależnie od ich ilości.
 
-**Hackowanie IoT**: Włamywanie się podłączonych do sieci sprzętów domowych, telefonów i samochodów w zasięgu działania scramblera. Testuje się **Oprogramowanie** operatora. Postać zyskuje wtedy pełną kontrolę nad urządzeniem. PT od 2 dla przejęcia kontroli nad czyimś telefonem, PT 3 dla samochodu, PT 4 dla pojazdu rządowego, PT 5-6 dla sprzętu wojskowego. Jeśli TacMod jest połączony sprzęgiem do operatora można wykonywać to w walce i zajmuje jedną turę. Jeśli operator nie ma sprzęgu hackowanie zajmuje za dużo czasu, żeby było możliwe w walce.
+**Hackowanie IoT**: Wykonując test **Oprogramowania** możesz włamać się do podłączonych do sieci sprzętów domowych, telefonów i samochodów. Postać zyskuje wtedy pełną kontrolę nad urządzeniem. Przejęcie kontroli albo podsłuchanie telefonu to PT 1, przejęcie kontroli nad samochodem albo wojskjowym dronem PT 2, przejęcie kontroli nad helikopterem PT 3. Można przejmować kontrolę tylko nad włączonymi urządzeniami. Jeśli urządzenie jest używane przez kogoś zamiast testu przeciwko PT wykonuje się test przeciwstawny **Oprogramowania**
 
 ~~**Walka Scramblerów**: Jeśli Scramblery nałożą się polami działania wiedzą o tym, że w pobliżu jest kolejny scrambler. Jeśli znajdąsię w swoim zasięgu mogą się zwalczać. Wykonuje się wtedy test przeciwstawny Elektroniki operatorów. Przegrane scramblery są wyłączone, w przypadku remisu wszystkie scramblery są wyłączone. W przypadku walki kilku scramblerów liczy się tylko najwyższy wynik, wszystkie przegrane scramblery są wyłączone.~~
 
-~~**Hackowanie**: Możesz używać scramblerów, żeby zdalnie włamywać się podłączonych do sieci sprzętów domowych, telefonów i samochodów w zasięgu działania scramblera. Postać zyskuje wtedy pełną kontrolę nad urządzeniem. PT od 2 dla przejęcia kontroli nad czyimś telefonem, PT 3 dla samochodu, PT 4 dla pojazdu rządowego, PT 5-6 dla sprzętu wojskowego.~~
-
 ~~**Zwiad Elektroniczny**: Scrambler może wykryć podłączone do sieci urządzenia w jego zasięgu: telefony, samochody, sprzęty domowe, sprzęgi itp. Wykrycie jest automatyczne i większość cywilnych urządzeń nie wie, że ktoś je namierza. W przypadku zabezpieczonych systemów, wojskowej elektroniki itp. trzeba zdać test Elektroniki (PT ustala MG), żeby ping Scramblera pozostał niewykryty~~
 
-~~Scrambler to narzędzie do walki elektronicznej. Zazwyczaj jest to plecak z zestawem anten i interfejsem. Może być podłączony sprzęgiem. Scrambler ma zasięg 50 metrów.~~
 
-
- 
-
-**Łuki**
+<h2>Łuki</h2>
 
 silne 3 kostki obrażeń, jedna tura ładowania, Nie ma szybkich strzałów.
 
