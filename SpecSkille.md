@@ -58,11 +58,3 @@ Niektóre zdolności mają alternatywne wersje oznaczone *, nie można mieć jed
 **Wirus** : Przerzut do **Oprogramowania**. Jeśli masz fizyczny dostęp do sprzęgu dowolnej osoby możesz spróbować przejąć and nią kontrolę. Musisz zapłacić jeden punkt SW i wygrać test swojej umiejętności Oprogramowanie kontra Wytrzymałość celu. Można przeprowadzić tylko na nieprzytomnej albo obezwładnionej osobie. Kontrola ciała trwa do momentu świadomego wyłączenia albo utraty przytomności przez cel. Kontrolujący pozostaje wtedy w stanie letargu. Wszystkie testy wykonuje się wtedy mniejszą z dwóch umiejętności kontrolowanego lub konotrolującego. 
 
 **Złodziej** : Przerzut do **Kradzieży**. Możesz używać umiejętności **Kradzież** podczas testów otwierania zamków zamiast Mechaniki albo Eletkroniki. Postać potrafi chować i wyciągać nóż albo pistolet tak szybko i sprawnie, że traktujemy, go jakby zawsze były w dłoni postaci, nawet, jeśli normalnie przenosi je gdzieś pod ubraniem.
-
-<h3>Wycofane Zdolności</h3>
-
-**Pancerz Wewnętrzny** : Postać otrzymuje jeden punkt obrażeń mniej niż wynika to z normalnych zasad. Problem: dodatkowy punkt pancerza to bardzo potężna zaleta
-
-**Survival** : Przerzut do **Wytrzymałości**, **Sztuki Przetrwania** i **Łucznictwa**. Problem: to bardzo słaba zaleta
-
-**Groźny[Charyzma]** : Przerzut do Charakteru. Płacąc punkt SW możesz wyprzedzić przeciwnika w kolejce inicjatywy.
