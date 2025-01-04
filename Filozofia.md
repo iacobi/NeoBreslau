@@ -30,6 +30,8 @@ Gracz wybiera filozofie swojej postaci. Określa jej światopogląd, jakie warto
 
 <h3>Exodus</h3>
 
+**Alternatywne Nazwy** : Diaspora
+
 **Opis** : Nomadzi kosmosu, eksploratorzy i podróżnicy. Wierzą w kosmiczne przeznaczenie i odkrywanie nowych światów. Ludzie powinni porzucić planety i traktować je tylko jako źródło surowców. Przestrzeń kosmiczna to właściwe miejsce do życia i rozwoju naszej cywilizacji. Wszystkie totalitarne rządy nie będą miały sensu w tej przyszłości. Jak pierwsze prymitywne plemiona przemierzały Ziemię tak teraz wolne plemiona na statkach powinny przemierzać galaktykę.
 
 **Umiejętności**: Elektronika, Mechanika, Nawigacja, Oprogramowanie, Pilotaż Kosmos
