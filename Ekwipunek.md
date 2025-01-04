@@ -140,6 +140,18 @@ Narzędzie do walki elektronicznej w postaci plecaka z zestawem anten. TacModa n
 
 ~~**Zwiad Elektroniczny**: Scrambler może wykryć podłączone do sieci urządzenia w jego zasięgu: telefony, samochody, sprzęty domowe, sprzęgi itp. Wykrycie jest automatyczne i większość cywilnych urządzeń nie wie, że ktoś je namierza. W przypadku zabezpieczonych systemów, wojskowej elektroniki itp. trzeba zdać test Elektroniki (PT ustala MG), żeby ping Scramblera pozostał niewykryty~~
 
+<h3>Cennik Różnych Rzeczy</h3>
+
+
+|Broń|Obrażenia|Opis|Cena|
+|--|:--:|:--:|--:|
+| **Maskałat Elektroniczny**  |--| Maskowanie, jeden przerzut do kamuflażu| 5000 kred.|
+| **TacMod**  |--| komputer taktyczny | 5000 kred.|
+| **Tarcza Retroknietyczna**  |--| przeut do kamulfażu | 2000 kred.|
+| **Rój - pojedyncza sztuka**  |słabe&nbsp;5&nbsp;kostek| Mała drona działająca jako element roju | 1000 kred.|
+| **Venator**  |silne&nbsp;5&nbsp;kostek|  Standardowa drona ???| 2000 kred.|
+| **Pilum**  |silne&nbsp;6&nbsp;kostek|rpg| 2000 kred.|
+
 
 <h2>Łuki</h2>
 
