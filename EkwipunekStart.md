@@ -6,6 +6,8 @@ Wybierasz trzy dowolne przedmioty
 
 **Karabin Szturmowy** : zwykłe 4 kostki obrażeń, krótka seria, ogień ciągły, 30 pocisków w magazynku
 
+**Karabin Wyborowy** : silne 4 kostki obrażeń, tylko jeden strzał na turę, 5 pocisków w magazynku
+
 **Strzelba** : słabe 5 kostek obrażeń, 6 pocisków w magazynku
 
 **Lekki Pancerz** : pancerz o wartości 1, można schować pod ubraniem
