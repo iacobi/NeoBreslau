@@ -14,11 +14,11 @@ Wybierasz trzy dowolne przedmioty
 
 **Katana** : silne 4 kostki obrażeń, dwa przerzuty, dwuręczna
 
-**Drony-Rój**(6sztuk) : małe drony kamikaze, słabe 5 kostek obrażeń kiedy wybucha
+**Drony-Rój** (6 sztuk) : małe drony kamikaze, słabe 5 kostek obrażeń kiedy wybucha
 
 **Drona-Zwiadowca** : drona z dobrymi kamerami i dalekim zasięgiem
 
-**Pilum** (2sztuki) : jednostrzałowy granatnik przeciwpancerny, bezpośrednie trafienie zabija, odłamki zadają zwyke 5 kostek obrażeń
+**Pilum** (2 sztuki) : jednostrzałowy granatnik przeciwpancerny, bezpośrednie trafienie zabija, odłamki zadają zwyke 5 kostek obrażeń
 
 **Tarcza Retrokinetyczna** : chroni przed bronią palną
 
