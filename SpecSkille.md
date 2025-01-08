@@ -1,6 +1,6 @@
 <h2>Zdolności</h2>
 
-Niektóre zdolności mają alternatywne wersje oznaczone *, nie można mieć jednocześnie wersji podstawoej i alternatywnej. Np. postać musi wybrać czy chce zaletę **Cwaniak** czy **Złodziej**
+Niektóre zdolności mają alternatywne wersje oznaczone *, nie można mieć jednocześnie wersji podstawowej i alternatywnej. Np. postać musi wybrać czy chce zaletę **Charyzma** czy **Cwaniak**
 <hr>
 
 **Charyzma** : Przerzut do **Charakteru**. Możesz dawać innym ludziom swoje punkty SW
