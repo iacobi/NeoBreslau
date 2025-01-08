@@ -1,6 +1,6 @@
 <h1>Filozofia</h1>
 
->Filozofia jest dodana do systemu eksperymentalnie. W założenie jako narzędzie do łatwiejszego umieszczenia postaci w świecie gry. Wybór filozofii określa światopogląd, jakie wartości wyznaje i jak myśli,że społeczeństwo >powinno działać. Filozofia daje też cztery punktu w umiejętnościach, które są typowe dla jej przedstawicieli. Nazwy większości filozofii mogą się jeszcze zmienić.
+>Filozofia jest dodana do systemu eksperymentalnie. W założenie jako narzędzie do łatwiejszego umieszczenia postaci w świecie gry. Wybór filozofii określa światopogląd, jakie wartości wyznaje i jak myśli,że społeczeństwo powinno działać. Filozofia daje też cztery punktu w umiejętnościach, które są typowe dla jej przedstawicieli. Nazwy większości filozofii mogą się jeszcze zmienić.
 
 <h3>Korpokracja</h3>
 
