@@ -1,16 +1,16 @@
 <h1>Filozofia</h1>
 
-Gracz wybiera filozofie swojej postaci. Określa jej światopogląd, jakie wartości wyznaje i jak myśli,że społeczeństwo powinno działać. Filozofia daje też cztery punktu w umiejętnościach, które są typowe dla jej przedstawicieli.
+>Filozofia jest dodana do systemu eksperymentalnie. W założenie jako narzędzie do łatwiejszego umieszczenia postaci w świecie gry. Wybór filozofii określa światopogląd, jakie wartości wyznaje i jak myśli,że społeczeństwo >powinno działać. Filozofia daje też cztery punktu w umiejętnościach, które są typowe dla jej przedstawicieli. Nazwy większości filozofii mogą się jeszcze zmienić.
 
 <h3>Korpokracja</h3>
 
-**Opis** : Światem rządzi pieniądz, a wolny rynek to jedyny sposób, żeby sprawiedliwe ocenić kto zasługuje na pieniądze. Ekonomia to język Cywilizacji. T
+**Opis** : Światem rządzi pieniądz, a wolny rynek to jedyny sposób, żeby sprawiedliwe ocenić kto zasługuje na pieniądze. Ekonomia to język Cywilizacji.
 
 **Start** : Charakter, Intuicja, Spostrzegawczość, Prawo
 
 <hr>
 
-<h3>NeoOptimates</h3>
+<h3>Oligarchia</h3>
 
 **Alternatywne Nazwy** : Ordomachia, Optimates
 
@@ -22,7 +22,7 @@ Gracz wybiera filozofie swojej postaci. Określa jej światopogląd, jakie warto
 
 <h3>Technomachia</h3>
 
-**Opis** : Władza technologii. Jutro. w jedności z maszyną. Transhumanizm to nasze przeznaczenie, trzeba porzucić dawne zacofane poglądy na temat tego czym jest człowiek i śmiało wybiec w przyszłość
+**Opis** : Władza technologii. Jutro w jedności z maszyną. Transhumanizm to nasze przeznaczenie, trzeba porzucić dawne zacofane poglądy na temat tego czym jest człowiek i śmiało wybiec w przyszłość
 
 **Start** :  Elektronika, Oprogramowanie, Spostrzegawczość, Cybernetyka
 
