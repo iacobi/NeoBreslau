@@ -75,7 +75,7 @@
 
 <h2> Granaty </h2>
 
-Zakładamy, że **użycie granatu zajmuje dwie tury**. Granat trzeba wyciągnąć, odbezpieczyć, i rzucić. Musi też upłynąć te kilka sekund, żeby granat wybuchł. Postać w pierwszej turze deklaruje użycie granatu i w domyśle rzuca go. W drugiej turze wykonuje test rzucania, żeby ustalić czy udało jej się trafić. **Granaty zadają słabe 5 kostek obrażeń**. Można unikać granatów na normalnych zasadch uniku.
+Zakładamy, że **użycie granatu zajmuje dwie tury**. Granat trzeba wyciągnąć, odbezpieczyć, i rzucić. Musi też upłynąć te kilka sekund, żeby granat wybuchł. Postać w pierwszej turze deklaruje użycie granatu i w domyśle rzuca go. W drugiej turze wykonuje test rzucania, żeby ustalić czy udało jej się trafić. **Granaty zadają zwykłe 5 kostek obrażeń**. Można unikać granatów na normalnych zasadch uniku.
 
 <h2>Pancerze</h2>
 
