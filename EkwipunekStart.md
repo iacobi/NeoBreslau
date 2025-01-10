@@ -24,11 +24,11 @@ Wybierasz trzy dowolne przedmioty
 
 **Skafander Kosmiczny** : zwykły skafander kosmiczny, godzinny zapas tlenu.
 
-**Lux** (3 dawki) - regeneracja w punktów SW
+**Lux** (3 dawki) - regeneracja 2 punktów SW
 
 **TraumaPack** (4 sztuki) - regeneracja Żywotności (test Medycyny)
 
-**Narzędzia** : torba z narzędziami mechanika albo elektronika
+**Narzędzia** : torba z narzędziami mechanika, lekarza albo elektronika
 
 **TacMod** : moduł do walki elektronicznej, zakłócanie dron i przejmowanie kontroli nad pojazdami.
 
