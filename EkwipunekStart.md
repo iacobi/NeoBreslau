@@ -14,7 +14,9 @@ Wybierasz trzy dowolne przedmioty
 
 **Katana** : silne 4 kostki obrażeń, dwa przerzuty, dwuręczna
 
-**Drony-Rój** (6 sztuk) : małe drony kamikaze, słabe 5 kostek obrażeń kiedy wybucha
+**Drony-Rój** (6 sztuk) : małe drony kamikaze, zwykłe 5 kostek obrażeń kiedy wybucha
+
+**Granaty** (12 sztuk) : zwykłe 5 kostek obrażeń
 
 **Drona-Zwiadowca** : drona z dobrymi kamerami i dalekim zasięgiem
 
