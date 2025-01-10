@@ -6,7 +6,7 @@
 
 **Opis** : Światem rządzi pieniądz, a wolny rynek to jedyny sposób, żeby sprawiedliwe ocenić kto zasługuje na pieniądze. Ekonomia to język Cywilizacji.
 
-**Start** : Charakter, Intuicja, Spostrzegawczość, Prawo
+**Start** : Charakter, Intuicja, Spostrzegawczość, Sztuka Przetrwania
 
 <hr>
 
@@ -16,7 +16,7 @@
 
 **Opis** : Ludzie potrzebują hierarchii i dyscypliny. Dzięki temu zbudujemy wielkie floty, odkryjemy nowe światy i zbudujemy potężną cywilizacje.
 
-**Start** :  Charakter, Siła, Wytrzymałość, Prawo
+**Start** :  Charakter, Siła, Wytrzymałość, Nawigacja
 
 <hr>
 
@@ -33,8 +33,6 @@
 **Alternatywne Nazwy** : Diaspora
 
 **Opis** : Nomadzi kosmosu, eksploratorzy i podróżnicy. Wierzą w kosmiczne przeznaczenie i odkrywanie nowych światów. Ludzie powinni porzucić planety i traktować je tylko jako źródło surowców. Przestrzeń kosmiczna to właściwe miejsce do życia i rozwoju naszej cywilizacji. Wszystkie totalitarne rządy nie będą miały sensu w tej przyszłości. Jak pierwsze prymitywne plemiona przemierzały Ziemię tak teraz wolne plemiona na statkach powinny przemierzać galaktykę.
-
-**Umiejętności**: Elektronika, Mechanika, Nawigacja, Oprogramowanie, Pilotaż Kosmos
 
 **Postać** : Pilotaż Kosmos, Nawigacja, Mechanika, Sprawność
 
