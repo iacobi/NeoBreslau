@@ -19,7 +19,7 @@ Niektóre zdolności mają alternatywne wersje oznaczone *, nie można mieć jed
 >
 >**\*??Desperado** : Możesz strzelać z dwóch pistoletów maszynowych na raz, na zasięgach do 20 metrów. Zużywasz 30 pocisków ale wykonujesz 4 ataki, każdy 5 kostek na trafienie i kostka obrażeń więcej.
 >
-**Determinacja** : Postać zaczyna sesje z trzema punktami siły woli więcej niż wynika to z normalnych zasad.
+**Determinacja** : Przerzut do **Wytrzymałości**. Postać zaczyna sesje z trzema punktami siły woli więcej niż wynika to z normalnych zasad.
 
 **Droniarz** : Przerzut do testów **Pilotażu** i **Prowadzenia Pojazdów** kiedy postać steruje dronami. Jesteś tak dobry w obsłudze dron, że nie poświęcasz tury, żeby sterować nią w walce. Efektywnie postać wykonuje w swojej inicjatywie dwie tury. Jedną dla siebie i jedną dla swojego drona.
 
