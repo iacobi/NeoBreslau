@@ -1,8 +1,8 @@
 Wybierasz trzy dowolne przedmioty
 
-**Pistolet 9mm** : zwykłe 3 kostki obrażeń, krótka seria, 15 pocisków w magazynku
+**Pistolet Maszynowy 10mm** : słabe 4 kostki obrażeń, krótka seria, ogień ciągły, prosta obsługa, 30 pocisków w magazynku
 
-**Rewowler.357** : silne 3 kostki obrażeń, krótka seria, 6 nabojowy bęben
+**Rewolwer.44** :  zwykłe 4 kostki obrażeń, 6 nabojowy bęben
 
 **Karabin Szturmowy** : zwykłe 4 kostki obrażeń, krótka seria, ogień ciągły, 30 pocisków w magazynku
 
@@ -16,11 +16,11 @@ Wybierasz trzy dowolne przedmioty
 
 **Drony-Rój** (6 sztuk) : małe drony kamikaze, zwykłe 5 kostek obrażeń kiedy wybucha
 
-**Granaty** (12 sztuk) : zwykłe 5 kostek obrażeń
+**Granaty** (8 sztuk) : zwykłe 5 kostek obrażeń
 
 **Drona-Zwiadowca** : drona z dobrymi kamerami i dalekim zasięgiem
 
-**Pilum** (2 sztuki) : jednostrzałowy granatnik przeciwpancerny, bezpośrednie trafienie zabija, odłamki zadają zwyke 5 kostek obrażeń
+**Pilum** (2 sztuki) : jednostrzałowy granatnik przeciwpancerny, bezpośrednie trafienie zabija, odłamki zadają zwyke 5 kostek obrażeń, aim assist - jeśli postać nie ma Broni Ciężkiej używa umiejętności na poziomie 3.
 
 **Tarcza Retrokinetyczna** : chroni przed bronią palną
 
