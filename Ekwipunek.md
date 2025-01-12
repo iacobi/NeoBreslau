@@ -61,6 +61,8 @@
 
 **\*\*Karabiny Maszynowe:** Karabiny maszynowe nie otrzymują +1 za zainstalowanie optyki albo cyberoptyki **Ogień Ciągły** zużywa 20 pocisków zamiast 15, ale każdy rzut na trafienei wykonuje się 6 kostkami.
 
+**Ogień Zaporowy:** Karabiny Maszynowe mogą wywalić 20 pocisków i zrobić kontrę na dowolny atak dowolnej postaci, jeśli w swoim teście strzelania wyrzucą więcej sukcesów niż atakujący, obie postacie tracą tą turę. Muszą widzieć postać, która wykonuje atak, który chcą skontrować.
+
 <h2>Modyfikacje Broni</h2>
 
 **Optyka**: +1 do umiejętności podczas strzałów mierzonych
@@ -113,7 +115,10 @@ Przerzut do testów **Kamuflażu**. Maskuje ślad termiczny i elektromagnetyczny
 
 <h2>Tarcza Retrokinetyczna</h2>
 
-Za każdym razem kiedy postać ma otrzymać obrażenia od broni palnej i materiałów wybuchowych rzuca 1k10 i obniża otrzymane obrażenia. "0" jest liczone jako 10. Tarcza nie działa na broń białą.Pancerz postaci działa normalnie i również redukuje obrażenia. Jedna tarcza ma 6 ładunków i tyle razy można jej użyć przed ładowaniem albo wymianą.
+**Wersja A:** Za każdym razem kiedy postać ma otrzymać obrażenia od broni palnej i materiałów wybuchowych rzuca 1k10 i obniża otrzymane obrażenia. "0" jest liczone jako 10. Tarcza nie działa na broń białą.Pancerz postaci działa normalnie i również redukuje obrażenia. Jedna tarcza ma 6 ładunków i tyle razy można jej użyć przed ładowaniem albo wymianą.
+
+**Wersja B:** Każdy atak bronią strzelecką wymierzony w tarcze zadaje 3 albo 4 (zwykła albo dobra tarcza) kostek obrażeń mniej.
+
 Aktywna Tarcza otacza postać widoczną przezroczystą poświatą, jest słyszalna z kilkunastu metrów. oraz jest natychmiast widoczna dla zwiadu elektronicznego (Scrambler) i w termowizji. **Postać traci kostkę z każdego testu Kamuflażu** kiedy nosi aktywną tarczę retrokinetyczną. Wyłączenie tarczy jest natychmiastowe ale aktywacja zajmuje turę.
 Tarcze można podpiąć do zewnętrznego źródła energii np. baterii samochodu wtedy ilość ładunków jest wieloktornie większa, ale używający jej musi cały czas pozostawać podłączony kablem.
 
