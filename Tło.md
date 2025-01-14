@@ -16,13 +16,13 @@
 
 **Umiejętności** : Broń Krótka, Walka Bronią, Sprawność, Kamuflaż
 
-<h3>Policjant</h3>
+<h3>Gliniarz</h3>
 
 **Opis**: Służyć i chronić.
 
-**Ekwipunek** : 1000 kredytów, Rewolwer .44, Lekki Pancerz, TraumaPack
+**Ekwipunek** : 1000 kredytów, Pistolet 9mm, Pałka Teleskopowa, Lekki Pancerz, TraumaPack
 
-**Umiejętności** : Spostrzegawczość, Broń Krótka, Charakter, Intuicja
+**Umiejętności** : Walka Wręcz, Broń Krótka, Charakter, Intuicja
 
 <h3>Weteran</h3>
 
