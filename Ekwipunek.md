@@ -38,9 +38,9 @@
 | ||  |   |  |  |
 | **Falcata/Karabin Szturmowy**|zwykłe&nbsp;4&nbsp;kostki| 30| pół tury |Krótka Seria, Ogień Ciągły | 1000&nbsp;kred.|
 | **Karabin Bojowy**|silne&nbsp;4&nbsp;kostki| 20| pół tury |Krótka Seria| 3000&nbsp;kred.|
-| **Dubeltówka\***|słabe&nbsp;5&nbsp;kostek| 2 | 1 nabój na turę | - | 500&nbsp;kred.|
-| **Strzelba Powtarzalna**|słabe&nbsp;5&nbsp;kostek| 8 | 1 nabój na turę | | 500&nbsp;kred.|
-| **Strzelba Automatyczna**|słabe&nbsp;5&nbsp;kostek| 20 | cała tura | Krótka Seria, Ogień Ciągły, Nieporęczna| 2500&nbsp;kred.|
+| **Dubeltówka\***|silne&nbsp;4&nbsp;kostki| 2 | 1 nabój na turę | - | 500&nbsp;kred.|
+| **Strzelba Powtarzalna**|silne&nbsp;4&nbsp;kostki| 8 | 1 nabój na turę | | 500&nbsp;kred.|
+| **Strzelba Automatyczna**|silne&nbsp;4&nbsp;kostki| 20 | cała tura | Krótka Seria, Ogień Ciągły, Nieporęczna| 2500&nbsp;kred.|
 | **Lekki Karabin Maszynowy\*\*** |zwykłe&nbsp;4&nbsp;kostki| 100 |trzy tury| Krótka Seria, Ogień Ciągły| 4000&nbsp;kred.|
 | **Karabin Maszynowy\*\*** |silne&nbsp;4&nbsp;kostki| 100 |trzy tury| Nieporęczny, Krótka Seria, Ogień Ciągły| 5000&nbsp;kred.|
 | **Karabin Wyborowy 7,62mm**|silne&nbsp;4&nbsp;kostki| 5 | cała tura|Jeden strzał na turę | 2000&nbsp;kred.|
