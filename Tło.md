@@ -44,7 +44,7 @@
 
 **Opis**: ...
 
-**Ekwipunek** : 2000 kredytów, ElektroMaskałat
+**Ekwipunek** : 3000 kredytów, Pistolet 9mm
 
 **Umiejętności** : Oprogramowanie, Elektronika, Intuicja, Kradzież
 
