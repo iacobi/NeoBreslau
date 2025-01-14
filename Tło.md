@@ -3,11 +3,9 @@
 
 <h3>Pilot</h3>
 
-**Ekwipunek** : ???
+**Ekwipunek** : Skafander Kosmiczny, rewolwer .44
 
 **Umiejętności** : Pilotaż, Pilotaż Kosmos, Oprogramowanie, Nawigacja
-
-**Zalety** : Sprzęg
 
 <h3>Najemnik</h3>
 
@@ -15,23 +13,17 @@
 
 **Umiejętności** : Broń Krótka, Broń Długa, Sprawność, Wytrzymałość
 
-**Zalety** : Sprzęg
-
 <h3>Inżynier</h3>
 
-**Ekwipunek** : Narzędzia, Strzelba
+**Ekwipunek** : Narzędzia,
 
 **Umiejętności** : Siła, Mechanika, Elektronika, Prowadzenie Pojazdów
 
-**Zalety** : Technik
-
 <h3>Lekarz</h3>
 
-**Ekwipunek** : Narzędzia, Strzelba
+**Ekwipunek** : Narzędzia Medyczne, TraumaPack (3 sztuki)
 
 **Umiejętności** : Intuicja, Biotechnika, Medycyna, Spostrzegawczość
-
-**Zalety** : Chirurg
 
 <h3>Kolonista</h3>
 
@@ -39,4 +31,8 @@
 
 **Umiejętności** : Wytrzymałość, Mechanika, Sztuka Przetrwania, Prowadzenie Pojazdów
 
-**Zalety** : In
+<h3>Kryminalista</h3>
+
+**Ekwipunek** : Pistolet Maszynowy 9mm, Dwie sztuki każdej chemii bojowej
+
+**Umiejętności** : Charakter, Kamuflaż, Kradzież, Sprawność
