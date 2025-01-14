@@ -34,6 +34,8 @@
 
 <h3>Inżynier</h3>
 
+**Opis**: ...
+
 **Ekwipunek** : 2000 kredytów, Narzędzia, Strzelba
 
 **Umiejętności** : Siła, Mechanika, Elektronika, Prowadzenie Pojazdów
