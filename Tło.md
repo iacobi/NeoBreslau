@@ -1,7 +1,5 @@
 <h2>Tło</h2>
 
-Postać na start dostaje 1000 kredytów i telefon/komputer.
-
 <h3>Pilot</h3>
 
 **Opis**: ...
