@@ -2,7 +2,7 @@
 
 <h3>Pilot</h3>
 
-**Opis**: ...
+**Opis**: Jak ma silniki to za odpowiednią zapłatą polecisz nawet kontenerem na śmieci.
 
 **Ekwipunek** : 2000 kredytów, Skafander Kosmiczny, Pistolet 9mm
 
@@ -18,21 +18,21 @@
 
 <h3>Policjant</h3>
 
-**Opis**: ...
+**Opis**: Służyć i chronić.
 
-**Ekwipunek** : 1000 kredytów, Rewolwer .44, Lekki Pancerz
+**Ekwipunek** : 1000 kredytów, Rewolwer .44, Lekki Pancerz, TraumaPack
 
 **Umiejętności** : Spostrzegawczość, Broń Krótka, Charakter, Intuicja
 
 <h3>Weteran</h3>
 
-**Opis**: ...
+**Opis**: Byłeś kiedyś w wojsku? Tak. Takim prawdziwmy wojsku, nie korporacyjnym gównie. Unifikacja Ziemi nie spowdowała nagle, że ludzie zaczeli żyć w harmonii, a na zewnętrznych koloniach zagrożenie robalami i robotami rośnie.
 
-**Ekwipunek** : 1000 kredytów, Strzelba, Lekki Pancerz
+**Ekwipunek** : 1000 kredytów, Strzelba, Lekki Pancerz, TraumaPack
 
-**Umiejętności** : Broń Długa, Charakter, Wytrzymałość, Nawigacja
+**Umiejętności** : Broń Długa, Charakter, Wytrzymałość, Sprawność
 
-<h3>Inżynier</h3>
+<h3>Mechanik</h3>
 
 **Opis**: ...
 
@@ -40,9 +40,17 @@
 
 **Umiejętności** : Siła, Mechanika, Elektronika, Prowadzenie Pojazdów
 
-<h3>Lekarz</h3>
+<h3>Haker</h3>
 
 **Opis**: ...
+
+**Ekwipunek** : 2000 kredytów, ElektroMaskałat
+
+**Umiejętności** : Oprogramowanie, Elektronika, Intuicja, Kradzież
+
+<h3>Lekarz</h3>
+
+**Opis**: Im lepsze metody wymyślimy na łatanie ludzi tym ludzie znajdą lepsze metody na rozwalanie się na kawałki. Tak długo jak znajdą wszystkie kawałki będziesz w stanie pomóc.
 
 **Ekwipunek** : Narzędzia Medyczne, TraumaPack (3 sztuki)
 
@@ -50,11 +58,11 @@
 
 <h3>Kolonista</h3>
 
-**Opis**: ...
+**Opis**: Sól tej ziemi... albo stacji kosmicznej.
 
-**Ekwipunek** : Narzędzia, Strzelba
+**Ekwipunek** : Narzędzia, Skafander Kosmiczny, Strzelba albo Rewolwer .44, Dron Zwiadu
 
-**Umiejętności** : Wytrzymałość, Mechanika, Sztuka Przetrwania, Prowadzenie Pojazdów
+**Umiejętności** : Wytrzymałość, Mechanika, Pilotaż, Prowadzenie Pojazdów
 
 <h3>Gangster</h3>
 
@@ -68,9 +76,9 @@
 
 **Opis**: ...
 
-**Ekwipunek** : 5000 kredytów, Lekki Pancerz, Pistolet 9mm
+**Ekwipunek** : 6000 kredytów, Pistolet 9mm, Lux (dwie dawki)
 
-**Umiejętności** : Charakter, Intuicja, Kradzież, Sprawność
+**Umiejętności** : Charakter, Intuicja, Oprogramowanie, Wytrzymałość
 
 <h3>Człowiek znikąd</h3>
 
