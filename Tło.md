@@ -26,7 +26,7 @@
 
 <h3>Weteran</h3>
 
-**Opis**: Byłeś kiedyś w wojsku? Tak. Takim prawdziwmy wojsku, nie korporacyjnym gównie. Unifikacja Ziemi nie spowdowała nagle, że ludzie zaczeli żyć w harmonii, a na zewnętrznych koloniach zagrożenie robalami i robotami rośnie.
+**Opis**: Byłeś w wojsku, takim prawdziwmy wojsku, nie korporacyjnym gównie. Unifikacja Ziemi nie spowdowała nagle, że ludzie zaczeli żyć w harmonii, a na zewnętrznych koloniach zagrożenie robalami i robotami rośnie.
 
 **Ekwipunek** : 1000 kredytów, Strzelba, Lekki Pancerz, TraumaPack
 
