@@ -2,7 +2,7 @@
 
 <h3>Gangster</h3>
 
-**Opis**: Żyłeś poza prawem.
+**Opis**: Żyłeś poza prawem, w świecie, gdzie honor to tylko puste słowa, a pieniądze rządzą wszystkim. Jako gangster wiesz, jak poruszać się w mrocznych zakamarkach miast, jak utrzymać kontrolę nad terenem i jak rozmawiać z tymi, którzy są gotowi zrobić wszystko dla zysku. Twoje życie to nieustanna walka o władzę, zyski i przetrwanie, gdzie nie ma miejsca na sentymenty. Od brudnych interesów po brutalne konfrontacje – nie boisz się działać poza granicami prawa. Masz swoich ludzi i nie zawahasz się ich wykorzystać, by zdobyć to, czego pragniesz.
 
 **Ekwipunek** : 1000 kredytów, Pistolet Maszynowy 9mm, Blitz (dwie dawki), Wendigo (dwie dawki), Lux (jedna dawka)
 
@@ -10,7 +10,7 @@
 
 <h3>Gliniarz</h3>
 
-**Opis**: Służyć i chronić.
+**Opis**: Doświadczony były funkcjonariusz służb porządkowych. Doskonale radzisz sobie w trudnych sytuacjach, zarówno w walce, jak i przy rozwiązywaniu konfliktów. Twoje umiejętności pomagają utrzymać porządek, niezależnie od sytuacji.
 
 **Ekwipunek** : 1000 kredytów, Pistolet 9mm, Pałka Teleskopowa, Lekki Pancerz, TraumaPack
 
@@ -18,7 +18,7 @@
 
 <h3>Haker</h3>
 
-**Opis**: Zarabiałeś na życie włamywając się do cudzych systemów.
+**Opis**: Specjalista od cyfrowych zagrożeń. Potrafisz wniknąć w systemy, przejąć kontrolę nad urządzeniami i manipulować danymi, nie zostawiając śladu. Twój umysł jest twoją najpotężniejszą bronią, a świat wirtualny to twoje pole walki.
 
 **Ekwipunek** : 1000 kredytów, Scrambler/TacMod
 
@@ -34,7 +34,7 @@
 
 <h3>Korpos</h3>
 
-**Opis**: ...
+**Opis**: Świat korporacyjnych układów i manipulacji jest twoim naturalnym środowiskiem. Niezależnie od tego, czy zdobywałeś wpływy na szczytach władzy, czy zarządzałeś zasobami z zimną precyzją, nauczyłeś się, jak przetrwać i odnosić sukcesy w strukturach, gdzie lojalność kończy się tam, gdzie zaczyna zysk. Umiesz poruszać się w świecie kontraktów, szantaży i tajnych układów, a twój urok osobisty jest równie skuteczną bronią jak każdy pistolet.
 
 **Ekwipunek** : 6000 kredytów, Pistolet 9mm, Lux (dwie dawki)
 
@@ -50,7 +50,7 @@
 
 <h3>Mechanik</h3>
 
-**Opis**: Jesteś bardzo dobry w naprawianiu rzeczy.
+**Opis**: Jesteś mistrzem napraw i modyfikacji. Nie ma rzeczy, której nie da się naprawić, jeśli tylko masz odpowiednie narzędzia. Niezależnie od tego, czy to sprzęt w stacji kosmicznej, czy pojazd, zawsze znajdziesz sposób, by przywrócić wszystko do życia.
 
 **Ekwipunek** : 2000 kredytów, Narzędzia (dowolny rodzaj), Strzelba
 
@@ -58,7 +58,7 @@
 
 <h3>Pilot</h3>
 
-**Opis**: Jak ma silniki to za odpowiednią zapłatą polecisz nawet kontenerem na śmieci.
+**Opis**: Niebo nigdy nie było dla ciebie limitem, a przestrzeń kosmiczna jest twoim drugim domem. Potrafisz wyczuć maszynę, jakby była częścią ciebie. Wiesz, jak omijać zagrożenia, przemycać ładunki i ewakuować ludzi z najgorszych miejsc w galaktyce. Jeśli zapłacą odpowiednio, polecisz wszędzie, nawet w najczarniejszy zakątek kosmosu.
 
 **Ekwipunek** : 2000 kredytów, Skafander Kosmiczny, Pistolet 9mm
 
@@ -74,7 +74,7 @@
 
 <h3>Ronin</h3>
 
-**Opis**: Korporacyjny człowiek od mokrej roboty
+**Opis**: Korporacyjny najemnik, wykonujący brudną robotę tam, gdzie liczy się efektywność, a nie zasady. Zwinny w walce i zawsze gotowy do działań w cieniu, jesteś idealnym rozwiązaniem w sytuacjach, w których inne opcje zawiodły.
 
 **Ekwipunek** : 2000 kredytów, Pistolet Maszynowy 10mm albo Katana, Lekki Pancerz
 
@@ -82,7 +82,7 @@
 
 <h3>Weteran</h3>
 
-**Opis**: Byłeś w wojsku, takim prawdziwmy wojsku, nie korporacyjnym gównie. Unifikacja Ziemi nie spowdowała nagle, że ludzie zaczeli żyć w harmonii, a na zewnętrznych koloniach zagrożenie robalami i robotami rośnie.
+**Opis**: Masz za sobą służbę w wojsku, gdzie stoczono brutalne bitwy i gdzie nie było miejsca na słabości. Niezależnie od tego, czy walczyłeś w wojnach ziemskich czy kolonialnych, twoje doświadczenie w boju i przetrwaniu sprawia, że stajesz twardo na nogach w każdej sytuacji.
 
 **Ekwipunek** : 1000 kredytów, Strzelba, Lekki Pancerz, TraumaPack
 
