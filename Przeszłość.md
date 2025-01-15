@@ -18,7 +18,7 @@
 
 <h3>Haker</h3>
 
-**Opis**: Jesteś bardzo dobry we włamywaniu się do cudzych systemów.
+**Opis**: Zarabiałeś na życie włamywając się do cudzych systemów.
 
 **Ekwipunek** : 1000 kredytów, Scrambler/TacMod
 
@@ -50,7 +50,7 @@
 
 <h3>Mechanik</h3>
 
-**Opis**: ...
+**Opis**: Jesteś bardzo dobry w naprawianiu rzeczy.
 
 **Ekwipunek** : 2000 kredytów, Narzędzia (dowolny rodzaj), Strzelba
 
