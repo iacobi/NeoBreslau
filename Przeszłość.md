@@ -87,11 +87,3 @@
 **Ekwipunek** : 1000 kredytów, Strzelba, Lekki Pancerz, TraumaPack
 
 **Umiejętności** : Broń Długa, Charakter, Wytrzymałość, Sprawność
-
-<h3>Człowiek znikąd</h3>
-
-**Opis**: ...
-
-**Ekwipunek** : 1000 kredytów
-
-**Umiejętności** : 4 punkty wolne
