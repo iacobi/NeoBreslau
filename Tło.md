@@ -52,7 +52,7 @@
 
 **Opis**: Im lepsze metody wymyślimy na łatanie ludzi tym ludzie znajdą lepsze metody na rozwalanie się na kawałki. Tak długo jak znajdą wszystkie kawałki będziesz w stanie pomóc.
 
-**Ekwipunek** : Narzędzia Medyczne, TraumaPack (3 sztuki)
+**Ekwipunek** : 2000 kredytów, Narzędzia Medyczne, TraumaPack (3 sztuki)
 
 **Umiejętności** : Intuicja, Biotechnika, Medycyna, Spostrzegawczość
 
@@ -60,7 +60,7 @@
 
 **Opis**: Sól tej ziemi... albo stacji kosmicznej.
 
-**Ekwipunek** : Narzędzia, Skafander Kosmiczny, Strzelba albo Rewolwer .44, Dron Zwiadu
+**Ekwipunek** : 1000 kredytów, Narzędzia, Skafander Kosmiczny, Strzelba albo Rewolwer .44, Dron Zwiadu
 
 **Umiejętności** : Wytrzymałość, Mechanika, Pilotaż, Prowadzenie Pojazdów
 
