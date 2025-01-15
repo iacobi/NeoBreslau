@@ -31,8 +31,6 @@ Niektóre zdolności mają alternatywne wersje oznaczone *, nie można mieć jed
 
 **Kensei** : Masz swoje wybrane ulubione ostrze, kiedy go używasz poziom umiejętności **Walka Bronia** jest wyższy o jeden. Postać wyciąga to ostrze tak szybko i sprawnie, że są traktowane jakby zawsze były w dłoni postaci.
 
-**Kuźnia**: Wybierz dowolną techniczną umiejętność (Oprogramowanie, Elektronika, Cybernetyka, Biotechnika, Mechanika itp). Masz swój własny unikatowy warsztat.Tak długo jak w nim pracujesz dostajesz +1 poziomu tej umiejętności podczas testów, jeśli posiadasz **Sprzęg** możesz podpiąć się do swojego warsztatu i dostajesz +2. Kuźnia jest mobilna jeśli posiadasz odpowiednio duży pojazd - duża furgonetka, helikopter transportowy itp. Jeśli kiedykolwiek stracisz swój sprzęt zakładamy, że odbudowujesz go między przygodami.
-
 **Łowca** : Masz jeden przerzut do każdego testu **Kamuflażu**. Jeden przerzut podczas strzałów mierzonych. Jeśli jesteś w terenie możesz wydać punkt SW i poświęcić godzinę, żeby stworzyć improwizowany strój maskujący (dodatkowy przezut do **Kamuflażu**).
 
 **MonoStruny** : Superwytrzymała struna może służyć do cięcia, obezwładniania albo jako prowizoryczna lina. Użyta w walce, ma dwa przerzuty i zadaje zwykłe 4 kostki obrażeń. Jeśli próbujesz kogoś obezwładnić albo rozbroić, nie jesteś traktowany jako nieuzbrojony i masz jeden przerzut do rzutu na trafienie. Walcząc strunami, postać używa umiejętności **Walka Wręcz**. Struna jest również w stanie utrzymać Twój ciężar i obwiązać się wokół przedmiotów w odległości 10 metrów. Ten dodatkowy zasięg można wykorzystać tylko do wspianania się albo łapania przedmiotów w walce zasięg struny jest identyczny jak każdej innej broni białej.
