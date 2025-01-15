@@ -2,7 +2,7 @@
 
 <h3>Gangster</h3>
 
-**Opis**: ...
+**Opis**: Żyłeś poza prawem.
 
 **Ekwipunek** : 1000 kredytów, Pistolet Maszynowy 9mm, Blitz (dwie dawki), Wendigo (dwie dawki), Lux (jedna dawka)
 
@@ -18,7 +18,7 @@
 
 <h3>Haker</h3>
 
-**Opis**: ...
+**Opis**: Jesteś bardzo dobry we włamywaniu się do cudzych systemów.
 
 **Ekwipunek** : 1000 kredytów, Scrambler/TacMod
 
@@ -26,7 +26,7 @@
 
 <h3>Kolonista</h3>
 
-**Opis**: Sól tej ziemi... albo stacji kosmicznej.
+**Opis**: Sól tej ziemi. Wychowałeś się na jednej z dalekich kolonii. Przywykłeś do radzenia sobie w trudnych sytuacjach i życiu z daleka od cywilizacji.
 
 **Ekwipunek** : 1000 kredytów, Narzędzia (dowolny rodzaj), Skafander Kosmiczny, Strzelba albo Rewolwer .44, Dron Zwiadu
 
