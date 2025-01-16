@@ -60,7 +60,7 @@
 
 **Opis**: Niebo nigdy nie było dla ciebie limitem, a przestrzeń kosmiczna jest twoim drugim domem. Potrafisz wyczuć maszynę, jakby była częścią ciebie. Wiesz, jak omijać zagrożenia, przemycać ładunki i ewakuować ludzi z najgorszych miejsc w galaktyce. Jeśli zapłacą odpowiednio, polecisz wszędzie, nawet w najczarniejszy zakątek kosmosu.
 
-**Ekwipunek** : 2000 kredytów, Skafander Kosmiczny, Pistolet 9mm
+**Ekwipunek** : 2000 kredytów, Skafander Kosmiczny, Pistolet 9mm, Lux (1 dawka)
 
 **Umiejętności** : Pilotaż, Pilotaż Kosmos, Oprogramowanie, Nawigacja
 
