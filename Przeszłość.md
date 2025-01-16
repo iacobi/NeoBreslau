@@ -1,5 +1,13 @@
 <h2>Przeszłość</h2>
 
+<h3>Detektyw</h3>
+
+**Opis**: Jako detektyw masz talent do rozwiązywania zagadek i odkrywania ukrytych prawd. Czy to w dusznych zaułkach megamiasta, czy na pokładzie orbitalnej stacji, zawsze potrafisz połączyć fakty i znaleźć odpowiedzi tam, gdzie inni widzą tylko chaos. Twoje doświadczenie w pracy z ludźmi i dowodami daje Ci przewagę w śledztwach, a Twoja determinacja pozwala Ci dotrzeć do sedna sprawy.
+
+**Ekwipunek** : 1000 kredytów, Rewolwer .44, Kapelusz
+
+**Umiejętności** : Charakter, Intuicja, Spostrzegawczość, Kamuflaż
+
 <h3>Gangster</h3>
 
 **Opis**: Żyłeś poza prawem, w świecie, gdzie honor to tylko puste słowa, a pieniądze rządzą wszystkim. Jako gangster wiesz, jak poruszać się w mrocznych zakamarkach miast, jak utrzymać kontrolę nad terenem i jak rozmawiać z tymi, którzy są gotowi zrobić wszystko dla zysku. Twoje życie to nieustanna walka o władzę, zyski i przetrwanie, gdzie nie ma miejsca na sentymenty. Od brudnych interesów po brutalne konfrontacje – nie boisz się działać poza granicami prawa. Masz swoich ludzi i nie zawahasz się ich wykorzystać, by zdobyć to, czego pragniesz.
@@ -14,7 +22,7 @@
 
 **Ekwipunek** : 1000 kredytów, Pistolet 9mm, Pałka Teleskopowa, Lekki Pancerz, TraumaPack
 
-**Umiejętności** : Walka Wręcz, Broń Krótka, Charakter, Intuicja
+**Umiejętności** : Walka Wręcz, Broń Krótka, Charakter, Prowadzenie Pojazdów
 
 <h3>Haker</h3>
 
