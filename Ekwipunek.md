@@ -39,13 +39,13 @@
 | **Falcata/Karabin Szturmowy**|zwykłe&nbsp;4&nbsp;kostki| 30| pół tury |Krótka Seria, Ogień Ciągły | 1000&nbsp;kred.|
 | **Karabin Bojowy**|silne&nbsp;4&nbsp;kostki| 20| pół tury |Krótka Seria| 3000&nbsp;kred.|
 | ||  |   |  |  |
-| **Dubeltówka\***|silne&nbsp;4&nbsp;kostki| 2 | 1 nabój na turę | - | 500&nbsp;kred.|
-| **Strzelba**|silne&nbsp;4&nbsp;kostki| 8 | 1 nabój na turę | | 500&nbsp;kred.|
+| **Dubeltówka\***|silne&nbsp;4&nbsp;kostki| 2 | 1 nabój na turę |Prosta Obsługa| 1000&nbsp;kred.|
+| **Strzelba**|silne&nbsp;4&nbsp;kostki| 8 | 1 nabój na turę |Prosta Obsługa| 1000&nbsp;kred.|
 | **Strzelba Automatyczna**|silne&nbsp;4&nbsp;kostki| 20 | cała tura | Krótka Seria, Ogień Ciągły| 2500&nbsp;kred.|
 | ||  |   |  |  |
-| **Lekki Karabin Maszynowy\*\*** |zwykłe&nbsp;4&nbsp;kostki| 100 |trzy tury| Krótka Seria, Ogień&nbsp;Ciągły+| 4000&nbsp;kred.|
-| **Karabin Maszynowy\*\*** |silne&nbsp;4&nbsp;kostki| 100 |trzy tury| Krótka Seria, Ogień&nbsp;Ciągły+, Nieporęczny| 5000&nbsp;kred.|
-| **Karabin Maszynowy .338\*\*** |zwykłe&nbsp;5&nbsp;kostek| 100 |pięć tur| Krótka Seria, Ogień&nbsp;Ciągły+, Nieporęczny, Odrzut| 10000&nbsp;kred.|
+| **Lekki Karabin Maszynowy\*\*** |zwykłe&nbsp;4&nbsp;kostki| 100 |trzy tury| Krótka Seria, Ogień&nbsp;Ciągły+, Ogień&nbsp;Zaporowy| 4000&nbsp;kred.|
+| **Karabin Maszynowy\*\*** |silne&nbsp;4&nbsp;kostki| 100 |trzy tury| Krótka Seria, Ogień&nbsp;Ciągły+, Ogień&nbsp;Zaporowy, Nieporęczny| 5000&nbsp;kred.|
+| **Karabin Maszynowy .338\*\*** |zwykłe&nbsp;5&nbsp;kostek| 100 |pięć tur| Krótka Seria, Ogień&nbsp;Ciągły, Ogień&nbsp;Zaporowy, Nieporęczny, Odrzut| 10000&nbsp;kred.|
 | ||  |   |  |  |
 | **Karabin Wyborowy**|silne&nbsp;4&nbsp;kostki| 5 | cała tura|Jeden strzał na turę | 4000&nbsp;kred.|
 | **Samopowtarzalny Karabin Wyborowy**|silne&nbsp;4&nbsp;kostki| 12 | cała tura| Nieporęczny| 5000&nbsp;kred.|
@@ -59,7 +59,7 @@
 
 **Ogień Ciągły+:** Zajmuje całą turę i zużywa 20 pocisków. Postać wykonuje 3 ataki, używając 6 kostek na trafienie w każdym. Jeśli którykolwiek atak spudłuje nie wykonuje już kolejnych. Każde trafienie zadaje o kostkę obrażeń więcej niż normalnie. 
 
-**Ogień Zaporowy:** Każda broń, która ma cechę **Ogień Ciągły+** może wykonać ogień zaporowy. Jeśli postać nie wykonała jeszcze zadnej akcji w turze, może kontrować dowolny atak innej postaci. Jeśli w swoim teście strzelania wyrzucą więcej sukcesów niż atakujący, obie postacie tracą tą turę. Muszą widzieć postać, która wykonuje atak, który chcą skontrować. Ogień zaporowy zużywa 20 pocisków.
+**Ogień Zaporowy:** Jeśli postać nie wykonała jeszcze zadnej akcji w turze, może kontrować dowolny atak/czynność innej postaci. Jeśli w swoim teście strzelania wyrzucą więcej sukcesów niż atakujący, obie postacie tracą tą turę. Muszą widzieć postać, która wykonuje atak, który chcą skontrować. Ogień zaporowy zużywa 20 pocisków.
 
 **Odrzut:** Broń Krótka z odrzutem traci kostkę z szybkich strzałów, Broń Długa traci kostkę z każdego rzutu na trafienie jeśli nie będzie rozstawiona na dwójnogu.
 
@@ -69,7 +69,7 @@
 
 **\*\*Karabiny Maszynowe:** Karabiny maszynowe nie otrzymują +1 za zainstalowanie optyki albo cyberoptyki.
 
-<h2>Modyfikacje Broni</h2>
+<h2>Modyfikacje Broni i Specjalna Amunicja</h2>
 
 **Optyka**: +1 do umiejętności podczas strzałów mierzonych
 
@@ -77,9 +77,9 @@
 
 **Inteligenta Amunicja**: Wymaga CyberOptyki, łącznie dają +2 do umiejętności strzelania, ale -1 kostka obrażeń.
 
-**Gumowa Amunicja**: zadaje kostke obrażeń mniej, tylko strzelby. Nie powoduje utraty żywotności, ale jeśli atak pokona próg bólu celu, cel jest wyłączony z walki. Można stosować z z zasadami ataku w punkty witalne, żeby zwiększyć szanse na pokonanie progu bólu.
+**Amunicja Żelowa**: Tylko rewolwery i strzelby. Specjalna amunicja obezwładniająca, **zadaje kostkę obrażeń mniej**. Jeśli obrażenia wystarczyły na pokonanie progu bólu postać jest wyłączona z walki i traci tylko jeden punkt żywotności. W innym przypadku trafienie boli ale nie powoduje utraty żywotności. Można stosować z z zasadami ataku w punkty witalne, żeby zwiększyć szanse na pokonanie progu bólu.
 
-**Amunicja Przeciwpancerna**: Tylko karabiny 7,62 i .338. Tracisz kostkę z rzutu na obrażenia, broń zyskuje cechę Przeciwpancerna i Odrzut
+**Poddźwiękowa 10mm**: Tylko broń 10mm. Zadaje zwykłe kostki zamiast silnych ale z tłumikiem jedynym dźwiękiem jaki jest słyszalny to praca mechanizmów broni.
 
 <h2> Granaty </h2>
 
