@@ -33,19 +33,23 @@
 
 |Broń Długa|Obrażenia|Magazynek|Ładowanie|Cechy|Cena|
 |--|:--:|:--:|--|--|--:|
-| **Pistolet Maszynowy 9mm**|zwykłe&nbsp;3&nbsp;kostki| 20| pół tury |Prosta Obsługa, Krótka Seria, Ogień&nbsp;Ciągły(20) | 1500&nbsp;kred.|
+| **Pistolet Maszynowy 9mm**|zwykłe&nbsp;3&nbsp;kostki| 20| pół tury |Prosta Obsługa, Krótka Seria, Ogień&nbsp;Ciągły+ | 1500&nbsp;kred.|
 | **Pistolet Maszynowy 10mm**|silne&nbsp;3&nbsp;kostki| 30| pół tury |Prosta Obsługa, Krótka Seria, Ogień&nbsp;Ciągły | 2000&nbsp;kred.|
 | ||  |   |  |  |
 | **Falcata/Karabin Szturmowy**|zwykłe&nbsp;4&nbsp;kostki| 30| pół tury |Krótka Seria, Ogień Ciągły | 1000&nbsp;kred.|
 | **Karabin Bojowy**|silne&nbsp;4&nbsp;kostki| 20| pół tury |Krótka Seria| 3000&nbsp;kred.|
+| ||  |   |  |  |
 | **Dubeltówka\***|silne&nbsp;4&nbsp;kostki| 2 | 1 nabój na turę | - | 500&nbsp;kred.|
-| **Strzelba Powtarzalna**|silne&nbsp;4&nbsp;kostki| 8 | 1 nabój na turę | | 500&nbsp;kred.|
-| **Strzelba Automatyczna**|silne&nbsp;4&nbsp;kostki| 20 | cała tura | Krótka Seria, Ogień Ciągły, Nieporęczna| 2500&nbsp;kred.|
-| **Lekki Karabin Maszynowy\*\*** |zwykłe&nbsp;4&nbsp;kostki| 100 |trzy tury| Krótka Seria, Ogień&nbsp;Ciągły(20) | 4000&nbsp;kred.|
-| **Karabin Maszynowy\*\*** |silne&nbsp;4&nbsp;kostki| 100 |trzy tury| Nieporęczny, Krótka Seria, Ogień&nbsp;Ciągły(20) | 5000&nbsp;kred.|
-| **Karabin Wyborowy 7,62mm**|silne&nbsp;4&nbsp;kostki| 5 | cała tura|Jeden strzał na turę | 2000&nbsp;kred.|
-| **Samopowtarzalny Karabin Wyborowy**|silne&nbsp;4&nbsp;kostki| 5 | cała tura| Nieporęczny| 2000&nbsp;kred.|
-| **Karabin Wyborowy .338**|zwykłe&nbsp;5&nbsp;kostek| 5 | cała tura|Jeden strzał na turę, Odrzut, Nieporęczny | 5000&nbsp;kred.|
+| **Strzelba**|silne&nbsp;4&nbsp;kostki| 8 | 1 nabój na turę | | 500&nbsp;kred.|
+| **Strzelba Automatyczna**|silne&nbsp;4&nbsp;kostki| 20 | cała tura | Krótka Seria, Ogień Ciągły| 2500&nbsp;kred.|
+| ||  |   |  |  |
+| **Lekki Karabin Maszynowy\*\*** |zwykłe&nbsp;4&nbsp;kostki| 100 |trzy tury| Krótka Seria, Ogień&nbsp;Ciągły+| 4000&nbsp;kred.|
+| **Karabin Maszynowy\*\*** |silne&nbsp;4&nbsp;kostki| 100 |trzy tury| Krótka Seria, Ogień&nbsp;Ciągły+, Nieporęczny| 5000&nbsp;kred.|
+| **Karabin Maszynowy .338\*\*** |zwykłe&nbsp;5&nbsp;kostek| 100 |pięć tur| Krótka Seria, Ogień&nbsp;Ciągły+, Nieporęczny, Odrzut| 10000&nbsp;kred.|
+| ||  |   |  |  |
+| **Karabin Wyborowy**|silne&nbsp;4&nbsp;kostki| 5 | cała tura|Jeden strzał na turę | 4000&nbsp;kred.|
+| **Samopowtarzalny Karabin Wyborowy**|silne&nbsp;4&nbsp;kostki| 12 | cała tura| Nieporęczny| 5000&nbsp;kred.|
+| **Karabin Wyborowy .338**|zwykłe&nbsp;5&nbsp;kostek| 5 | cała tura|Jeden strzał na turę, Nieporęczny, Odrzut| 10000&nbsp;kred.|
 
 **Prosta Obsługa:** postać wybiera czy korzysta z umiejętności broni krótkiej czy broni długiej
 
@@ -53,13 +57,13 @@
 
 **Ogień Ciągły:** Zajmuje całą turę i zużywa 15 pocisków. Postać wykonuje 3 ataki, używając 6 kostek, potem 5 kostek, potem  4 kostek na trafienie. Jeśli którykolwiek atak spudłuje nie wykonuje już kolejnych. Każde trafienie zadaje o kostkę obrażeń więcej niż normalnie.
 
-**Ogień Ciągły(20):** Zajmuje całą turę i zużywa 20 pocisków. Postać wykonuje 3 ataki, używając 6 kostek na trafienie w każdym. Jeśli którykolwiek atak spudłuje nie wykonuje już kolejnych. Każde trafienie zadaje o kostkę obrażeń więcej niż normalnie. 
+**Ogień Ciągły+:** Zajmuje całą turę i zużywa 20 pocisków. Postać wykonuje 3 ataki, używając 6 kostek na trafienie w każdym. Jeśli którykolwiek atak spudłuje nie wykonuje już kolejnych. Każde trafienie zadaje o kostkę obrażeń więcej niż normalnie. 
 
-**Ogień Zaporowy:** Każda broń, która ma cechę **Ogień Ciągły(20)** może wykonać ogień zaporowy. Jeśli postać nie wykonała jeszcze zadnej akcji w turze, może kontrować dowolny atak innej postaci. Jeśli w swoim teście strzelania wyrzucą więcej sukcesów niż atakujący, obie postacie tracą tą turę. Muszą widzieć postać, która wykonuje atak, który chcą skontrować. Ogień zaporowy zużywa 20 pocisków.
+**Ogień Zaporowy:** Każda broń, która ma cechę **Ogień Ciągły+** może wykonać ogień zaporowy. Jeśli postać nie wykonała jeszcze zadnej akcji w turze, może kontrować dowolny atak innej postaci. Jeśli w swoim teście strzelania wyrzucą więcej sukcesów niż atakujący, obie postacie tracą tą turę. Muszą widzieć postać, która wykonuje atak, który chcą skontrować. Ogień zaporowy zużywa 20 pocisków.
 
-**Odrzut:** tracisz kostkę z szybkich strzałów
+**Odrzut:** Broń Krótka z odrzutem traci kostkę z szybkich strzałów, Broń Długa traci kostkę z każdego rzutu na trafienie jeśli nie będzie rozstawiona na dwójnogu.
 
-**Nieporęczna:** Postać nie dolicza rzutu kostką do inicjatywy kiedy obsługuje tą broń. Może poświęcić turę i rozstawić jąn na dwójnogu albo w dowolnej innej wygodnej pozycji strzeleckiej, żeby ominąć tą karę.
+**Nieporęczna:** Postać nie dolicza rzutu kostką do inicjatywy kiedy obsługuje tą broń. Może poświęcić turę i rozstawić ją na dwójnogu albo w dowolnej innej wygodnej pozycji strzeleckiej, żeby ominąć tą karę.
 
 **\*Dubeltówka:** jeśli wystrzeli z obu rur podczas jednego ataku, zadaje kostke obrażeń więcej i ma jeden przerzut do ataku (tylko na trafienie)
 
