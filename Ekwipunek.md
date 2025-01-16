@@ -36,14 +36,14 @@
 | **Pistolet Maszynowy 9mm**|zwykłe&nbsp;3&nbsp;kostki| 20| pół tury |Prosta Obsługa, Krótka Seria, Ogień&nbsp;Ciągły+ | 1500&nbsp;kred.|
 | **Pistolet Maszynowy 10mm**|silne&nbsp;3&nbsp;kostki| 30| pół tury |Prosta Obsługa, Krótka Seria, Ogień&nbsp;Ciągły | 2000&nbsp;kred.|
 | ||  |   |  |  |
-| **Falcata/Karabin Szturmowy**|zwykłe&nbsp;4&nbsp;kostki| 30| pół tury |Krótka Seria, Ogień Ciągły | 1000&nbsp;kred.|
+| **Falcata 6.8mm (Karabin&nbsp;Szturmowy)**|zwykłe&nbsp;4&nbsp;kostki| 30| pół tury |Krótka Seria, Ogień Ciągły | 1000&nbsp;kred.|
 | **Karabin Bojowy**|silne&nbsp;4&nbsp;kostki| 20| pół tury |Krótka Seria| 3000&nbsp;kred.|
 | ||  |   |  |  |
 | **Dubeltówka\***|silne&nbsp;4&nbsp;kostki| 2 | 1 nabój na turę |Prosta Obsługa| 1000&nbsp;kred.|
 | **Strzelba**|silne&nbsp;4&nbsp;kostki| 8 | 1 nabój na turę |Prosta Obsługa| 1000&nbsp;kred.|
 | **Strzelba Automatyczna**|silne&nbsp;4&nbsp;kostki| 20 | cała tura | Krótka Seria, Ogień Ciągły| 2500&nbsp;kred.|
 | ||  |   |  |  |
-| **Lekki Karabin Maszynowy\*\*** |zwykłe&nbsp;4&nbsp;kostki| 100 |trzy tury| Krótka Seria, Ogień&nbsp;Ciągły+, Ogień&nbsp;Zaporowy| 4000&nbsp;kred.|
+| **Falx 6,8mm (Lekki&nbsp;Karabin&nbsp;Maszynowy\*\*)** |zwykłe&nbsp;4&nbsp;kostki| 100 |trzy tury| Krótka Seria, Ogień&nbsp;Ciągły+, Ogień&nbsp;Zaporowy| 4000&nbsp;kred.|
 | **Karabin Maszynowy\*\*** |silne&nbsp;4&nbsp;kostki| 100 |trzy tury| Krótka Seria, Ogień&nbsp;Ciągły+, Ogień&nbsp;Zaporowy, Nieporęczny| 5000&nbsp;kred.|
 | **Karabin Maszynowy .338\*\*** |zwykłe&nbsp;5&nbsp;kostek| 100 |pięć tur| Krótka Seria, Ogień&nbsp;Ciągły, Ogień&nbsp;Zaporowy, Nieporęczny, Odrzut| 10000&nbsp;kred.|
 | ||  |   |  |  |
