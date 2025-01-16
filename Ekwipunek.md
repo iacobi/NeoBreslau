@@ -33,7 +33,7 @@
 
 |Broń Długa|Obrażenia|Magazynek|Ładowanie|Cechy|Cena|
 |--|:--:|:--:|--|--|--:|
-| **Pistolet Maszynowy 9mm**|zwykłe&nbsp;3&nbsp;kostki| 20| pół tury |Prosta Obsługa, Krótka Seria, Ogień&nbsp;Ciągły+ | 1500&nbsp;kred.|
+| **Pistolet Maszynowy 9mm**|zwykłe&nbsp;3&nbsp;kostki| 20| pół tury |Prosta Obsługa, Krótka Seria, Ogień&nbsp;Ciągły+ | 1000&nbsp;kred.|
 | **Pistolet Maszynowy 10mm**|silne&nbsp;3&nbsp;kostki| 30| pół tury |Prosta Obsługa, Krótka Seria, Ogień&nbsp;Ciągły | 2000&nbsp;kred.|
 | ||  |   |  |  |
 | **Falcata 6.8mm (Karabin&nbsp;Szturmowy)**|zwykłe&nbsp;4&nbsp;kostki| 30| pół tury |Krótka Seria, Ogień Ciągły | 1000&nbsp;kred.|
