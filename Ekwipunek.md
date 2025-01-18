@@ -87,15 +87,21 @@ Zakładamy, że **użycie granatu zajmuje dwie tury**. Granat trzeba wyciągną�
 
 <h2>Pancerze</h2>
 
-**Lekki Pancerz** Wartość Pancerza : 1
+<h3>Lekki Pancerz</h3>
+
+**Wartość Pancerza**: 1 **Cena:** 2000 kred.
 
 Można schować pod ubraniem i chodzić po mieście.
 
-**Średni Pancerz** Wartość Pancerza : 2
+<h3>Średni Pancerz</h3>
+
+**Wartość Pancerza**: 2 **Cena:** 4000 kred.
 
 Nie da się ukryć noszenia średniego pancerza
 
-**Ciężki Pancerz** Wartość Pancerza : 3
+<h3>Ciężki Pancerz</h3>
+
+**Wartość Pancerza**: 3 **Cena:** 8000 kred.
 
 W ciężkim pancerzu możesz efektywnie się poruszać tyle godzin ile wynosi niższa z cech **Siła** albo **Wytrzymałość**.
 
@@ -117,29 +123,32 @@ Postać na raz może używać tylko jednego typu ekwipunku specjalnego.
 
 <h2>ElektroMaskałat</h2>
 
+**Cena:** 4000 kred.
+
 Przerzut do testów **Kamuflażu**. Maskuje ślad termiczny i elektromagnetyczny postaci.
 
 <h2>Tarcza Retrokinetyczna</h2>
 
-**Wersja A:** Za każdym razem kiedy postać ma otrzymać obrażenia od broni palnej i materiałów wybuchowych rzuca 1k10 i obniża otrzymane obrażenia. "0" jest liczone jako 10. Tarcza nie działa na broń białą.Pancerz postaci działa normalnie i również redukuje obrażenia. Jedna tarcza ma 6 ładunków i tyle razy można jej użyć przed ładowaniem albo wymianą.
+**Cena:** 8000 kred.
 
-**Wersja B:** Każdy atak bronią strzelecką wymierzony w tarcze zadaje 3 albo 4 (zwykła albo dobra tarcza) kostek obrażeń mniej.
+Tarcza daje 4 punkty pancerze przeciwko broni palnej i 2 punkty pancerza przeciwko granatom i materiałom wybuchowym. Kumuluje się z pancerzem noszonym przez postać.
 
 Aktywna Tarcza otacza postać widoczną przezroczystą poświatą, jest słyszalna z kilkunastu metrów. oraz jest natychmiast widoczna dla zwiadu elektronicznego (Scrambler) i w termowizji. **Postać traci kostkę z każdego testu Kamuflażu** kiedy nosi aktywną tarczę retrokinetyczną. Wyłączenie tarczy jest natychmiastowe ale aktywacja zajmuje turę.
-Tarcze można podpiąć do zewnętrznego źródła energii np. baterii samochodu wtedy ilość ładunków jest wieloktornie większa, ale używający jej musi cały czas pozostawać podłączony kablem.
 
 <h2> Drony </h2>
 
 Drony są w pewnym stopniu autonomiczne i mogą podążać za użytkownikiem. W walce postać musi wybrać czy wykonuje swoją turę jako swoja postać czy jako dron. Jeśli drony pozwalają na kontry to działają według normalnych zasad, czyli cała tura jest przeznaczona na kontrę. Postać na raz może mieć aktywny tylko jeden typ drona.
 
-**Venator**: Standardowy dron bojowy. Podlatuje i wybucha zadając **silne 5 kostek** obrażeń. W turze potrafi przelecieć 40 metrów. Do trafienia używana jest umiejętność **Pilotaż**. Może też wykonywać kontre - wlecieć w zbliżające się wrogie drony, granaty albo rakiety i wybuchąć. Nie trzeba rzutów na obrażenia - drony są na tyle delikatne, że wystarczy trafienie do zniszczenia. Żeby kontra była skuteczna trzeba uzyskać w rzucie na **Pilotaż** więcej niż atakujący miał w swoim rzucie na trafienie.
+**Venator**: [2000 kred za 1 sztukę] Standardowy dron bojowy. Podlatuje i wybucha zadając **silne 5 kostek** obrażeń. W turze potrafi przelecieć 40 metrów. Do trafienia używana jest umiejętność **Pilotaż**. Może też wykonywać kontre - wlecieć w zbliżające się wrogie drony, granaty albo rakiety i wybuchąć. Nie trzeba rzutów na obrażenia - drony są na tyle delikatne, że wystarczy trafienie do zniszczenia. Żeby kontra była skuteczna trzeba uzyskać w rzucie na **Pilotaż** więcej niż atakujący miał w swoim rzucie na trafienie.
 
-**Rój**: Rój małych dronów FPV. Są mniejsze i ładunek wybuchowy jest słabszy - **słabe 5 kostek** obrażeń. Ich ilość, którą można kontrolować na raz jest równa
+**Rój**: [1000 kred za sztukę] Rój małych dronów FPV. Są mniejsze i ładunek wybuchowy jest słabszy - **słabe 5 kostek** obrażeń. Ich ilość, którą można kontrolować na raz jest równa
 umiejętności **Oprogramowanie**. Postać nadal musi poświęcić swoją turę, żeby sterować rojem, ale ilość akcji w roju jest ograniczona przez ilość dronów. Jeśli postać np. kontroluej 3 drony, może użyć dwóch z nich jako kontre do zniszczenia nadlatujących wrogich dronów, a jednego do ataku. Może też wykonać tylko jedną akcje, a pozostałe 2 drony zostawić w rezerwie.
 
-**Secutor**: Mały gąsienicowy pojazd uzbrojony w karabin maszynowy. Poza poruszaniem się może wykonywać tylko akcje **Ogień Ciągły** albo **Ogień Zaporowy**.
+**Secutor**: [5000 kred za sztukę] Mały gąsienicowy pojazd uzbrojony w karabin maszynowy. Poza poruszaniem się może wykonywać tylko akcje **Ogień Ciągły** albo **Ogień Zaporowy**.
 
 <h2> TacMod / Scrambler </h2>
+
+**Cena:** 6000 kred.
 
 Narzędzie do walki elektronicznej w postaci plecaka z zestawem anten. TacModa nie można używać kiedy ma się włączoną tarczę retrokinetyczną albo elektromaskałat. Każdy TacMod można podłączyć sprzęgiem do postaci, daje do +1 do wszystkich testów. Sprzęg pozwala na **hackowanie iot** w walce, zajmuje to jedną turę. Jeśli operator nie ma sprzęgu hackowanie zajmuje za dużo czasu i musi to robić poza walką
 
@@ -151,17 +160,12 @@ Narzędzie do walki elektronicznej w postaci plecaka z zestawem anten. TacModa n
 
 ~~**Zwiad Elektroniczny**: Scrambler może wykryć podłączone do sieci urządzenia w jego zasięgu: telefony, samochody, sprzęty domowe, sprzęgi itp. Wykrycie jest automatyczne i większość cywilnych urządzeń nie wie, że ktoś je namierza. W przypadku zabezpieczonych systemów, wojskowej elektroniki itp. trzeba zdać test Elektroniki (PT ustala MG), żeby ping Scramblera pozostał niewykryty~~
 
-<h3>Cennik Różnych Rzeczy</h3>
+<h2>Pilum</h2>
 
+**Cena:** 4000 kred.
 
-|Broń|Obrażenia|Opis|Cena|
-|--|:--:|:--:|--:|
-| **Maskałat Elektroniczny**  |--| Maskowanie, jeden przerzut do kamuflażu| 5000 kred.|
-| **TacMod**  |--| komputer taktyczny | 5000 kred.|
-| **Tarcza Retroknietyczna**  |--| przeut do kamulfażu | 2000 kred.|
-| **Rój - pojedyncza sztuka**  |słabe&nbsp;5&nbsp;kostek| Mała drona działająca jako element roju | 1000 kred.|
-| **Venator**  |silne&nbsp;5&nbsp;kostek|  Standardowa drona ???| 2000 kred.|
-| **Pilum**  |silne&nbsp;6&nbsp;kostek|rpg| 2000 kred.|
+Uniwersalny jednorazowy granatnik przeciwpancerny. Trafienie w człowieka albo zwykły pojazd powoduje natychmiastową śmierć albo zniszczenie. W promieniu kilkunastu metrów zadaje zwykłe 5 kostek obrażeń.
+
 
 
 <h2>Łuki</h2>
@@ -170,22 +174,15 @@ silne 3 kostki obrażeń, jedna tura ładowania, Nie ma szybkich strzałów.
 
 Każdy łuk ma swoją siłę naciągu (od 3 do 6), jeśli jest większa od siły postaci, traci kostkę z rzutu na trafienie i rzutu na obrażenia. Jeśli jest mniejsza od siły postaci – postać musi używać obniżonej wartości do rzutu na obrażenia.
 
-
-  
-
 **Broń Miotana**
 
-Broń miotana nie ma żadnych przerzutów i żadnych specjalnych cech jak przeciwpancerny, bezpieczna kontra, potężna kontra. Tylko kostki obrażeń są takie same.
-
-  
+Broń miotana nie ma żadnych przerzutów i żadnych specjalnych cech jak przeciwpancerny, bezpieczna kontra, potężna kontra. Tylko kostki obrażeń są takie same. 
 
 **Tomahawki i Włócznie**
 
 Potężny rzut (spadasz na koniec tury, zajmuje całą rundę)
 
-Szybki rzut (-1 kostka obrażeń, -1 kostka na trafienia, możesz zrobić dwie w rundzie)
-
-  
+Szybki rzut (-1 kostka obrażeń, -1 kostka na trafienia, możesz zrobić dwie w rundzie) 
 
 **Noże**
 
@@ -193,18 +190,13 @@ Potężny rzut (-1 kostka obrażeń, spadasz na koniec tury, zajmuje całą rund
 
 Szybki rzut (-1 kostka obrażeń, -1 kostka na trafienia, możesz zrobić dwie w rundzie)
 
-  
-
 **Dowolne Ostrza nieprzystosowana do rzucania (miecze, szable, sztylety, rapiery itp.)**
 
-Desperacki rzut (-1 kostka obrażeń, -1 kostka do trafiania, zajmuje całą rundę)
-
-  
+Desperacki rzut (-1 kostka obrażeń, -1 kostka do trafiania, zajmuje całą rundę) 
 
 **Dowolne Tępa broń nieprzystosowana do rzucania (buławy, rózgi)**
 
 Desperacki rzut (-2 kostki obrażeń, -1 kostka do trafiania, zajmuje całą rundę)
-
 
 <h2>Leczenie</h2>
 
