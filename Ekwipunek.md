@@ -83,7 +83,13 @@
 
 <h2> Granaty </h2>
 
-Zakładamy, że **użycie granatu zajmuje dwie tury**. Granat trzeba wyciągnąć, odbezpieczyć, i rzucić. Musi też upłynąć te kilka sekund, żeby granat wybuchł. Postać w pierwszej turze deklaruje użycie granatu i w domyśle rzuca go. W drugiej turze wykonuje test rzucania, żeby ustalić czy udało jej się trafić. **Granaty zadają zwykłe 5 kostek obrażeń**. Można unikać granatów na normalnych zasadch uniku.
+Postać deklaruje użycie granatu zgodnie ze swoją inicjatywą w turze, ale samo wykonanie akcji spada na koniec tury. Jeśli kilka postaci używa granatów ich akcje wykonuje się na końcu tury zgodnie z ich inicjatywą. Jeśli postać używająca granatu zostanie wyłączona z walki zanim zdążyła rzucić granat upuszcza go i granat wybucha na końcu tury. 
+
+Jeśli postać ma w okolicy rów albo solidną ścianę może wykonać unik, żeby ochronić się przed granatem. Zakładając, że nie wykorzystała swojego uniku wcześńiej
+
+**Lekki Granat** : słabe 5 kostek obrażeń : 200 kred.
+
+**Standardowy Granat** : zwykłe 5 kostek obrażeń : 300 kred.
 
 <h2>Pancerze</h2>
 
