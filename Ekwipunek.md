@@ -23,33 +23,60 @@
 
 <h2>Broń Palna</h2>
 
-|Broń Krótka|Obrażenia|Magazynek|Ładowanie|Cechy|Cena|
+<h3> Pistolety</h3>
+
+||Obrażenia|Magazynek|Ładowanie|Cechy|Cena|
 |--|:--:|:--:|--|--|--:|
 | **Pistolet 9mm**  |zwykłe&nbsp;3&nbsp;kostki| 15 | pół tury | Krótka Seria, Ogień Ciągły| 1000 kred.|
 | **Pistolet 10mm**  |silne&nbsp;3&nbsp;kostki| 12 | pół tury | Krótka Seria| 3000 kred.|
+
+<h3>Rewolwery</h3>
+
+||Obrażenia|Magazynek|Ładowanie|Cechy|Cena|
+|--|:--:|:--:|--|--|--:|
 | **.357 Magnum**  |silne&nbsp;3&nbsp;kostki| 6 | cała tura | Krótka Seria| 2000 kred.|
 | **.44 Magnum** |zwykłe&nbsp;4&nbsp;kostki| 6 | cała tura | - | 2000 kred.|
 | **.454 Casull** |silne&nbsp;4&nbsp;kostki| 6 | cała tura | Odrzut | 3000 kred.|
 
-|Broń Długa|Obrażenia|Magazynek|Ładowanie|Cechy|Cena|
+<h3> Pistolety Maszynowe</h3>
+
+||Obrażenia|Magazynek|Ładowanie|Cechy|Cena|
 |--|:--:|:--:|--|--|--:|
-| **Pistolet Maszynowy 9mm**|zwykłe&nbsp;3&nbsp;kostki| 20| pół tury |Prosta Obsługa, Krótka Seria, Ogień&nbsp;Ciągły+ | 1000&nbsp;kred.|
-| **Pistolet Maszynowy 10mm**|silne&nbsp;3&nbsp;kostki| 30| pół tury |Prosta Obsługa, Krótka Seria, Ogień&nbsp;Ciągły | 2000&nbsp;kred.|
-| ||  |   |  |  |
+| **Gremlin 9mm**|zwykłe&nbsp;3&nbsp;kostki| 20| pół tury |Prosta Obsługa, Krótka Seria, Ogień&nbsp;Ciągły+ | 1000&nbsp;kred.|
+| **MP 10mm**|silne&nbsp;3&nbsp;kostki| 30| pół tury |Prosta Obsługa, Krótka Seria, Ogień&nbsp;Ciągły | 2000&nbsp;kred.|
+
+<h3>Karabiny</h3>
+
+||Obrażenia|Magazynek|Ładowanie|Cechy|Cena|
+|--|:--:|:--:|--|--|--:|
 | **.233 Falcata**|zwykłe&nbsp;4&nbsp;kostki| 30| pół tury |Krótka Seria, Ogień Ciągły | 1000&nbsp;kred.|
 | **.277 Arcus**|silne&nbsp;4&nbsp;kostki| 24| pół tury |Krótka Seria| 3000&nbsp;kred.|
-| ||  |   |  |  |
+| **Railgun**|słabe&nbsp;5&nbsp;kostek| 40| pół tury |Krótka Seria, Ogień&nbsp;Ciągły+ | 3000&nbsp;kred.|
+
+<h3>Strzelby</h3>
+
+|Nazwa|Obrażenia|Magazynek|Ładowanie|Cechy|Cena|
+|--|:--:|:--:|--|--|--:|
 | **Dubeltówka\***|silne&nbsp;4&nbsp;kostki| 2 | 1 nabój na turę |Prosta Obsługa| 1000&nbsp;kred.|
 | **Strzelba**|silne&nbsp;4&nbsp;kostki| 8 | 1 nabój na turę |Prosta Obsługa| 1000&nbsp;kred.|
 | **Strzelba Automatyczna**|silne&nbsp;4&nbsp;kostki| 20 | cała tura | Krótka Seria, Ogień Ciągły| 2500&nbsp;kred.|
-| ||  |   |  |  |
-| **.233 Falx (Lekki&nbsp;Karabin&nbsp;Maszynowy\*\*)** |zwykłe&nbsp;4&nbsp;kostki| 100 |trzy tury| Krótka Seria, Ogień&nbsp;Ciągły+, Ogień&nbsp;Zaporowy| 4000&nbsp;kred.|
-| **.277 Rapax Karabin Maszynowy\*\*** |silne&nbsp;4&nbsp;kostki| 100 |trzy tury| Krótka Seria, Ogień&nbsp;Ciągły+, Ogień&nbsp;Zaporowy, Nieporęczny| 5000&nbsp;kred.|
-| **.338 Karabin Maszynowy\*\*** |zwykłe&nbsp;5&nbsp;kostek| 100 |pięć tur| Krótka Seria, Ogień&nbsp;Ciągły, Ogień&nbsp;Zaporowy, Nieporęczny, Odrzut| 10000&nbsp;kred.|
-| ||  |   |  |  |
+
+<h3>Karabiny Maszynowe</h3>
+
+|Nazwa|Obrażenia|Magazynek|Ładowanie|Cechy|Cena|
+|--|:--:|:--:|--|--|--:|
+|**.233&nbsp;Falx**|zwykłe&nbsp;4&nbsp;kostki| 100 |trzy tury| Krótka Seria, Ogień&nbsp;Ciągły+, Ogień&nbsp;Zaporowy| 4000&nbsp;kred.|
+|**.277**|silne&nbsp;4&nbsp;kostki| 100 |trzy tury| Krótka Seria, Ogień&nbsp;Ciągły+, Ogień&nbsp;Zaporowy, Nieporęczny| 5000&nbsp;kred.|
+|**.338**|zwykłe&nbsp;5&nbsp;kostek| 100 |pięć tur| Krótka Seria, Ogień&nbsp;Ciągły, Ogień&nbsp;Zaporowy, Nieporęczny, Odrzut| 10000&nbsp;kred.|
+
+<h3>Karabiny Wyborowe</h3>
+
+|Nazwa|Obrażenia|Magazynek|Ładowanie|Cechy|Cena|
+|--|:--:|:--:|--|--|--:|
 | **Karabin Wyborowy**|silne&nbsp;4&nbsp;kostki| 5 | cała tura|Jeden strzał na turę | 4000&nbsp;kred.|
 | **Samopowtarzalny Karabin Wyborowy**|silne&nbsp;4&nbsp;kostki| 12 | cała tura| Nieporęczny| 5000&nbsp;kred.|
 | **.338 Lupus**|zwykłe&nbsp;5&nbsp;kostek| 5 | cała tura|Jeden strzał na turę, Nieporęczny, Odrzut| 10000&nbsp;kred.|
+
 
 **Prosta Obsługa:** postać wybiera czy korzysta z umiejętności broni krótkiej czy broni długiej
 
