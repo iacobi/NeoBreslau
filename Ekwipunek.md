@@ -144,9 +144,9 @@ Postać może przyjąć na sesji tyle dawek chemii bojowej bojowych ile wynosi j
 
 **TraumaPack**: Przywraca tyle punktów żywotności ile uzyskało się sukcesów w rzucie na Medycyne. Używając TraumaPacka na samym sobie traci się kostę z testu Medycyny. Nie można przekroczyć maksymalnego poziomu Żywotności
 
-**Lux** : Odzyskujesz dwa punkty SW. Nie można przekroczyć maksymalnego poziomu Żywotności.
+**Lux** : Odzyskujesz dwa punkty SW. Nie można przekroczyć maksymalnego poziomu SW.
 
-**Wendigo(PCP)**: Podnosi próg bólu o punkt. W Walce Wręcz i Walce Bronią zadajesz jedną kostkę obrażeń więcej.
+**Wendigo(PCP)**: Postać zyskuje jeden punkt żywotności. Może to przekroczyć maksymalna ilość punktów żywotności. Ignoruje zasady progu bólu, jedynym sposobem na powalenie jest sprowadzenie jej do zera żywotności.
 
 **Blitz(Speed)**: Rzucasz dodatkową kostkę na Inicjatywę.
 
