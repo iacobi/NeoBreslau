@@ -3,11 +3,9 @@
 Niektóre zdolności mają alternatywne wersje oznaczone *, nie można mieć jednocześnie wersji podstawowej i alternatywnej. Np. postać musi wybrać czy chce zaletę **Charyzma** czy **Cwaniak**
 <hr>
 
-**Charyzma** : Przerzut do **Charakteru**. Możesz dawać innym ludziom swoje punkty SW
+**Cwaniak** : Masz cięty język i zwinne palce. Przerzut do **Charakteru** i **Kradzieży**.
 >
->**\*Empata** : Przerzut do **Charakteru** i **Intuicji**
->
->**\*Cwaniak** : Masz cięty język i zwinne palce. Przerzut do **Charakteru** i **Kradzieży**.
+>**\*Szaman** : Przerzut do **Charakteru** i **Intuicji**. Ignorujesz efekty uboczne pierwszego przedawkowania na sesji. Możesz pozwolić korzystać innym graczom z Twoich punktów SW.
 >
 **Chirurg** : Przerzut do **Medycyny**. Jakiekolwiek leczenie wykonane przez tą postać przywraca jeden Punkt Żywotności więcej niż normalnie. Jeśli postać używa ostrzy może w walce użyć poziomu Medycyny zamiast Siły.
 
