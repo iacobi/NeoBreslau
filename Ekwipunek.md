@@ -51,7 +51,6 @@
 |--|:--:|:--:|--|--|--:|
 | **.233 Falcata**|zwykłe&nbsp;4&nbsp;kostki| 30| pół tury |Krótka Seria, Ogień Ciągły | 1000&nbsp;kred.|
 | **.277 Arcus**|silne&nbsp;4&nbsp;kostki| 24| pół tury |Krótka Seria| 3000&nbsp;kred.|
-| **Railgun**|słabe&nbsp;5&nbsp;kostek| 40| pół tury |Krótka Seria, Ogień&nbsp;Ciągły+ | 3000&nbsp;kred.|
 
 <h3>Strzelby</h3>
 
@@ -76,6 +75,14 @@
 | **Karabin Wyborowy**|silne&nbsp;4&nbsp;kostki| 5 | cała tura|Jeden strzał na turę | 4000&nbsp;kred.|
 | **Samopowtarzalny Karabin Wyborowy**|silne&nbsp;4&nbsp;kostki| 12 | cała tura| Nieporęczny| 5000&nbsp;kred.|
 | **.338 Lupus**|zwykłe&nbsp;5&nbsp;kostek| 5 | cała tura|Jeden strzał na turę, Nieporęczny, Odrzut| 10000&nbsp;kred.|
+
+<h3>Broń Magnetyczna</h3>
+
+|Nazwa|Obrażenia|Magazynek|Ładowanie|Cechy|Cena|
+|--|:--:|:--:|--|--|--:|
+| **Lekki Railgun**|słabe&nbsp;4&nbsp;kostek| 40| cała tura |Prosta Obsługa, Krótka Seria, Ogień&nbsp;Ciągły+ | 3000&nbsp;kred.|
+| **Railgun**|słabe&nbsp;5&nbsp;kostek| 40| cała tura |Krótka Seria, Ogień&nbsp;Ciągły+ | 3000&nbsp;kred.|
+| **Ciężki Railgun**|słabe&nbsp;5&nbsp;kostek| 120| trzy tury |Krótka Seria, Ogień&nbsp;Ciągły+, Nieporęczny | 8000&nbsp;kred.|
 
 
 **Prosta Obsługa:** postać wybiera czy korzysta z umiejętności broni krótkiej czy broni długiej
