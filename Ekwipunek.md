@@ -138,17 +138,31 @@ Nie da się ukryć noszenia średniego pancerza
 
 W ciężkim pancerzu możesz efektywnie się poruszać tyle godzin ile wynosi niższa z cech **Siła** albo **Wytrzymałość**.
 
-<h2>Chemia Bojowa</h2>
 
-Postać może przyjąć na sesji tyle dawek chemii bojowej bojowych ile wynosi jej Wytrzymałość. Efekty dwóch identycznych substancji nie kumulują się. Wendigo i Blitz działają aż do momentu aż postać straci przytomność albo pójdzie spać.
+<h2>Leczenie</h2>
 
-**TraumaPack**: Przywraca tyle punktów żywotności ile uzyskało się sukcesów w rzucie na Medycyne. Używając TraumaPacka na samym sobie traci się kostę z testu Medycyny. Nie można przekroczyć maksymalnego poziomu Żywotności
+**TraumaPack**: 500kred : Przywraca tyle punktów żywotności ile uzyskało się sukcesów w rzucie na Medycyne. Używając TraumaPacka na samym sobie traci się kostę z testu Medycyny. Nie można przekroczyć maksymalnego poziomu Żywotności. TraumaPack nie powoduje przedawkowania.
 
-**Lux** : Odzyskujesz dwa punkty SW. Nie można przekroczyć maksymalnego poziomu SW.
+~Żywotność traktujemy jako paliwo organizmu – jeśli postać ma jeszcze żywotność, może działać. Regeneracja zależy od tego w jakim stanie jest postać:
 
-**Wendigo(PCP)**: Postać zyskuje jeden punkt żywotności. Może to przekroczyć maksymalna ilość punktów żywotności. Ignoruje zasady progu bólu, jedynym sposobem na powalenie jest sprowadzenie jej do zera żywotności.
+**Lekko Ranna**: Postać została pobita, potłukła się spadając z drzewa albo schodów, jest chora albo zmęczona. Regeneruje jeden punkt żywotności dziennie, albo dwa kiedy odpoczywa.
 
-**Blitz(Speed)**: Rzucasz dodatkową kostkę na Inicjatywę.
+**Poważnie Ranna:** Pobicie – ale takie żelaznym prętem, ciężka choroba, albo połamała się skacząc z pociągu. Musi być opatrzona, żeby w ogóle myśleć o regeneracji, odpoczynek przywraca jeden punkt na dzień.
+
+**Krytycznie Ranna:** Postrzał w brzuch, sieknięcia szablę przez łeb. Postać odzyskuje punkt na trzy dni.
+
+  
+<h2>Chemia Bojowa/Narkotyki</h2>
+
+<h3>Przedawkowanie</h3>
+
+Na sesji postać może bez ryzyka przyjąć tyle dawek ile wynosi jej **Wytrzymałość**. Każda kolejna to ryzyko przedawkowania. Po przekroczeniu bezpiecznej ilości postać rzuca 1k10 przy każdym zażyciu chemii. Jeśli wyrzuciła 10 oznacza, że przedawkowała. **Traci 2 puntky żywotności i nie dostaje żadnych pozytywnych efektów narkotyku**. Po pierwszym przedawkowaniu rzuca już 2k10, po drugim 3k10 itd. Wystarczy tylko jedna 10 na dowolnej kości, żeby postać przedawkowała ponownie.
+
+**Lux** : inhalator, 1000kred. : Odzyskujesz dwa punkty SW. Nie można przekroczyć maksymalnego poziomu SW.
+
+**Wendigo(PCP)**: zastrzyk, 200kred. : Postać zyskuje jeden punkt żywotności. Może to przekroczyć maksymalna ilość punktów żywotności. Ignoruje zasady progu bólu, jedynym sposobem na powalenie jest sprowadzenie jej do zera żywotności.
+
+**Blitz(Speed)**: tabletki, 200kred. : Rzucasz dodatkową kostkę na Inicjatywę.
 
 <h1>Ekwipunek Specjalny</h1>
 
@@ -231,14 +245,4 @@ Desperacki rzut (-1 kostka obrażeń, -1 kostka do trafiania, zajmuje całą run
 
 Desperacki rzut (-2 kostki obrażeń, -1 kostka do trafiania, zajmuje całą rundę)
 
-<h2>Leczenie</h2>
-
-~Żywotność traktujemy jako paliwo organizmu – jeśli postać ma jeszcze żywotność, może działać. Regeneracja zależy od tego w jakim stanie jest postać:
-
-**Lekko Ranna**: Postać została pobita, potłukła się spadając z drzewa albo schodów, jest chora albo zmęczona. Regeneruje jeden punkt żywotności dziennie, albo dwa kiedy odpoczywa.
-
-**Poważnie Ranna:** Pobicie – ale takie żelaznym prętem, ciężka choroba, albo połamała się skacząc z pociągu. Musi być opatrzona, żeby w ogóle myśleć o regeneracji, odpoczynek przywraca jeden punkt na dzień.
-
-**Krytycznie Ranna:** Postrzał w brzuch, sieknięcia szablę przez łeb. Postać odzyskuje punkt na trzy dni.
-  
 
