@@ -184,7 +184,7 @@ Przerzut do testów **Kamuflażu**. Maskuje ślad termiczny i elektromagnetyczny
 
 **Cena:** 8000 kred.
 
-Tarcza daje **4 punkty pancerza przeciwko broni palnej, odłamkom i wybuchami granatów**. Kumuluje się z pancerzem noszonym przez postać. Tarcza nie jest w stanie powstrzymać bezpośrednich trafień z granatników i z broni przeciwpsrzętowej.
+Tarcza daje **4 punkty pancerza przeciwko broni palnej, odłamkom i wybuchami granatów**. Kumuluje się z pancerzem noszonym przez postać. Tarcza nie jest w stanie powstrzymać bezpośrednich trafień z granatników i z broni przeciwsprzętowej.
 
 Aktywna Tarcza otacza postać widoczną przezroczystą poświatą, jest słyszalna z kilkunastu metrów. oraz jest natychmiast widoczna dla zwiadu elektronicznego (Scrambler) i w termowizji. **Postać traci kostkę z każdego testu Kamuflażu** kiedy nosi aktywną tarczę retrokinetyczną. Wyłączenie tarczy jest natychmiastowe ale aktywacja zajmuje turę.
 
