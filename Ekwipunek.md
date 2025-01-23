@@ -54,13 +54,17 @@
 
 <h3>Strzelby</h3>
 
+**Dubeltówka** jeśli wystrzeli z obur rur podczas jednego ataku dostaje dodatkową kostkę do rzutu na obrażenia.
+
 |Nazwa|Obrażenia|Magazynek|Ładowanie|Cechy|Cena|
 |--|:--:|:--:|--|--|--:|
-| **Dubeltówka\***|silne&nbsp;4&nbsp;kostki| 2 | 1 nabój na turę |Prosta Obsługa| 1000&nbsp;kred.|
+| **Dubeltówka**|silne&nbsp;4&nbsp;kostki| 2 | 1 nabój na turę |Prosta Obsługa| 1000&nbsp;kred.|
 | **Strzelba**|silne&nbsp;4&nbsp;kostki| 8 | 1 nabój na turę |Prosta Obsługa| 1000&nbsp;kred.|
 | **Strzelba Automatyczna**|silne&nbsp;4&nbsp;kostki| 20 | cała tura | Krótka Seria, Ogień Ciągły| 2500&nbsp;kred.|
 
 <h3>Karabiny Maszynowe</h3>
+
+**Karabiny Maszynowe** nie otrzymują +1 za zainstalowanie optyki albo cyberoptyki.
 
 |Nazwa|Obrażenia|Magazynek|Ładowanie|Cechy|Cena|
 |--|:--:|:--:|--|--|--:|
@@ -84,7 +88,6 @@
 | **Railgun**|słabe&nbsp;5&nbsp;kostek| 40| cała tura |Krótka Seria, Ogień&nbsp;Ciągły+ | 3000&nbsp;kred.|
 | **Ciężki Railgun**|słabe&nbsp;5&nbsp;kostek| 120| trzy tury |Krótka Seria, Ogień&nbsp;Ciągły+, Nieporęczny | 8000&nbsp;kred.|
 
-
 **Prosta Obsługa:** postać wybiera czy korzysta z umiejętności broni krótkiej czy broni długiej
 
 **Krótka Seria:** zużywa 3 pociski, przerzut do ataku, może być użyta zarówno jako szybki strzał, albo jako strzał mierzony
@@ -98,10 +101,6 @@
 **Odrzut:** Broń Krótka z odrzutem traci kostkę z szybkich strzałów, Broń Długa traci kostkę z każdego rzutu na trafienie jeśli nie będzie rozstawiona na dwójnogu.
 
 **Nieporęczna:** Postać nie dolicza rzutu kostką do inicjatywy kiedy obsługuje tą broń. Może poświęcić turę i rozstawić ją na dwójnogu albo w dowolnej innej wygodnej pozycji strzeleckiej, żeby ominąć tą karę.
-
-**\*Dubeltówka:** jeśli wystrzeli z obu rur podczas jednego ataku, zadaje kostke obrażeń więcej i ma jeden przerzut do ataku (tylko na trafienie)
-
-**\*\*Karabiny Maszynowe:** Karabiny maszynowe nie otrzymują +1 za zainstalowanie optyki albo cyberoptyki.
 
 <h2>Modyfikacje Broni i Specjalna Amunicja</h2>
 
@@ -185,7 +184,7 @@ Przerzut do testów **Kamuflażu**. Maskuje ślad termiczny i elektromagnetyczny
 
 **Cena:** 8000 kred.
 
-Tarcza daje 4 punkty pancerze przeciwko broni palnej i 2 punkty pancerza przeciwko granatom i materiałom wybuchowym. Kumuluje się z pancerzem noszonym przez postać.
+Tarcza daje 4 punkty pancerze przeciwko broni palnej, odłamkom i wybuchami granatów. Kumuluje się z pancerzem noszonym przez postać. Jeśli kiedykolwiek otrzyma trafienie o wartości 8 lub więcej tarcza przepala się zaraz po tym trafieniu. Tarcze nie ochronią przed pociskami od 12,7mm wzwyż i silnymi eksplozjami jak np. bezpośrednie trafienie granatnikiem.
 
 Aktywna Tarcza otacza postać widoczną przezroczystą poświatą, jest słyszalna z kilkunastu metrów. oraz jest natychmiast widoczna dla zwiadu elektronicznego (Scrambler) i w termowizji. **Postać traci kostkę z każdego testu Kamuflażu** kiedy nosi aktywną tarczę retrokinetyczną. Wyłączenie tarczy jest natychmiastowe ale aktywacja zajmuje turę.
 
