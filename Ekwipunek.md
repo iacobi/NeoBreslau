@@ -166,6 +166,8 @@ Na sesji postać może bez ryzyka przyjąć tyle dawek ile wynosi jej **Wytrzyma
 
 **Lux** : inhalator, 1000kred. : Odzyskujesz dwa punkty SW. Nie można przekroczyć maksymalnego poziomu SW.
 
+**Neon** : tableki albo krople, 200kred. : **Charakter**, **Intuicja** i **Spostrzegawczość** na potrzeby testów są wyższe o jeden.
+
 **Wendigo(PCP)**: zastrzyk, 200kred. : Postać zyskuje jeden punkt żywotności. Może to przekroczyć maksymalna ilość punktów żywotności. Ignoruje zasady progu bólu, jedynym sposobem na powalenie jest sprowadzenie jej do zera żywotności.
 
 **Blitz(Speed)**: tabletki, 200kred. : Rzucasz dodatkową kostkę na Inicjatywę.
