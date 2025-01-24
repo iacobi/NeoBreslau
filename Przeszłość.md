@@ -70,7 +70,7 @@
 
 **Ekwipunek** : 2000 kredytów, Skafander Kosmiczny, Pistolet 9mm, Lux (1 dawka)
 
-**Umiejętności** : Pilotaż, Pilotaż Kosmos, Oprogramowanie, Nawigacja
+**Umiejętności** : Pilotaż, Pilotaż Kosmos, Oprogramowanie, Spostrzegawczość
 
 <h3>Robotnik Kosmiczny</h3>
 
