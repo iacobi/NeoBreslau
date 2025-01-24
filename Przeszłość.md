@@ -4,7 +4,7 @@
 
 **Opis**: Jako detektyw masz talent do rozwiązywania zagadek i odkrywania ukrytych prawd. Czy to w dusznych zaułkach megamiasta, czy na pokładzie orbitalnej stacji, zawsze potrafisz połączyć fakty i znaleźć odpowiedzi tam, gdzie inni widzą tylko chaos. Twoje doświadczenie w pracy z ludźmi i dowodami daje Ci przewagę w śledztwach, a Twoja determinacja pozwala Ci dotrzeć do sedna sprawy.
 
-**Ekwipunek** : 1000 kredytów, Rewolwer .44, Kapelusz
+**Ekwipunek** : 1000 kredytów, Rewolwer .44, Kapelusz, Neon (dwie dawki)
 
 **Umiejętności** : Charakter, Intuicja, Spostrzegawczość, Kamuflaż
 
