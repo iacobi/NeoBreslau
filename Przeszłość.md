@@ -1,5 +1,13 @@
 <h2>Przeszłość</h2>
 
+<h3>AstroGórnik</h3>
+
+**Opis**: Jesteś współczesnym pionierem, który codziennie zmaga się z surowością przestrzeni kosmicznej. Twoja praca polega na wydobywaniu cennych surowców z asteroid i księżyców, od których zależy rozwój międzyplanetarnego imperium. Dzięki sile, wytrzymałości i wiedzy technicznej radzisz sobie w najtrudniejszych warunkach. Twoja znajomość elektroniki pozwala utrzymać sprzęt w działaniu, nawet gdy środowisko zdaje się być twoim wrogiem.
+
+**Ekwipunek** : 1000 kredytów, Rewolwer .44, Skafander Kosmiczny, Blitz (dwie dawki)
+
+**Umiejętności** : Siła, Wytrzymałość, Elektronika, Mechanika
+
 <h3>Detektyw</h3>
 
 **Opis**: Jako detektyw masz talent do rozwiązywania zagadek i odkrywania ukrytych prawd. Czy to w dusznych zaułkach megamiasta, czy na pokładzie orbitalnej stacji, zawsze potrafisz połączyć fakty i znaleźć odpowiedzi tam, gdzie inni widzą tylko chaos. Twoje doświadczenie w pracy z ludźmi i dowodami daje Ci przewagę w śledztwach, a Twoja determinacja pozwala Ci dotrzeć do sedna sprawy.
