@@ -3,10 +3,6 @@
 Niektóre zdolności mają alternatywne wersje oznaczone *, nie można mieć jednocześnie wersji podstawowej i alternatywnej. Np. postać musi wybrać czy chce zaletę **Charyzma** czy **Cwaniak**
 <hr>
 
-**Cwaniak** : Masz cięty język i zwinne palce. Przerzut do **Charakteru** i **Kradzieży**.
->
->**\*Szaman** : Przerzut do **Charakteru** i **Intuicji**. Ignorujesz efekty uboczne pierwszego przedawkowania na sesji. Możesz pozwolić korzystać innym graczom z Twoich punktów SW.
->
 **Chirurg** : Przerzut do **Medycyny**. Jakiekolwiek leczenie wykonane przez tą postać przywraca jeden Punkt Żywotności więcej niż normalnie. Jeśli postać używa ostrzy może w walce użyć poziomu Medycyny zamiast Siły.
 
 **CyberOstrza** : w organizmie postaci ukryte są ostrze/ostrza. Mechanicznie traktujemy je jak katanę (dwuręczna, dwa przerzuty, cztery silne kostki obrażeń). Postać nie traci też żadnej akcji na wyciągnięcie ostrza. Za każdy punkt siły powyżej przeciętnego, w organizmie postaci ukryte jest dodatkowe ostrze, którym może wystrzelić jak bronią palną (zwykle 4 kostki obrażeń).
@@ -17,8 +13,10 @@ Niektóre zdolności mają alternatywne wersje oznaczone *, nie można mieć jed
 >
 >**\*??Desperado** : Możesz strzelać z dwóch pistoletów maszynowych na raz, na zasięgach do 20 metrów. Zużywasz 30 pocisków ale wykonujesz 4 ataki, każdy 5 kostek na trafienie i kostka obrażeń więcej.
 >
-**Determinacja** : Przerzut do **Wytrzymałości**. Postać zaczyna sesje z trzema punktami siły woli więcej niż wynika to z normalnych zasad.
-
+**Cwaniak** : Masz cięty język i zwinne palce. Przerzut do **Charakteru** i **Kradzieży**.
+>
+>**\*Szaman** : Przerzut do **Charakteru** i **Intuicji**. Zaczynasz sesje z dwoma dodatkowymi punktami SW i możesz pozwolić korzystać innym graczom z Twoich punktów SW.
+>
 **Droniarz** : Przerzut do testów **Pilotażu** i **Prowadzenia Pojazdów** kiedy postać steruje dronami. Jesteś tak dobry w obsłudze dron, że nie poświęcasz tury, żeby sterować nią w walce. Efektywnie postać wykonuje w swojej inicjatywie dwie tury. Jedną dla siebie i jedną dla swojego drona.
 
 **Fantom** : Nawet ludzie, którzy znają Cię od lat czasem wątpią czy istniejesz naprawdę. Ukrywanie się i zacieranie śladów to Twoja druga natura, nie zostawiasz odcisków palców, unikasz kamer i rozpływasz w tłumie. Jeśli ukrywasz się w grupie ludzi (na ulicy, w klubie itp.) i nie masz żadnej widocznej broni ani pancerza otrzymujesz przerzut do **Kamuflażu**. Możesz zapłacić punkt SW, żeby zmienić wygląd swojej postaci - musisz mieć narzędzie do tworzenia realistycznych masek.
