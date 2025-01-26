@@ -28,7 +28,7 @@
 
 **Opis**: Doświadczony były funkcjonariusz służb porządkowych. Doskonale radzisz sobie w trudnych sytuacjach, zarówno w walce, jak i przy rozwiązywaniu konfliktów. Twoje umiejętności pomagają utrzymać porządek, niezależnie od sytuacji.
 
-**Ekwipunek** : 1000 kredytów, Pistolet 9mm, Pałka Teleskopowa, Lekki Pancerz, TraumaPack
+**Ekwipunek** : 1000 kredytów, Pistolet 9mm, Pałka Teleskopowa, Tarcza Balistyczna
 
 **Umiejętności** : Walka Wręcz, Broń Krótka, Charakter, Prowadzenie Pojazdów
 
@@ -84,7 +84,7 @@
 
 **Opis**: Byłeś jednym z setek tysięcy anonimowych robotników, którzy trzymają do kupy cały wysiłek kolonizacyjny ludzkości. Spędziłeś niezliczone godziny w próżni kosmicznej łatając panele słoneczne, uszczelniając zbiorniki spawając uszkodzenia po mikro-asteroidach.
 
-**Ekwipunek** : 1000 kredytów, Skafander Kosmiczny, Rewolwer .44
+**Ekwipunek** : 1000 kredytów, Skafander Kosmiczny, Rewolwer .44, Narzędzia (dowolny rodzaj)
 
 **Umiejętności** : Sprawność, Mechanika, Oprogramowanie, Pilotaż Kosmos
 
@@ -92,7 +92,7 @@
 
 **Opis**: Korporacyjny najemnik, wykonujący brudną robotę tam, gdzie liczy się efektywność, a nie zasady. Zwinny w walce i zawsze gotowy do działań w cieniu, jesteś idealnym rozwiązaniem w sytuacjach, w których inne opcje zawiodły.
 
-**Ekwipunek** : 2000 kredytów, Pistolet Maszynowy 10mm albo Katana, Lekki Pancerz
+**Ekwipunek** : 2000 kredytów, Pistolet Maszynowy 10mm albo Katana, Lekki Pancerz, Granat Pyłowy
 
 **Umiejętności** : Broń Krótka, Walka Bronią, Sprawność, Kamuflaż
 
