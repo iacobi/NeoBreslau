@@ -100,6 +100,6 @@
 
 **Opis**: Masz za sobą służbę w wojsku, gdzie stoczono brutalne bitwy i gdzie nie było miejsca na słabości. Niezależnie od tego, czy walczyłeś w wojnach ziemskich czy kolonialnych, twoje doświadczenie w boju i przetrwaniu sprawia, że stajesz twardo na nogach w każdej sytuacji.
 
-**Ekwipunek** : 1000 kredytów, Strzelba, Lekki Pancerz, TraumaPack
+**Ekwipunek** : 1000 kredytów, Falcata, Lekki Pancerz, TraumaPack
 
 **Umiejętności** : Broń Długa, Charakter, Wytrzymałość, Sprawność
