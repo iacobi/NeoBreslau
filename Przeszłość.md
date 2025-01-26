@@ -4,7 +4,7 @@
 
 **Opis**: Jesteś współczesnym pionierem, który codziennie zmaga się z surowością przestrzeni kosmicznej. Twoja praca polega na wydobywaniu cennych surowców z asteroid i księżyców, od których zależy rozwój międzyplanetarnego imperium. Dzięki sile, wytrzymałości i wiedzy technicznej radzisz sobie w najtrudniejszych warunkach. Twoja znajomość elektroniki pozwala utrzymać sprzęt w działaniu, nawet gdy środowisko zdaje się być twoim wrogiem.
 
-**Ekwipunek** : 1000 kredytów, Rewolwer .44, Skafander Kosmiczny, Blitz (dwie dawki)
+**Ekwipunek** : 1000 kredytów, Paralizator, Skafander Kosmiczny, Blitz (dwie dawki)
 
 **Umiejętności** : Siła, Wytrzymałość, Elektronika, Mechanika
 
@@ -28,7 +28,7 @@
 
 **Opis**: Doświadczony były funkcjonariusz służb porządkowych. Doskonale radzisz sobie w trudnych sytuacjach, zarówno w walce, jak i przy rozwiązywaniu konfliktów. Twoje umiejętności pomagają utrzymać porządek, niezależnie od sytuacji.
 
-**Ekwipunek** : 1000 kredytów, Pistolet 9mm, Pałka Teleskopowa, Tarcza Balistyczna
+**Ekwipunek** : 1000 kredytów, Paralizator, Pałka Teleskopowa, Tarcza Balistyczna
 
 **Umiejętności** : Walka Wręcz, Broń Krótka, Charakter, Prowadzenie Pojazdów
 
@@ -36,7 +36,7 @@
 
 **Opis**: Specjalista od cyfrowych zagrożeń. Potrafisz wniknąć w systemy, przejąć kontrolę nad urządzeniami i manipulować danymi, nie zostawiając śladu. Twój umysł jest twoją najpotężniejszą bronią, a świat wirtualny to twoje pole walki.
 
-**Ekwipunek** : 1000 kredytów, Scrambler/TacMod
+**Ekwipunek** : 1000 kredytów, Paralizator, Scrambler/TacMod
 
 **Umiejętności** : Oprogramowanie, Elektronika, Intuicja, Kradzież
 
@@ -52,7 +52,7 @@
 
 **Opis**: Świat korporacyjnych układów i manipulacji jest twoim naturalnym środowiskiem. Niezależnie od tego, czy zdobywałeś wpływy na szczytach władzy, czy zarządzałeś zasobami z zimną precyzją, nauczyłeś się, jak przetrwać i odnosić sukcesy w strukturach, gdzie lojalność kończy się tam, gdzie zaczyna zysk. Umiesz poruszać się w świecie kontraktów, szantaży i tajnych układów, a twój urok osobisty jest równie skuteczną bronią jak każdy pistolet.
 
-**Ekwipunek** : 6000 kredytów, Pistolet 9mm, Lux (dwie dawki)
+**Ekwipunek** : 6000 kredytów, Paralizator, Lux (trzy dawki)
 
 **Umiejętności** : Charakter, Intuicja, Oprogramowanie, Wytrzymałość
 
@@ -60,7 +60,7 @@
 
 **Opis**: Im lepsze metody wymyślimy na łatanie ludzi tym ludzie znajdą lepsze metody na rozwalanie się na kawałki. Tak długo jak znajdą wszystkie kawałki będziesz w stanie pomóc.
 
-**Ekwipunek** : 2000 kredytów, Narzędzia Medyczne, TraumaPack (3 sztuki)
+**Ekwipunek** : 2000 kredytów, Paralizator, Narzędzia Medyczne, TraumaPack (3 sztuki)
 
 **Umiejętności** : Intuicja, Biotechnika, Medycyna, Spostrzegawczość
 
