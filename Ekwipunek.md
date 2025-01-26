@@ -124,6 +124,8 @@ Jeśli postać ma w okolicy rów albo solidną ścianę może wykonać unik, że
 
 **Standardowy Granat** : zwykłe 5 kostek obrażeń : 300 kred.
 
+**??Granat Pyłowy** : 500 kred. : Tworzy chmurę pyłu nie przepuszczającą promieniowania elektromagnetycznego. Zwalnia pociski i tłumi eksplozje. Broń palna i granaty tracą trzy kostki obrażeń w pyle, lub przelatując przez pył.
+
 <h2>Pancerze</h2>
 
 <h3>Lekki Pancerz</h3>
@@ -144,6 +146,11 @@ Nie da się ukryć noszenia średniego pancerza
 
 W ciężkim pancerzu możesz efektywnie się poruszać tyle godzin ile wynosi niższa z cech **Siła** albo **Wytrzymałość**.
 
+<h2>???Tarcza Balistyczna</h2>
+
+**Cena:** 4000 kred.
+
+**Blok** zastępuje **Unik**. Możesz blokować zarówno ataki strzeleckie jak i ataki w zwarciu. Możesz blokować każdy atak tak długo jak wygrywasz testy, po pierwszej porażce tracisz zdolność bloku aż do następnej tury. Tarcze balistyczną traktujemy jako **Nieporęczną** - potstać nie dodaje rzutu k10 do inicjatywy.
 
 <h2>Leczenie</h2>
 
@@ -182,20 +189,6 @@ Postać na raz może używać tylko jednego typu ekwipunku specjalnego.
 **Cena:** 4000 kred.
 
 Przerzut do testów **Kamuflażu**. Maskuje ślad termiczny i elektromagnetyczny postaci.
-
-<h2>Tarcza Retrokinetyczna</h2>
-
-**Cena:** 8000 kred.
-
-**Działanie:** Tarcza daje **4 punkty pancerza przeciwko broni palnej, odłamkom i wybuchom granatów**. Kumuluje się z pancerzem noszonym przez postać. Tarcza nie jest w stanie powstrzymać bezpośrednich trafień z granatników i z broni przeciwsprzętowej.
-
-**Baterie:** Tarcza ma baterie na 10 rund walki. Włączenie i wyłączenie tarczy jest natychmiastowe i postać może zadeklarować je już w momencie losowania inicajtywy. Tarcza może być podpięta kablem to zewnętrzengo źródła zasilania wtedy może działać bez przerwy nawet kilka godzin, ale to zewnętrzne źródło zasilania to np. bateria do zasilania samochodu.
-
-**Ograniczenia:**
-
-
-
-Aktywna Tarcza otacza postać widoczną przezroczystą poświatą, jest słyszalna z kilkunastu metrów i zostawia wyraźoraz jest natychmiast widoczna dla zwiadu elektronicznego (Scrambler) i w termowizji. **Postać traci kostkę z każdego testu Kamuflażu** kiedy nosi aktywną tarczę retrokinetyczną. Wyłączenie tarczy jest natychmiastowe ale aktywacja zajmuje turę.
 
 <h2> Drony </h2>
 
