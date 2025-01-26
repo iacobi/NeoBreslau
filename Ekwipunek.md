@@ -25,7 +25,7 @@
 
 <h3> Pistolety</h3>
 
-**Paralizator** ma tylko 10 metrów zasięgu. Trafienie z paralizatora nie powoduje utraty żywotnosci. Jeśli w rzucie na obrażenia udało się osiągnąć **próg bólu** celu jest on powalony i nie będzie zdolny do ruchu przez minutę.
+**Paralizator** ma tylko 10 metrów zasięgu. Trafienie z paralizatora nie powoduje utraty żywotnosci. Jeśli w rzucie na obrażenia udało się osiągnąć **próg bólu** celu jest on powalony i nie będzie zdolny do ruchu przez minutę. **Paralizator nie ignoruje pancerza**.
 
 ||Obrażenia|Magazynek|Ładowanie|Cechy|Cena|
 |--|:--:|:--:|--|--|--:|
