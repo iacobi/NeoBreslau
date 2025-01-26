@@ -25,10 +25,13 @@
 
 <h3> Pistolety</h3>
 
+**Paralizator** ma tylko 10 metrów zasięgu. Trafienie z paralizatora nie powoduje utraty żywotnosci. Jeśli w rzucie na obrażenia udało się osiągnąć **próg bólu** celu jest on powalony i nie będzie zdolny do ruchu przez minutę.
+
 ||Obrażenia|Magazynek|Ładowanie|Cechy|Cena|
 |--|:--:|:--:|--|--|--:|
 | **Pistolet 9mm**  |zwykłe&nbsp;3&nbsp;kostki| 15 | pół tury | Krótka Seria, Ogień Ciągły| 1000 kred.|
 | **Pistolet 10mm**  |silne&nbsp;3&nbsp;kostki| 12 | pół tury | Krótka Seria| 3000 kred.|
+| **Paralizator**  |słabe&nbsp;5&nbsp;kostek| 1 | cała tura | - | 1000 kred.|
 
 <h3>Rewolwery</h3>
 
