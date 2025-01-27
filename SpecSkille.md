@@ -31,6 +31,8 @@ Niektóre zdolności mają alternatywne wersje oznaczone *, nie można mieć jed
 
 **MonoStruny** : Superwytrzymała struna może służyć do cięcia, obezwładniania albo jako prowizoryczna lina. Użyta w walce, ma dwa przerzuty i zadaje zwykłe 4 kostki obrażeń. Jeśli próbujesz kogoś obezwładnić albo rozbroić, nie jesteś traktowany jako nieuzbrojony i masz jeden przerzut do rzutu na trafienie. Walcząc strunami, postać używa umiejętności **Walka Wręcz**. Struna jest również w stanie utrzymać Twój ciężar i obwiązać się wokół przedmiotów w odległości 10 metrów. Ten dodatkowy zasięg można wykorzystać tylko do wspianania się albo łapania przedmiotów w walce zasięg struny jest identyczny jak każdej innej broni białej.
 
+**Pancerz Wewnętrzny** : Postać ma zawsze gwarantowany jeden punkt pancerza, nawet jeśli trafiona atakiem, który normalnie ignoruje pancerz. Pancerz Wewnętrzny nie kumuluje się z noszonym pancerzem.
+
 **Regeneracja** : Płacąc punktami SW możesz całkowicie zregenerować swoją żywotność, wyleczyć wszystkie rany, choroby i trucizny. Pierwsza regeneracja kosztuje jeden punkt SW, druga dwa punkty, trzecia trzy itp. itd. Regeneracja nie działa w momencie kiedy postać straciła przytomność - otrzymała obrażenie równe progowi bólu albo żywotność spadła do zera.
 
 **Repozytorium** : Postać ma wgrane gigantyczne biblioteki wiedzy. Jeśli chce zamiast używać swojego normalnego poziomu umiejętności może użyć repozytorium, umiejętność jest wtedy równa 4. Repozytorium nie działa na czysto fizyczne aktywności - jak np. test Siły albo Walki Wręcz.
