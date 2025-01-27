@@ -153,7 +153,7 @@ W ciężkim pancerzu możesz efektywnie się poruszać tyle godzin ile wynosi ni
 
 **Cena:** 4000 kred.
 
-**Blok** zastępuje **Unik**. Możesz blokować zarówno ataki strzeleckie jak i ataki w zwarciu. Możesz blokować każdy atak tak długo jak wygrywasz testy, po pierwszej porażce tracisz zdolność bloku aż do następnej tury. Tarcze balistyczną traktujemy jako **Nieporęczną** - potstać nie dodaje rzutu k10 do inicjatywy.
+Wielka i ciężka tarcza montowana na uprzęży z mechanicznym ramieniem, który pozwala manewrować masą tarczy za pomocą jednej ręki. **Blok** zastępuje **Unik**. Możesz blokować zarówno ataki strzeleckie jak i ataki w zwarciu. Możesz blokować każdy atak tak długo jak wygrywasz testy, po pierwszej porażce tracisz zdolność bloku aż do następnej tury. Tarcze balistyczną traktujemy jako **Nieporęczną** - potstać nie dodaje rzutu k10 do inicjatywy.
 
 <h2>Leczenie</h2>
 
