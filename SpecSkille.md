@@ -9,10 +9,8 @@ Niektóre zdolności mają alternatywne wersje oznaczone *, nie można mieć jed
 
 **CyberNogi** : Możesz skakać wzwyż na 1x Siła metrów, w dal na 2x Siła metrów i spadać bezpiecznie z 5 x Siła metrów.
 
- **Cyngiel** : Wyciągnięcie pistoletu z kabury nie zajmuje akcji. Strzelasz z lewej ręki tak samo sprawnie jak z prawej. Możesz wykonać trzy szybkie strzały w rundzie używając 4 kostek w rzucie na trafienie. Jeśli zepniesz ze sobą dwa magazynki możesz zmieniać je tak szybko, że nie tracisz na to akcji - efektywnie pistolety maszynowe, i karabiny mają podwojoną pojemność magazynka.
->
->**\*??Desperado** : Możesz strzelać z dwóch pistoletów maszynowych na raz, na zasięgach do 20 metrów. Zużywasz 30 pocisków ale wykonujesz 4 ataki, każdy 5 kostek na trafienie i kostka obrażeń więcej.
->
+ **Cyngiel** : Możesz wykonać trzy szybkie strzały w rundzie używając 4 kostek w rzucie na trafienie, a strzelając ogniem ciągłym zadajesz kostkę obrażeń. Wyciągnięcie pistoletu z kabury nie zajmuje akcji.
+
 **Cwaniak** : Masz cięty język i zwinne palce. Przerzut do **Charakteru** i **Kradzieży**.
 >
 >**\*Szaman** : Przerzut do **Charakteru** i **Intuicji**. Zaczynasz sesje z dwoma dodatkowymi punktami SW i możesz pozwolić korzystać innym graczom z Twoich punktów SW.
