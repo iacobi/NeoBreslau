@@ -95,9 +95,9 @@
 
 **Krótka Seria:** zużywa 3 pociski, przerzut do ataku, może być użyta zarówno jako szybki strzał, albo jako strzał mierzony
 
-**Ogień Ciągły:** Zajmuje całą turę i zużywa 15 pocisków. Postać wykonuje 3 ataki, używając 6 kostek, potem 5 kostek, potem  4 kostek na trafienie. Jeśli którykolwiek atak spudłuje nie wykonuje już kolejnych. Każde trafienie zadaje o kostkę obrażeń więcej niż normalnie.
+**Ogień Ciągły:** Zajmuje całą turę i zużywa 15 pocisków. Postać wykonuje 3 ataki, używając 6 kostek, potem 5 kostek, potem 4 kostek na trafienie. Jeśli którykolwiek atak spudłuje nie wykonuje już kolejnych.
 
-**Ogień Ciągły+:** Zajmuje całą turę i zużywa 20 pocisków. Postać wykonuje 3 ataki, używając 6 kostek na trafienie w każdym. Jeśli którykolwiek atak spudłuje nie wykonuje już kolejnych. Każde trafienie zadaje o kostkę obrażeń więcej niż normalnie. 
+**Ogień Ciągły+:** Zajmuje całą turę i zużywa 20 pocisków. Postać wykonuje 3 ataki, używając 6 kostek na trafienie w każdym. Jeśli którykolwiek atak spudłuje nie wykonuje już kolejnych.
 
 **Ogień Zaporowy:** Jeśli postać nie wykonała jeszcze zadnej akcji w turze, może kontrować dowolny atak/czynność innej postaci. Jeśli w swoim teście strzelania wyrzucą więcej sukcesów niż atakujący, obie postacie tracą tą turę. Muszą widzieć postać, która wykonuje atak, który chcą skontrować. Ogień zaporowy zużywa 20 pocisków.
 
@@ -167,7 +167,6 @@ Wielka i ciężka tarcza montowana na uprzęży z mechanicznym ramieniem, który
 
 **Krytycznie Ranna:** Postrzał w brzuch, sieknięcia szablę przez łeb. Postać odzyskuje punkt na trzy dni.
 
-  
 <h2>Chemia Bojowa/Narkotyki</h2>
 
 <h3>Przedawkowanie</h3>
