@@ -179,7 +179,7 @@ Na sesji postać może bez ryzyka przyjąć tyle dawek ile wynosi jej **Wytrzyma
 
 **Wendigo**: zastrzyk, 200kred. : Postać zyskuje jeden punkt żywotności. Może to przekroczyć maksymalna ilość punktów żywotności. Ignoruje zasady progu bólu, jedynym sposobem na powalenie jest sprowadzenie jej do zera żywotności.
 
-**Blitz**: tabletki, 200kred. : Rzucasz dodatkową kostkę na Inicjatywę. Ignorujesz potrzebę snu i jedzenia przez dobę.
+**Blitz**: inhalator albo krople, 200kred. : Rzucasz dodatkową kostkę na Inicjatywę. Możesz przebiec 2***Sprawność** metrów w jednej turze i jednocześnie zachować wszystkie ataki.
 
 
 <h1>Ekwipunek Specjalny</h1>
