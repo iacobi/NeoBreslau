@@ -65,18 +65,6 @@
 | **Strzelba**|silne&nbsp;4&nbsp;kostki| 8 | 1 nabój na turę |Prosta Obsługa| 1000&nbsp;kred.|
 | **Strzelba Automatyczna**|silne&nbsp;4&nbsp;kostki| 20 | cała tura | Krótka Seria, Ogień Ciągły| 2500&nbsp;kred.|
 
-<h3>Karabiny Maszynowe</h3>
-
-Nie otrzymują +1 za zainstalowanie optyki albo cyberoptyki.
-
-Kiedy strzelają ogniem ciągłym zużywają 20 pocisków zamiast 15, ale każdy rzut na trafienie wykonują 6 kostkami
-
-|Nazwa|Obrażenia|Magazynek|Ładowanie|Cechy|Cena|
-|--|:--:|:--:|--|--|--:|
-|**.233&nbsp;Falx**|zwykłe&nbsp;4&nbsp;kostki| 100 |trzy tury| Krótka Seria, Ogień&nbsp;Ciągły, Ogień&nbsp;Zaporowy| 4000&nbsp;kred.|
-|**.277**|silne&nbsp;4&nbsp;kostki| 100 |trzy tury| Krótka Seria, Ogień&nbsp;Ciągły, Ogień&nbsp;Zaporowy, Nieporęczny| 5000&nbsp;kred.|
-|**.338**|zwykłe&nbsp;5&nbsp;kostek| 100 |pięć tur| Krótka Seria, Ogień&nbsp;Ciągły, Ogień&nbsp;Zaporowy, Nieporęczny, Odrzut| 10000&nbsp;kred.|
-
 <h3>Karabiny Wyborowe</h3>
 
 |Nazwa|Obrażenia|Magazynek|Ładowanie|Cechy|Cena|
@@ -84,6 +72,20 @@ Kiedy strzelają ogniem ciągłym zużywają 20 pocisków zamiast 15, ale każdy
 | **Karabin Wyborowy**|silne&nbsp;4&nbsp;kostki| 5 | cała tura|Jeden strzał na turę | 4000&nbsp;kred.|
 | **Samopowtarzalny Karabin Wyborowy**|silne&nbsp;4&nbsp;kostki| 12 | cała tura| Nieporęczny| 5000&nbsp;kred.|
 | **.338 Lupus**|zwykłe&nbsp;5&nbsp;kostek| 5 | cała tura|Jeden strzał na turę, Nieporęczny, Odrzut| 10000&nbsp;kred.|
+
+<h3>Karabiny Maszynowe</h3>
+
+Nie otrzymują +1 za zainstalowanie optyki albo cyberoptyki.
+
+**Ogień Ciągły** zużywa 20 pocisków zamiast 15, ale każdy rzut na trafienie wykonuje się 6 kostkami
+
+**Ogień Zaporowy** zużywa 20 pocisków zamiast 15, ale wystarczy zremisować z rzutem na atak przeciwnika.
+
+|Nazwa|Obrażenia|Magazynek|Ładowanie|Cechy|Cena|
+|--|:--:|:--:|--|--|--:|
+|**.233&nbsp;Falx**|zwykłe&nbsp;4&nbsp;kostki| 100 |trzy tury| Krótka Seria, Ogień&nbsp;Ciągły| 4000&nbsp;kred.|
+|**.277**|silne&nbsp;4&nbsp;kostki| 100 |trzy tury| Krótka Seria, Ogień&nbsp;Ciągły, Nieporęczny| 5000&nbsp;kred.|
+|**.338**|zwykłe&nbsp;5&nbsp;kostek| 100 |pięć tur| Krótka Seria, Ogień&nbsp;Ciągły, Nieporęczny, Odrzut| 10000&nbsp;kred.|
 
 <h3>Broń Magnetyczna</h3>
 
@@ -99,7 +101,7 @@ Kiedy strzelają ogniem ciągłym zużywają 20 pocisków zamiast 15, ale każdy
 
 **Ogień Ciągły:** Zajmuje całą turę i zużywa 15 pocisków. Postać wykonuje 3 ataki, używając 6 kostek, potem 5 kostek, potem 4 kostek na trafienie. Jeśli którykolwiek atak spudłuje nie wykonuje już kolejnych.
 
-**Ogień Zaporowy:** Jeśli postać nie wykonała jeszcze zadnej akcji w turze, może kontrować dowolny atak/czynność innej postaci. Jeśli w swoim teście strzelania wyrzucą więcej sukcesów niż atakujący, obie postacie tracą tą turę. Muszą widzieć postać, która wykonuje atak, który chcą skontrować. Ogień zaporowy zużywa 20 pocisków.
+**Ogień Zaporowy:** Jeśli broń posiada cechę **Ogień Ciągły** postać nie wykonała jeszcze zadnej akcji w turze, może kontrować dowolny atak/czynność innej postaci. Jeśli w swoim teście strzelania wyrzucą więcej sukcesów niż atakujący, obie postacie tracą tą turę. Muszą widzieć postać, która wykonuje atak, który chcą skontrować. Ogień zaporowy zużywa 15 pocisków.
 
 **Odrzut:** Broń Krótka z odrzutem traci kostkę z szybkich strzałów, Broń Długa traci kostkę z każdego rzutu na trafienie jeśli nie będzie rozstawiona na dwójnogu.
 
