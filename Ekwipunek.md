@@ -29,7 +29,7 @@
 
 ||Obrażenia|Magazynek|Ładowanie|Cechy|Cena|
 |--|:--:|:--:|--|--|--:|
-| **Pistolet 9mm**  |zwykłe&nbsp;3&nbsp;kostki| 15 | pół tury | Krótka Seria, Ogień Ciągły| 1000 kred.|
+| **Pistolet 9mm**  |zwykłe&nbsp;3&nbsp;kostki| 15 | pół tury | Krótka Seria| 1000 kred.|
 | **Pistolet 10mm**  |silne&nbsp;3&nbsp;kostki| 12 | pół tury | Krótka Seria| 3000 kred.|
 | **Paralizator**  |słabe&nbsp;5&nbsp;kostek| 2 | cała tura | - | 1000 kred.|
 
@@ -45,7 +45,7 @@
 
 ||Obrażenia|Magazynek|Ładowanie|Cechy|Cena|
 |--|:--:|:--:|--|--|--:|
-| **Gremlin 9mm**|zwykłe&nbsp;3&nbsp;kostki| 20| pół tury |Prosta Obsługa, Krótka Seria, Ogień&nbsp;Ciągły+ | 1000&nbsp;kred.|
+| **Gremlin 9mm**|zwykłe&nbsp;3&nbsp;kostki| 30| pół tury |Prosta Obsługa, Krótka Seria, Ogień&nbsp;Ciągły | 1000&nbsp;kred.|
 | **MP 10mm**|silne&nbsp;3&nbsp;kostki| 30| pół tury |Prosta Obsługa, Krótka Seria, Ogień&nbsp;Ciągły | 2000&nbsp;kred.|
 
 <h3>Karabiny</h3>
@@ -67,12 +67,14 @@
 
 <h3>Karabiny Maszynowe</h3>
 
-**Karabiny Maszynowe** nie otrzymują +1 za zainstalowanie optyki albo cyberoptyki.
+Nie otrzymują +1 za zainstalowanie optyki albo cyberoptyki.
+
+Kiedy strzelają ogniem ciągłym zużywają 20 pocisków zamiast 15, ale każdy rzut na trafienie wykonują 6 kostkami
 
 |Nazwa|Obrażenia|Magazynek|Ładowanie|Cechy|Cena|
 |--|:--:|:--:|--|--|--:|
-|**.233&nbsp;Falx**|zwykłe&nbsp;4&nbsp;kostki| 100 |trzy tury| Krótka Seria, Ogień&nbsp;Ciągły+, Ogień&nbsp;Zaporowy| 4000&nbsp;kred.|
-|**.277**|silne&nbsp;4&nbsp;kostki| 100 |trzy tury| Krótka Seria, Ogień&nbsp;Ciągły+, Ogień&nbsp;Zaporowy, Nieporęczny| 5000&nbsp;kred.|
+|**.233&nbsp;Falx**|zwykłe&nbsp;4&nbsp;kostki| 100 |trzy tury| Krótka Seria, Ogień&nbsp;Ciągły, Ogień&nbsp;Zaporowy| 4000&nbsp;kred.|
+|**.277**|silne&nbsp;4&nbsp;kostki| 100 |trzy tury| Krótka Seria, Ogień&nbsp;Ciągły, Ogień&nbsp;Zaporowy, Nieporęczny| 5000&nbsp;kred.|
 |**.338**|zwykłe&nbsp;5&nbsp;kostek| 100 |pięć tur| Krótka Seria, Ogień&nbsp;Ciągły, Ogień&nbsp;Zaporowy, Nieporęczny, Odrzut| 10000&nbsp;kred.|
 
 <h3>Karabiny Wyborowe</h3>
@@ -87,17 +89,15 @@
 
 |Nazwa|Obrażenia|Magazynek|Ładowanie|Cechy|Cena|
 |--|:--:|:--:|--|--|--:|
-| **Lekki Railgun**|słabe&nbsp;4&nbsp;kostek| 40| cała tura |Prosta Obsługa, Krótka Seria, Ogień&nbsp;Ciągły+ | 3000&nbsp;kred.|
-| **Railgun**|słabe&nbsp;5&nbsp;kostek| 40| cała tura |Krótka Seria, Ogień&nbsp;Ciągły+ | 3000&nbsp;kred.|
-| **Ciężki Railgun**|słabe&nbsp;5&nbsp;kostek| 120| trzy tury |Krótka Seria, Ogień&nbsp;Ciągły+, Nieporęczny | 8000&nbsp;kred.|
+| **Lekki Railgun**|słabe&nbsp;4&nbsp;kostek| 40| cała tura |Prosta Obsługa, Krótka Seria, Ogień&nbsp;Ciągły| 3000&nbsp;kred.|
+| **Railgun**|słabe&nbsp;5&nbsp;kostek| 40| cała tura |Krótka Seria, Ogień&nbsp;Ciągły | 3000&nbsp;kred.|
+| **Ciężki Railgun**|słabe&nbsp;5&nbsp;kostek| 120| trzy tury |Krótka Seria, Ogień&nbsp;Ciągły, Nieporęczny | 8000&nbsp;kred.|
 
 **Prosta Obsługa:** postać wybiera czy korzysta z umiejętności broni krótkiej czy broni długiej
 
 **Krótka Seria:** zużywa 3 pociski, przerzut do ataku, może być użyta zarówno jako szybki strzał, albo jako strzał mierzony
 
 **Ogień Ciągły:** Zajmuje całą turę i zużywa 15 pocisków. Postać wykonuje 3 ataki, używając 6 kostek, potem 5 kostek, potem 4 kostek na trafienie. Jeśli którykolwiek atak spudłuje nie wykonuje już kolejnych.
-
-**Ogień Ciągły+:** Zajmuje całą turę i zużywa 20 pocisków. Postać wykonuje 3 ataki, używając 6 kostek na trafienie w każdym. Jeśli którykolwiek atak spudłuje nie wykonuje już kolejnych.
 
 **Ogień Zaporowy:** Jeśli postać nie wykonała jeszcze zadnej akcji w turze, może kontrować dowolny atak/czynność innej postaci. Jeśli w swoim teście strzelania wyrzucą więcej sukcesów niż atakujący, obie postacie tracą tą turę. Muszą widzieć postać, która wykonuje atak, który chcą skontrować. Ogień zaporowy zużywa 20 pocisków.
 
