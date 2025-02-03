@@ -171,17 +171,22 @@ Wielka i ciężka tarcza montowana na uprzęży z mechanicznym ramieniem, który
 
 <h2>Chemia Bojowa/Narkotyki</h2>
 
+**Narkotyki pozwalają podnieść SW i Żywotność ponad maksymalny poziom postaci, ale nie więcej niż o trzy punkty.**
+
+
 <h3>Przedawkowanie</h3>
 
-Na sesji postać może bez ryzyka przyjąć tyle dawek ile wynosi jej **Wytrzymałość**. Każda kolejna to ryzyko przedawkowania. Po przekroczeniu bezpiecznej ilości postać rzuca 1k10 przy każdym zażyciu chemii. Jeśli wyrzuciła 10 oznacza, że przedawkowała. **Traci 2 puntky żywotności i nie dostaje żadnych pozytywnych efektów narkotyku**. Po pierwszym przedawkowaniu rzuca już 2k10, po drugim 3k10 itd. Wystarczy tylko jedna 10 na dowolnej kości, żeby postać przedawkowała ponownie.
+**Na jednej sesji postać bez ryzyka może przyjąć w sumie sześć dawek narkotyków**. Po przekroczeniu bezpiecznej ilości postać rzuca 1k10 przy każdym zażyciu chemii. Jeśli wyrzuciła 10 oznacza, że przedawkowała. **Traci 2 puntky żywotności i nie dostaje żadnych pozytywnych efektów narkotyku**. Po pierwszym przedawkowaniu rzuca już 2k10, po drugim 3k10 itd. Wystarczy tylko jedna 10 na dowolnej kości, żeby postać przedawkowała ponownie.
 
-**Lux** : inhalator, 1000kred. : Odzyskujesz dwa punkty SW. Nie można przekroczyć maksymalnego poziomu SW.
+**Nokaina** : zastrzyk, 500kred. : +2 Żywotności
 
-**Neon** : tableki albo krople, 200kred. : **Charakter**, **Intuicja** i **Spostrzegawczość** na potrzeby testów są wyższe o jeden.
+**Lux** : inhalator albo proszek, 800kred. : +2 SW
 
-**Wendigo**: zastrzyk, 200kred. : Postać zyskuje jeden punkt żywotności. Może to przekroczyć maksymalna ilość punktów żywotności. Ignoruje zasady progu bólu, jedynym sposobem na powalenie jest sprowadzenie jej do zera żywotności.
+**Neon** : tableki albo krople, 200kred. : +1 SW. **Charakter**, **Intuicja** i **Spostrzegawczość** na potrzeby testów są wyższe o jeden.
 
-**Blitz**: inhalator albo krople, 200kred. : Rzucasz dodatkową kostkę na Inicjatywę. Możesz przebiec 2***Sprawność** metrów w jednej turze i jednocześnie zachować wszystkie ataki.
+**Wendigo**: zastrzyk, 200kred. : +1 Żywotności. Ignoruje zasady progu bólu, jedynym sposobem na powalenie jest sprowadzenie jej do zera żywotności.
+
+**Blitz**: inhalator albo krople, 200kred. : +1 Żywotności. Rzucasz dodatkową kostkę na Inicjatywę.
 
 
 <h1>Ekwipunek Specjalny</h1>
