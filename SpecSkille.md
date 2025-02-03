@@ -3,8 +3,10 @@
 Niektóre zdolności mają alternatywne wersje oznaczone *, nie można mieć jednocześnie wersji podstawowej i alternatywnej. Np. postać musi wybrać czy chce zaletę **Charyzma** czy **Cwaniak**
 <hr>
 
-**Chirurg** : Przerzut do **Medycyny**. Jakiekolwiek leczenie wykonane przez tą postać przywraca jeden Punkt Żywotności więcej niż normalnie. Jeśli postać używa ostrzy może w walce użyć poziomu Medycyny zamiast Siły.
-
+**Chirurg** : Przerzut do **Medycyny**. Jeśli postać używa ostrzy może w walce użyć poziomu Medycyny zamiast Siły.
+>
+>**\*Chemik** : Przerzut do **Biotechniki** i **Medycyny**. Możesz zażyć 8 dawek chemii na sesji zanim pojawi się ryzyko przedawkowania.
+>
 **CyberOstrza** : w organizmie postaci ukryte są ostrze/ostrza. Mechanicznie traktujemy je jak katanę (dwuręczna, dwa przerzuty, cztery silne kostki obrażeń). Postać nie traci też żadnej akcji na wyciągnięcie ostrza. Za każdy punkt siły powyżej przeciętnego, w organizmie postaci ukryte jest dodatkowe ostrze, którym może wystrzelić jak bronią palną (zwykle 4 kostki obrażeń).
 
 **CyberNogi** : Możesz skakać wzwyż na 1x Siła metrów, w dal na 2x Siła metrów i spadać bezpiecznie z 5 x Siła metrów.
@@ -13,7 +15,7 @@ Niektóre zdolności mają alternatywne wersje oznaczone *, nie można mieć jed
 
 **Cwaniak** : Masz cięty język i zwinne palce. Przerzut do **Charakteru** i **Kradzieży**.
 >
->**\*Szaman** : Przerzut do **Charakteru** i **Intuicji**. Zaczynasz sesje z dwoma dodatkowymi punktami SW i możesz pozwolić korzystać innym graczom z Twoich punktów SW.
+>**\*Charyzma** : Przerzut do **Charakteru** i **Intuicji**. Zaczynasz sesje z dwoma dodatkowymi punktami SW i możesz pozwolić korzystać innym graczom z Twoich punktów SW.
 >
 **Droniarz** : Przerzut do testów **Pilotażu** i **Prowadzenia Pojazdów** kiedy postać steruje dronami. Jesteś tak dobry w obsłudze dron, że nie poświęcasz tury, żeby sterować nią w walce. Efektywnie postać wykonuje w swojej inicjatywie dwie tury. Jedną dla siebie i jedną dla swojego drona.
 
