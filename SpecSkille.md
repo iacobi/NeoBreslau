@@ -41,7 +41,7 @@ Niektóre zdolności mają alternatywne wersje oznaczone *, nie można mieć jed
 
 **SuperSensoryka** : Przerzut do **Intuicji** oraz **Spostrzegawczości**. Postać widzi w ciemności. Wszystkie zmysły są tak wyczulone, że na odległości 15 metrów poznaje ludzi po zapachu. Podczas snu wszystkie testy spostrzegawczości i intuicji wykonuje pełną pulą kostek.
 
-**Szybki** : Przerzut do **Sprawności**, dodatkowa kostka do rzutu na inicjatywę (wybierasz lepszą).
+**Szybki** : Przerzut do **Sprawności**, dodatkowa kostka do rzutu na inicjatywę (wybierasz lepszą). Możesz wydać 1 punkt SW, żeby pokonać w rundzie 2xSprawność metrów nie tracąc przy tym żadnej z akcji.
 
 **Technik** : Przerzut do **Elektroniki** i **Mechaniki**.
 
