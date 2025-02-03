@@ -20,7 +20,7 @@
 
 **Opis**: Żyłeś poza prawem, w świecie, gdzie honor to tylko puste słowa, a pieniądze rządzą wszystkim. Jako gangster wiesz, jak poruszać się w mrocznych zakamarkach miast, jak utrzymać kontrolę nad terenem i jak rozmawiać z tymi, którzy są gotowi zrobić wszystko dla zysku. Twoje życie to nieustanna walka o władzę, zyski i przetrwanie, gdzie nie ma miejsca na sentymenty. Od brudnych interesów po brutalne konfrontacje – nie boisz się działać poza granicami prawa. Masz swoich ludzi i nie zawahasz się ich wykorzystać, by zdobyć to, czego pragniesz.
 
-**Ekwipunek** : 1000 kredytów, Pistolet Maszynowy 9mm, Blitz (dwie dawki), Wendigo (dwie dawki), Lux (jedna dawka)
+**Ekwipunek** : 1000 kredytów, Pistolet Maszynowy 9mm, Blitz (dwie dawki), Wendigo (dwie dawki)
 
 **Umiejętności** : Charakter, Kamuflaż, Kradzież, Sprawność
 
@@ -93,6 +93,14 @@
 **Opis**: Korporacyjny najemnik, wykonujący brudną robotę tam, gdzie liczy się efektywność, a nie zasady. Zwinny w walce i zawsze gotowy do działań w cieniu, jesteś idealnym rozwiązaniem w sytuacjach, w których inne opcje zawiodły.
 
 **Ekwipunek** : 2000 kredytów, Pistolet Maszynowy 10mm albo Katana, Lekki Pancerz, Granat Pyłowy, Blitz (dwie dawki)
+
+**Umiejętności** : Broń Krótka, Walka Bronią, Sprawność, Kamuflaż
+
+<h3>Szaman</h3>
+
+**Opis**: Wspomagany farmaceutycznie psychoterapueta.
+
+**Ekwipunek** : 1000 kredytów, Paralizator, 8 dawek dowolnej chemii.
 
 **Umiejętności** : Broń Krótka, Walka Bronią, Sprawność, Kamuflaż
 
