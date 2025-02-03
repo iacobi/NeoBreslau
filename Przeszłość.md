@@ -102,7 +102,7 @@
 
 **Ekwipunek** : 1000 kredytów, Paralizator, 8 dawek dowolnej chemii.
 
-**Umiejętności** : Broń Krótka, Walka Bronią, Sprawność, Kamuflaż
+**Umiejętności** : Charakter, Intuicja, Biotechnika, Medycyna
 
 <h3>Weteran</h3>
 
