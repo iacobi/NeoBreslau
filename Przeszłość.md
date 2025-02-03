@@ -4,7 +4,7 @@
 
 **Opis**: Jesteś współczesnym pionierem, który codziennie zmaga się z surowością przestrzeni kosmicznej. Twoja praca polega na wydobywaniu cennych surowców z asteroid i księżyców, od których zależy rozwój międzyplanetarnego imperium. Dzięki sile, wytrzymałości i wiedzy technicznej radzisz sobie w najtrudniejszych warunkach. Twoja znajomość elektroniki pozwala utrzymać sprzęt w działaniu, nawet gdy środowisko zdaje się być twoim wrogiem.
 
-**Ekwipunek** : 1000 kredytów, Paralizator, Skafander Kosmiczny, Blitz (dwie dawki)
+**Ekwipunek** : 1000 kredytów, Paralizator, Skafander Kosmiczny, Nokaina (dwie dawki)
 
 **Umiejętności** : Siła, Wytrzymałość, Elektronika, Mechanika
 
@@ -76,7 +76,7 @@
 
 **Opis**: Niebo nigdy nie było dla ciebie limitem, a przestrzeń kosmiczna jest twoim drugim domem. Potrafisz wyczuć maszynę, jakby była częścią ciebie. Wiesz, jak omijać zagrożenia, przemycać ładunki i ewakuować ludzi z najgorszych miejsc w galaktyce. Jeśli zapłacą odpowiednio, polecisz wszędzie, nawet w najczarniejszy zakątek kosmosu.
 
-**Ekwipunek** : 2000 kredytów, Skafander Kosmiczny, Pistolet 9mm, Lux (1 dawka)
+**Ekwipunek** : 2000 kredytów, Skafander Kosmiczny, Pistolet 9mm, Lux (dwie dawki)
 
 **Umiejętności** : Pilotaż, Pilotaż Kosmos, Oprogramowanie, Spostrzegawczość
 
@@ -100,6 +100,6 @@
 
 **Opis**: Masz za sobą służbę w wojsku, gdzie stoczono brutalne bitwy i gdzie nie było miejsca na słabości. Niezależnie od tego, czy walczyłeś w wojnach ziemskich czy kolonialnych, twoje doświadczenie w boju i przetrwaniu sprawia, że stajesz twardo na nogach w każdej sytuacji.
 
-**Ekwipunek** : 1000 kredytów, Falcata, Lekki Pancerz, TraumaPack
+**Ekwipunek** : 1000 kredytów, Falcata, Lekki Pancerz, Nokaina (dwie dawki)
 
 **Umiejętności** : Broń Długa, Charakter, Wytrzymałość, Sprawność
