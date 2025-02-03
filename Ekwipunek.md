@@ -178,15 +178,15 @@ Wielka i ciężka tarcza montowana na uprzęży z mechanicznym ramieniem, który
 
 **Na jednej sesji postać bez ryzyka może przyjąć w sumie sześć dawek narkotyków**. Po przekroczeniu bezpiecznej ilości postać rzuca 1k10 przy każdym zażyciu chemii. Jeśli wyrzuciła 10 oznacza, że przedawkowała. **Traci 2 puntky żywotności i nie dostaje żadnych pozytywnych efektów narkotyku**. Po pierwszym przedawkowaniu rzuca już 2k10, po drugim 3k10 itd. Wystarczy tylko jedna 10 na dowolnej kości, żeby postać przedawkowała ponownie.
 
-**Nokaina** : zastrzyk, 500kred. : +2 Żywotności
+**Nokaina** : zastrzyk; 500kred. : +2 Żywotności.
 
-**Lux** : inhalator albo proszek, 800kred. : +2 SW
+**Lux** : inhalator albo krople; 800kred. : +2 SW.
 
-**Neon** : tableki albo krople, 200kred. : +1 SW. **Charakter**, **Intuicja** i **Spostrzegawczość** na potrzeby testów są wyższe o jeden.
+**Neon** : tableki albo krople; 200kred. : +1 SW. **Charakter**, **Intuicja** i **Spostrzegawczość** na potrzeby testów są wyższe o jeden.
 
-**Wendigo**: zastrzyk, 200kred. : +1 Żywotności. Ignoruje zasady progu bólu, jedynym sposobem na powalenie jest sprowadzenie jej do zera żywotności.
+**Wendigo**: zastrzyk albo inhalator; 200kred. : +1 Żywotności. Ignoruje zasady progu bólu, jedynym sposobem na powalenie jest sprowadzenie jej do zera żywotności.
 
-**Blitz**: inhalator albo krople, 200kred. : +1 Żywotności. Rzucasz dodatkową kostkę na Inicjatywę.
+**Blitz**: inhalator albo proszek; 200kred. : Rzucasz dodatkową kostkę na Inicjatywę. Można unikać proni palnej.
 
 
 <h1>Ekwipunek Specjalny</h1>
