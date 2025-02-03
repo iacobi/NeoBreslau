@@ -5,17 +5,13 @@ Niektóre zdolności mają alternatywne wersje oznaczone *, nie można mieć jed
 
 **Chirurg** : Przerzut do **Medycyny**. Jeśli postać używa ostrzy może w walce użyć poziomu Medycyny zamiast Siły.
 >
->**\*Chemik** : Przerzut do **Biotechniki** i **Medycyny**. Możesz zażyć 8 dawek chemii na sesji zanim pojawi się ryzyko przedawkowania.
+>**\*Szaman** : Przerzut do **Biotechniki** i **Medycyny**. Możesz zażyć 8 dawek chemii na sesji zanim pojawi się ryzyko przedawkowania.
 >
-**CyberOstrza** : w organizmie postaci ukryte są ostrze/ostrza. Mechanicznie traktujemy je jak katanę (dwuręczna, dwa przerzuty, cztery silne kostki obrażeń). Postać nie traci też żadnej akcji na wyciągnięcie ostrza. Za każdy punkt siły powyżej przeciętnego, w organizmie postaci ukryte jest dodatkowe ostrze, którym może wystrzelić jak bronią palną (zwykle 4 kostki obrażeń).
-
-**CyberNogi** : Możesz skakać wzwyż na 1x Siła metrów, w dal na 2x Siła metrów i spadać bezpiecznie z 5 x Siła metrów.
-
- **Cyngiel** : Możesz wykonać trzy szybkie strzały w rundzie używając 4 kostek w rzucie na trafienie, a strzelając ogniem ciągłym zadajesz kostkę obrażeń więcej. Wyciągnięcie pistoletu z kabury nie zajmuje akcji.
+**Cyngiel** : Możesz wykonać trzy szybkie strzały w rundzie używając 4 kostek w rzucie na trafienie, a strzelając ogniem ciągłym zadajesz kostkę obrażeń więcej. Wyciągnięcie pistoletu z kabury nie zajmuje akcji.
 
 **Cwaniak** : Masz cięty język i zwinne palce. Przerzut do **Charakteru** i **Kradzieży**.
 >
->**\*Charyzma** : Przerzut do **Charakteru** i **Intuicji**. Zaczynasz sesje z dwoma dodatkowymi punktami SW i możesz pozwolić korzystać innym graczom z Twoich punktów SW.
+>**\*Gravitas** : Przerzut do **Charakteru**. Masz dwa punkty Siły Woli więcej. Jeśli chcesz inni gracze mogą korzystać z Twojej puli SW jak z własnej.
 >
 **Droniarz** : Przerzut do testów **Pilotażu** i **Prowadzenia Pojazdów** kiedy postać steruje dronami. Jesteś tak dobry w obsłudze dron, że nie poświęcasz tury, żeby sterować nią w walce. Efektywnie postać wykonuje w swojej inicjatywie dwie tury. Jedną dla siebie i jedną dla swojego drona.
 
@@ -25,11 +21,11 @@ Niektóre zdolności mają alternatywne wersje oznaczone *, nie można mieć jed
 
 **Inżynieria Polowa** : Przerzut do **Mechaniki** i **Sztuki Przetrwania**. Jesteś bardzo dobry w improwizowaniu. Zawsze masz przy sobie drobne przedmioty jak zapałki, śrubki i małe narzędzia jak pilnik albo śrubokręt schowane w kieszeniach ubrania. Jeśli zapłacisz punkt SW, możesz wyciągnąć bardziej skomplikowane części zamienne, narzędzia albo zapasową amunicje pod warunkiem, że można je upchnąć w ubraniu. Płącąć punkt SW możesz też w normalnym gospodarstwi domowym zrobić improwizowane materiały wybuchowe
 
-**Kensei** : Masz swoje wybrane ulubione ostrze, kiedy go używasz poziom umiejętności **Walka Bronia** jest wyższy o jeden. Postać wyciąga to ostrze tak szybko i sprawnie, że są traktowane jakby zawsze były w dłoni postaci.
+**Kensei** : Masz swoje wybrane ulubione ostrze, kiedy go używasz poziom umiejętności **Walka Bronia** jest wyższy o jeden. Postać wyciąga to ostrze tak szybko i sprawnie, że są traktowane jakby zawsze były w dłoni postaci. Może wydać punkt SW, żeby jej atak ignorował pancerz przeciwnika. Może zmienić swoje ulubione ostrze między sesjami ale na jednej sesji może mieć tylko jedno ulubione ostrze.
 
 **Łowca** : Masz jeden przerzut do każdego testu **Kamuflażu**. Jeden przerzut podczas strzałów mierzonych. Jeśli jesteś w terenie możesz wydać punkt SW i poświęcić godzinę, żeby stworzyć improwizowany strój maskujący (dodatkowy przezut do **Kamuflażu**).
 
-**MonoStruny** : Superwytrzymała struna może służyć do cięcia, obezwładniania albo jako prowizoryczna lina. Użyta w walce, ma dwa przerzuty i zadaje zwykłe 4 kostki obrażeń. Jeśli próbujesz kogoś obezwładnić albo rozbroić, nie jesteś traktowany jako nieuzbrojony i masz jeden przerzut do rzutu na trafienie. Walcząc strunami, postać używa umiejętności **Walka Wręcz**. Struna jest również w stanie utrzymać Twój ciężar i obwiązać się wokół przedmiotów w odległości 10 metrów. Ten dodatkowy zasięg można wykorzystać tylko do wspianania się albo łapania przedmiotów w walce zasięg struny jest identyczny jak każdej innej broni białej.
+**MonoStruny** : Superwytrzymała struna może służyć do cięcia, obezwładniania albo jako prowizoryczna lina. Użyta w walce jest mechanicznie identyczna z kataną ale postać wybiera czy używa **Walki Wręcz** czy **Walki Bronią** jako swojej umiejętności. Struna jest również w stanie utrzymać Twój ciężar i obwiązać się wokół przedmiotów w odległości 10 metrów. Ten dodatkowy zasięg można wykorzystać tylko do wspianania się albo łapania przedmiotów w walce zasięg struny jest identyczny jak każdej innej broni białej.
 
 **Pancerz Wewnętrzny** : Postać ma zawsze gwarantowany jeden punkt pancerza, nawet jeśli trafiona atakiem, który normalnie ignoruje pancerz. Pancerz Wewnętrzny nie kumuluje się z noszonym pancerzem.
 
