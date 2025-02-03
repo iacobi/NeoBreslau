@@ -92,7 +92,7 @@
 
 **Opis**: Korporacyjny najemnik, wykonujący brudną robotę tam, gdzie liczy się efektywność, a nie zasady. Zwinny w walce i zawsze gotowy do działań w cieniu, jesteś idealnym rozwiązaniem w sytuacjach, w których inne opcje zawiodły.
 
-**Ekwipunek** : 2000 kredytów, Pistolet Maszynowy 10mm albo Katana, Lekki Pancerz, Granat Pyłowy
+**Ekwipunek** : 2000 kredytów, Pistolet Maszynowy 10mm albo Katana, Lekki Pancerz, Granat Pyłowy, Blitz (dwie dawki)
 
 **Umiejętności** : Broń Krótka, Walka Bronią, Sprawność, Kamuflaż
 
