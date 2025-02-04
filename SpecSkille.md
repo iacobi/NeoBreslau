@@ -5,7 +5,7 @@ Niektóre zdolności mają alternatywne wersje oznaczone *, nie można mieć jed
 
 **Chirurg** : Przerzut do **Medycyny**. Jeśli postać używa ostrzy może w walce użyć poziomu Medycyny zamiast Siły.
 >
->**\*Szaman** : Przerzut do **Biotechniki** i **Medycyny**. Możesz zażyć 8 dawek chemii na sesji zanim pojawi się ryzyko przedawkowania.
+>**\*Szaman** : Przerzut do **Medycyny**. Możesz zażyć 8 dawek chemii na sesji zanim pojawi się ryzyko przedawkowania.
 >
 **Cyngiel** : Możesz wykonać trzy szybkie strzały w rundzie używając 4 kostek w rzucie na trafienie, a strzelając ogniem ciągłym zadajesz kostkę obrażeń więcej. Wyciągnięcie pistoletu z kabury nie zajmuje akcji.
 
