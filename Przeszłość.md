@@ -44,9 +44,9 @@
 
 **Opis**: Sól tej ziemi. Wychowałeś się na jednej z dalekich kolonii. Przywykłeś do radzenia sobie w trudnych sytuacjach i życiu z daleka od cywilizacji.
 
-**Ekwipunek** : 1000 kredytów, Narzędzia (dowolny rodzaj), Skafander Kosmiczny, Strzelba albo Rewolwer .44, Dron Zwiadu
+**Ekwipunek** : 1000 kredytów, Narzędzia (dowolny rodzaj), Skafander Kosmiczny, Strzelba, TraumaPack
 
-**Umiejętności** : Wytrzymałość, Mechanika, Pilotaż, Prowadzenie Pojazdów
+**Umiejętności** : Wytrzymałość, Mechanika, Sztuka Przetrwania, Prowadzenie Pojazdów
 
 <h3>Korpos</h3>
 
@@ -95,14 +95,6 @@
 **Ekwipunek** : 2000 kredytów, Pistolet Maszynowy 10mm albo Katana, Lekki Pancerz, Granat Pyłowy, Blitz (dwie dawki)
 
 **Umiejętności** : Broń Krótka, Walka Bronią, Sprawność, Kamuflaż
-
-<h3>Szaman</h3>
-
-**Opis**: Wspomagany farmaceutycznie psychoterapueta.
-
-**Ekwipunek** : 1000 kredytów, Paralizator, 8 dawek dowolnej chemii.
-
-**Umiejętności** : Charakter, Intuicja, Biotechnika, Medycyna
 
 <h3>Weteran</h3>
 
