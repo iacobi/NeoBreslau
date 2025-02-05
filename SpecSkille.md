@@ -4,9 +4,7 @@ Niektóre zdolności mają alternatywne wersje oznaczone *, nie można mieć jed
 <hr>
 
 **Chirurg** : Przerzut do **Medycyny**. Jeśli postać używa ostrzy może w walce użyć poziomu Medycyny zamiast Siły.
->
->**\*Szaman** : Przerzut do **Medycyny**. Możesz zażyć 8 dawek chemii na sesji zanim pojawi się ryzyko przedawkowania.
->
+
 **Cyngiel** : Możesz wykonać trzy szybkie strzały w rundzie używając 4 kostek w rzucie na trafienie, a strzelając ogniem ciągłym zadajesz kostkę obrażeń więcej. Wyciągnięcie pistoletu z kabury nie zajmuje akcji.
 
 **Cwaniak** : Masz cięty język i zwinne palce. Przerzut do **Charakteru** i **Kradzieży**.
@@ -29,7 +27,7 @@ Niektóre zdolności mają alternatywne wersje oznaczone *, nie można mieć jed
 
 **Pancerz Wewnętrzny** : Postać ma zawsze gwarantowany jeden punkt pancerza, nawet jeśli trafiona atakiem, który normalnie ignoruje pancerz. Pancerz Wewnętrzny nie kumuluje się z noszonym pancerzem. Dłonie postaci są również wzmocnione, traktujemy ją jakby zawsze była uzbrojona w kastet.
 
-**Regeneracja** : Płacąc punktami SW możesz całkowicie zregenerować swoją żywotność, wyleczyć wszystkie rany, choroby i trucizny. Pierwsza regeneracja kosztuje jeden punkt SW, druga dwa punkty, trzecia trzy itp. itd. Regeneracja nie działa w momencie kiedy postać straciła przytomność - otrzymała obrażenie równe progowi bólu albo żywotność spadła do zera.
+**Regeneracja** : Raz podczas sesji możesz całkowice zregenrować swoją Żywotność i licznik przedawkowania.
 
 **Repozytorium** : Postać ma wgrane gigantyczne biblioteki wiedzy. Jeśli chce zamiast używać swojego normalnego poziomu umiejętności może użyć repozytorium, umiejętność jest wtedy równa 4. Repozytorium nie działa na czysto fizyczne aktywności - jak np. test Siły albo Walki Wręcz.
 
