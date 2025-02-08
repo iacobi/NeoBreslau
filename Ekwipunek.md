@@ -2,22 +2,37 @@
 
 <h2>Broń Biała</h2>
 
-|Broń | Obrażenia | Przerzuty | Umiejętność| Cechy| Cena |
-|--|:--:|:--:|--|--|--|
-| **Bez broni***  |słabe 4 kostki|-|Walka Wręcz| - |...$|
-| **Kastet*** |słabe 4 kostki| 1|Walka Wręcz|-|...$|
-| **Pałka** |słabe 4 kostki|1|Walka Bronią / Walka Wręcz|-|...$| 
-| **Nóż** |zwykłe 4 kostki|-|Walka Bronią / Walka Wręcz| - |...$|
-| **Tomahawk** | silne 4 kostki |-|Walka Bronią |-|...$|
-| **Topór**  |silne 4 kostki|1|Walka Bronią| dwuręczna|...$|
-| **Maczuga Okopowa**  |zwykłe 4 kostki|-|Walka Bronią / Walka Wręcz| przeciwpancerna |...$| 
-| **Młot Budowlany**  |silne 4 kostki|-|Walka Bronią| przeciwpancerny, dwuręczny|...$| 
-| **Maczeta** | zwykłe 4 kostki |1| Walka Bronią |- |...$| 
-| **Szabla** | zwykłe 4 kostki |2|Walka Bronią |- |...$| 
-| **Katana** | silne 4 kostki |2|Walka Bronią | dwuręczna|...$|
-| **Włócznia** | zwykłe 4 kostki |3|Walka Bronią | dwuręczna|...$| 
-| **Widły**  |zwykłe 4 kostki|2|Walka Bronią| dwuręczne|...$| 
-| **Łopata**  |zwykłe 4 kostki|1|Walka Bronią| dwuręczna|...$| 
+<h3>Ostrza</h3>
+
+|Broń | Obrażenia | Przerzuty | Cechy| Cena |
+|--|:--:|:--:|--|--|
+| **Nóż** |zwykłe 4 kostki|-| Prosta Obsługa |20 kred.|
+| **Maczeta** | zwykłe 4 kostki |1| - |40 kred.| 
+| **Pałasz** | zwykłe 4 kostki |2|- |2000 kred.| 
+| **Katana** | silne 4 kostki |2| Dwuręczna|2000 kred.|
+| **Tomahawk** | silne 4 kostki |-|rzucanie|200 kred.|
+| **Topór**  |silne 4 kostki|1| -|200 kred.|
+| **Wielki Topór**  |zwykłe 5 kostek|1| Dwuręczna|200 kred.|
+| **Włócznia** | zwykłe 4 kostki |3| Dwuręczna|400 kred.| 
+
+<h3>Inne</h3>
+
+|Broń | Obrażenia | Przerzuty |  Cechy| Cena |
+|--|:--:|:--:|--|--|
+| **Bez broni***  |słabe 4 kostki|-|Walka Wręcz| - |20 kred.|
+| **Kastet*** |słabe 4 kostki| 1|Walka Wręcz|-|20 kred.|
+| **Pałka** |słabe 4 kostki|1 | prosta -|20 kred.| 
+| **Nóż** |zwykłe 4 kostki|-  | prosta - |20 kred.|
+| **Tomahawk** | silne 4 kostki |-  |-|20 kred.|
+| **Topór**  |silne 4 kostki|1 | dwuręczna|20 kred.|
+| **Maczuga Okopowa**  |zwykłe 4 kostki|-   | prosta przeciwpancerna |20 kred.| 
+| **Młot Budowlany**  |silne 4 kostki|- | przeciwpancerny, dwuręczny|20 kred.| 
+| **Maczeta** | zwykłe 4 kostki |1| Walka Bronią |- |20 kred.| 
+| **Szabla** | zwykłe 4 kostki |2  |- |20 kred.| 
+| **Katana** | silne 4 kostki |2  | dwuręczna|20 kred.|
+| **Włócznia** | zwykłe 4 kostki |3  | dwuręczna|20 kred.| 
+| **Widły**  |zwykłe 4 kostki|2 | dwuręczne|20 kred.| 
+| **Łopata**  |zwykłe 4 kostki|1 | dwuręczna|20 kred.| 
 
 *Walcząc **Bez Broni** albo **Kastetem** zawsze tracisz kostkę z rzutów na trafienie kiedy walczysz z kimś uzbrojonym w normalną broń
 
