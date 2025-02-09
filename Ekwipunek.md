@@ -15,6 +15,8 @@
 | **Wielki Topór**  |zwykłe 5 kostek|1| Dwuręczna|200 kred.|
 | **Włócznia** | zwykłe 4 kostki |3| Dwuręczna|400 kred.| 
 
+Monoostrza - są kruche, ostrza są przeciwpancerne albo jednej walce trzeba wyrzucić, dlatego część ludzi nosi ich kilka.
+
 <h3>Inne</h3>
 
 |Broń | Obrażenia | Przerzuty |  Cechy| Cena |
@@ -35,6 +37,12 @@
 | **Łopata**  |zwykłe 4 kostki|1 | dwuręczna|20 kred.| 
 
 *Walcząc **Bez Broni** albo **Kastetem** zawsze tracisz kostkę z rzutów na trafienie kiedy walczysz z kimś uzbrojonym w normalną broń
+
+**Prosta Obsługa:** postać wybiera czy używa Walki Wręcz czy Walki Bronią
+
+**Przeciwpancerna:** Jeśli w rzucie na obrażenia wypadnie dublet jedynek, dwójek albo trójek - ignorujesz pancerz.
+
+
 
 <h2>Broń Palna</h2>
 
