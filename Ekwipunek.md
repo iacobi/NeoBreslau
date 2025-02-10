@@ -42,6 +42,9 @@ Monoostrza - są kruche, ostrza są przeciwpancerne albo jednej walce trzeba wyr
 
 **Przeciwpancerna:** Jeśli w rzucie na obrażenia wypadnie dublet jedynek, dwójek albo trójek - ignorujesz pancerz.
 
+**Rzucanie:** zamiast wykonywać szybki albo potężny atak możesz rzucić bronią. Szybki rzut, traci kostkę obrażeń tak samo jak szybki atak. Rzucając używasz umiejętności walka bronią i nie masz żadnych przerzutów. Jeśli rzucasz bronią, która nie ma cechy rzucanie, tracisz dodatkową kostkę w teście trafienie i w teście obrażeń. Np. szybki rzut łopatą to 4 kostki na trafeinie i zwykłe 2 kostki obrażeń.
+
+
 
 
 <h2>Broń Palna</h2>
