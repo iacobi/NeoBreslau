@@ -2,41 +2,20 @@
 
 <h2>Broń Biała</h2>
 
-<h3>Ostrza</h3>
+Postać walcząca **Bez Broni** albo **Kastetem** zawsze używa umiejętności **Walka Wręcz** i traci kostkę z rzutów na trafienie kiedy walczy z kimś uzbrojonym. 
 
 |Broń | Obrażenia | Przerzuty | Cechy| Cena |
 |--|:--:|:--:|--|--|
+| **Bez Broni** |słabe 4 kostki|- |-|20 kred.| 
+| **Kastet** |słabe 4 kostki|1 |-|20 kred.| 
+| **Pałka** |słabe 4 kostki|1 | Prosta Obsługa|20 kred.|
+| **Młotek** |słabe 4 kostki| | Prosta Obsługa, Przeciwpancerny|20 kred.| 
 | **Nóż** |zwykłe 4 kostki|-| Prosta Obsługa |20 kred.|
 | **Maczeta** | zwykłe 4 kostki |1| - |40 kred.| 
-| **Pałasz** | zwykłe 4 kostki |2|- |2000 kred.| 
 | **Katana** | silne 4 kostki |2| Dwuręczna|2000 kred.|
-| **Tomahawk** | silne 4 kostki |-|rzucanie|200 kred.|
-| **Topór**  |silne 4 kostki|1| -|200 kred.|
-| **Wielki Topór**  |zwykłe 5 kostek|1| Dwuręczna|200 kred.|
-| **Włócznia** | zwykłe 4 kostki |3| Dwuręczna|400 kred.| 
-
-Monoostrza - są kruche, ostrza są przeciwpancerne albo jednej walce trzeba wyrzucić, dlatego część ludzi nosi ich kilka.
-
-<h3>Inne</h3>
-
-|Broń | Obrażenia | Przerzuty |  Cechy| Cena |
-|--|:--:|:--:|--|--|
-| **Bez broni***  |słabe 4 kostki|-|Walka Wręcz| - |20 kred.|
-| **Kastet*** |słabe 4 kostki| 1|Walka Wręcz|-|20 kred.|
-| **Pałka** |słabe 4 kostki|1 | prosta -|20 kred.| 
-| **Nóż** |zwykłe 4 kostki|-  | prosta - |20 kred.|
-| **Tomahawk** | silne 4 kostki |-  |-|20 kred.|
-| **Topór**  |silne 4 kostki|1 | dwuręczna|20 kred.|
-| **Maczuga Okopowa**  |zwykłe 4 kostki|-   | prosta przeciwpancerna |20 kred.| 
-| **Młot Budowlany**  |silne 4 kostki|- | przeciwpancerny, dwuręczny|20 kred.| 
-| **Maczeta** | zwykłe 4 kostki |1| Walka Bronią |- |20 kred.| 
-| **Szabla** | zwykłe 4 kostki |2  |- |20 kred.| 
-| **Katana** | silne 4 kostki |2  | dwuręczna|20 kred.|
-| **Włócznia** | zwykłe 4 kostki |3  | dwuręczna|20 kred.| 
-| **Widły**  |zwykłe 4 kostki|2 | dwuręczne|20 kred.| 
-| **Łopata**  |zwykłe 4 kostki|1 | dwuręczna|20 kred.| 
-
-*Walcząc **Bez Broni** albo **Kastetem** zawsze tracisz kostkę z rzutów na trafienie kiedy walczysz z kimś uzbrojonym w normalną broń
+| **Topór Strażacki** | silne 4 kostki |1|Dwuręczny|200 kred.|
+| **Młot Budowlany**  |zwykłe 4 kostki|1 | przeciwpancerny, dwuręczny|20 kred.| 
+| **Taktyczny Tomahawk** | silne 4 kostki |-|rzucanie|200 kred.|
 
 **Prosta Obsługa:** postać wybiera czy używa Walki Wręcz czy Walki Bronią
 
@@ -44,8 +23,21 @@ Monoostrza - są kruche, ostrza są przeciwpancerne albo jednej walce trzeba wyr
 
 **Rzucanie:** zamiast wykonywać szybki albo potężny atak możesz rzucić bronią. Szybki rzut, traci kostkę obrażeń tak samo jak szybki atak. Rzucając używasz umiejętności walka bronią i nie masz żadnych przerzutów. Jeśli rzucasz bronią, która nie ma cechy rzucanie, tracisz dodatkową kostkę w teście trafienie i w teście obrażeń. Np. szybki rzut łopatą to 4 kostki na trafeinie i zwykłe 2 kostki obrażeń.
 
+<h3>Inne</h3>
 
+|Broń | Obrażenia | Przerzuty | Cechy| Cena |
+|--|:--:|:--:|--|--|
+| **Pałasz** | zwykłe 4 kostki |2|- |2000 kred.| 
+| **Topór**  |silne 4 kostki|1| -|200 kred.|
+| **Wielki Topór**  |zwykłe 5 kostek|1| Dwuręczna|200 kred.|
+| **Włócznia** | zwykłe 4 kostki |3| Dwuręczna|400 kred.| 
+| **Widły**  |zwykłe 4 kostki|2 | dwuręczne|20 kred.| 
+| **Łopata**  |zwykłe 4 kostki|1 | dwuręczna|20 kred.| 
+| **Maczuga Okopowa**  |zwykłe 4 kostki|-   | prosta przeciwpancerna |20 kred.| 
+| **MonoTanto** |zwykłe 4 kostki|-| Prosta Obsługa, Przeciwpancerne |20 kred.|
+| **MonoKatana** | silne 4 kostki |2| Dwuręczna, przeciwpancerna|2000 kred.|
 
+Monoostrza - są kruche, ostrza są przeciwpancerne albo jednej walce trzeba wyrzucić, dlatego część ludzi nosi ich kilka.
 
 <h2>Broń Palna</h2>
 
