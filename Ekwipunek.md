@@ -34,10 +34,10 @@ Postać walcząca **Bez Broni** albo **Kastetem** zawsze używa umiejętności *
 | **Widły**  |zwykłe 4 kostki|2 | dwuręczne|20 kred.| 
 | **Łopata**  |zwykłe 4 kostki|1 | dwuręczna|20 kred.| 
 | **Maczuga Okopowa**  |zwykłe 4 kostki|-   | prosta przeciwpancerna |20 kred.| 
-| **MonoTanto** |zwykłe 4 kostki|-| Prosta Obsługa, Przeciwpancerne |20 kred.|
+| **MonoTanto** |zwykłe 4 kostki|-| Prosta Obsługa, Przeciwpancerne |2000 kred.|
 | **MonoKatana** | silne 4 kostki |2| Dwuręczna, przeciwpancerna|2000 kred.|
 
-Monoostrza - są kruche, ostrza są przeciwpancerne albo jednej walce trzeba wyrzucić, dlatego część ludzi nosi ich kilka.
+Monoostrza - są kruche i po jednej albo dwóch walkach trzeba je wymienić
 
 <h2>Broń Palna</h2>
 
