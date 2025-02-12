@@ -2,12 +2,10 @@
 
 <h2>Broń Biała</h2>
 
-Postać walcząca **Bez Broni** albo **Kastetem** zawsze używa umiejętności **Walka Wręcz** i traci kostkę z rzutów na trafienie kiedy walczy z kimś uzbrojonym. 
-
 |Broń | Obrażenia | Przerzuty | Cechy| Cena |
 |--|:--:|:--:|--|--|
-| **Bez Broni** |słabe 4 kostki|- |-|20 kred.| 
-| **Kastet** |słabe 4 kostki|1 |-|20 kred.| 
+| **Bez Broni** |słabe 4 kostki|- |Tracisz kostkę z trafienia uzbrojonych|20 kred.| 
+| **Kastet, Butelka, Śrubokręt** |słabe 4 kostki| |Prosta Obsługa-|20 kred.| 
 | **Pałka** |słabe 4 kostki|1 | Prosta Obsługa|20 kred.|
 | **Młotek** |słabe 4 kostki| | Prosta Obsługa, Przeciwpancerny|20 kred.| 
 | **Nóż** |zwykłe 4 kostki|-| Prosta Obsługa |20 kred.|
