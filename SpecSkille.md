@@ -17,10 +17,14 @@ Niektóre zdolności mają alternatywne wersje oznaczone *, nie można mieć jed
 
 **Farciarz** : Możesz powtórzyć trzy dowolne rzuty na sesji.
 
+**Fermony** : Płacąc 1 punkt SW i wygrwając przeciwstawny test swojego Charakteru i Woli celu jesteś w stanie mu wydać prosty jednozdaniowy rozkaz. Przez najbliższą minutę ofiara będzie próbowała go wykonać. Rozkaz nie może zagrażać niczyjemy życiu i zdrowiu. Fermony mają zasięg kilku metrów i nie działają na postacie pod wpływem dużego stresu (walka) 
+
 **Inżynieria Polowa** : Przerzut do **Mechaniki** i **Sztuki Przetrwania**. Jesteś bardzo dobry w improwizowaniu. Zawsze masz przy sobie drobne przedmioty jak zapałki, śrubki i małe narzędzia jak pilnik albo śrubokręt schowane w kieszeniach ubrania. Jeśli zapłacisz punkt SW, możesz wyciągnąć bardziej skomplikowane części zamienne, narzędzia albo zapasową amunicje pod warunkiem, że można je upchnąć w ubraniu. Płącąć punkt SW możesz też w normalnym gospodarstwi domowym zrobić improwizowane materiały wybuchowe
 
 **Kensei** : Masz swoją ulubioną broń, kiedy jej używasz poziom umiejętności **Walka Bronia** jest wyższy o jeden. Postać wyciąga tą broń tak szybko i sprawnie, że są traktowana jakby zawsze były w dłoni postaci. Może wydać punkt SW, żeby jej atak ignorował pancerz przeciwnika. Może zmienić swoją ulubioną broń między sesjami ale na jednej sesji może mieć tylko jedną ulubioną broń.
-
+>
+>**\*Nożownik** : Masz niemal nadnaturalny talent do posługiwania się nożami. Nigdy nie tracisz akcji wyciągając nóż, nawet jeśli schowany jest głęboko pod ubraniem. Noże w twoich rękach zadają silne kostki obrażeń zamiast zwykłych zarówno podczas normalnych ataków jak i rzucania, a potężne ataki nożem dodatkowo zyskują cechę przeciwpancerny. Płacąc jeden punkt SW jesteś w stanie w każdej sytuacji wydobyć jeden nóż, nawet jeśli wcześniej byłeś kilkukrtonie przesłuchany, rozbebrany do naga i przywiązany do krzesła.
+>
 **Łowca** : Masz jeden przerzut do każdego testu **Kamuflażu**. Jeden przerzut podczas strzałów mierzonych. Jeśli jesteś w terenie możesz wydać punkt SW i poświęcić godzinę, żeby stworzyć improwizowany strój maskujący (dodatkowy przezut do **Kamuflażu**).
 
 **MonoStruny** : Superwytrzymałe struny mogą służyć do cięcia, obezwładniania albo jako prowizoryczna lina. W walce traktowane są jako broń dwuręczna z dwoma przerzutami zadająca zwykłe 4 kostki obrażeń. Postać wybiera czy używa **Walki Wręcz** czy **Walki Bronią** jako swojej umiejętności. Struna jest również w stanie utrzymać Twój ciężar i obwiązać się wokół przedmiotów w odległości 10 metrów. Ten dodatkowy zasięg można wykorzystać tylko do wspianania się albo łapania przedmiotów w walce zasięg struny jest identyczny jak każdej innej broni białej.
