@@ -61,3 +61,10 @@ Jeśli chcesz wybrać elfa albo człowieka na startową rasę nie ma żadnych sp
 Zalety **Pancerz Wewnętrzny** i **Wielki** zabrane przez inne rasy będą traktowane jako wszczepy.
 
 <h3>Shadowrun mod: Zdolności</h3>
+
+**Adept** : Jeśli postać nie ma na sobie żadnego pancerza, broni większej od pistoletu albo noża oraz innego ciężkiego sprzętu. Jej Walka Wręcz, Siła i Sprawność są wyższe o punkt oraz zawsze może unikać broni palnej.
+
+**Piroknieza** : Jeśli postać poświęci turę na koncetracje jej dłonie zapłoną i może ciskać magicznymi pociskami, lub jeśli zapłaci punkt SW działa to natychmiastowo. Pociski zadają zwykłe 4 kostki obrażeń a umiejętność odpowiedzialna za trafianie jest zawsze równa 6. Płacąc punkt SW może też rzucić kulą ognia (jak rzut granatem). Można unikać magicznych pocisków.
+
+**Transformacja** :Postać płaci punkt woli i przybiera postać kota, kruka, szczura albo sowy. Jakiekolwiek obrażenia w zmienionej formie spowodują, że wraca do postaci człowieka. Postać płaci dwa punkty woli i przybiera postać mgły. Może transformować ze sobą w mgłę dodatkowe osoby, jeśli zapłaci za nich dodatkowy punkt woli. W przypadku postaci graczy oni mogą zapłacić za siebie dodatkowym punktem woli. Można transformować w mgłę tylko postacie, które się na to zgodzą lub zostaną całkowicie obezwładnione. Mgła porusza się maksymalnie z szybkością szybkiego truchtu, nie może wznosić się do góry, ale może bezpiecznie spadać z dowolnej wysokości. Czas działania zaklęcia to godzina, ale mag może przerwać je wcześniej jeśli sobie tego zażyczy.
+
