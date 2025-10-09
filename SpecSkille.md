@@ -29,7 +29,7 @@ Niektóre zdolności mają alternatywne wersje oznaczone *, nie można mieć jed
 
 **MonoStruny** : Superwytrzymałe struny mogą służyć do cięcia, obezwładniania albo jako prowizoryczna lina. W walce traktowane są jako broń dwuręczna z dwoma przerzutami zadająca zwykłe 4 kostki obrażeń. Postać wybiera czy używa **Walki Wręcz** czy **Walki Bronią** jako swojej umiejętności. Struna jest również w stanie utrzymać Twój ciężar i obwiązać się wokół przedmiotów w odległości 10 metrów. Ten dodatkowy zasięg można wykorzystać tylko do wspianania się albo łapania przedmiotów w walce zasięg struny jest identyczny jak każdej innej broni białej.
 
-**Pancerz Wewnętrzny** : Postać ma zawsze gwarantowany jeden punkt pancerza, nawet jeśli trafiona atakiem, który normalnie ignoruje pancerz. Pancerz Wewnętrzny nie kumuluje się z noszonym pancerzem. Dłonie postaci są również wzmocnione, traktujemy ją jakby zawsze była uzbrojona w kastet.
+**Pancerz Wewnętrzny** : Postać ma jeden punkt pancerza, który kumulujesię z noszonym pancerzem zewnętrznym. Z powodu masy postaci trwale **traci jedną kostkę** z każdego testu **Sprawności** i z **rzutu na inicjatywę.**
 
 **Regeneracja** : Raz podczas sesji możesz całkowice zregenrować swoją Żywotność i licznik przedawkowania.
 
@@ -54,3 +54,10 @@ Niektóre zdolności mają alternatywne wersje oznaczone *, nie można mieć jed
 **Wirus** : Przerzut do **Oprogramowania**. Jeśli masz fizyczny dostęp do sprzęgu dowolnej osoby możesz spróbować przejąć and nią kontrolę. Musisz zapłacić jeden punkt SW i wygrać test swojej umiejętności Oprogramowanie kontra Wytrzymałość celu. Można przeprowadzić tylko na nieprzytomnej albo obezwładnionej osobie. Kontrola ciała trwa do momentu świadomego wyłączenia albo utraty przytomności przez cel. Kontrolujący pozostaje wtedy w stanie letargu. Wszystkie testy wykonuje się wtedy mniejszą z dwóch umiejętności kontrolowanego lub konotrolującego. 
 
 **Złodziej** : Przerzut do **Kradzieży**. Możesz używać umiejętności **Kradzież** podczas testów otwierania zamków zamiast Mechaniki albo Eletkroniki. Postać potrafi chować i wyciągać nóż albo pistolet tak szybko i sprawnie, że traktujemy, go jakby zawsze były w dłoni postaci, nawet, jeśli normalnie przenosi je gdzieś pod ubraniem.
+
+<h3>Shadowrun mod: Rasy</h3>
+
+Jeśli chcesz wybrać elfa albo człowieka na startową rasę nie ma żadnych specjalnych wymogów. Krasnoludy muszą zabrać zaletę **Twardziel**, Orki muszą zabrać zaletę **Twardziel** albo **Silnoręki**. Trolle muszą zabrać zalety **Pancerz Wewnętrzny** oraz **Wielki**.
+Zalety **Pancerz Wewnętrzny** i **Wielki** zabrane przez inne rasy będą traktowane jako wszczepy.
+
+<h3>Shadowrun mod: Zdolności</h3>
