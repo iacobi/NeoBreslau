@@ -9,7 +9,7 @@ Niektóre zdolności mają alternatywne wersje oznaczone *, nie można mieć jed
 
 **Cwaniak** : Masz cięty język i zwinne palce. Przerzut do **Charakteru** i **Kradzieży**. Kiedy ukrywasz się w skupiskach ludzi możesz używać Charakteru zamiast Kamuflażu.
 >
->**\*Lider** : Przerzut do **Charakteru**. Masz dwa punkty Siły Woli więcej. Jeśli chcesz inni gracze mogą korzystać z Twojej puli SW jak z własnej.
+>**Lider** : Przerzut do **Charakteru**. Masz dwa punkty Siły Woli więcej. Jeśli chcesz inni gracze mogą korzystać z Twojej puli SW jak z własnej.
 >
 **Droniarz** : Przerzut do testów **Pilotażu** i **Prowadzenia Pojazdów** kiedy postać steruje dronami. Jesteś tak dobry w obsłudze dron, że nie poświęcasz tury, żeby sterować nią w walce. Efektywnie postać wykonuje w swojej inicjatywie dwie tury. Jedną dla siebie i jedną dla swojego drona.
 
@@ -23,7 +23,7 @@ Niektóre zdolności mają alternatywne wersje oznaczone *, nie można mieć jed
 
 **Kensei** : Masz swoją ulubioną broń, kiedy jej używasz poziom umiejętności **Walka Bronia** jest wyższy o jeden. Postać wyciąga tą broń tak szybko i sprawnie, że są traktowana jakby zawsze były w dłoni postaci. Może wydać punkt SW, żeby jej atak ignorował pancerz przeciwnika. Może zmienić swoją ulubioną broń między sesjami ale na jednej sesji może mieć tylko jedną ulubioną broń.
 >
->**\*Nożownik** : Masz niemal nadnaturalny talent do posługiwania się nożami. Nigdy nie tracisz akcji wyciągając nóż, nawet jeśli schowany jest głęboko pod ubraniem. Noże w twoich rękach zadają silne kostki obrażeń zamiast zwykłych zarówno podczas normalnych ataków jak i rzucania, a potężne ataki nożem dodatkowo zyskują cechę przeciwpancerny. Płacąc jeden punkt SW jesteś w stanie w każdej sytuacji wydobyć jeden nóż, nawet jeśli wcześniej byłeś kilkukrtonie przesłuchany, rozbebrany do naga i przywiązany do krzesła.
+>**Nożownik** : Masz niemal nadnaturalny talent do posługiwania się nożami. Nigdy nie tracisz akcji wyciągając nóż, nawet jeśli schowany jest głęboko pod ubraniem. Noże w twoich rękach zadają silne kostki obrażeń zamiast zwykłych zarówno podczas normalnych ataków jak i rzucania, a potężne ataki nożem dodatkowo zyskują cechę przeciwpancerny. Płacąc jeden punkt SW jesteś w stanie w każdej sytuacji wydobyć jeden nóż, nawet jeśli wcześniej byłeś kilkukrtonie przesłuchany, rozbebrany do naga i przywiązany do krzesła.
 >
 **Łowca** : Masz jeden przerzut do każdego testu **Kamuflażu**. Jeden przerzut podczas strzałów mierzonych. Jeśli jesteś w terenie możesz wydać punkt SW i poświęcić godzinę, żeby stworzyć improwizowany strój maskujący (dodatkowy przezut do **Kamuflażu**).
 
@@ -47,7 +47,7 @@ Niektóre zdolności mają alternatywne wersje oznaczone *, nie można mieć jed
 
 **Twardziel**: Przerzut do każdego testu **Wytrzymałości**. **Próg Bólu** jest podniesiony o punkt, a **Żywotność** o dwa punkty
 
-**??Wędrowiec** : Przerzut do testów **Pilotażu**, **Pilotażu Kosmos** i **Prowadzenia Pojazdów** kiedy postać jest w pojeździe.
+~~**??Wędrowiec** : Przerzut do testów **Pilotażu**, **Pilotażu Kosmos** i **Prowadzenia Pojazdów** kiedy postać jest w pojeździe.~~
 
 **Wielki** : Podczas każdego testu i każdego rzutu na obrażenia, który zależy od **Siły** postaci. **Żywotność** postaci jest wyższa o punkt. Ignorujesz Odrzut i Nieporęczność broni.
 
