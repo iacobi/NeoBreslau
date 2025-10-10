@@ -66,14 +66,16 @@ Niektóre zdolności mają alternatywne wersje oznaczone *, nie można mieć jed
 
 W momencie wybrania pierwszej zdolności magicznej postać wybiera czy zostaje **Adeptem** **Magiem** czy **Szamanem**. Może brać tylko zdolności dostępne dla tej jednej klasy. Magiczne zdolności można wybrać podczas tworzenia postaci albo później podczas gry - talent magiczny obudził się u postaci później.
 
-**Kung-Fu** : (Adept) Jeśli postać nie ma na sobie żadnego pancerza, nie używa broni i nie przenosi przedmiotów ograniczającej jej ruchy jej **Walka Wręcz**, **Siła** i **Sprawność** są wyższe o punkt oraz zawsze może unikać broni palnej.
-
 **Iluzjonista** : (Szaman/Mag)  Potrafisz tworzyć iluzje miejsc, przedmiotów lub nakładać na istoty iluzoryczne przebranie. Musisz wygrać test swoje Charyzmy przeciwko Intuicji ofiary. Jeśli postać ma jakiejś umiejętności artystyczne jak np. Malowanie albo Rzeźba może użyć ich zamiast Charyzmy. Iluzja nie może tworzyć zagrożenia dla życia i zdrowia jej ofiar. Jeśli pojawi się takie zagrożenie iluzja natychmiast się rozwiewa. Koszt iluzji rośnie w zależności od poziomu komplikacji. Wydanie jednego punktu pozwoli nałożyć na siebie iluzoryczną maskę innej osoby, albo stworzyć iluzje osoby, przedmiotu albo zwierzęcia.
  - +1 punkt jeśli iluzja ma być interaktywna i oddziaływać na więcej zmysłów niż wzrok i słuch.
  - +1 punkt jeśli iluzja ma trwać dłużej niż godzinę, za dodatkowy punkt trwa do momentu zaśnięcia albo utraty przytomności maga
  - +1 albo +2 jeśli iluzja ma być duża i skompilowana, cała gospoda albo cały dworzec.
 
+**Kung-Fu** : (Adept) Jeśli postać nie ma na sobie żadnego pancerza, nie używa broni i nie przenosi przedmiotów ograniczającej jej ruchy jej **Walka Wręcz**, **Siła** i **Sprawność** są wyższe o punkt oraz zawsze może unikać broni palnej.
+
 **Magia Natury** : (Szaman) : Potrafisz kontrolować pogodę i rośliny. Punkt Mocy powoduje zmian pogody. Dwa punkty powodują przywołanie ekstremalnych zmian pogody np. zachmurzenie powodujące półmrok w środku dnia, albo huraganowy utrudniający strzelanie. Zmiana pogody trwa kilka tur, a utrzymuje się przez tyle godzin ile wynosi **Wola** postaci albo do czasu kiedy postać nie zdecyduje inaczej. Użycie Punkt Woli powoduje, że w kilka minut wyrastają gęste zarośla, mogące stworzyć 8 metrowy most, lub 16 metrową drabinę porastając dowolną skarpę lub ścianę. Mogą też stworzyć małe schronienie dla kilku osób, albo gęstą ścianę chroniącą przed pociskami. Możesz stworzyć też małe pole cierniowych krzaków, które uniemożliwia przejście bez narzędzi. Możesz też spowodować, żeby błyskawicznie wyrosły owoce i warzywa nadające się na posiłek dla pojedynczej osoby. Jeśli postać chce użyć z fitokinezy w terenie całkowicie pozbawionym roślinności – pustynia albo wnętrze kamiennej celi musi zapłacić dwa puntky Siły Woli zamiast jednego.
+
+**Magiczna Tarcza** : (Adept/Mag) Płacąc punkt SW możesz obniżyć obrażenia dowolnego ataku strzeleckiego lub wybuchu granatu o k10 punktów.
 
 **Piroknieza** : (Mag) Jeśli postać poświęci turę na koncetracje jej dłonie zapłoną i może ciskać magicznymi pociskami, lub jeśli zapłaci punkt SW działa to natychmiastowo. Pociski zadają zwykłe 4 kostki obrażeń a umiejętność odpowiedzialna za trafianie jest zawsze równa 6. Płacąc punkt SW może też rzucić kulą ognia (jak rzut granatem). Można unikać magicznych pocisków.
 
