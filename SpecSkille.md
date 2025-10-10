@@ -58,8 +58,11 @@ Niektóre zdolności mają alternatywne wersje oznaczone *, nie można mieć jed
 <h3>Shadowrun mod: Rasy</h3>
 
 **Elfy/Ludzie** : żadnych specjalnych warunków
+
 **Krasnoludy** : muszą zabrać zaletę **Twardziel** podczas tworzenia postaci
+
 **Orki** : muszą zabrać zaletę **Twardziel** albo **Silnoręki** podczas tworzenia postaci.
+
 **Trolle**: muszą zabrać  zalety **Pancerz Wewnętrzny** oraz **Wielki**. 
 
 <h3>Shadowrun mod: Magia</h3>
