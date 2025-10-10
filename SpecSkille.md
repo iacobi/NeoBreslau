@@ -7,17 +7,17 @@ Niektóre zdolności mają alternatywne wersje oznaczone *, nie można mieć jed
 
 **Cyngiel** : Możesz wykonać trzy szybkie strzały w rundzie używając 4 kostek w rzucie na trafienie, a strzelając ogniem ciągłym zadajesz kostkę obrażeń więcej. Wyciągnięcie pistoletu z kabury nie zajmuje akcji.
 
-**Cwaniak** : Masz cięty język i zwinne palce. Przerzut do **Charakteru** i **Kradzieży**.
+**Cwaniak** : Masz cięty język i zwinne palce. Przerzut do **Charakteru** i **Kradzieży**. Kiedy ukrywasz się w skupiskach ludzi możesz używać Charakteru zamiast Kamuflażu.
 >
->**\*Gravitas** : Przerzut do **Charakteru**. Masz dwa punkty Siły Woli więcej. Jeśli chcesz inni gracze mogą korzystać z Twojej puli SW jak z własnej.
+>**\*Lider** : Przerzut do **Charakteru**. Masz dwa punkty Siły Woli więcej. Jeśli chcesz inni gracze mogą korzystać z Twojej puli SW jak z własnej.
 >
 **Droniarz** : Przerzut do testów **Pilotażu** i **Prowadzenia Pojazdów** kiedy postać steruje dronami. Jesteś tak dobry w obsłudze dron, że nie poświęcasz tury, żeby sterować nią w walce. Efektywnie postać wykonuje w swojej inicjatywie dwie tury. Jedną dla siebie i jedną dla swojego drona.
 
-**Fantom** : Nawet ludzie, którzy znają Cię od lat czasem wątpią czy istniejesz naprawdę. Ukrywanie się i zacieranie śladów to Twoja druga natura, nie zostawiasz odcisków palców, unikasz kamer i rozpływasz w tłumie. Jeśli ukrywasz się w grupie ludzi (na ulicy, w klubie itp.) i nie masz żadnej widocznej broni ani pancerza otrzymujesz przerzut do **Kamuflażu**. Możesz zapłacić punkt SW, żeby zmienić wygląd swojej postaci - musisz mieć narzędzie do tworzenia realistycznych masek.
+~~**Fantom** : Nawet ludzie, którzy znają Cię od lat czasem wątpią czy istniejesz naprawdę. Ukrywanie się i zacieranie śladów to Twoja druga natura, nie zostawiasz odcisków palców, unikasz kamer i rozpływasz w tłumie. Jeśli ukrywasz się w grupie ludzi (na ulicy, w klubie itp.) i nie masz żadnej widocznej broni ani pancerza otrzymujesz przerzut do **Kamuflażu**. Możesz zapłacić punkt SW, żeby zmienić wygląd swojej postaci - musisz mieć narzędzie do tworzenia realistycznych masek.~~
 
 **Farciarz** : Możesz powtórzyć trzy dowolne rzuty na sesji.
 
-**??NarkoSugestia** : Płacąc 1 punkt SW i wygrwając przeciwstawny test swojego Charakteru i Woli celu jesteś w stanie mu wydać prosty jednozdaniowy rozkaz. Przez najbliższą minutę ofiara będzie próbowała go wykonać. Rozkaz nie może zagrażać niczyjemy życiu i zdrowiu. Zaleta ma zasięg kilku metrów i nie działa na postacie pod wpływem dużego stresu (walka) 
+~~**??NarkoSugestia** : Płacąc 1 punkt SW i wygrwając przeciwstawny test swojego Charakteru i Woli celu jesteś w stanie mu wydać prosty jednozdaniowy rozkaz. Przez najbliższą minutę ofiara będzie próbowała go wykonać. Rozkaz nie może zagrażać niczyjemy życiu i zdrowiu. Zaleta ma zasięg kilku metrów i nie działa na postacie pod wpływem dużego stresu (walka)~~
 
 **Inżynieria Polowa** : Przerzut do **Mechaniki** i **Sztuki Przetrwania**. Jesteś bardzo dobry w improwizowaniu. Zawsze masz przy sobie drobne przedmioty jak zapałki, śrubki i małe narzędzia jak pilnik albo śrubokręt schowane w kieszeniach ubrania. Jeśli zapłacisz punkt SW, możesz wyciągnąć bardziej skomplikowane części zamienne, narzędzia albo zapasową amunicje pod warunkiem, że można je upchnąć w ubraniu. Płącąć punkt SW możesz też w normalnym gospodarstwi domowym zrobić improwizowane materiały wybuchowe
 
@@ -65,6 +65,8 @@ Niektóre zdolności mają alternatywne wersje oznaczone *, nie można mieć jed
 <h3>Shadowrun mod: Magia</h3>
 
 W momencie wybrania pierwszej zdolności magicznej postać wybiera czy zostaje **Adeptem** **Magiem** czy **Szamanem**. Może brać tylko zdolności dostępne dla tej jednej klasy. Magiczne zdolności można wybrać podczas tworzenia postaci albo później podczas gry - talent magiczny obudził się u postaci później.
+
+**Dominacja** : (Mag) Płacąc 1 punkt SW i wygrwając przeciwstawny test swojego Charakteru i Woli celu jesteś w stanie mu wydać prosty jednozdaniowy rozkaz. Przez najbliższą minutę ofiara będzie próbowała go wykonać. Rozkaz nie może zagrażać niczyjemy życiu i zdrowiu. Zaleta ma zasięg kilku metrów i nie działa na postacie pod wpływem dużego stresu (walka). Płacąc 1 punkt SW kiedy dotykasz celu i wygrwając przeciwstawny test swojego Charakteru i Wytrzymałości celu możesz go uśpić. Uśpienie nie zadziała na osoby w walce lub sytuacji zagrożenia życia. Dotknięcie musi być wykonane z zaskoczenia lub na nie podejrzewającej niczego osobie – np. podczas rozmowy. Ofiara zasypia natychmiast ale ma na tyle przytomności, żeby położyć się bezpiecznie jeśli np. zasnęłaby na stojąco. Sen jest nadnaturalnie mocny, trwa kilka godzin i obudzić ofiarę mogą tylko silne bodźce jak oblanie wiadrem wody albo wystrzelenie z rewolwera tuż nad głową.
 
 **Iluzjonista** : (Szaman/Mag)  Potrafisz tworzyć iluzje miejsc, przedmiotów lub nakładać na istoty iluzoryczne przebranie. Musisz wygrać test swoje Charyzmy przeciwko Intuicji ofiary. Jeśli postać ma jakiejś umiejętności artystyczne jak np. Malowanie albo Rzeźba może użyć ich zamiast Charyzmy. Iluzja nie może tworzyć zagrożenia dla życia i zdrowia jej ofiar. Jeśli pojawi się takie zagrożenie iluzja natychmiast się rozwiewa. Koszt iluzji rośnie w zależności od poziomu komplikacji. Wydanie jednego punktu pozwoli nałożyć na siebie iluzoryczną maskę innej osoby, albo stworzyć iluzje osoby, przedmiotu albo zwierzęcia.
  - +1 punkt jeśli iluzja ma być interaktywna i oddziaływać na więcej zmysłów niż wzrok i słuch.
