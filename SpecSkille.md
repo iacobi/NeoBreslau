@@ -13,6 +13,9 @@ Niektóre zdolności mają alternatywne wersje oznaczone *, nie można mieć jed
 >
 **Droniarz** : Przerzut do testów **Pilotażu** i **Prowadzenia Pojazdów** kiedy postać steruje dronami. Jesteś tak dobry w obsłudze dron, że nie poświęcasz tury, żeby sterować nią w walce. Efektywnie postać wykonuje w swojej inicjatywie dwie tury. Jedną dla siebie i jedną dla swojego drona.
 
+**Dynamiczne Sploty Mięśniowe** : Postać potrafi skoczyć pinowo w górę na wysokość w metrach równą połowie siły (licząc od podłoża  do stóp postaci). Z solidnego rozbiegu skoczyć w dal na odległość równej podwojonej Sile. Może też całkowicie
+bezpiecznie spaść z wysokości równej Siła*10 metrów. Płacąć jeden punkt SW potrafi pokonać w rundzie 2xSprawność metrów nie tracąć przy tym żadnej akcji. Maksymalne obciążenie z którym może to zrobić to to Siła*10kg.
+
 ~~**Fantom** : Nawet ludzie, którzy znają Cię od lat czasem wątpią czy istniejesz naprawdę. Ukrywanie się i zacieranie śladów to Twoja druga natura, nie zostawiasz odcisków palców, unikasz kamer i rozpływasz w tłumie. Jeśli ukrywasz się w grupie ludzi (na ulicy, w klubie itp.) i nie masz żadnej widocznej broni ani pancerza otrzymujesz przerzut do **Kamuflażu**. Możesz zapłacić punkt SW, żeby zmienić wygląd swojej postaci - musisz mieć narzędzie do tworzenia realistycznych masek.~~
 
 **Farciarz** : Możesz powtórzyć trzy dowolne rzuty na sesji.
@@ -31,6 +34,8 @@ Niektóre zdolności mają alternatywne wersje oznaczone *, nie można mieć jed
 
 **Pancerz Wewnętrzny** : Postać ma jeden punkt pancerza, który kumulujesię z noszonym pancerzem zewnętrznym. Z powodu masy postaci trwale **traci jedną kostkę** z każdego testu **Sprawności** i z **rzutu na inicjatywę.**
 
+**Refleks** : Przerzut do **Sprawności**, dodatkowa kostka do rzutu na inicjatywę (wybierasz lepszą). Możesz zapłacić jeden punkt SW, żeby dostać dodatkowy unik w rundzie.
+
 **Regeneracja** : Raz podczas sesji możesz całkowice zregenrować swoją Żywotność i licznik przedawkowania.
 
 **Repozytorium** : Postać ma wgrane gigantyczne biblioteki wiedzy. Jeśli chce zamiast używać swojego normalnego poziomu umiejętności może użyć repozytorium, umiejętność jest wtedy równa 4. Repozytorium nie działa na czysto fizyczne aktywności - jak np. test Siły albo Walki Wręcz.
@@ -40,8 +45,6 @@ Niektóre zdolności mają alternatywne wersje oznaczone *, nie można mieć jed
 **Sprzęg** : Możesz podłączać się do cybersprzętu (zazwyczaj daje +1 do umiejętności). Traktujemy też jako wbudowany komputer/telefon komórkowy, daje +1 do testów Oprogramowania.
 
 **SuperSensoryka** : Przerzut do **Intuicji** oraz **Spostrzegawczości**. Postać widzi w ciemności. Wszystkie zmysły są tak wyczulone, że na odległości 15 metrów poznaje ludzi po zapachu. Podczas snu wszystkie testy spostrzegawczości i intuicji wykonuje pełną pulą kostek.
-
-**Szybki** : Przerzut do **Sprawności**, dodatkowa kostka do rzutu na inicjatywę (wybierasz lepszą). Możesz wydać 1 punkt SW, żeby pokonać w rundzie 2xSprawność metrów nie tracąc przy tym żadnej z akcji.
 
 **Technik** : Przerzut do **Elektroniki** i **Mechaniki**.
 
