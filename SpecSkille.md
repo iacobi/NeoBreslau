@@ -1,6 +1,6 @@
 <h2>Zdolności</h2>
 
-Niektóre zdolności mają alternatywne wersje oznaczone *, nie można mieć jednocześnie wersji podstawowej i alternatywnej. Np. postać musi wybrać czy chce zaletę **Charyzma** czy **Cwaniak**
+Niektóre zdolności mają alternatywne wersje oznaczone *, nie można mieć jednocześnie wersji podstawowej i alternatywnej. Np. postać musi wybrać czy chce zaletę **Cwaniak** czy **Lider**
 <hr>
 
 **Chirurg** : Przerzut do **Medycyny**. Jeśli postać używa ostrzy może w walce użyć poziomu Medycyny zamiast Siły.
