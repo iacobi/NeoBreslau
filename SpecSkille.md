@@ -49,7 +49,7 @@ Niektóre zdolności mają alternatywne wersje oznaczone *, nie można mieć jed
 
 **??Wędrowiec** : Przerzut do testów **Pilotażu**, **Pilotażu Kosmos** i **Prowadzenia Pojazdów** kiedy postać jest w pojeździe.
 
-**Wielki** : Podczas każdego testu i każdego rzutu na obrażenia, który zależy od **Siły** postaci dostajesz jeden sukces/punkt obrażeń więcej niż wynika to z kostek. **Żywotność** postaci jest wyższa o punkt. Ignorujesz Odrzut i Nieporęczność broni.
+**Wielki** : Podczas każdego testu i każdego rzutu na obrażenia, który zależy od **Siły** postaci. **Żywotność** postaci jest wyższa o punkt. Ignorujesz Odrzut i Nieporęczność broni.
 
 **Wirus** : Przerzut do **Oprogramowania**. Jeśli masz fizyczny dostęp do sprzęgu dowolnej osoby możesz spróbować przejąć and nią kontrolę. Musisz zapłacić jeden punkt SW i wygrać test swojej umiejętności Oprogramowanie kontra Wytrzymałość celu. Można przeprowadzić tylko na nieprzytomnej albo obezwładnionej osobie. Kontrola ciała trwa do momentu świadomego wyłączenia albo utraty przytomności przez cel. Kontrolujący pozostaje wtedy w stanie letargu. Wszystkie testy wykonuje się wtedy mniejszą z dwóch umiejętności kontrolowanego lub konotrolującego. 
 
@@ -57,12 +57,14 @@ Niektóre zdolności mają alternatywne wersje oznaczone *, nie można mieć jed
 
 <h3>Shadowrun mod: Rasy</h3>
 
-Jeśli chcesz wybrać elfa albo człowieka na startową rasę nie ma żadnych specjalnych wymogów. Krasnoludy muszą zabrać zaletę **Twardziel**, Orki muszą zabrać zaletę **Twardziel** albo **Silnoręki**. Trolle muszą zabrać zalety **Pancerz Wewnętrzny** oraz **Wielki**.
-Zalety **Pancerz Wewnętrzny** i **Wielki** zabrane przez inne rasy będą traktowane jako wszczepy.
+**Elfy/Ludzie** : żadnych specjalnych warunków
+**Krasnoludy** : muszą zabrać zaletę **Twardziel** podczas tworzenia postaci
+**Orki** : muszą zabrać zaletę **Twardziel** albo **Silnoręki** podczas tworzenia postaci.
+**Trolle**: muszą zabrać  zalety **Pancerz Wewnętrzny** oraz **Wielki**. 
 
 <h3>Shadowrun mod: Zdolności</h3>
 
-**Adept** : Jeśli postać nie ma na sobie żadnego pancerza, broni większej od pistoletu albo noża oraz innego ciężkiego sprzętu. Jej Walka Wręcz, Siła i Sprawność są wyższe o punkt oraz zawsze może unikać broni palnej.
+**Adept** : Jeśli postać nie ma na sobie żadnego pancerza, nie używa broni i nie przenosi przedmiotów ograniczającej jej ruchy jej **Walka Wręcz**, **Siła** i **Sprawność** są wyższe o punkt oraz zawsze może unikać broni palnej.
 
 **Piroknieza** : Jeśli postać poświęci turę na koncetracje jej dłonie zapłoną i może ciskać magicznymi pociskami, lub jeśli zapłaci punkt SW działa to natychmiastowo. Pociski zadają zwykłe 4 kostki obrażeń a umiejętność odpowiedzialna za trafianie jest zawsze równa 6. Płacąc punkt SW może też rzucić kulą ognia (jak rzut granatem). Można unikać magicznych pocisków.
 
