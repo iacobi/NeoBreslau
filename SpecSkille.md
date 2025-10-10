@@ -13,8 +13,7 @@ Niektóre zdolności mają alternatywne wersje oznaczone *, nie można mieć jed
 >
 **Droniarz** : Przerzut do testów **Pilotażu** i **Prowadzenia Pojazdów** kiedy postać steruje dronami. Jesteś tak dobry w obsłudze dron, że nie poświęcasz tury, żeby sterować nią w walce. Efektywnie postać wykonuje w swojej inicjatywie dwie tury. Jedną dla siebie i jedną dla swojego drona.
 
-**Dynamiczne Sploty Mięśniowe** : Postać potrafi skoczyć pinowo w górę na wysokość w metrach równą połowie siły (licząc od podłoża  do stóp postaci). Z solidnego rozbiegu skoczyć w dal na odległość równej podwojonej Sile. Może też całkowicie
-bezpiecznie spaść z wysokości równej Siła*10 metrów. Płacąć jeden punkt SW potrafi pokonać w rundzie 2xSprawność metrów nie tracąć przy tym żadnej akcji. Maksymalne obciążenie z którym może to zrobić to to Siła*10kg.
+**Dynamiczne Sploty Mięśniowe** : Postać potrafi skoczyć pionowo w górę na wysokość w metrach równą połowie siły (licząc od podłoża  do stóp postaci). Z solidnego rozbiegu skoczyć w dal na odległość równej podwojonej Sile. Może też całkowicie bezpiecznie spaść z wysokości równej Siła\*10 metrów. Płacąc jeden punkt SW potrafi pokonać w rundzie 2xSprawność metrów nie tracąc przy tym żadnej akcji. Maksymalne obciążenie z którym może to zrobić to Siła\*10kg.
 
 ~~**Fantom** : Nawet ludzie, którzy znają Cię od lat czasem wątpią czy istniejesz naprawdę. Ukrywanie się i zacieranie śladów to Twoja druga natura, nie zostawiasz odcisków palców, unikasz kamer i rozpływasz w tłumie. Jeśli ukrywasz się w grupie ludzi (na ulicy, w klubie itp.) i nie masz żadnej widocznej broni ani pancerza otrzymujesz przerzut do **Kamuflażu**. Możesz zapłacić punkt SW, żeby zmienić wygląd swojej postaci - musisz mieć narzędzie do tworzenia realistycznych masek.~~
 
