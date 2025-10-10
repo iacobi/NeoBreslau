@@ -3,7 +3,7 @@
 Niektóre zdolności mają alternatywne wersje oznaczone *, nie można mieć jednocześnie wersji podstawowej i alternatywnej. Np. postać musi wybrać czy chce zaletę **Cwaniak** czy **Lider**
 <hr>
 
-**Chirurg** : Przerzut do **Medycyny**. Jeśli postać używa ostrzy może w walce użyć poziomu Medycyny zamiast Siły.
+**Chirurg** : Przerzut do **Medycyny**. Jeśli postać używa ostrzy może w walce użyć poziomu Medycyny zamiast Siły. Płacąc jeden punkt SW potrafi z rzeczy dostępnych w mieszkaniu zaimprowizować TraumaPack, ale traci jedną kostkę z rzutu na medycynę używając tej improwizowanej konstrukcji. W jednym mieszkaniu może zaimprowizować tylko jeden.
 
 **Cyngiel** : Możesz wykonać trzy szybkie strzały w rundzie używając 4 kostek w rzucie na trafienie, a strzelając ogniem ciągłym zadajesz kostkę obrażeń więcej. Wyciągnięcie pistoletu z kabury nie zajmuje akcji.
 
