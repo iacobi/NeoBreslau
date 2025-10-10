@@ -61,15 +61,15 @@ Monoostrza - są kruche i po jednej albo dwóch walkach trzeba je wymienić
 
 ||Obrażenia|Magazynek|Ładowanie|Cechy|Cena|
 |--|:--:|:--:|--|--|--:|
-| **Gremlin 9mm**|zwykłe&nbsp;3&nbsp;kostki| 30| pół tury |Prosta Obsługa, Krótka Seria, Ogień&nbsp;Ciągły | 1000&nbsp;kred.|
-| **MP 10mm**|silne&nbsp;3&nbsp;kostki| 30| pół tury |Prosta Obsługa, Krótka Seria, Ogień&nbsp;Ciągły | 2000&nbsp;kred.|
+| **Pistolet Maszynowy 9mm**|zwykłe&nbsp;3&nbsp;kostki| 30| pół tury |Prosta Obsługa, Krótka Seria, Ogień&nbsp;Ciągły | 1000&nbsp;kred.|
+| **Pistolet Maszynowy 10mm**|silne&nbsp;3&nbsp;kostki| 30| pół tury |Prosta Obsługa, Krótka Seria, Ogień&nbsp;Ciągły | 2000&nbsp;kred.|
 
 <h3>Karabiny</h3>
 
 ||Obrażenia|Magazynek|Ładowanie|Cechy|Cena|
 |--|:--:|:--:|--|--|--:|
-| **.233 Falcata**|zwykłe&nbsp;4&nbsp;kostki| 30| pół tury |Krótka Seria, Ogień Ciągły | 1000&nbsp;kred.|
-| **.277 Arcus**|silne&nbsp;4&nbsp;kostki| 24| pół tury |Krótka Seria| 3000&nbsp;kred.|
+| **Karabinek Szturmowy //.233 Falcata**|zwykłe&nbsp;4&nbsp;kostki| 30| pół tury |Krótka Seria, Ogień Ciągły | 1000&nbsp;kred.|
+| **Karabin Bojowy //.277 Arcus**|silne&nbsp;4&nbsp;kostki| 24| pół tury |Krótka Seria| 3000&nbsp;kred.|
 
 <h3>Strzelby</h3>
 
@@ -99,8 +99,8 @@ Nie otrzymują +1 za zainstalowanie optyki albo cyberoptyki.
 
 |Nazwa|Obrażenia|Magazynek|Ładowanie|Cechy|Cena|
 |--|:--:|:--:|--|--|--:|
-|**.233&nbsp;Falx**|zwykłe&nbsp;4&nbsp;kostki| 100 |trzy tury| Krótka Seria, Ogień&nbsp;Ciągły| 4000&nbsp;kred.|
-|**.277**|silne&nbsp;4&nbsp;kostki| 100 |trzy tury| Krótka Seria, Ogień&nbsp;Ciągły, Nieporęczny| 5000&nbsp;kred.|
+|**5,56mm //.233&nbsp;Falx**|zwykłe&nbsp;4&nbsp;kostki| 100 |trzy tury| Krótka Seria, Ogień&nbsp;Ciągły| 4000&nbsp;kred.|
+|**7,62,, //.277**|silne&nbsp;4&nbsp;kostki| 100 |trzy tury| Krótka Seria, Ogień&nbsp;Ciągły, Nieporęczny| 5000&nbsp;kred.|
 |**.338**|zwykłe&nbsp;5&nbsp;kostek| 100 |pięć tur| Krótka Seria, Ogień&nbsp;Ciągły, Nieporęczny, Odrzut| 10000&nbsp;kred.|
 
 <h3>Broń Magnetyczna</h3>
