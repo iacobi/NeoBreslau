@@ -8,7 +8,7 @@
 
 <h3>Gangster</h3>
 
-**Ekwipunek** : 1000 kredytów, Pistolet Maszynowy 9mm, Blitz (dwie dawki), Wendigo (dwie dawki)
+**Ekwipunek** : 2000 kredytów, Pistolet Maszynowy 9mm, Blitz (dwie dawki), Wendigo (dwie dawki)
 
 **Umiejętności** : Charakter, Kamuflaż, Kradzież, Sprawność
 
@@ -26,7 +26,7 @@
 
 <h3>Nomad</h3>
 
-**Ekwipunek** : 2000 kredytów, Narzędzia (dowolny rodzaj), Strzelba, TraumaPack
+**Ekwipunek** : 1000 kredytów, Narzędzia (dowolny rodzaj), Strzelba, TraumaPack
 
 **Umiejętności** : Wytrzymałość, Mechanika, Sztuka Przetrwania, Prowadzenie Pojazdów
 
@@ -50,7 +50,7 @@
 
 <h3>Mistyk</h3>
 
-**Ekwipunek** : 1000 kredytów, Rewolwer .357, Neon (dwie dawki) Lux (trzy dawki)
+**Ekwipunek** : 2000 kredytów, Paralizator, Neon (dwie dawki) Lux (trzy dawki)
 
 **Umiejętności** : Charakter, Intuicja, Spostrzegawczość, Wola
 
@@ -60,9 +60,15 @@
 
 **Umiejętności** : Pilotaż, Prowadzenie Pojazdów, Oprogramowanie, Spostrzegawczość
 
+<h3>Punk</h3>
+
+**Ekwipunek** : 500 kredytów, Rewolwer .357, Blitz (dwie dawki)
+
+**Umiejętności** : Charakter, Walka Wręcz, Kradzież, Sztuka Przetrwania
+
 <h3>Robotnik</h3>
 
-**Ekwipunek** : 1000 kredytów,  Rewolwer .357, Nokaina (dwie dawki)
+**Ekwipunek** : 1000 kredytów,  Rewolwer .44, Nokaina (dwie dawki)
 
 **Umiejętności** : Siła, Wytrzymałość, Elektronika, Mechanika
 
