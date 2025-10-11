@@ -62,7 +62,7 @@
 
 <h3>Punk</h3>
 
-**Ekwipunek** : 500 kredytów, Rewolwer .357, Blitz (dwie dawki)
+**Ekwipunek** : 1000 kredytów, Rewolwer .357, Blitz (dwie dawki)
 
 **Umiejętności** : Charakter, Walka Wręcz, Kradzież, Sztuka Przetrwania
 
