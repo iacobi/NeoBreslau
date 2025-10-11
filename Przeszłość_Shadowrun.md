@@ -74,6 +74,6 @@
 
 <h3>Weteran</h3>
 
-**Ekwipunek** : 1000 kredytów, Karabin Szturmowy, Lekki Pancerz, Nokaina (dwie dawki)
+**Ekwipunek** : 1000 kredytów, Karabin Szturmowy, Lekki Pancerz
 
 **Umiejętności** : Broń Długa, Charakter, Wytrzymałość, Sprawność
