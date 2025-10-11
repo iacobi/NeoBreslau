@@ -3,14 +3,12 @@
 Niektóre zdolności mają alternatywne wersje oznaczone *, nie można mieć jednocześnie wersji podstawowej i alternatywnej. Np. postać musi wybrać czy chce zaletę **Cwaniak** czy **Lider**
 <hr>
 
-**Chirurg** : Przerzut do **Medycyny**. Jeśli postać używa ostrzy może w walce użyć poziomu Medycyny zamiast Siły. Płacąc jeden punkt SW potrafi z rzeczy dostępnych w mieszkaniu zaimprowizować TraumaPack, ale traci jedną kostkę z rzutu na medycynę używając tej improwizowanej konstrukcji. W jednym mieszkaniu może zaimprowizować tylko jeden.
+**Chirurg** : Przerzut do **Medycyny**. Jeśli postać używa ostrzy może w walce użyć poziomu Medycyny zamiast Siły. Płacąc jeden punkt SW potrafi stworzyć improwizowany TraumaPack pod warunkiem, że ma dostęp do apteki albo dowolnego miejsca gdzie może dostać podstawowe materiały medyczne. Improwizowany TraumaPack musi być użyty natychmiast po stworzeniu i używając go postać traci kostkę z rzutu na Medycynę.
 
 **Cyngiel** : Możesz wykonać trzy szybkie strzały w rundzie używając 4 kostek w rzucie na trafienie, a strzelając ogniem ciągłym zadajesz kostkę obrażeń więcej. Wyciągnięcie pistoletu z kabury nie zajmuje akcji.
 
 **Cwaniak** : Masz cięty język i zwinne palce. Przerzut do **Charakteru** i **Kradzieży**. Kiedy ukrywasz się w skupiskach ludzi możesz używać Charakteru zamiast Kamuflażu.
->
->**Lider** : Przerzut do **Charakteru**. Masz dwa punkty Siły Woli więcej. Jeśli chcesz inni gracze mogą korzystać z Twojej puli SW jak z własnej.
->
+
 **Droniarz** : Przerzut do testów **Pilotażu** i **Prowadzenia Pojazdów** kiedy postać steruje dronami. Jesteś tak dobry w obsłudze dron, że nie poświęcasz tury, żeby sterować nią w walce. Efektywnie postać wykonuje w swojej inicjatywie dwie tury. Jedną dla siebie i jedną dla swojego drona.
 
 **Dynamiczne Sploty Mięśniowe** : Postać potrafi skoczyć pionowo w górę na wysokość w metrach równą połowie siły (licząc od podłoża  do stóp postaci). Z solidnego rozbiegu skoczyć w dal na odległość równej podwojonej Sile. Może też całkowicie bezpiecznie spaść z wysokości równej Siła\*10 metrów. Płacąc jeden punkt SW możesz wykonać drugi unik w rundzie.
@@ -31,8 +29,7 @@ Niektóre zdolności mają alternatywne wersje oznaczone *, nie można mieć jed
 
 **MonoStruny** : Superwytrzymałe struny mogą służyć do cięcia, obezwładniania albo jako prowizoryczna lina. W walce traktowane są jako broń dwuręczna z dwoma przerzutami zadająca zwykłe 4 kostki obrażeń. Postać wybiera czy używa **Walki Wręcz** czy **Walki Bronią** jako swojej umiejętności. Struna jest również w stanie utrzymać Twój ciężar i obwiązać się wokół przedmiotów w odległości 10 metrów. Ten dodatkowy zasięg można wykorzystać tylko do wspianania się albo łapania przedmiotów w walce zasięg struny jest identyczny jak każdej innej broni białej.
 
-**Pancerz Wewnętrzny** : Postać ma jeden punkt pancerza, który kumulujesię z noszonym pancerzem zewnętrznym. Z powodu masy postaci trwale **traci jedną kostkę** z każdego testu **Sprawności** i nigdy nie może dostaje dodatkowych kostek w rzucie na inicjatywę. 
-
+**Pancerz Wewnętrzny** : Postać ma jeden punkt pancerza, który kumuluje się z noszonym pancerzem zewnętrznym. Z powodu masy postaci trwale **traci jedną kostkę** z każdego testu **Sprawności** i nie dostajesz dodatkowych kostek do rzutu na inicjatywę.
 **Regeneracja** : Raz podczas sesji możesz całkowice zregenrować swoją Żywotność i licznik przedawkowania.
 
 **Repozytorium** : Postać ma wgrane gigantyczne biblioteki wiedzy. Jeśli chce zamiast używać swojego normalnego poziomu umiejętności może użyć repozytorium, umiejętność jest wtedy równa 4. Repozytorium nie działa na czysto fizyczne aktywności - jak np. test Siły albo Walki Wręcz.
@@ -55,6 +52,11 @@ Niektóre zdolności mają alternatywne wersje oznaczone *, nie można mieć jed
 
 **Wirus** : Przerzut do **Oprogramowania**. Jeśli masz fizyczny dostęp do sprzęgu dowolnej osoby możesz spróbować przejąć and nią kontrolę. Musisz zapłacić jeden punkt SW i wygrać test swojej umiejętności Oprogramowanie kontra Wytrzymałość celu. Można przeprowadzić tylko na nieprzytomnej albo obezwładnionej osobie. Kontrola ciała trwa do momentu świadomego wyłączenia albo utraty przytomności przez cel. Kontrolujący pozostaje wtedy w stanie letargu. Wszystkie testy wykonuje się wtedy mniejszą z dwóch umiejętności kontrolowanego lub konotrolującego. 
 
+**Zen** : Postać ma dwa punkty Siły Woli więcej niż wynika to znormalnych zasad. Może dawać swoje punkty SW innym postaciom
+>
+>**Ego** : Przerzut do **Charakteru**. Masz dwa punkty Siły Woli więcej. Tracisz kostkę z każdego testu **Intuicji**.
+>
+
 **Złodziej** : Przerzut do **Kradzieży**. Możesz używać umiejętności **Kradzież** podczas testów otwierania zamków zamiast Mechaniki albo Eletkroniki. Postać potrafi chować i wyciągać nóż albo pistolet tak szybko i sprawnie, że traktujemy, go jakby zawsze były w dłoni postaci, nawet, jeśli normalnie przenosi je gdzieś pod ubraniem.
 
 <h3>Shadowrun mod: Rasy</h3>
@@ -69,22 +71,22 @@ Niektóre zdolności mają alternatywne wersje oznaczone *, nie można mieć jed
 
 <h3>Shadowrun mod: Magia</h3>
 
-W momencie wybrania pierwszej zdolności magicznej postać wybiera czy zostaje **Adeptem** **Magiem** czy **Szamanem**. Może brać tylko zdolności dostępne dla tej jednej klasy. Magiczne zdolności można wybrać podczas tworzenia postaci albo później podczas gry - talent magiczny obudził się u postaci później.
+W momencie wybrania pierwszej zdolności magicznej postać wybiera czy zostaje **Adeptem** **Magiem** czy **Szamanem**. Może brać tylko zdolności dostępne dla tej jednej klasy. Magiczne zdolności można wybrać podczas tworzenia postaci albo później podczas gry - talent magiczny obudził się u postaci później. Postacie magiczne nie powinny mieć więcej niż jednej cybernetycznej zalety.
 
-**Dominacja** : (Mag) Płacąc 1 punkt SW i wygrwając przeciwstawny test swojego Charakteru i Woli celu jesteś w stanie mu wydać prosty jednozdaniowy rozkaz. Przez najbliższą minutę ofiara będzie próbowała go wykonać. Rozkaz nie może zagrażać niczyjemy życiu i zdrowiu. Zaleta ma zasięg kilku metrów i nie działa na postacie pod wpływem dużego stresu (walka). Płacąc 1 punkt SW kiedy dotykasz celu i wygrwając przeciwstawny test swojego Charakteru i Wytrzymałości celu możesz go uśpić. Uśpienie nie zadziała na osoby w walce lub sytuacji zagrożenia życia. Dotknięcie musi być wykonane z zaskoczenia lub na nie podejrzewającej niczego osobie – np. podczas rozmowy. Ofiara zasypia natychmiast ale ma na tyle przytomności, żeby położyć się bezpiecznie jeśli np. zasnęłaby na stojąco. Sen jest nadnaturalnie mocny, trwa kilka godzin i obudzić ofiarę mogą tylko silne bodźce jak oblanie wiadrem wody albo wystrzelenie z rewolwera tuż nad głową.
+**Dominacja** : (Mag) Dominacja wpisywana jest jako dodatkowa umiejętność na karte postaci. Płacąc 1 punkt SW i wygrwając przeciwstawny test Dominacji i Woli celu jesteś w stanie mu wydać prosty jednozdaniowy rozkaz. Przez najbliższą minutę ofiara będzie próbowała go wykonać. Rozkaz nie może zagrażać niczyjemy życiu i zdrowiu. Zaleta ma zasięg kilku metrów i nie działa na postacie pod wpływem dużego stresu (walka). Płacąc 1 punkt SW kiedy dotykasz celu i wygrwając przeciwstawny test Dominacji i Wytrzymałości celu możesz go uśpić. Uśpienie nie zadziała na osoby w walce lub sytuacji zagrożenia życia. Dotknięcie musi być wykonane z zaskoczenia lub na nie podejrzewającej niczego osobie – np. podczas rozmowy. Ofiara zasypia natychmiast ale ma na tyle przytomności, żeby położyć się bezpiecznie jeśli np. zasnęłaby na stojąco. Sen jest nadnaturalnie mocny, trwa kilka godzin i obudzić ofiarę mogą tylko silne bodźce jak oblanie wiadrem wody albo wystrzelenie z rewolwera tuż nad głową.
 
 **Iluzjonista** : (Szaman/Mag)  Potrafisz tworzyć iluzje miejsc, przedmiotów lub nakładać na istoty iluzoryczne przebranie. Musisz wygrać test swoje Charyzmy przeciwko Intuicji ofiary. Jeśli postać ma jakiejś umiejętności artystyczne jak np. Malowanie albo Rzeźba może użyć ich zamiast Charyzmy. Iluzja nie może tworzyć zagrożenia dla życia i zdrowia jej ofiar. Jeśli pojawi się takie zagrożenie iluzja natychmiast się rozwiewa. Koszt iluzji rośnie w zależności od poziomu komplikacji. Wydanie jednego punktu pozwoli nałożyć na siebie iluzoryczną maskę innej osoby, albo stworzyć iluzje osoby, przedmiotu albo zwierzęcia.
  - +1 punkt jeśli iluzja ma być interaktywna i oddziaływać na więcej zmysłów niż wzrok i słuch.
  - +1 punkt jeśli iluzja ma trwać dłużej niż godzinę, za dodatkowy punkt trwa do momentu zaśnięcia albo utraty przytomności maga
  - +1 albo +2 jeśli iluzja ma być duża i skompilowana, cała gospoda albo cały dworzec.
 
-**Kung-Fu** : (Adept) Jeśli postać nie ma na sobie żadnego pancerza, nie używa broni i nie przenosi przedmiotów ograniczającej jej ruchy jej **Walka Wręcz**, **Siła** i **Sprawność** są wyższe o punkt oraz zawsze może unikać broni palnej.
+**Kung-Fu** : (Adept) Jeśli postać nie ma na sobie żadnego pancerza, nie używa broni i nie przenosi przedmiotów ograniczającej jej ruchy zyskuje przerzut do **Walka Wręcz** i **Sprawności**, może unikać broni palnej i zadaje zwykłe 4 kostki obrażeń. Jeśli zapłaci punkt SW jego atak całkowicie ignoruje pancerz celu.
 
 **Magia Natury** : (Szaman) : Potrafisz kontrolować pogodę i rośliny. Punkt Mocy powoduje zmian pogody. Dwa punkty powodują przywołanie ekstremalnych zmian pogody np. zachmurzenie powodujące półmrok w środku dnia, albo huraganowy utrudniający strzelanie. Zmiana pogody trwa kilka tur, a utrzymuje się przez tyle godzin ile wynosi **Wola** postaci albo do czasu kiedy postać nie zdecyduje inaczej. Użycie Punkt Woli powoduje, że w kilka minut wyrastają gęste zarośla, mogące stworzyć 8 metrowy most, lub 16 metrową drabinę porastając dowolną skarpę lub ścianę. Mogą też stworzyć małe schronienie dla kilku osób, albo gęstą ścianę chroniącą przed pociskami. Możesz stworzyć też małe pole cierniowych krzaków, które uniemożliwia przejście bez narzędzi. Możesz też spowodować, żeby błyskawicznie wyrosły owoce i warzywa nadające się na posiłek dla pojedynczej osoby. Jeśli postać chce użyć z fitokinezy w terenie całkowicie pozbawionym roślinności – pustynia albo wnętrze kamiennej celi musi zapłacić dwa puntky Siły Woli zamiast jednego.
 
 **Magiczna Tarcza** : (Adept/Mag) Płacąc punkt SW możesz obniżyć obrażenia dowolnego ataku strzeleckiego lub wybuchu granatu o k10 punktów.
 
-**Piroknieza** : (Mag) Jeśli postać poświęci turę na koncetracje jej dłonie zapłoną i może ciskać magicznymi pociskami, lub jeśli zapłaci punkt SW działa to natychmiastowo. Pociski zadają zwykłe 4 kostki obrażeń a umiejętność odpowiedzialna za trafianie jest zawsze równa 6. Płacąc punkt SW może też rzucić kulą ognia (jak rzut granatem). Można unikać magicznych pocisków.
+**Piroknieza** : (Mag) Pirokineza jest wpisywana jako dodatkowa umiejętność na kartę postaci. Postać może ciskać magicznymi pociskami zadającymi zwykłe 4 kostki obrażeń z cechą przeciwpancerne używając pirokinezy jako umiejętności do rzutu na trafienie. Może wykonać dwa szybkie ataki albo jeden atak mierzony, inne postacie mogą unikać tych ataków jak rzuconych pocisków. Płacąc jeden punkt SW może rzucić kulą ognia - obrażenia jak granat, ale sam mag jest odporny na jej wybuch.
 
 **Uzdrowiciel** : (Adept/Szaman) Płacąc punkt SW i poświęcając jedną turę jesteś w stanie uzdrowić dwolną postać, którą możesz dotknąć. Płacąc dwa punkty SW możesz uzdrowić dowolną postać w zasięgu 10 metrów. Uzdrowienie działa tak samo jak użycie TraumaPacka - przywraca tyle punktów żywotności ile uda się uzyskać w teście Medycyn.
 
