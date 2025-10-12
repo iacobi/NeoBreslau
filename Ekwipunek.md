@@ -279,3 +279,40 @@ Desperacki rzut (-1 kostka obrażeń, -1 kostka do trafiania, zajmuje całą run
 Desperacki rzut (-2 kostki obrażeń, -1 kostka do trafiania, zajmuje całą rundę)
 
 
+<h2>Rzadka Broń</h2>
+
+<h3>Secutor PDW</h3>
+
+Statystyki karabinu szturmowe przy rozmiarach małego pistoletu maszynowego, ze złożoną kolbą można schować pod kurtką
+
+|Obrażenia|Magazynek|Ładowanie|Cechy|Cena|
+|:--:|:--:|--|--|--:|
+|zwykłe&nbsp;4&nbsp;kostki| 30| pół tury |Prosta Obsługa, Krótka Seria, Ogień Ciągły | 10000&nbsp;kred.|
+
+<h3>Mk46 CB</h3>
+
+lekki karabin maszynowy, ale optyka albo cyberoptyka podnosi celność
+
+|Obrażenia|Magazynek|Ładowanie|Cechy|Cena|
+|:--:|:--:|--|--|--:|
+|zwykłe&nbsp;4&nbsp;kostki| 100 |trzy tury| Krótka Seria, Ogień&nbsp;Ciągły| 10000&nbsp;kred.|
+
+<h3>MaxTac .44 Magnum</h3>
+
+44 Magnum, który ma dodatkowo opcje krótkiej serii
+
+|Obrażenia|Magazynek|Ładowanie|Cechy|Cena|
+|:--:|:--:|--|--|--:|
+|zwykłe&nbsp;4&nbsp;kostki| 6 | cała tura | Krótka Seria | 10000 kred.|
+
+<h3>Malorian 3516</h3>
+
+Potężne obrażenia jak na broń krótką
+
+|Obrażenia|Magazynek|Ładowanie|Cechy|Cena|
+|:--:|:--:|--|--|--:|
+|zwykłe&nbsp;5&nbsp;kostek| 8 | dwie tury | Odrzut | 10000 kred.|
+
+<h3>Katana Hattori Hanzo</h3>
+
+silne 3 kostki obrażeń, dwa przerzuty, przeciwpancerna, 10000 kred.
