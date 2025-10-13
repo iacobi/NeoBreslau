@@ -18,8 +18,6 @@ Niektóre zdolności mają alternatywne wersje oznaczone *, nie można mieć jed
 
 **Farciarz** : Możesz powtórzyć trzy dowolne rzuty na sesji.
 
-~~**??NarkoSugestia** : Płacąc 1 punkt SW i wygrwając przeciwstawny test swojego Charakteru i Woli celu jesteś w stanie mu wydać prosty jednozdaniowy rozkaz. Przez najbliższą minutę ofiara będzie próbowała go wykonać. Rozkaz nie może zagrażać niczyjemy życiu i zdrowiu. Zaleta ma zasięg kilku metrów i nie działa na postacie pod wpływem dużego stresu (walka)~~
-
 **Inżynieria Polowa** : Przerzut do **Mechaniki** i **Sztuki Przetrwania**. Jesteś bardzo dobry w improwizowaniu. Zawsze masz przy sobie drobne przedmioty jak zapałki, śrubki i małe narzędzia jak pilnik albo śrubokręt schowane w kieszeniach ubrania. Jeśli zapłacisz punkt SW, możesz wyciągnąć bardziej skomplikowane części zamienne, narzędzia albo zapasową amunicje pod warunkiem, że można je upchnąć w ubraniu. Płącąć punkt SW możesz też w normalnym gospodarstwi domowym zrobić improwizowane materiały wybuchowe
 
 **Kensei** : Masz swoją ulubioną broń, kiedy jej używasz poziom umiejętności **Walka Bronia** jest wyższy o jeden. Postać wyciąga tą broń tak szybko i sprawnie, że są traktowana jakby zawsze były w dłoni postaci. Może wydać punkt SW, żeby jej atak ignorował pancerz przeciwnika. Może zmienić swoją ulubioną broń między sesjami ale na jednej sesji może mieć tylko jedną ulubioną broń.
