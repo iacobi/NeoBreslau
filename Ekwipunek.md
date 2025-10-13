@@ -219,12 +219,9 @@ Przerzut do testów **Kamuflażu**. Maskuje ślad termiczny i elektromagnetyczny
 
 Drony są w pewnym stopniu autonomiczne i mogą podążać za użytkownikiem. W walce postać musi wybrać czy wykonuje swoją turę jako swoja postać czy jako dron. Jeśli drony pozwalają na kontry to działają według normalnych zasad, czyli cała tura jest przeznaczona na kontrę. Postać na raz może mieć aktywny tylko jeden typ drona.
 
-**Venator**: [2000 kred za 1 sztukę] Standardowy dron bojowy. Podlatuje i wybucha zadając **silne 5 kostek** obrażeń. W turze potrafi przelecieć 40 metrów. Do trafienia używana jest umiejętność **Pilotaż**. Może też wykonywać kontre - wlecieć w zbliżające się wrogie drony, granaty albo rakiety i wybuchąć. Nie trzeba rzutów na obrażenia - drony są na tyle delikatne, że wystarczy trafienie do zniszczenia. Żeby kontra była skuteczna trzeba uzyskać w rzucie na **Pilotaż** więcej niż atakujący miał w swoim rzucie na trafienie.
+**Drona FPV**: [2000 kred] Standardowy dron bojowy. Podlatuje i wybucha zadając **zwykłe 5 kostek** obrażeń. W turze potrafi przelecieć 40 metrów. Do trafienia używana jest umiejętność **Pilotaż**. Może też wykonywać kontre - wlecieć w zbliżające się wrogie drony, granaty albo rakiety i wybuchąć. Nie trzeba rzutów na obrażenia - drony są na tyle delikatne, że wystarczy trafienie do zniszczenia. Żeby kontra była skuteczna trzeba uzyskać w rzucie na **Pilotaż** więcej niż atakujący miał w swoim rzucie na trafienie. Na raz może być aktywnych tyle dronów ile wynosi **Oprogramowanie** postaci, ale może sterować tylko jedną droną turę - chyba, że ma zdolność **Droniarz** (patrz zasady zdolności). Wersja nieuzbrojona jest o połowę tańsza.
 
-**Rój**: [1000 kred za sztukę] Rój małych dronów FPV. Są mniejsze i ładunek wybuchowy jest słabszy - **słabe 5 kostek** obrażeń. Ich ilość, którą można kontrolować na raz jest równa
-umiejętności **Oprogramowanie**. Postać nadal musi poświęcić swoją turę, żeby sterować rojem, ale ilość akcji w roju jest ograniczona przez ilość dronów. Jeśli postać np. kontroluej 3 drony, może użyć dwóch z nich jako kontre do zniszczenia nadlatujących wrogich dronów, a jednego do ataku. Może też wykonać tylko jedną akcje, a pozostałe 2 drony zostawić w rezerwie.
-
-**Secutor**: [5000 kred za sztukę] Mały gąsienicowy pojazd uzbrojony w karabin maszynowy. Poza poruszaniem się może wykonywać tylko akcje **Ogień Ciągły** albo **Ogień Zaporowy**.
+**Dronga gąsienicowa**: [4000 + cena karabinu maszynowego] Mały gąsienicowy pojazd uzbrojony w karabin maszynowy. Poza poruszaniem się może wykonywać tylko akcje **Ogień Ciągły** albo **Ogień Zaporowy**. Pojazd nie jest zdolny do przeładowania broni, ale można mu zamonotować dwa razy dłuższą taśmę.
 
 <h2> TacMod / Scrambler </h2>
 
@@ -236,17 +233,11 @@ Narzędzie do walki elektronicznej w postaci plecaka z zestawem anten. TacModa n
 
 **Hackowanie IoT**: Wykonując test **Oprogramowania** możesz włamać się do podłączonych do sieci sprzętów domowych, telefonów i samochodów. Postać zyskuje wtedy pełną kontrolę nad urządzeniem. Przejęcie kontroli albo podsłuchanie telefonu to PT 1, przejęcie kontroli nad samochodem albo wojskjowym dronem PT 2, przejęcie kontroli nad helikopterem PT 3. Można przejmować kontrolę tylko nad włączonymi urządzeniami. Jeśli urządzenie jest używane przez kogoś zamiast testu przeciwko PT wykonuje się test przeciwstawny **Oprogramowania**
 
-~~**Walka Scramblerów**: Jeśli Scramblery nałożą się polami działania wiedzą o tym, że w pobliżu jest kolejny scrambler. Jeśli znajdąsię w swoim zasięgu mogą się zwalczać. Wykonuje się wtedy test przeciwstawny Elektroniki operatorów. Przegrane scramblery są wyłączone, w przypadku remisu wszystkie scramblery są wyłączone. W przypadku walki kilku scramblerów liczy się tylko najwyższy wynik, wszystkie przegrane scramblery są wyłączone.~~
-
-~~**Zwiad Elektroniczny**: Scrambler może wykryć podłączone do sieci urządzenia w jego zasięgu: telefony, samochody, sprzęty domowe, sprzęgi itp. Wykrycie jest automatyczne i większość cywilnych urządzeń nie wie, że ktoś je namierza. W przypadku zabezpieczonych systemów, wojskowej elektroniki itp. trzeba zdać test Elektroniki (PT ustala MG), żeby ping Scramblera pozostał niewykryty~~
-
 <h2>Pilum</h2>
 
 **Cena:** 4000 kred.
 
 Uniwersalny jednorazowy granatnik przeciwpancerny. Trafienie w człowieka albo zwykły pojazd powoduje natychmiastową śmierć albo zniszczenie. W promieniu kilkunastu metrów zadaje zwykłe 5 kostek obrażeń.
-
-
 
 <h2>Łuki</h2>
 
