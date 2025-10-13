@@ -307,11 +307,19 @@ lekki karabin maszynowy, ale optyka albo cyberoptyka podnosi celność
 
 <h3>Malorian 3516</h3>
 
-Potężne obrażenia jak na broń krótką
+Duże obrażenia, duża pojemność i szybkie przeładowanie jak na takie obrażenia w pistolecie
 
 |Obrażenia|Magazynek|Ładowanie|Cechy|Cena|
 |:--:|:--:|--|--|--:|
-|zwykłe&nbsp;5&nbsp;kostek| 8 | dwie tury | Odrzut | 10000 kred.|
+|silne&nbsp;4&nbsp;kostki| 8 | pół tury | Odrzut | 10000 kred.|
+
+<h3>Beowulf .50</h3>
+
+Karabinek Szturmowy na bardzo silna amunicje ale z małą pojemnością magazynka i krótkim zasięgiem
+
+|Obrażenia|Magazynek|Ładowanie|Cechy|Cena|
+|:--:|:--:|--|--|--:|
+|zwykłe&nbsp;5&nbsp;kostek| 12 | pół tury | Krótka Seria, Odrzut | 10000 kred.|
 
 <h3>Katana Hattori Hanzo</h3>
 
