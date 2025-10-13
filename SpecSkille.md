@@ -8,12 +8,13 @@ Niektóre zdolności mają alternatywne wersje oznaczone *, nie można mieć jed
 **Cyngiel** : Możesz wykonać trzy szybkie strzały w rundzie używając 4 kostek w rzucie na trafienie, a strzelając ogniem ciągłym zadajesz kostkę obrażeń więcej. Wyciągnięcie pistoletu z kabury nie zajmuje akcji.
 
 **Cwaniak** : Masz cięty język i zwinne palce. Przerzut do **Charakteru** i **Kradzieży**. Kiedy ukrywasz się w skupiskach ludzi możesz używać Charakteru zamiast Kamuflażu.
+>
+>**Fantom** : Nawet ludzie, którzy znają Cię od lat czasem wątpią czy istniejesz naprawdę. Ukrywanie się i zacieranie śladów to Twoja druga natura, nie zostawiasz odcisków palców, unikasz kamer i rozpływasz w tłumie. Jeśli ukrywasz się w grupie ludzi (na ulicy, w klubie itp.) i nie masz żadnej widocznej broni ani pancerza otrzymujesz przerzut do **Kamuflażu**. Możesz zapłacić punkt SW, żeby zmienić wygląd swojej postaci - musisz mieć narzędzie do tworzenia realistycznych masek.
+>
 
 **Droniarz** : Przerzut do testów **Pilotażu** i **Prowadzenia Pojazdów** kiedy postać steruje dronami. Jesteś tak dobry w obsłudze dron, że nie poświęcasz tury, żeby sterować nimi w walce. Efektywnie postać wykonuje w swojej inicjatywie dwie tury. Jedną dla siebie i jedną dla swojego drona. Jeśli zapłacisz punkt SW możesz wykonać akcje dla wszystkich swoich aktywnych dronów (albo użyć ich do kontry podczas czyjeś tury)
 
 **Dynamiczne Sploty Mięśniowe** : Postać potrafi skoczyć pionowo w górę na wysokość w metrach równą połowie siły (licząc od podłoża  do stóp postaci). Z solidnego rozbiegu skoczyć w dal na odległość równej podwojonej Sile. Może też całkowicie bezpiecznie spaść z wysokości równej Siła\*10 metrów. Płacąc jeden punkt SW możesz wykonać drugi unik w rundzie.
-
-~~**Fantom** : Nawet ludzie, którzy znają Cię od lat czasem wątpią czy istniejesz naprawdę. Ukrywanie się i zacieranie śladów to Twoja druga natura, nie zostawiasz odcisków palców, unikasz kamer i rozpływasz w tłumie. Jeśli ukrywasz się w grupie ludzi (na ulicy, w klubie itp.) i nie masz żadnej widocznej broni ani pancerza otrzymujesz przerzut do **Kamuflażu**. Możesz zapłacić punkt SW, żeby zmienić wygląd swojej postaci - musisz mieć narzędzie do tworzenia realistycznych masek.~~
 
 **Farciarz** : Możesz powtórzyć trzy dowolne rzuty na sesji.
 
