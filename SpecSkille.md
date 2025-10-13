@@ -8,6 +8,9 @@ Niektóre zdolności mają alternatywne wersje oznaczone *, nie można mieć jed
 **Cyngiel** : Możesz wykonać trzy szybkie strzały w rundzie używając 4 kostek w rzucie na trafienie, a strzelając ogniem ciągłym zadajesz kostkę obrażeń więcej. Wyciągnięcie pistoletu z kabury nie zajmuje akcji.
 
 **Cwaniak** : Masz cięty język i zwinne palce. Przerzut do **Charakteru** i **Kradzieży**. Kiedy ukrywasz się w skupiskach ludzi możesz używać Charakteru zamiast Kamuflażu.
+>
+>**Pewny Siebie** : Przerzut do **Charakteru** i masz jeden punkt SW więcej niż wynika to z normalnych zasad.
+>
 
 **Droniarz** : Przerzut do testów **Pilotażu** i **Prowadzenia Pojazdów** kiedy postać steruje dronami. Jesteś tak dobry w obsłudze dron, że nie poświęcasz tury, żeby sterować nimi w walce. Efektywnie postać wykonuje w swojej inicjatywie dwie tury. Jedną dla siebie i jedną dla swojego drona. Jeśli zapłacisz punkt SW możesz wykonać akcje dla wszystkich swoich aktywnych dronów (albo użyć ich do kontry podczas czyjeś tury)
 
