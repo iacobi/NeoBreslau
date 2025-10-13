@@ -13,6 +13,8 @@ Niektóre zdolności mają alternatywne wersje oznaczone *, nie można mieć jed
 >
 >**Fantom** : Nawet ludzie, którzy znają Cię od lat czasem wątpią czy istniejesz naprawdę. Ukrywanie się i zacieranie śladów to Twoja druga natura, nie zostawiasz odcisków palców, unikasz kamer i rozpływasz w tłumie. Jeśli ukrywasz się w grupie ludzi (na ulicy, w klubie itp.) i nie masz żadnej widocznej broni ani pancerza otrzymujesz przerzut do **Kamuflażu**. Możesz zapłacić punkt SW, żeby zmienić wygląd swojej postaci - musisz mieć narzędzie do tworzenia realistycznych masek.
 >
+>**Silnoręki** : Przerzut do **Charakteru** i **Walki Wręcz**. Postać nie traci kostki jeśli atakuje nieuzbrojona uzbrojonego przeciwnika.
+>
 
 **Droniarz** : Przerzut do testów **Pilotażu** i **Prowadzenia Pojazdów** kiedy postać steruje dronami. Jesteś tak dobry w obsłudze dron, że nie poświęcasz tury, żeby sterować nimi w walce. Efektywnie postać wykonuje w swojej inicjatywie dwie tury. Jedną dla siebie i jedną dla swojego drona. Jeśli zapłacisz punkt SW możesz wykonać akcje dla wszystkich swoich aktywnych dronów (albo użyć ich do kontry podczas czyjeś tury)
 
@@ -34,8 +36,6 @@ Niektóre zdolności mają alternatywne wersje oznaczone *, nie można mieć jed
 **Regeneracja** : Raz podczas sesji możesz całkowice zregenrować swoją Żywotność i licznik przedawkowania.
 
 **Repozytorium** : Postać ma wgrane gigantyczne biblioteki wiedzy. Jeśli chce zamiast używać swojego normalnego poziomu umiejętności może użyć repozytorium, umiejętność jest wtedy równa 4. Repozytorium nie działa na czysto fizyczne aktywności - jak np. test Siły albo Walki Wręcz.
-
-**Silnoręki** : Przerzut do **Walki Wręcz**. Niezależnie od tego co robiłeś w turze walki masz jeden darmowy szybki atak, pod warunkiem, że używasz w nim **Walki Wręcz** jako umiejętności odpowiedzialnej za trafienie. Postać nie traci kostki jeśli atakuje nieuzbrojona uzbrojonego przeciwnika.
 
 **Sprzęg** : Możesz podłączać się do cybersprzętu (zazwyczaj daje +1 do umiejętności). Traktujemy też jako wbudowany komputer/telefon komórkowy, daje +1 do testów Oprogramowania.
 
