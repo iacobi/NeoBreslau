@@ -78,7 +78,7 @@ Monoostrza - są kruche i po jednej albo dwóch walkach trzeba je wymienić
 |Nazwa|Obrażenia|Magazynek|Ładowanie|Cechy|Cena|
 |--|:--:|:--:|--|--|--:|
 | **Dubeltówka**|silne&nbsp;4&nbsp;kostki| 2 | 1 nabój na turę |Prosta Obsługa| 1000&nbsp;kred.|
-| **Strzelba**|silne&nbsp;4&nbsp;kostki| 8 | 1 nabój na turę |Prosta Obsługa| 1000&nbsp;kred.|
+| **Strzelba**|silne&nbsp;4&nbsp;kostki| 6 | 1 nabój na turę |Prosta Obsługa| 1000&nbsp;kred.|
 | **Strzelba Automatyczna**|silne&nbsp;4&nbsp;kostki| 20 | cała tura | Krótka Seria, Ogień Ciągły| 2500&nbsp;kred.|
 
 <h3>Karabiny Wyborowe</h3>
@@ -93,9 +93,9 @@ Monoostrza - są kruche i po jednej albo dwóch walkach trzeba je wymienić
 
 Nie otrzymują +1 za zainstalowanie optyki albo cyberoptyki.
 
-**Ogień Ciągły** zużywa 20 pocisków zamiast 15, ale każdy rzut na trafienie wykonuje się 6 kostkami
+**Ogień Ciągły** dla karabinów maszynowych zużywa 20 pocisków zamiast 15, ale każdy rzut na trafienie wykonuje się 6 kostkami
 
-**Ogień Zaporowy** zużywa 20 pocisków zamiast 15, ale wystarczy zremisować z rzutem na atak przeciwnika.
+**Ogień Zaporowy** dla karabinów maszynwoych zużywa 20 pocisków zamiast 15, ale wystarczy zremisować z rzutem na atak przeciwnika.
 
 |Nazwa|Obrażenia|Magazynek|Ładowanie|Cechy|Cena|
 |--|:--:|:--:|--|--|--:|
