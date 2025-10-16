@@ -1,6 +1,6 @@
 <h2>Zdolności</h2>
 
-Niektóre zdolności mają alternatywne wersje oznaczone *, nie można mieć jednocześnie wersji podstawowej i alternatywnej. Np. postać musi wybrać czy chce zaletę **Cwaniak** czy **Lider**
+Niektóre zdolności mają alternatywne wersje oznaczone *, nie można mieć jednocześnie wersji podstawowej i alternatywnej. Np. postać musi wybrać czy chce zaletę **Cwaniak** czy **Silnoręki**
 <hr>
 
 **Cała naprzód** : Przerzut do testów sterowania dowolnym pojazdem tak długo jak postać jest w tym pojeżdzie.
@@ -79,7 +79,9 @@ W momencie wybrania pierwszej zdolności magicznej postać wybiera czy zostaje *
  - +1 punkt jeśli iluzja ma trwać dłużej niż godzinę, za dodatkowy punkt trwa do momentu zaśnięcia albo utraty przytomności maga
  - +1 albo +2 jeśli iluzja ma być duża i skompilowana, cała gospoda albo cały dworzec.
 
-**Kung-Fu** : (Adept) Jeśli postać nie ma na sobie żadnego pancerza, nie używa broni i nie przenosi przedmiotów ograniczającej jej ruchy zyskuje przerzut do **Walka Wręcz** i **Sprawności**, może unikać broni palnej i zadaje zwykłe 4 kostki obrażeń. Jeśli zapłaci punkt SW jego atak całkowicie ignoruje pancerz celu.
+**Kung-Fu** : (Adept) Jeśli nie używa broni i nie nosi pancerza cięższego niż lekki. Otrzmyuje przerzut do **Walka Wręcz** i **Sprawności**. Może unikać broni palnej, nie traci kostki z trafienia uzbrojonych przeciwników i w walce wręcz zadaje silne kostki obrażeń zamiast słabych, a potężne ataki zyskują cechę przeciwpancerne.
+
+**Lot** : (Szaman) Płacąc 1 punkt woli może polecieć 10 metrów w dowolnym kierunku albo bezpiecznie spaść z 50 metrów. Można płacić kilka punktów woli naraz żeby przedłużyć odległość. Możesz wykonać lot z dodatkowymi osobami, ale płacisz dwa punkty siły woli bazowo i jeden za każdą osobę, którą ze sobą bierzesz. Lot nie działa na przedmioty martwe, tylko ludzie z ekwipunkiem, który są w stanie wygodnie unieść.
 
 **Magia Natury** : (Szaman) : Potrafisz kontrolować pogodę i rośliny. Punkt Mocy powoduje zmian pogody. Dwa punkty powodują przywołanie ekstremalnych zmian pogody np. zachmurzenie powodujące półmrok w środku dnia, albo huraganowy utrudniający strzelanie. Zmiana pogody trwa kilka tur, a utrzymuje się przez tyle godzin ile wynosi **Wola** postaci albo do czasu kiedy postać nie zdecyduje inaczej. Użycie Punkt Woli powoduje, że w kilka minut wyrastają gęste zarośla, mogące stworzyć 8 metrowy most, lub 16 metrową drabinę porastając dowolną skarpę lub ścianę. Mogą też stworzyć małe schronienie dla kilku osób, albo gęstą ścianę chroniącą przed pociskami. Możesz stworzyć też małe pole cierniowych krzaków, które uniemożliwia przejście bez narzędzi. Możesz też spowodować, żeby błyskawicznie wyrosły owoce i warzywa nadające się na posiłek dla pojedynczej osoby. Jeśli postać chce użyć z fitokinezy w terenie całkowicie pozbawionym roślinności – pustynia albo wnętrze kamiennej celi musi zapłacić dwa puntky Siły Woli zamiast jednego.
 
@@ -87,6 +89,9 @@ W momencie wybrania pierwszej zdolności magicznej postać wybiera czy zostaje *
 
 **Piroknieza** : (Mag) Pirokineza jest wpisywana jako dodatkowa umiejętność na kartę postaci. Postać może ciskać magicznymi pociskami zadającymi zwykłe 4 kostki obrażeń z cechą przeciwpancerne używając pirokinezy jako umiejętności do rzutu na trafienie. Może wykonać dwa szybkie ataki albo jeden atak mierzony, inne postacie mogą unikać tych ataków jak rzuconych pocisków. Płacąc jeden punkt SW może rzucić kulą ognia - obrażenia jak granat, ale sam mag jest odporny na jej wybuch.
 
-**Uzdrowiciel** : (Adept/Szaman) Płacąc punkt SW i poświęcając jedną turę jesteś w stanie uzdrowić dwolną postać, którą możesz dotknąć. Płacąc dwa punkty SW możesz uzdrowić dowolną postać w zasięgu 10 metrów. Uzdrowienie działa tak samo jak użycie TraumaPacka - przywraca tyle punktów żywotności ile uda się uzyskać w teście Medycyn.
+**Qinggong** : (Adept) Zaleta jest mechanicznie identyczna do **Dynamiczne Sploty Mięśniowe** ale adept uzyskuje te zdolności dzięki treningowi i manipulacji energii Chi, a nie implantom.
 
 **Transformacja** : (Szaman/Mag) Postać płaci punkt woli i przybiera postać kota, kruka, szczura albo sowy. Jakiekolwiek obrażenia w zmienionej formie spowodują, że wraca do postaci człowieka. Postać płaci dwa punkty woli i przybiera postać mgły. Może transformować ze sobą w mgłę dodatkowe osoby, jeśli zapłaci za nich dodatkowy punkt woli. W przypadku postaci graczy oni mogą zapłacić za siebie dodatkowym punktem woli. Można transformować w mgłę tylko postacie, które się na to zgodzą lub zostaną całkowicie obezwładnione. Mgła porusza się maksymalnie z szybkością szybkiego truchtu, nie może wznosić się do góry, ale może bezpiecznie spadać z dowolnej wysokości. Czas działania zaklęcia to godzina, ale mag może przerwać je wcześniej jeśli sobie tego zażyczy.
+
+**Uzdrowiciel** : (Adept/Szaman) Płacąc punkt SW i poświęcając jedną turę jesteś w stanie uzdrowić dwolną postać, którą możesz dotknąć. Płacąc dwa punkty SW możesz uzdrowić dowolną postać w zasięgu 10 metrów. Uzdrowienie działa tak samo jak użycie TraumaPacka - przywraca tyle punktów żywotności ile uda się uzyskać w teście Medycyn.
+
