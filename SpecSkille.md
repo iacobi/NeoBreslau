@@ -18,7 +18,7 @@ Niektóre zdolności mają alternatywne wersje oznaczone *, nie można mieć jed
 
 **Droniarz** : Przerzut do testów **Pilotażu** i **Prowadzenia Pojazdów** kiedy postać steruje dronami. Jesteś tak dobry w obsłudze dron, że nie poświęcasz tury, żeby sterować nimi w walce. Efektywnie postać wykonuje w swojej inicjatywie dwie tury. Jedną dla siebie i jedną dla swojego drona. Jeśli zapłacisz punkt SW możesz wykonać akcje dla wszystkich swoich aktywnych dronów (albo użyć ich do kontry podczas czyjeś tury)
 
-**Dynamiczne Sploty Mięśniowe** : Postać potrafi skoczyć pionowo w górę na wysokość w metrach równą połowie siły (licząc od podłoża  do stóp postaci). Z solidnego rozbiegu skoczyć w dal na odległość równej podwojonej Sile. Może też całkowicie bezpiecznie spaść z wysokości równej Siła\*10 metrów. Płacąc jeden punkt SW możesz wykonać drugi unik w rundzie.
+**Dynamiczne Sploty Mięśniowe** : **Siła** postaci jest o jeden wyższa niż wynika to z normalnych zasad. Postać potrafi skoczyć pionowo w górę na wysokość w metrach równą Sile. Z solidnego rozbiegu skoczyć w dal na odległość równej podwojonej Sile. Może też całkowicie bezpiecznie spaść z wysokości równej czterokrotnej Sile.
 
 **Farciarz** : Możesz powtórzyć trzy dowolne rzuty na sesji.
 
@@ -47,7 +47,7 @@ Niektóre zdolności mają alternatywne wersje oznaczone *, nie można mieć jed
 
 **Twardziel**: Przerzut do każdego testu **Wytrzymałości**. **Próg Bólu** jest podniesiony o punkt, a **Żywotność** o dwa punkty
 
-**Wielki** : Przerzut do każdego testu i każdego rzutu na obrażenia, który zależy od **Siły** postaci. **Żywotność** postaci jest wyższa o punkt. Ignorujesz Odrzut i Nieporęczność broni.
+**Wielki** : **Siła** postaci jest o jeden wyższa niż wynika to z normalnych zasad. **Żywotność** postaci jest wyższa o punkt. Ignorujesz Odrzut i Nieporęczność broni.
 
 **Wirus** : Przerzut do **Oprogramowania**. Jeśli masz fizyczny dostęp do sprzęgu dowolnej osoby możesz spróbować przejąć and nią kontrolę. Musisz zapłacić jeden punkt SW i wygrać test swojej umiejętności Oprogramowanie kontra Wytrzymałość celu. Można przeprowadzić tylko na nieprzytomnej albo obezwładnionej osobie. Kontrola ciała trwa do momentu świadomego wyłączenia albo utraty przytomności przez cel. Kontrolujący pozostaje wtedy w stanie letargu. Wszystkie testy wykonuje się wtedy mniejszą z dwóch umiejętności kontrolowanego lub konotrolującego. 
 
