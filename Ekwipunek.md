@@ -187,20 +187,15 @@ Wielka i ciężka tarcza montowana na uprzęży z mechanicznym ramieniem, który
 
 <h2>Chemia Bojowa/Narkotyki</h2>
 
-**Narkotyki pozwalają podnieść SW i Żywotność ponad maksymalny poziom postaci, ale nie więcej niż o trzy punkty.**
+**Na jednej sesji postać może zabrać tyle dawek narkotyków ile wynosi jej Wytrzymałość, efekty narkotyków tego samego typu nie kumulują się**
 
-
-<h3>Przedawkowanie</h3>
-
-**Na jednej sesji postać bez ryzyka może przyjąć w sumie sześć dawek narkotyków**. Po przekroczeniu bezpiecznej ilości postać rzuca 1k10 przy każdym zażyciu chemii. Jeśli wyrzuciła 10 oznacza, że przedawkowała. **Traci 2 puntky żywotności i nie dostaje żadnych pozytywnych efektów narkotyku**. Po pierwszym przedawkowaniu rzuca już 2k10, po drugim 3k10 itd. Wystarczy tylko jedna 10 na dowolnej kości, żeby postać przedawkowała ponownie.
-
-**Nokaina** : zastrzyk; 500kred. : +2 Żywotności.
+**Nokaina** : zastrzyk; 500kred. : +2 Żywotności, może podnieść Żywotność ponad maksymalny poziom dla postaci.
 
 **Lux** : inhalator albo krople; 800kred. : +2 SW.
 
-**Neon** : tableki albo krople; 200kred. : +1 SW. **Charakter**, **Intuicja** i **Spostrzegawczość** na potrzeby testów są wyższe o jeden.
+**Neon** : tabletki albo krople; 200kred. : +1 SW. **Charakter**, **Intuicja** i **Spostrzegawczość** na potrzeby testów są wyższe o jeden.
 
-**Wendigo**: zastrzyk albo inhalator; 200kred. : +1 Żywotności. Ignoruje zasady progu bólu, jedynym sposobem na powalenie jest sprowadzenie jej do zera żywotności.
+**Wendigo**: zastrzyk albo inhalator; 200kred. : +1 Żywotności, może podnieść Żywotność ponad maksymalny poziom dla postaci. Ignoruje zasady progu bólu, jedynym sposobem na powalenie jest sprowadzenie jej do zera żywotności.
 
 **Blitz**: inhalator albo proszek; 200kred. : Rzucasz dodatkową kostkę na Inicjatywę. Można unikać proni palnej.
 
