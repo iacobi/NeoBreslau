@@ -20,7 +20,7 @@
 
 <h3>Haker</h3>
 
-**Ekwipunek** : 1000 kredytów, Paralizator, Scrambler/TacMod
+**Ekwipunek** : 3000 kredytów, Paralizator, Scrambler/TacMod
 
 **Umiejętności** : Oprogramowanie, Elektronika, Intuicja, Kradzież
 
@@ -38,7 +38,7 @@
 
 <h3>Lekarz</h3>
 
-**Ekwipunek** : 2000 kredytów, Paralizator, Narzędzia Medyczne, TraumaPack (3 sztuki)
+**Ekwipunek** : 3000 kredytów, Paralizator, Narzędzia Medyczne, TraumaPack (3 sztuki)
 
 **Umiejętności** : Intuicja, Biotechnika, Medycyna, Spostrzegawczość
 
