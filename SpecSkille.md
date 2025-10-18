@@ -28,7 +28,7 @@ Niektóre zdolności mają alternatywne wersje oznaczone *, nie można mieć jed
 >
 >**Nożownik** : Masz niemal nadnaturalny talent do posługiwania się nożami. Nigdy nie tracisz akcji wyciągając nóż, nawet jeśli schowany jest głęboko pod ubraniem. Noże w twoich rękach zadają silne kostki obrażeń zamiast zwykłych zarówno podczas normalnych ataków jak i rzucania, a potężne ataki nożem dodatkowo zyskują cechę przeciwpancerny. Płacąc jeden punkt SW jesteś w stanie w każdej sytuacji wydobyć jeden nóż, nawet jeśli wcześniej byłeś kilkukrtonie przesłuchany, rozbebrany do naga i przywiązany do krzesła.
 >
-**Łowca** : Masz jeden przerzut do każdego testu **Kamuflażu**. Jeden przerzut podczas strzałów mierzonych. Jeśli jesteś w terenie możesz wydać punkt SW i poświęcić godzinę, żeby stworzyć improwizowany strój maskujący (dodatkowy przezut do **Kamuflażu**).
+**Łowca** : Przerzut do **Kamuflażu** i **Sztuki Przetrwania**. Jeden przerzut podczas strzałów mierzonych.
 
 **MonoStruny** : Superwytrzymałe struny mogą służyć do cięcia, obezwładniania albo jako prowizoryczna lina. W walce traktowane są jako broń dwuręczna z dwoma przerzutami zadająca zwykłe 4 kostki obrażeń. Postać wybiera czy używa **Walki Wręcz** czy **Walki Bronią** jako swojej umiejętności. Struna jest również w stanie utrzymać Twój ciężar i obwiązać się wokół przedmiotów w odległości 10 metrów. Ten dodatkowy zasięg można wykorzystać tylko do wspianania się albo łapania przedmiotów w walce zasięg struny jest identyczny jak każdej innej broni białej.
 
