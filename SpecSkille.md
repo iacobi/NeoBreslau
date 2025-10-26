@@ -18,7 +18,7 @@ Niektóre zdolności mają alternatywne wersje oznaczone *, nie można mieć jed
 
 **Droniarz** : Przerzut do testów **Pilotażu** i **Prowadzenia Pojazdów** kiedy postać steruje dronami. Jesteś tak dobry w obsłudze dron, że nie poświęcasz tury, żeby sterować nimi w walce. Efektywnie postać wykonuje w swojej inicjatywie dwie tury. Jedną dla siebie i jedną dla swojego drona. Jeśli zapłacisz punkt SW możesz wykonać akcje dla wszystkich swoich aktywnych dronów (albo użyć ich do kontry podczas czyjeś tury)
 
-**Dynamiczne Sploty Mięśniowe** : **Siła** postaci jest o jeden wyższa niż wynika to z normalnych zasad. Postać potrafi skoczyć pionowo w górę na wysokość w metrach równą Sile. Z solidnego rozbiegu skoczyć w dal na odległość równej podwojonej Sile. Może też całkowicie bezpiecznie spaść z wysokości równej czterokrotnej Sile.
+**Dynamiczne Sploty Mięśniowe** : Mięśnie postaci zostały zmodyfikowane tak, żeby generować mnóstwo siły w krótkim impulsie. Potrafi skoczyć pionowo w górę na wysokość w metrach równą Sile. Z solidnego rozbiegu skoczyć w dal na odległość równej podwojonej Sile. Może też całkowicie bezpiecznie spaść z wysokości równej czterokrotnej Sile. Może dostać dodatkową kostkę obrażeń w walce wręcz/bronią lub podczas ataków bronią miotaną jeśli rzuci kostką mniej na trafienie. Jest w stanie uderzyć szybciej i mocniej ale mięśnie potrzebują ułamku sekundy na załadowanie uderzenia co czyni je bardziej przewidywalnym.
 
 **Farciarz** : Możesz powtórzyć trzy dowolne rzuty na sesji.
 
