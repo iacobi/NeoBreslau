@@ -125,11 +125,11 @@ Nie otrzymują +1 za zainstalowanie optyki albo cyberoptyki.
 
 <h2>Modyfikacje Broni i Specjalna Amunicja</h2>
 
-**Optyka**: +1 do umiejętności podczas strzałów mierzonych
+**Optyka**: silne kostki zamiast zwykłych kiedy testujesz umiejętność strzelania podczas strzałów mierzonych
 
-**CyberOptyka**: Wymaga sprzęgu, zastępuje zwykłą optyke, +1 do umiejętności strzelania.
+**CyberOptyka**: Wymaga sprzęgu, zsilne kostki zamiast zwykłych kiedy testujesz umiejętność strzelania (również strzały szybkie i ogień ciągły)
 
-**Inteligenta Amunicja**: Wymaga CyberOptyki, łącznie dają +2 do umiejętności strzelania, ale -1 kostka obrażeń.
+**Inteligenta Amunicja**: Wymaga CyberOptyki, Umiejętność strzelania +1, kostka obrażeń mniej
 
 **Amunicja Żelowa**: Tylko rewolwery i strzelby. Specjalna amunicja obezwładniająca, **zadaje kostkę obrażeń mniej**. Jeśli obrażenia wystarczyły na pokonanie progu bólu postać jest wyłączona z walki i traci tylko jeden punkt żywotności. W innym przypadku trafienie boli ale nie powoduje utraty żywotności. Można stosować z z zasadami ataku w punkty witalne, żeby zwiększyć szanse na pokonanie progu bólu.
 
