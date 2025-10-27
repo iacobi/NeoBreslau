@@ -68,7 +68,7 @@ Monoostrza - są kruche i po jednej albo dwóch walkach trzeba je wymienić
 
 ||Obrażenia|Magazynek|Ładowanie|Cechy|Cena|
 |--|:--:|:--:|--|--|--:|
-| **Karabinek Szturmowy //.233 Falcata**|zwykłe&nbsp;4&nbsp;kostki| 30| pół tury |Krótka Seria, Ogień Ciągły | 1000&nbsp;kred.|
+| **Karabinek Szturmowy //.233 Falcata**|zwykłe&nbsp;4&nbsp;kostki| 30| pół tury |Krótka Seria, Ogień Ciągły | 2000&nbsp;kred.|
 | **Karabin Bojowy //.277 Arcus**|silne&nbsp;4&nbsp;kostki| 24| pół tury |Krótka Seria| 3000&nbsp;kred.|
 
 <h3>Strzelby</h3>
