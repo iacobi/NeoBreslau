@@ -20,7 +20,11 @@ Niektóre zdolności mają alternatywne wersje oznaczone *, nie można mieć jed
 
 **Dynamiczne Sploty Mięśniowe** : Mięśnie postaci zostały zmodyfikowane tak, żeby generować mnóstwo siły w krótkim impulsie. Potrafi skoczyć pionowo w górę na wysokość w metrach równą Sile. Z solidnego rozbiegu skoczyć w dal na odległość równej podwojonej Sile. Może też całkowicie bezpiecznie spaść z wysokości równej czterokrotnej Sile. Może dostać dodatkową kostkę obrażeń w walce wręcz/bronią lub podczas ataków bronią miotaną jeśli rzuci kostką mniej na trafienie. Jest w stanie uderzyć szybciej i mocniej ale mięśnie potrzebują ułamku sekundy na załadowanie uderzenia co czyni je bardziej przewidywalnym.
 
+**Ego** : Przerzut do **Charakteru** i dwa punkty Siły Woli więcej. Tracisz kostkę z każdego testu **Intuicji** i **Kamuflażu**.
+
 **Farciarz** : Możesz powtórzyć trzy dowolne rzuty na sesji.
+
+**Instynkt** : Przerzut do **Intuicji**. Masz nadnaturalną zdolność wyczuwania zagrożenia. Za punkt SW możesz kupić jeden dodatkowy unik w rundzie, który używa **Intuicji** zamiast **Sprawności**. Możesz go wykorzystać przeciwko dowolnemu atakowi, również atakom broni palnej pod warunkiem, że widzisz atakującą osobę.
 
 **Inżynieria Polowa** : Przerzut do **Mechaniki** i **Sztuki Przetrwania**. Jesteś bardzo dobry w improwizowaniu. Zawsze masz przy sobie drobne przedmioty jak zapałki, śrubki i małe narzędzia jak pilnik albo śrubokręt schowane w kieszeniach ubrania. Jeśli zapłacisz punkt SW, możesz wyciągnąć bardziej skomplikowane części zamienne, narzędzia albo zapasową amunicje pod warunkiem, że można je upchnąć w ubraniu. Płącąć punkt SW możesz też w normalnym gospodarstwi domowym zrobić improwizowane materiały wybuchowe
 
@@ -50,11 +54,6 @@ Niektóre zdolności mają alternatywne wersje oznaczone *, nie można mieć jed
 **Wielki** : **Siła** postaci jest o jeden wyższa niż wynika to z normalnych zasad. **Żywotność** postaci jest wyższa o punkt. Ignorujesz Odrzut i Nieporęczność broni.
 
 **Wirus** : Przerzut do **Oprogramowania**. Jeśli masz fizyczny dostęp do sprzęgu dowolnej osoby możesz spróbować przejąć and nią kontrolę. Musisz zapłacić jeden punkt SW i wygrać test swojej umiejętności Oprogramowanie kontra Wytrzymałość celu. Można przeprowadzić tylko na nieprzytomnej albo obezwładnionej osobie. Kontrola ciała trwa do momentu świadomego wyłączenia albo utraty przytomności przez cel. Kontrolujący pozostaje wtedy w stanie letargu. Wszystkie testy wykonuje się wtedy mniejszą z dwóch umiejętności kontrolowanego lub konotrolującego. 
-
-**Zen** : Postać ma dwa punkty Siły Woli więcej niż wynika to znormalnych zasad. Może dawać swoje punkty SW innym postaciom
->
->**Ego** : Przerzut do **Charakteru**. Masz dwa punkty Siły Woli więcej. Tracisz kostkę z każdego testu **Intuicji**.
->
 
 **Złodziej** : Przerzut do **Kradzieży**. Możesz używać umiejętności **Kradzież** podczas testów otwierania zamków zamiast Mechaniki albo Eletkroniki. Postać potrafi chować i wyciągać nóż albo pistolet tak szybko i sprawnie, że traktujemy, go jakby zawsze były w dłoni postaci, nawet, jeśli normalnie przenosi je gdzieś pod ubraniem.
 
