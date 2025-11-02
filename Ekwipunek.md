@@ -200,27 +200,13 @@ Wielka i ciężka tarcza montowana na uprzęży z mechanicznym ramieniem, który
 **Blitz**: inhalator albo proszek; 200kred. : Rzucasz dodatkową kostkę na Inicjatywę. Można unikać proni palnej.
 
 
-<h1>Ekwipunek Specjalny</h1>
+<h2>Ekwipunek Specjalny</h2>
 
-Postać na raz może używać tylko jednego typu ekwipunku specjalnego.
+**ElektroMaskałat** (4000 kred.) : Maskuje ślad termiczny i elektromagnetyczny postaci. Zmienia wzór kamuflujący tak, żeby pasować do otoczenia. Używająca go postać używa silnych kostek w testach **Kamuflażu**.
 
-<h3>ElektroMaskałat</h3>
+**MultiSkaner (Venator/Augur)** (4000 kred., wymaga sprzęgu) :Używająca go postać używa silnych kostek w testach **Spostrzegawczości**. Hełm z goglami i czujnikami. Postać widzi w rozszerzonym spektrum (termowizja, noktowizja itdp.) zmysły albo luneta. 
 
-**Cena:** 4000 kred.
-
-Maskuje ślad termiczny i elektromagnetyczny postaci. Zmienia wzór kamuflujący tak, żeby pasować do otoczenia. Używająca go postać używa silnych kostek w testach **Kamuflażu**.
-
-<h3>MultiSkaner</h3>
-
-**Cena:** 4000 kred.
-
-Wymaga sprzęgu.  Używająca go postać używa silnych kostek w testach **Spostrzegawczości**. Hełm z goglami i czujnikami. Postać widzi w rozszerzonym spektrum (termowizja, noktowizja itdp.) zmysły albo luneta. 
-
-<h3>Egzoszkielet Mobilnść </h3>
-
-**Cena:** 10000 kred.
-
-Używa silnych kostek w testach sprawności.
+**Lekki Egzoszkielet** (10000 kred., wymaga sprzęgu) : Postać ignoruje odrzut i nieporęczność broni, może nosić ciężki pancerz bez ograniczeń czasowych ale rzuca kostką mniej na inicjatywę.
 
 <h2> Drony </h2>
 
