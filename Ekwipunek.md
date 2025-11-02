@@ -204,11 +204,23 @@ Wielka i ciężka tarcza montowana na uprzęży z mechanicznym ramieniem, który
 
 Postać na raz może używać tylko jednego typu ekwipunku specjalnego.
 
-<h2>ElektroMaskałat</h2>
+<h3>ElektroMaskałat</h3>
 
 **Cena:** 4000 kred.
 
-Przerzut do testów **Kamuflażu**. Maskuje ślad termiczny i elektromagnetyczny postaci.
+Maskuje ślad termiczny i elektromagnetyczny postaci. Zmienia wzór kamuflujący tak, żeby pasować do otoczenia. Używająca go postać używa silnych kostek w testach **Kamuflażu**.
+
+<h3>MultiSkaner</h3>
+
+**Cena:** 4000 kred.
+
+Wymaga sprzęgu.  Używająca go postać używa silnych kostek w testach **Spostrzegawczości**. Hełm z goglami i czujnikami. Postać widzi w rozszerzonym spektrum (termowizja, noktowizja itdp.) zmysły albo luneta. 
+
+<h3>Egzoszkielet Mobilnść </h3>
+
+**Cena:** 10000 kred.
+
+Używa silnych kostek w testach sprawności.
 
 <h2> Drony </h2>
 
