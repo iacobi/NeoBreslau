@@ -3,6 +3,8 @@
 Niektóre zdolności mają alternatywne wersje oznaczone *, nie można mieć jednocześnie wersji podstawowej i alternatywnej. Np. postać musi wybrać czy chce zaletę **Cwaniak** czy **Silnoręki**
 <hr>
 
+**Analityk** : Przerzut do **Spostrzegawczości** ???
+
 **Cała naprzód** : Przerzut do testów sterowania dowolnym pojazdem tak długo jak postać jest w tym pojeżdzie.
 
 **Chirurg** : Przerzut do **Medycyny**. Jeśli postać używa ostrzy może w walce użyć poziomu Medycyny zamiast Siły. Płacąc jeden punkt SW potrafi stworzyć improwizowany TraumaPack pod warunkiem, że ma dostęp do apteki albo dowolnego miejsca gdzie może dostać podstawowe materiały medyczne. Improwizowany TraumaPack musi być użyty natychmiast po stworzeniu i używając go postać traci kostkę z rzutu na Medycynę.
@@ -41,8 +43,6 @@ Niektóre zdolności mają alternatywne wersje oznaczone *, nie można mieć jed
 **Regeneracja** : Raz podczas sesji możesz całkowice zregenrować swoją Żywotność.
 
 **Sprzęg** : Pozwala postaci korzystać z cybersprzętu (cyberoptyka, smartowane pojazdy, lepsza elektronika itd itp.) Zazwyczaj oznacza to wykonywanie testu umięjętności silnymi kostkami zamiast zwykłych. Sprzęg działa też jako wbudowany telefon i komputer. Jeśli postać ma swobodny dostęp do sieci może wydać punkt SW i za pomocą sprzęgu wgrać sobie repozytorum wiedzy do dowolnej umiejętności i używać tej umiejętności z poziomem równym 4. Dotyczy to również czysto fizycznych umiejętności jak np. walka wręcz i siła - repozytorium wymusi na układzie nerwowym i mięśniowym pracę ponad swoje normalne normy. Podniesione umiejętności wracają do normy po tym jak postać straci przytomność. Jedynym limitem w ilości użycia repozytorium jest ilośc punktów SW, które postać może wydać.
-
-**SuperSensoryka** : Przerzut do **Intuicji** oraz **Spostrzegawczości**. Postać widzi w ciemności. Wszystkie zmysły są tak wyczulone, że na odległości 15 metrów poznaje ludzi po zapachu. Podczas snu wszystkie testy spostrzegawczości i intuicji wykonuje pełną pulą kostek.
 
 **Szybki** : Przerzut do **Sprawności**, dodatkowa kostka do rzutu na inicjatywę (wybierasz lepszą).
 
