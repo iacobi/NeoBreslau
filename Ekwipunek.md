@@ -167,12 +167,6 @@ Nie da się ukryć noszenia średniego pancerza
 
 W ciężkim pancerzu możesz efektywnie się poruszać tyle godzin ile wynosi niższa z cech **Siła** albo **Wytrzymałość**.
 
-<h2>???Tarcza Balistyczna</h2>
-
-**Cena:** 4000 kred.
-
-Wielka i ciężka tarcza montowana na uprzęży z mechanicznym ramieniem, który pozwala manewrować masą tarczy za pomocą jednej ręki. **Blok** zastępuje **Unik**. Możesz blokować zarówno ataki strzeleckie jak i ataki w zwarciu. Możesz blokować każdy atak tak długo jak wygrywasz testy, po pierwszej porażce tracisz zdolność bloku aż do następnej tury. Tarcze balistyczną traktujemy jako **Nieporęczną** - potstać nie dodaje rzutu k10 do inicjatywy.
-
 <h2>Leczenie</h2>
 
 **TraumaPack**: 500kred : Przywraca tyle punktów żywotności ile uzyskało się sukcesów w rzucie na Medycyne. Używając TraumaPacka na samym sobie traci się kostę z testu Medycyny. Nie można przekroczyć maksymalnego poziomu Żywotności. TraumaPack nie powoduje przedawkowania.
@@ -199,14 +193,15 @@ Wielka i ciężka tarcza montowana na uprzęży z mechanicznym ramieniem, który
 
 **Blitz**: inhalator albo proszek; 200kred. : Rzucasz dodatkową kostkę na Inicjatywę. Można unikać proni palnej.
 
-
 <h2>Ekwipunek Specjalny</h2>
 
 **ElektroMaskałat** (4000 kred.) : Maskuje ślad termiczny i elektromagnetyczny postaci. Zmienia wzór kamuflujący tak, żeby pasować do otoczenia. Używająca go postać używa silnych kostek w testach **Kamuflażu**.
 
-**MultiSkaner (Venator/Augur)** (4000 kred., wymaga sprzęgu) :Używająca go postać używa silnych kostek w testach **Spostrzegawczości**. Hełm z goglami i czujnikami. Postać widzi w rozszerzonym spektrum (termowizja, noktowizja itdp.) zmysły albo luneta. 
+**MultiSkaner (Venator/Augur)** (4000 kred.) : Wymaga sprzęgu. Używająca go postać używa silnych kostek w testach **Spostrzegawczości**. Hełm z goglami i czujnikami. Postać widzi w rozszerzonym spektrum (termowizja, noktowizja itdp.) zmysły albo luneta. 
 
-**Lekki Egzoszkielet** (10000 kred., wymaga sprzęgu) : Postać ignoruje odrzut i nieporęczność broni, może nosić ciężki pancerz bez ograniczeń czasowych ale rzuca kostką mniej na inicjatywę.
+**Egzoszkielet** (10000 kred.) : Wymaga sprzęgu. Postać ignoruje odrzut i nieporęczność broni, może nosić ciężki pancerz bez ograniczeń czasowych ale rzuca kostką mniej na inicjatywę.
+
+**Tarcza Balistyczna** (5000 kred.) : Wielka i ciężka tarcza montowana na uprzęży z mechanicznym ramieniem, który pozwala manewrować masą tarczy za pomocą jednej ręki. Zamiast unikać postać blokuje ataki, mechanicznie wykonuje się ten sam test sprawności ale może też blokować ataki strzeleckie. Jeśli postać podebnie się sprzęgiem do upręży sterującej tarczą balistycznej jest w stanie używać jej tak szybko i sprawnie, że może blokować każdy atak tak długo jak wygrywa testy, po pierwszej porażce traci zdolność bloku aż do następnej tury. Tarcze balistyczną traktujemy jako **Nieporęczną** - potstać nie dodaje rzutu k10 do inicjatywy.
 
 <h2> Drony </h2>
 
