@@ -96,7 +96,7 @@ Optyka i Cyberoptyka nie poprawia celności karabinów maszynowych.
 
 <h3> Granaty </h3>
 
-Granaty zadają **słabe 5 kostek** obrażeń w promieniu 5 metrów. Jeśli deklarujesz użycie granatu spadasz na koniec tury (granat trzeba wyciągnąć rzucić i musi dolecieć). Umiejętnośc odpowiedzialną za rzut granatem jest **Sprawność**.
+Granaty zadają **słabe 5 kostek** obrażeń w promieniu 5 metrów. Jeśli deklarujesz użycie granatu spadasz na koniec tury (granat trzeba wyciągnąć rzucić i musi dolecieć). Umiejętnośc odpowiedzialną za rzut granatem jest **Sprawność**. Koszt jednego granatu to 100 kred.
 
 <h2>Pancerze</h2>
 
@@ -118,18 +118,6 @@ Nie da się ukryć noszenia średniego pancerza
 
 W ciężkim pancerzu możesz efektywnie się poruszać tyle godzin ile wynosi niższa z cech **Siła** albo **Wytrzymałość**.
 
-<h2>Leczenie</h2>
-
-**TraumaPack**: 500kred : Przywraca tyle punktów żywotności ile uzyskało się sukcesów w rzucie na Medycyne. Używając TraumaPacka na samym sobie traci się kostę z testu Medycyny. Nie można przekroczyć maksymalnego poziomu Żywotności. TraumaPack nie powoduje przedawkowania.
-
-~Żywotność traktujemy jako paliwo organizmu – jeśli postać ma jeszcze żywotność, może działać. Regeneracja zależy od tego w jakim stanie jest postać:
-
-**Lekko Ranna**: Postać została pobita, potłukła się spadając z drzewa albo schodów, jest chora albo zmęczona. Regeneruje jeden punkt żywotności dziennie, albo dwa kiedy odpoczywa.
-
-**Poważnie Ranna:** Pobicie – ale takie żelaznym prętem, ciężka choroba, albo połamała się skacząc z pociągu. Musi być opatrzona, żeby w ogóle myśleć o regeneracji, odpoczynek przywraca jeden punkt na dzień.
-
-**Krytycznie Ranna:** Postrzał w brzuch, sieknięcia szablę przez łeb. Postać odzyskuje punkt na trzy dni.
-
 <h2>Chemia Bojowa/Narkotyki</h2>
 
 **Na jednej sesji postać może zabrać tyle dawek narkotyków ile wynosi jej Wytrzymałość, efekty narkotyków tego samego typu nie kumulują się**
@@ -146,6 +134,8 @@ W ciężkim pancerzu możesz efektywnie się poruszać tyle godzin ile wynosi ni
 
 <h2>Ekwipunek Specjalny</h2>
 
+**TraumaPack** (500 kred.) : Zaawansowana apteczka i zestaw narzędzi chirurgicznych. Użycie trwa kilkanście minut. Przywraca tyle punktów żywotności ile uzyskało się sukcesów w rzucie na Medycyne. Używając TraumaPacka na samym sobie traci się kostę z testu Medycyny. Nie można przekroczyć maksymalnego poziomu Żywotności.
+
 **Optyka** (2000 kred.): montowane na broni. Silne kostki zamiast zwykłych kiedy testujesz umiejętność strzelania podczas strzałów mierzonych
 
 **CyberOptyka** (4000 kred.): Wymaga sprzęgu, silne kostki zamiast zwykłych kiedy testujesz umiejętność strzelania (również strzały szybkie i ogień ciągły)
@@ -159,6 +149,8 @@ W ciężkim pancerzu możesz efektywnie się poruszać tyle godzin ile wynosi ni
 **Egzoszkielet** (10000 kred.) : Wymaga sprzęgu. Postać ignoruje odrzut i nieporęczność broni, może nosić ciężki pancerz bez ograniczeń czasowych ale rzuca kostką mniej na inicjatywę.
 
 **Tarcza Balistyczna** (5000 kred.) : Wielka i ciężka tarcza montowana na uprzęży z mechanicznym ramieniem, który pozwala manewrować masą tarczy za pomocą jednej ręki. Zamiast unikać postać blokuje ataki, mechanicznie wykonuje się ten sam test sprawności ale może też blokować ataki strzeleckie. Jeśli postać podebnie się sprzęgiem do upręży sterującej tarczą balistycznej jest w stanie używać jej tak szybko i sprawnie, że może blokować każdy atak tak długo jak wygrywa testy, po pierwszej porażce traci zdolność bloku aż do następnej tury. Tarcze balistyczną traktujemy jako **Nieporęczną** - potstać nie dodaje rzutu k10 do inicjatywy.
+
+**Pilum** (4000 kred.) : Jednorazowy granatnik przeciwpancerny. Bezpośrednie trafienie w człowieka to automatyczna śmierć, odłamki zadają **słabe 5 kostek** obrażeń w probmieniu 5 metrów. Pilum wymaga umiejętności **Broń Ciężka** ma też wbudowany komputer sterujący, który daje postaci tą umiejętność na poziomie minimum 3.
 
 **??Granat Pyłowy** : 500 kred. : Tworzy chmurę pyłu nie przepuszczającą promieniowania elektromagnetycznego. Zwalnia pociski i tłumi eksplozje. Broń palna i granaty tracą trzy kostki obrażeń w pyle, lub przelatując przez pył.
 
@@ -180,11 +172,6 @@ Narzędzie do walki elektronicznej w postaci plecaka z zestawem anten. TacModa n
 
 **Hackowanie IoT**: Wykonując test **Oprogramowania** możesz włamać się do podłączonych do sieci sprzętów domowych, telefonów i samochodów. Postać zyskuje wtedy pełną kontrolę nad urządzeniem. Przejęcie kontroli albo podsłuchanie telefonu to PT 1, przejęcie kontroli nad samochodem albo wojskjowym dronem PT 2, przejęcie kontroli nad helikopterem PT 3. Można przejmować kontrolę tylko nad włączonymi urządzeniami. Jeśli urządzenie jest używane przez kogoś zamiast testu przeciwko PT wykonuje się test przeciwstawny **Oprogramowania**
 
-<h2>Pilum</h2>
-
-**Cena:** 4000 kred.
-
-Uniwersalny jednorazowy granatnik przeciwpancerny. Trafienie w człowieka albo zwykły pojazd powoduje natychmiastową śmierć albo zniszczenie. W promieniu kilkunastu metrów zadaje zwykłe 5 kostek obrażeń.
 
 <h2>Modyfikacje Broni i Specjalna Amunicja</h2>
 
@@ -193,109 +180,3 @@ Uniwersalny jednorazowy granatnik przeciwpancerny. Trafienie w człowieka albo z
 **Amunicja Żelowa**: Tylko rewolwery i strzelby. Specjalna amunicja obezwładniająca, **zadaje kostkę obrażeń mniej**. Jeśli obrażenia wystarczyły na pokonanie progu bólu postać jest wyłączona z walki i traci tylko jeden punkt żywotności. W innym przypadku trafienie boli ale nie powoduje utraty żywotności. Można stosować z z zasadami ataku w punkty witalne, żeby zwiększyć szanse na pokonanie progu bólu.
 
 **Poddźwiękowa 10mm**: Tylko broń 10mm. Zadaje zwykłe kostki zamiast silnych ale z tłumikiem jedynym dźwiękiem jaki jest słyszalny to praca mechanizmów broni.
-
-<h2>Łuki</h2>
-
-silne 3 kostki obrażeń, jedna tura ładowania, Nie ma szybkich strzałów.
-
-Każdy łuk ma swoją siłę naciągu (od 3 do 6), jeśli jest większa od siły postaci, traci kostkę z rzutu na trafienie i rzutu na obrażenia. Jeśli jest mniejsza od siły postaci – postać musi używać obniżonej wartości do rzutu na obrażenia.
-
-**Broń Miotana**
-
-Broń miotana nie ma żadnych przerzutów i żadnych specjalnych cech jak przeciwpancerny, bezpieczna kontra, potężna kontra. Tylko kostki obrażeń są takie same. 
-
-**Tomahawki i Włócznie**
-
-Potężny rzut (spadasz na koniec tury, zajmuje całą rundę)
-
-Szybki rzut (-1 kostka obrażeń, -1 kostka na trafienia, możesz zrobić dwie w rundzie) 
-
-**Noże**
-
-Potężny rzut (-1 kostka obrażeń, spadasz na koniec tury, zajmuje całą rundę)
-
-Szybki rzut (-1 kostka obrażeń, -1 kostka na trafienia, możesz zrobić dwie w rundzie)
-
-**Dowolne Ostrza nieprzystosowana do rzucania (miecze, szable, sztylety, rapiery itp.)**
-
-Desperacki rzut (-1 kostka obrażeń, -1 kostka do trafiania, zajmuje całą rundę) 
-
-**Dowolne Tępa broń nieprzystosowana do rzucania (buławy, rózgi)**
-
-Desperacki rzut (-2 kostki obrażeń, -1 kostka do trafiania, zajmuje całą rundę)
-
-<h3>Inne</h3>
-
-|Broń | Obrażenia | Przerzuty | Cechy| Cena |
-|--|:--:|:--:|--|--|
-| **Pałasz** | zwykłe 4 kostki |2|- |2000 kred.| 
-| **Topór**  |silne 4 kostki|1| -|200 kred.|
-| **Wielki Topór**  |zwykłe 5 kostek|1| Dwuręczna|200 kred.|
-| **Włócznia** | zwykłe 4 kostki |3| Dwuręczna|400 kred.| 
-| **Widły**  |zwykłe 4 kostki|2 | dwuręczne|20 kred.| 
-| **Łopata**  |zwykłe 4 kostki|1 | dwuręczna|20 kred.| 
-| **Maczuga Okopowa**  |zwykłe 4 kostki|-   | prosta przeciwpancerna |20 kred.| 
-| **MonoTanto** |zwykłe 4 kostki|-| Prosta Obsługa, Przeciwpancerne |2000 kred.|
-| **MonoKatana** | silne 4 kostki |2| Dwuręczna, przeciwpancerna|2000 kred.|
-
-Monoostrza - są kruche i po jednej albo dwóch walkach trzeba je wymienić
-
-<h2>Rzadka Broń</h2>
-
-<h3>Broń Magnetyczna</h3>
-
-|Nazwa|Obrażenia|Magazynek|Ładowanie|Cechy|Cena|
-|--|:--:|:--:|--|--|--:|
-| **Lekki Railgun**|słabe&nbsp;4&nbsp;kostek| 40| cała tura |Prosta Obsługa, Krótka Seria, Ogień&nbsp;Ciągły| 3000&nbsp;kred.|
-| **Railgun**|słabe&nbsp;5&nbsp;kostek| 40| cała tura |Krótka Seria, Ogień&nbsp;Ciągły | 3000&nbsp;kred.|
-| **Ciężki Railgun**|słabe&nbsp;5&nbsp;kostek| 120| trzy tury |Krótka Seria, Ogień&nbsp;Ciągły, Nieporęczny | 8000&nbsp;kred.|
-
-<h3>Secutor PDW</h3>
-
-Statystyki karabinu szturmowe przy rozmiarach małego pistoletu maszynowego, ze złożoną kolbą można schować pod kurtką
-
-|Obrażenia|Magazynek|Ładowanie|Cechy|Cena|
-|:--:|:--:|--|--|--:|
-|zwykłe&nbsp;4&nbsp;kostki| 30| pół tury |Prosta Obsługa, Krótka Seria, Ogień Ciągły | 10000&nbsp;kred.|
-
-<h3>Mk46 CB</h3>
-
-lekki karabin maszynowy, ale optyka albo cyberoptyka podnosi celność
-
-|Obrażenia|Magazynek|Ładowanie|Cechy|Cena|
-|:--:|:--:|--|--|--:|
-|zwykłe&nbsp;4&nbsp;kostki| 100 |trzy tury| Krótka Seria, Ogień&nbsp;Ciągły| 10000&nbsp;kred.|
-
-<h3>MaxTac .44 Magnum</h3>
-
-44 Magnum, który ma dodatkowo opcje krótkiej serii
-
-|Obrażenia|Magazynek|Ładowanie|Cechy|Cena|
-|:--:|:--:|--|--|--:|
-|zwykłe&nbsp;4&nbsp;kostki| 6 | cała tura | Krótka Seria | 10000 kred.|
-
-<h3>Malorian 3516</h3>
-
-Duże obrażenia, duża pojemność i szybkie przeładowanie jak na takie obrażenia w pistolecie
-
-|Obrażenia|Magazynek|Ładowanie|Cechy|Cena|
-|:--:|:--:|--|--|--:|
-|silne&nbsp;4&nbsp;kostki| 8 | pół tury | Odrzut | 10000 kred.|
-
-<h3>Beowulf .50</h3>
-
-Karabinek Szturmowy na bardzo silna amunicje ale z małą pojemnością magazynka i krótkim zasięgiem
-
-|Obrażenia|Magazynek|Ładowanie|Cechy|Cena|
-|:--:|:--:|--|--|--:|
-|zwykłe&nbsp;5&nbsp;kostek| 12 | pół tury | Krótka Seria, Odrzut | 10000 kred.|
-
-<h3>Modyfikacja szybkostrzelności</h3>
-
-**Ogień Ciągły** dla karabinów maszynowych zużywa 20 pocisków zamiast 15, ale każdy rzut na trafienie wykonuje się 6 kostkami
-
-**Ogień Zaporowy** dla karabinów maszynwoych zużywa 20 pocisków zamiast 15, ale wystarczy zremisować z rzutem na atak przeciwnika.
-
-<h3>Katana Hattori Hanzo</h3>
-
-silne 3 kostki obrażeń, dwa przerzuty, przeciwpancerna, 10000 kred.
