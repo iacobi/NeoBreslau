@@ -72,11 +72,7 @@
 
 <h3>Karabiny Maszynowe</h3>
 
-Nie otrzymują +1 za zainstalowanie optyki albo cyberoptyki.
-
-**Ogień Ciągły** dla karabinów maszynowych zużywa 20 pocisków zamiast 15, ale każdy rzut na trafienie wykonuje się 6 kostkami
-
-**Ogień Zaporowy** dla karabinów maszynwoych zużywa 20 pocisków zamiast 15, ale wystarczy zremisować z rzutem na atak przeciwnika.
+Optyka i Cyberoptyka nie poprawia celności karabinów maszynowych.
 
 |Nazwa|Obrażenia|Magazynek|Ładowanie|Cechy|Cena|
 |--|:--:|:--:|--|--|--:|
@@ -92,7 +88,7 @@ Nie otrzymują +1 za zainstalowanie optyki albo cyberoptyki.
 
 **Ogień Zaporowy:** Jeśli broń posiada cechę **Ogień Ciągły** postać nie wykonała jeszcze zadnej akcji w turze, może kontrować dowolny atak/czynność innej postaci. Jeśli w swoim teście strzelania wyrzucą więcej sukcesów niż atakujący, obie postacie tracą tą turę. Muszą widzieć postać, która wykonuje atak, który chcą skontrować. Ogień zaporowy zużywa 15 pocisków.
 
-**Odrzut:** Broń Krótka z odrzutem traci kostkę z szybkich strzałów, Broń Długa traci kostkę z każdego rzutu na trafienie jeśli nie będzie rozstawiona na dwójnogu.
+**Odrzut:** Umiejętność strzelania jest ograniczona przez siłę postaci. Rozstawianie na dwójnogu powoduje, że można ominąć tą karę.
 
 **Nieporęczna:** Postać nie dolicza rzutu kostką do inicjatywy kiedy obsługuje tą broń. Może poświęcić turę i rozstawić ją na dwójnogu albo w dowolnej innej wygodnej pozycji strzeleckiej, żeby ominąć tą karę.
 
@@ -297,6 +293,12 @@ Karabinek Szturmowy na bardzo silna amunicje ale z małą pojemnością magazynk
 |Obrażenia|Magazynek|Ładowanie|Cechy|Cena|
 |:--:|:--:|--|--|--:|
 |zwykłe&nbsp;5&nbsp;kostek| 12 | pół tury | Krótka Seria, Odrzut | 10000 kred.|
+
+<h3>Modyfikacja szybkostrzelności</h3>
+
+**Ogień Ciągły** dla karabinów maszynowych zużywa 20 pocisków zamiast 15, ale każdy rzut na trafienie wykonuje się 6 kostkami
+
+**Ogień Zaporowy** dla karabinów maszynwoych zużywa 20 pocisków zamiast 15, ale wystarczy zremisować z rzutem na atak przeciwnika.
 
 <h3>Katana Hattori Hanzo</h3>
 
