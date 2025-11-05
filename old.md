@@ -12,6 +12,114 @@
 
 
 
+
+<h2>Łuki</h2>
+
+silne 3 kostki obrażeń, jedna tura ładowania, Nie ma szybkich strzałów.
+
+Każdy łuk ma swoją siłę naciągu (od 3 do 6), jeśli jest większa od siły postaci, traci kostkę z rzutu na trafienie i rzutu na obrażenia. Jeśli jest mniejsza od siły postaci – postać musi używać obniżonej wartości do rzutu na obrażenia.
+
+**Broń Miotana**
+
+Broń miotana nie ma żadnych przerzutów i żadnych specjalnych cech jak przeciwpancerny, bezpieczna kontra, potężna kontra. Tylko kostki obrażeń są takie same. 
+
+**Tomahawki i Włócznie**
+
+Potężny rzut (spadasz na koniec tury, zajmuje całą rundę)
+
+Szybki rzut (-1 kostka obrażeń, -1 kostka na trafienia, możesz zrobić dwie w rundzie) 
+
+**Noże**
+
+Potężny rzut (-1 kostka obrażeń, spadasz na koniec tury, zajmuje całą rundę)
+
+Szybki rzut (-1 kostka obrażeń, -1 kostka na trafienia, możesz zrobić dwie w rundzie)
+
+**Dowolne Ostrza nieprzystosowana do rzucania (miecze, szable, sztylety, rapiery itp.)**
+
+Desperacki rzut (-1 kostka obrażeń, -1 kostka do trafiania, zajmuje całą rundę) 
+
+**Dowolne Tępa broń nieprzystosowana do rzucania (buławy, rózgi)**
+
+Desperacki rzut (-2 kostki obrażeń, -1 kostka do trafiania, zajmuje całą rundę)
+
+<h3>Inne</h3>
+
+|Broń | Obrażenia | Przerzuty | Cechy| Cena |
+|--|:--:|:--:|--|--|
+| **Pałasz** | zwykłe 4 kostki |2|- |2000 kred.| 
+| **Topór**  |silne 4 kostki|1| -|200 kred.|
+| **Wielki Topór**  |zwykłe 5 kostek|1| Dwuręczna|200 kred.|
+| **Włócznia** | zwykłe 4 kostki |3| Dwuręczna|400 kred.| 
+| **Widły**  |zwykłe 4 kostki|2 | dwuręczne|20 kred.| 
+| **Łopata**  |zwykłe 4 kostki|1 | dwuręczna|20 kred.| 
+| **Maczuga Okopowa**  |zwykłe 4 kostki|-   | prosta przeciwpancerna |20 kred.| 
+| **MonoTanto** |zwykłe 4 kostki|-| Prosta Obsługa, Przeciwpancerne |2000 kred.|
+| **MonoKatana** | silne 4 kostki |2| Dwuręczna, przeciwpancerna|2000 kred.|
+
+Monoostrza - są kruche i po jednej albo dwóch walkach trzeba je wymienić
+
+<h2>Rzadka Broń</h2>
+
+<h3>Broń Magnetyczna</h3>
+
+|Nazwa|Obrażenia|Magazynek|Ładowanie|Cechy|Cena|
+|--|:--:|:--:|--|--|--:|
+| **Lekki Railgun**|słabe&nbsp;4&nbsp;kostek| 40| cała tura |Prosta Obsługa, Krótka Seria, Ogień&nbsp;Ciągły| 3000&nbsp;kred.|
+| **Railgun**|słabe&nbsp;5&nbsp;kostek| 40| cała tura |Krótka Seria, Ogień&nbsp;Ciągły | 3000&nbsp;kred.|
+| **Ciężki Railgun**|słabe&nbsp;5&nbsp;kostek| 120| trzy tury |Krótka Seria, Ogień&nbsp;Ciągły, Nieporęczny | 8000&nbsp;kred.|
+
+<h3>Secutor PDW</h3>
+
+Statystyki karabinu szturmowe przy rozmiarach małego pistoletu maszynowego, ze złożoną kolbą można schować pod kurtką
+
+|Obrażenia|Magazynek|Ładowanie|Cechy|Cena|
+|:--:|:--:|--|--|--:|
+|zwykłe&nbsp;4&nbsp;kostki| 30| pół tury |Prosta Obsługa, Krótka Seria, Ogień Ciągły | 10000&nbsp;kred.|
+
+<h3>Mk46 CB</h3>
+
+lekki karabin maszynowy, ale optyka albo cyberoptyka podnosi celność
+
+|Obrażenia|Magazynek|Ładowanie|Cechy|Cena|
+|:--:|:--:|--|--|--:|
+|zwykłe&nbsp;4&nbsp;kostki| 100 |trzy tury| Krótka Seria, Ogień&nbsp;Ciągły| 10000&nbsp;kred.|
+
+<h3>MaxTac .44 Magnum</h3>
+
+44 Magnum, który ma dodatkowo opcje krótkiej serii
+
+|Obrażenia|Magazynek|Ładowanie|Cechy|Cena|
+|:--:|:--:|--|--|--:|
+|zwykłe&nbsp;4&nbsp;kostki| 6 | cała tura | Krótka Seria | 10000 kred.|
+
+<h3>Malorian 3516</h3>
+
+Duże obrażenia, duża pojemność i szybkie przeładowanie jak na takie obrażenia w pistolecie
+
+|Obrażenia|Magazynek|Ładowanie|Cechy|Cena|
+|:--:|:--:|--|--|--:|
+|silne&nbsp;4&nbsp;kostki| 8 | pół tury | Odrzut | 10000 kred.|
+
+<h3>Beowulf .50</h3>
+
+Karabinek Szturmowy na bardzo silna amunicje ale z małą pojemnością magazynka i krótkim zasięgiem
+
+|Obrażenia|Magazynek|Ładowanie|Cechy|Cena|
+|:--:|:--:|--|--|--:|
+|zwykłe&nbsp;5&nbsp;kostek| 12 | pół tury | Krótka Seria, Odrzut | 10000 kred.|
+
+<h3>Modyfikacja szybkostrzelności</h3>
+
+**Ogień Ciągły** dla karabinów maszynowych zużywa 20 pocisków zamiast 15, ale każdy rzut na trafienie wykonuje się 6 kostkami
+
+**Ogień Zaporowy** dla karabinów maszynwoych zużywa 20 pocisków zamiast 15, ale wystarczy zremisować z rzutem na atak przeciwnika.
+
+<h3>Katana Hattori Hanzo</h3>
+
+silne 3 kostki obrażeń, dwa przerzuty, przeciwpancerna, 10000 kred.
+
+
   
 
 <h3>Blok</h3>
