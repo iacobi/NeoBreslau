@@ -80,6 +80,8 @@ Optyka i Cyberoptyka nie poprawia celności karabinów maszynowych.
 |**7,62,, //.277**|silne&nbsp;4&nbsp;kostki| 100 |trzy tury| Krótka Seria, Ogień&nbsp;Ciągły, Nieporęczny| 5000&nbsp;kred.|
 |**.338**|zwykłe&nbsp;5&nbsp;kostek| 100 |pięć tur| Krótka Seria, Ogień&nbsp;Ciągły, Nieporęczny, Odrzut| 10000&nbsp;kred.|
 
+<h3>Cechy Broni</h3>
+
 **Prosta Obsługa:** postać wybiera czy korzysta z umiejętności broni krótkiej czy broni długiej
 
 **Krótka Seria:** zużywa 3 pociski, przerzut do ataku, może być użyta zarówno jako szybki strzał, albo jako strzał mierzony
