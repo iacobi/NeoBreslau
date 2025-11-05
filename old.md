@@ -1,4 +1,17 @@
 
+<h2>Leczenie</h2>
+
+
+~Żywotność traktujemy jako paliwo organizmu – jeśli postać ma jeszcze żywotność, może działać. Regeneracja zależy od tego w jakim stanie jest postać:
+
+**Lekko Ranna**: Postać została pobita, potłukła się spadając z drzewa albo schodów, jest chora albo zmęczona. Regeneruje jeden punkt żywotności dziennie, albo dwa kiedy odpoczywa.
+
+**Poważnie Ranna:** Pobicie – ale takie żelaznym prętem, ciężka choroba, albo połamała się skacząc z pociągu. Musi być opatrzona, żeby w ogóle myśleć o regeneracji, odpoczynek przywraca jeden punkt na dzień.
+
+**Krytycznie Ranna:** Postrzał w brzuch, sieknięcia szablę przez łeb. Postać odzyskuje punkt na trzy dni.
+
+
+
   
 
 <h3>Blok</h3>
