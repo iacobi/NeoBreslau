@@ -102,8 +102,6 @@ Jeśli postać ma w okolicy rów albo solidną ścianę może wykonać unik, że
 
 **Standardowy Granat** : zwykłe 5 kostek obrażeń : 300 kred.
 
-**??Granat Pyłowy** : 500 kred. : Tworzy chmurę pyłu nie przepuszczającą promieniowania elektromagnetycznego. Zwalnia pociski i tłumi eksplozje. Broń palna i granaty tracą trzy kostki obrażeń w pyle, lub przelatując przez pył.
-
 <h2>Pancerze</h2>
 
 <h3>Lekki Pancerz</h3>
@@ -165,6 +163,8 @@ W ciężkim pancerzu możesz efektywnie się poruszać tyle godzin ile wynosi ni
 **Egzoszkielet** (10000 kred.) : Wymaga sprzęgu. Postać ignoruje odrzut i nieporęczność broni, może nosić ciężki pancerz bez ograniczeń czasowych ale rzuca kostką mniej na inicjatywę.
 
 **Tarcza Balistyczna** (5000 kred.) : Wielka i ciężka tarcza montowana na uprzęży z mechanicznym ramieniem, który pozwala manewrować masą tarczy za pomocą jednej ręki. Zamiast unikać postać blokuje ataki, mechanicznie wykonuje się ten sam test sprawności ale może też blokować ataki strzeleckie. Jeśli postać podebnie się sprzęgiem do upręży sterującej tarczą balistycznej jest w stanie używać jej tak szybko i sprawnie, że może blokować każdy atak tak długo jak wygrywa testy, po pierwszej porażce traci zdolność bloku aż do następnej tury. Tarcze balistyczną traktujemy jako **Nieporęczną** - potstać nie dodaje rzutu k10 do inicjatywy.
+
+**??Granat Pyłowy** : 500 kred. : Tworzy chmurę pyłu nie przepuszczającą promieniowania elektromagnetycznego. Zwalnia pociski i tłumi eksplozje. Broń palna i granaty tracą trzy kostki obrażeń w pyle, lub przelatując przez pył.
 
 <h2> Drony </h2>
 
