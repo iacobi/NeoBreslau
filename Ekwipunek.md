@@ -8,18 +8,20 @@
 | **Kastet, Butelka, Śrubokręt** |słabe 4 kostki| |Prosta Obsługa-|20 kred.| 
 | **Pałka** |słabe 4 kostki|1 | Prosta Obsługa|20 kred.|
 | **Młotek** |słabe 4 kostki| | Prosta Obsługa, Przeciwpancerny|20 kred.| 
-| **Nóż** |zwykłe 4 kostki|-| Prosta Obsługa |20 kred.|
+| **Nóż** |zwykłe 4 kostki|-| Prosta Obsługa, Rzut |20 kred.|
 | **Maczeta** | zwykłe 4 kostki |1| - |40 kred.| 
 | **Katana** | silne 4 kostki |2| Dwuręczna|2000 kred.|
 | **Topór Strażacki** | silne 4 kostki |1|Dwuręczny|200 kred.|
-| **Młot Budowlany**  |zwykłe 4 kostki|1 | przeciwpancerny, dwuręczny|20 kred.| 
-| **Taktyczny Tomahawk** | silne 4 kostki |-|rzucanie|200 kred.|
+| **Młot Budowlany**  |zwykłe 4 kostki|1 | Przeciwpancerny, Dwuręczny|20 kred.| 
+| **Taktyczny Tomahawk** | silne 4 kostki |-|Rzut|200 kred.|
+
+**Dwuręczna:** Tracisz kostkę z rzutu na trafienie jeśli używasz jednej ręki.
 
 **Prosta Obsługa:** postać wybiera czy używa Walki Wręcz czy Walki Bronią
 
-**Przeciwpancerna:** Jeśli w rzucie na obrażenia wypadnie dublet jedynek, dwójek albo trójek - ignorujesz pancerz.
+**Przeciwpancerna:** Jeśli w rzucie na obrażenia wypadnie jedynka zamiast rzucać ponownie tą kostkę możesz uznać, że ten cios ignoruje pancerz
 
-**Rzucanie:** zamiast wykonywać szybki albo potężny atak możesz rzucić bronią. Szybki rzut, traci kostkę obrażeń tak samo jak szybki atak. Rzucając używasz umiejętności walka bronią i nie masz żadnych przerzutów. Jeśli rzucasz bronią, która nie ma cechy rzucanie, tracisz dodatkową kostkę w teście trafienie i w teście obrażeń. Np. szybki rzut łopatą to 4 kostki na trafeinie i zwykłe 2 kostki obrażeń.
+**Rzut:** zamiast wykonywać szybki albo potężny atak możesz rzucić bronią. Szybki rzut, traci kostkę obrażeń tak samo jak szybki atak. **Rzucając zawsze używasz umiejętności walka bronią i nie masz żadnych przerzutów**. Jeśli rzucasz bronią, która nie ma cechy rzucanie, tracisz dodatkową kostkę w teście trafienie i w teście obrażeń. Np. szybki rzut łopatą to 4 kostki na trafeinie i zwykłe 2 kostki obrażeń.
 
 <h2>Broń Palna</h2>
 
