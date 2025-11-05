@@ -21,33 +21,14 @@
 
 **Rzucanie:** zamiast wykonywać szybki albo potężny atak możesz rzucić bronią. Szybki rzut, traci kostkę obrażeń tak samo jak szybki atak. Rzucając używasz umiejętności walka bronią i nie masz żadnych przerzutów. Jeśli rzucasz bronią, która nie ma cechy rzucanie, tracisz dodatkową kostkę w teście trafienie i w teście obrażeń. Np. szybki rzut łopatą to 4 kostki na trafeinie i zwykłe 2 kostki obrażeń.
 
-<h3>Inne</h3>
-
-|Broń | Obrażenia | Przerzuty | Cechy| Cena |
-|--|:--:|:--:|--|--|
-| **Pałasz** | zwykłe 4 kostki |2|- |2000 kred.| 
-| **Topór**  |silne 4 kostki|1| -|200 kred.|
-| **Wielki Topór**  |zwykłe 5 kostek|1| Dwuręczna|200 kred.|
-| **Włócznia** | zwykłe 4 kostki |3| Dwuręczna|400 kred.| 
-| **Widły**  |zwykłe 4 kostki|2 | dwuręczne|20 kred.| 
-| **Łopata**  |zwykłe 4 kostki|1 | dwuręczna|20 kred.| 
-| **Maczuga Okopowa**  |zwykłe 4 kostki|-   | prosta przeciwpancerna |20 kred.| 
-| **MonoTanto** |zwykłe 4 kostki|-| Prosta Obsługa, Przeciwpancerne |2000 kred.|
-| **MonoKatana** | silne 4 kostki |2| Dwuręczna, przeciwpancerna|2000 kred.|
-
-Monoostrza - są kruche i po jednej albo dwóch walkach trzeba je wymienić
-
 <h2>Broń Palna</h2>
 
 <h3> Pistolety</h3>
-
-**Paralizator** ma tylko 10 metrów zasięgu. Trafienie z paralizatora nie powoduje utraty żywotnosci. Jeśli w rzucie na obrażenia udało się osiągnąć **próg bólu** celu jest on powalony i nie będzie zdolny do ruchu przez minutę. **Paralizator nie ignoruje pancerza**.
 
 ||Obrażenia|Magazynek|Ładowanie|Cechy|Cena|
 |--|:--:|:--:|--|--|--:|
 | **Pistolet 9mm**  |zwykłe&nbsp;3&nbsp;kostki| 15 | pół tury | Krótka Seria| 1000 kred.|
 | **Pistolet 10mm**  |silne&nbsp;3&nbsp;kostki| 12 | pół tury | Krótka Seria| 3000 kred.|
-| **Paralizator**  |słabe&nbsp;5&nbsp;kostek| 2 | cała tura | - | 1000 kred.|
 
 <h3>Rewolwery</h3>
 
@@ -103,14 +84,6 @@ Nie otrzymują +1 za zainstalowanie optyki albo cyberoptyki.
 |**7,62,, //.277**|silne&nbsp;4&nbsp;kostki| 100 |trzy tury| Krótka Seria, Ogień&nbsp;Ciągły, Nieporęczny| 5000&nbsp;kred.|
 |**.338**|zwykłe&nbsp;5&nbsp;kostek| 100 |pięć tur| Krótka Seria, Ogień&nbsp;Ciągły, Nieporęczny, Odrzut| 10000&nbsp;kred.|
 
-<h3>Broń Magnetyczna</h3>
-
-|Nazwa|Obrażenia|Magazynek|Ładowanie|Cechy|Cena|
-|--|:--:|:--:|--|--|--:|
-| **Lekki Railgun**|słabe&nbsp;4&nbsp;kostek| 40| cała tura |Prosta Obsługa, Krótka Seria, Ogień&nbsp;Ciągły| 3000&nbsp;kred.|
-| **Railgun**|słabe&nbsp;5&nbsp;kostek| 40| cała tura |Krótka Seria, Ogień&nbsp;Ciągły | 3000&nbsp;kred.|
-| **Ciężki Railgun**|słabe&nbsp;5&nbsp;kostek| 120| trzy tury |Krótka Seria, Ogień&nbsp;Ciągły, Nieporęczny | 8000&nbsp;kred.|
-
 **Prosta Obsługa:** postać wybiera czy korzysta z umiejętności broni krótkiej czy broni długiej
 
 **Krótka Seria:** zużywa 3 pociski, przerzut do ataku, może być użyta zarówno jako szybki strzał, albo jako strzał mierzony
@@ -122,18 +95,6 @@ Nie otrzymują +1 za zainstalowanie optyki albo cyberoptyki.
 **Odrzut:** Broń Krótka z odrzutem traci kostkę z szybkich strzałów, Broń Długa traci kostkę z każdego rzutu na trafienie jeśli nie będzie rozstawiona na dwójnogu.
 
 **Nieporęczna:** Postać nie dolicza rzutu kostką do inicjatywy kiedy obsługuje tą broń. Może poświęcić turę i rozstawić ją na dwójnogu albo w dowolnej innej wygodnej pozycji strzeleckiej, żeby ominąć tą karę.
-
-<h2>Modyfikacje Broni i Specjalna Amunicja</h2>
-
-**Optyka**: silne kostki zamiast zwykłych kiedy testujesz umiejętność strzelania podczas strzałów mierzonych
-
-**CyberOptyka**: Wymaga sprzęgu, zsilne kostki zamiast zwykłych kiedy testujesz umiejętność strzelania (również strzały szybkie i ogień ciągły)
-
-**Inteligenta Amunicja**: Wymaga CyberOptyki, Umiejętność strzelania +1, kostka obrażeń mniej
-
-**Amunicja Żelowa**: Tylko rewolwery i strzelby. Specjalna amunicja obezwładniająca, **zadaje kostkę obrażeń mniej**. Jeśli obrażenia wystarczyły na pokonanie progu bólu postać jest wyłączona z walki i traci tylko jeden punkt żywotności. W innym przypadku trafienie boli ale nie powoduje utraty żywotności. Można stosować z z zasadami ataku w punkty witalne, żeby zwiększyć szanse na pokonanie progu bólu.
-
-**Poddźwiękowa 10mm**: Tylko broń 10mm. Zadaje zwykłe kostki zamiast silnych ale z tłumikiem jedynym dźwiękiem jaki jest słyszalny to praca mechanizmów broni.
 
 <h2> Granaty </h2>
 
@@ -195,6 +156,12 @@ W ciężkim pancerzu możesz efektywnie się poruszać tyle godzin ile wynosi ni
 
 <h2>Ekwipunek Specjalny</h2>
 
+**Optyka** (2000 kred.): montowane na broni. Silne kostki zamiast zwykłych kiedy testujesz umiejętność strzelania podczas strzałów mierzonych
+
+**CyberOptyka** (4000 kred.): Wymaga sprzęgu, silne kostki zamiast zwykłych kiedy testujesz umiejętność strzelania (również strzały szybkie i ogień ciągły)
+
+**Paralizator** (1000 kred.) : Dwustrzałowy pistolet, ma 10 metrów zasięgu i zadaje **słabe 5 kostek obrażeń**. Trafienie z paralizatora nie powoduje utraty żywotnosci. Jeśli w rzucie na obrażenia udało się osiągnąć **próg bólu** celu jest on powalony i nie będzie zdolny do ruchu przez minutę. **Paralizator nie ignoruje pancerza**.
+
 **ElektroMaskałat** (4000 kred.) : Maskuje ślad termiczny i elektromagnetyczny postaci. Zmienia wzór kamuflujący tak, żeby pasować do otoczenia. Używająca go postać używa silnych kostek w testach **Kamuflażu**.
 
 **MultiSkaner (Venator/Augur)** (4000 kred.) : Wymaga sprzęgu. Używająca go postać używa silnych kostek w testach **Spostrzegawczości**. Hełm z goglami i czujnikami. Postać widzi w rozszerzonym spektrum (termowizja, noktowizja itdp.) zmysły albo luneta. 
@@ -209,7 +176,7 @@ Drony są w pewnym stopniu autonomiczne i mogą podążać za użytkownikiem. W 
 
 **Drona FPV**: [2000 kred] Standardowy dron bojowy. Podlatuje i wybucha zadając **zwykłe 5 kostek** obrażeń. W turze potrafi przelecieć 40 metrów. Do trafienia używana jest umiejętność **Pilotaż**. Może też wykonywać kontre - wlecieć w zbliżające się wrogie drony, granaty albo rakiety i wybuchąć. Nie trzeba rzutów na obrażenia - drony są na tyle delikatne, że wystarczy trafienie do zniszczenia. Żeby kontra była skuteczna trzeba uzyskać w rzucie na **Pilotaż** więcej niż atakujący miał w swoim rzucie na trafienie. Na raz może być aktywnych tyle dronów ile wynosi **Oprogramowanie** postaci, ale może sterować tylko jedną droną turę - chyba, że ma zdolność **Droniarz** (patrz zasady zdolności). Wersja nieuzbrojona jest o połowę tańsza.
 
-**Dronga gąsienicowa**: [4000 + cena karabinu maszynowego] Mały gąsienicowy pojazd uzbrojony w karabin maszynowy. Poza poruszaniem się może wykonywać tylko akcje **Ogień Ciągły** albo **Ogień Zaporowy**. Pojazd nie jest zdolny do przeładowania broni, ale można mu zamonotować dwa razy dłuższą taśmę.
+**Drona gąsienicowa**: [4000 + cena karabinu maszynowego] Mały gąsienicowy pojazd uzbrojony w karabin maszynowy. Poza poruszaniem się może wykonywać tylko akcje **Ogień Ciągły** albo **Ogień Zaporowy**. Pojazd nie jest zdolny do przeładowania broni, ale można mu zamonotować dwa razy dłuższą taśmę.
 
 <h2> TacMod / Scrambler </h2>
 
@@ -226,6 +193,14 @@ Narzędzie do walki elektronicznej w postaci plecaka z zestawem anten. TacModa n
 **Cena:** 4000 kred.
 
 Uniwersalny jednorazowy granatnik przeciwpancerny. Trafienie w człowieka albo zwykły pojazd powoduje natychmiastową śmierć albo zniszczenie. W promieniu kilkunastu metrów zadaje zwykłe 5 kostek obrażeń.
+
+<h2>Modyfikacje Broni i Specjalna Amunicja</h2>
+
+**Inteligenta Amunicja**: Wymaga CyberOptyki, Umiejętność strzelania +1, kostka obrażeń mniej
+
+**Amunicja Żelowa**: Tylko rewolwery i strzelby. Specjalna amunicja obezwładniająca, **zadaje kostkę obrażeń mniej**. Jeśli obrażenia wystarczyły na pokonanie progu bólu postać jest wyłączona z walki i traci tylko jeden punkt żywotności. W innym przypadku trafienie boli ale nie powoduje utraty żywotności. Można stosować z z zasadami ataku w punkty witalne, żeby zwiększyć szanse na pokonanie progu bólu.
+
+**Poddźwiękowa 10mm**: Tylko broń 10mm. Zadaje zwykłe kostki zamiast silnych ale z tłumikiem jedynym dźwiękiem jaki jest słyszalny to praca mechanizmów broni.
 
 <h2>Łuki</h2>
 
@@ -257,8 +232,31 @@ Desperacki rzut (-1 kostka obrażeń, -1 kostka do trafiania, zajmuje całą run
 
 Desperacki rzut (-2 kostki obrażeń, -1 kostka do trafiania, zajmuje całą rundę)
 
+<h3>Inne</h3>
+
+|Broń | Obrażenia | Przerzuty | Cechy| Cena |
+|--|:--:|:--:|--|--|
+| **Pałasz** | zwykłe 4 kostki |2|- |2000 kred.| 
+| **Topór**  |silne 4 kostki|1| -|200 kred.|
+| **Wielki Topór**  |zwykłe 5 kostek|1| Dwuręczna|200 kred.|
+| **Włócznia** | zwykłe 4 kostki |3| Dwuręczna|400 kred.| 
+| **Widły**  |zwykłe 4 kostki|2 | dwuręczne|20 kred.| 
+| **Łopata**  |zwykłe 4 kostki|1 | dwuręczna|20 kred.| 
+| **Maczuga Okopowa**  |zwykłe 4 kostki|-   | prosta przeciwpancerna |20 kred.| 
+| **MonoTanto** |zwykłe 4 kostki|-| Prosta Obsługa, Przeciwpancerne |2000 kred.|
+| **MonoKatana** | silne 4 kostki |2| Dwuręczna, przeciwpancerna|2000 kred.|
+
+Monoostrza - są kruche i po jednej albo dwóch walkach trzeba je wymienić
 
 <h2>Rzadka Broń</h2>
+
+<h3>Broń Magnetyczna</h3>
+
+|Nazwa|Obrażenia|Magazynek|Ładowanie|Cechy|Cena|
+|--|:--:|:--:|--|--|--:|
+| **Lekki Railgun**|słabe&nbsp;4&nbsp;kostek| 40| cała tura |Prosta Obsługa, Krótka Seria, Ogień&nbsp;Ciągły| 3000&nbsp;kred.|
+| **Railgun**|słabe&nbsp;5&nbsp;kostek| 40| cała tura |Krótka Seria, Ogień&nbsp;Ciągły | 3000&nbsp;kred.|
+| **Ciężki Railgun**|słabe&nbsp;5&nbsp;kostek| 120| trzy tury |Krótka Seria, Ogień&nbsp;Ciągły, Nieporęczny | 8000&nbsp;kred.|
 
 <h3>Secutor PDW</h3>
 
