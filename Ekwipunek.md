@@ -92,7 +92,7 @@ Optyka i Cyberoptyka nie poprawia celności karabinów maszynowych.
 
 **Ogień Zaporowy:** Jeśli broń posiada cechę **Ogień Ciągły** postać nie wykonała jeszcze zadnej akcji w turze, może kontrować dowolny atak/czynność innej postaci. Jeśli w swoim teście strzelania wyrzucą więcej sukcesów niż atakujący, obie postacie tracą tą turę. Muszą widzieć postać, która wykonuje atak, który chcą skontrować. Ogień zaporowy zużywa 15 pocisków.
 
-**Odrzut:** Tracisz kostkę z rzutu na trafienie z każdego ataku poza strzałem mierzonym. Jeśli postać poświęci turę i rozstawi broń na dwójnogu ignorują odrzut broni.
+**Odrzut:** Tracisz kostkę z rzutu na trafienie z każdego ataku poza strzałem mierzonym. Jeśli postać poświęci turę i rozstawi broń na dwójnogu ignoruje odrzut broni.
 
 **Nieporęczna:** Postać nie dolicza rzutu kostką do inicjatywy kiedy obsługuje tą broń. Może poświęcić turę i rozstawić ją na dwójnogu albo w dowolnej innej wygodnej pozycji strzeleckiej, żeby ominąć tą karę.
 
