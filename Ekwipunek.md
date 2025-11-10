@@ -134,6 +134,26 @@ W ciężkim pancerzu możesz efektywnie się poruszać tyle godzin ile wynosi ni
 
 **Blitz**: inhalator albo proszek; 200kred. : Rzucasz dodatkową kostkę na Inicjatywę. Można unikać proni palnej.
 
+<h2>Utrzymanie, narzędzia, codzinne przedmioty</h2>
+
+**Ubranie Robocze** (200 kred.) : Soldine ubranie do pracy
+
+**Skadander Kosmiczny (zwykły)** (2000 kred.) : xxx
+
+**Skafander Kosmiczny (zaawansowany)** (6000 kred.) : skafander kosmiczny z zestawem manewrowym (silniki do krókich lotów w kosmosie)
+
+**Modne Ubranie** (500 kred.) : xxx
+
+**Pakiet żywieniowy** (20 kred.) : xxx
+
+**Dobra w hotelu kapsułowym** (40 kred.) : xxx
+
+**Dobra w hotelu kapsułowym** (40 kred.) : xxx
+
+**Wytrychy** (200 kred.) : uniwersalny zestaw wytrychów elektromechanicznych, potrafi otworzyc większość zwykłch drzwi i zamków, bardziej zaawansowane wymagają całego zestawu narżędzi
+
+**Narzędzia** (4000 kred.) : wielka skrzynia narzędzi
+
 <h2>Ekwipunek Specjalny</h2>
 
 **TraumaPack** (500 kred.) : Zaawansowana apteczka i zestaw narzędzi chirurgicznych. Użycie trwa kilkanście minut. Przywraca tyle punktów żywotności ile uzyskało się sukcesów w rzucie na Medycyne. Używając TraumaPacka na samym sobie traci się kostę z testu Medycyny. Nie można przekroczyć maksymalnego poziomu Żywotności.
