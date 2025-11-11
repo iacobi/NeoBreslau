@@ -33,6 +33,14 @@
 
 **Umiejętności** : Walka Wręcz, Broń Krótka, Charakter, Spostrzegawczość
 
+<h3>Outsider/Nomad</h3>
+
+**Opis**: ...
+
+**Ekwipunek** : 1000 kredytów, Narzędzia, Skafander Kosmiczny, Strzelba, TraumaPack
+
+**Umiejętności** : Wytrzymałość, Mechanika, Sztuka Przetrwania, Prowadzenie Pojazdów
+
 <h3>Pilot</h3>
 
 **Opis**: Niebo nigdy nie było dla ciebie limitem, a przestrzeń kosmiczna jest twoim drugim domem. Potrafisz wyczuć maszynę, jakby była częścią ciebie. Wiesz, jak omijać zagrożenia, przemycać ładunki i ewakuować ludzi z najgorszych miejsc w galaktyce. Jeśli zapłacą odpowiednio, polecisz wszędzie, nawet w najczarniejszy zakątek kosmosu.
