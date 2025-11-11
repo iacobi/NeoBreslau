@@ -9,13 +9,21 @@
 
 **Umiejętności** : Charakter, Intuicja, Spostrzegawczość, Kamuflaż
 
+<h3>Gangster</h3>
+
+**Opis**: Żyłeś poza prawem, w świecie, gdzie honor to tylko puste słowa, a pieniądze rządzą wszystkim. Jako gangster wiesz, jak poruszać się w mrocznych zakamarkach miast, jak utrzymać kontrolę nad terenem i jak rozmawiać z tymi, którzy są gotowi zrobić wszystko dla zysku. Twoje życie to nieustanna walka o władzę, zyski i przetrwanie, gdzie nie ma miejsca na sentymenty. Od brudnych interesów po brutalne konfrontacje – nie boisz się działać poza granicami prawa. Masz swoich ludzi i nie zawahasz się ich wykorzystać, by zdobyć to, czego pragniesz.
+
+**Ekwipunek** : 1000 kredytów, Pistolet Maszynowy 9mm, Pałka Teleskopowa, Blitz (dwie dawki), Wendigo (dwie dawki)
+
+**Umiejętności** : Charakter, Kamuflaż, Kradzież, Walka Wręcz
+
 <h3>Lekarz</h3>
 
 **Opis**: Im lepsze metody wymyślimy na łatanie ludzi tym ludzie znajdą lepsze metody na rozwalanie się na kawałki. Tak długo jak znajdą wszystkie kawałki będziesz w stanie pomóc.
 
 **Ekwipunek** : 2000 kredytów, Paralizator, Narzędzia Medyczne, TraumaPack (3 sztuki)
 
-**Umiejętności** : Intuicja, Biotechnika, Medycyna, Spostrzegawczość
+**Umiejętności** : Intuicja, Wola, Medycyna, Spostrzegawczość
 
 <h3>Łowca Nagród</h3>
 
@@ -37,7 +45,7 @@
 
 **Opis**: Jesteś mistrzem napraw i modyfikacji. Nie ma rzeczy, której nie da się naprawić, jeśli tylko masz odpowiednie narzędzia. Niezależnie od tego, czy to sprzęt w stacji kosmicznej, czy pojazd, zawsze znajdziesz sposób, by przywrócić wszystko do życia.
 
-**Ekwipunek** : 2000 kredytów, Narzędzia (dowolny rodzaj), Strzelba
+**Ekwipunek** : 2000 kredytów, Narzędzia, Strzelba
 
 **Umiejętności** : Siła, Mechanika, Elektronika, Prowadzenie Pojazdów
 
