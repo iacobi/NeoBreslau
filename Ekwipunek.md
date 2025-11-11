@@ -146,19 +146,21 @@ W ciężkim pancerzu możesz efektywnie się poruszać tyle godzin ile wynosi ni
 
 **Pakiet żywieniowy [20c] :** Zapewnia kalorie i witaminy na jedną dobę. Spakowany razem z sztuććami i podgrzewaczem chemicznym. Wymaga wody.
 
-**Doba w hotelu kapsułowym [40c] :** xxx
+**Doba w hotelu kapsułowym [40c] :** ...
 
-**Wynajęcie pokoju na tydzień [500c] :** xxx
+**Wynajęcie pokoju na tydzień [500c] :** ...
 
-**Wynajęcie małego mieszkania na tydzień [1500c] :** xxx
+**Wynajęcie małego mieszkania na tydzień [1500c] :** ...
 
 **Wytrychy [200c] :** uniwersalny zestaw wytrychów elektromechanicznych, potrafi otworzyc większość zwykłch drzwi i zamków, bardziej zaawansowane wymagają całego zestawu narzędzi
 
 **Narzędzia [4000c] :** wielka skrzynia narzędzi
 
+**Torba Lekarska [2000c] :** Torba z podstawowymi lekami i narzędziami
+
 <h2>Ekwipunek Specjalny</h2>
 
-**TraumaPack [500c] :** Zaawansowana apteczka i zestaw narzędzi chirurgicznych. Użycie trwa kilkanście minut. Przywraca tyle punktów żywotności ile uzyskało się sukcesów w rzucie na Medycyne. Używając TraumaPacka na samym sobie traci się kostę z testu Medycyny. Nie można przekroczyć maksymalnego poziomu Żywotności.
+**TraumaPack [500c] :** Zaawansowana apteczka i zestaw narzędzi chirurgicznych. Użycie trwa kilkanście minut. Przywraca tyle punktów żywotności ile uzyskało się sukcesów w rzucie na Medycyne. Używając TraumaPacka na samym sobie traci się kostę z testu Medycyny. Nie można przekroczyć maksymalnego poziomu Żywotności. **TraumaPacki są jednorazowe.**
 
 **Optyka [2000c]:** montowane na broni. Silne kostki zamiast zwykłych kiedy testujesz umiejętność strzelania podczas strzałów mierzonych
 
