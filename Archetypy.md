@@ -8,6 +8,8 @@
 
 **Umiejętności** : Charakter, Intuicja, Spostrzegawczość, Kamuflaż
 
+**Cechy** : brak obowiązkowej
+
 <h3>Fixer</h3>
 
 **Opis**: ...
@@ -15,6 +17,8 @@
 **Ekwipunek** : 1000 kredytów, Pistolet Maszynowy 9mm, Pałka Teleskopowa, Blitz (dwie dawki), Wendigo (dwie dawki)
 
 **Umiejętności** : Charakter, Oprogramowanie, Kradzież, Spostrzegawczość
+
+**Cechy** : Cwaniak albo Groźny
 
 <h3>Medyk</h3>
 
@@ -24,6 +28,8 @@
 
 **Umiejętności** : Intuicja, Wola, Medycyna, Spostrzegawczość
 
+**Cechy** : Chirurg
+
 <h3>Łowca Nagród</h3>
 
 **Opis**: ...
@@ -31,6 +37,8 @@
 **Ekwipunek** : 1000 kredytów, Paralizator, Pałka Teleskopowa, Tarcza Balistyczna
 
 **Umiejętności** : Walka Wręcz, Broń Krótka, Charakter, Spostrzegawczość
+
+**Cechy** : brak obowiązkowej
 
 <h3>Nomad</h3>
 
@@ -40,6 +48,8 @@
 
 **Umiejętności** : Wytrzymałość, Mechanika, Sztuka Przetrwania, Prowadzenie Pojazdów
 
+**Cechy** : brak obowiązkowej
+
 <h3>Pilot</h3>
 
 **Opis**: Niebo nigdy nie było dla ciebie limitem, a przestrzeń kosmiczna jest twoim drugim domem. Potrafisz wyczuć maszynę, jakby była częścią ciebie. Wiesz, jak omijać zagrożenia, przemycać ładunki i ewakuować ludzi z najgorszych miejsc w galaktyce. Jeśli zapłacą odpowiednio, polecisz wszędzie, nawet w najczarniejszy zakątek kosmosu.
@@ -47,6 +57,8 @@
 **Ekwipunek** : 2000 kredytów, Skafander Kosmiczny, Pistolet 9mm, Lux (dwie dawki)
 
 **Umiejętności** : Pilotaż, Pilotaż Kosmos, Oprogramowanie, Spostrzegawczość
+
+**Cechy** : Cała naprzód albo Technik
 
 <h3>Technik</h3>
 
@@ -56,6 +68,8 @@
 
 **Umiejętności** : Siła, Mechanika, Elektronika, Prowadzenie Pojazdów
 
+**Cechy** : Spec albo Inżynieria Polowa
+
 <h3>Najemnik</h3>
 
 **Opis**: ...
@@ -63,6 +77,9 @@
 **Ekwipunek** : 1000 kredytów, Pistolet 9mm, Karbin Szturmowy albo Lekki Pancerz, Nokaina (dwie dawki)
 
 **Umiejętności** : Broń Długa, Broń Krótka, Sztuka Przetrwania, Wytrzymałość
+
+**Cechy** : Twardziel
+
 
 
 
