@@ -4,8 +4,8 @@
 
 |Broń | Obrażenia | Przerzuty | Cechy| Cena |
 |--|:--:|:--:|--|--|
-| **Bez Broni** |słabe 4 kostki|- |Tracisz kostkę z trafienia uzbrojonych|20c| 
-| **Kastet, Butelka, Śrubokręt** |słabe 4 kostki| |Prosta Obsługa-|20c| 
+| **Bez Broni** |słabe 4 kostki|- |Tracisz kostkę z trafienia uzbrojonych|--| 
+| **Kastet, Butelka, Śrubokręt** |słabe 4 kostki| |Prosta Obsługa-|--| 
 | **Pałka** |słabe 4 kostki|1 | Prosta Obsługa|20c|
 | **Młotek** |słabe 4 kostki| | Prosta Obsługa, Przeciwpancerny|20c| 
 | **Nóż** |zwykłe 4 kostki|-| Prosta Obsługa, Rzut |20c|
@@ -138,19 +138,21 @@ W ciężkim pancerzu możesz efektywnie się poruszać tyle godzin ile wynosi ni
 
 **Ubranie Robocze [200c] :** Soldine ubranie do pracy
 
-**Skadander Kosmiczny - zwykły [2000c] :** xxx
+**Skadander Kosmiczny - zwykły [2000c] :** Pozwala na pracę i przetrwanie w próżni kosmicznej albo nieprzyjaznej planecie przez 6 godzin.
 
 **Skafander Kosmiczny - zaawansowany [6000c] :** skafander kosmiczny z zestawem manewrowym (silniki do krókich lotów w kosmosie)
 
-**Modne Ubranie [500c] :** xxx
+**Modne Ubranie [500c] :** Ciuchy do klubu.
 
-**Pakiet żywieniowy [20c] :** xxx
+**Pakiet żywieniowy [20c] :** Zapewnia kalorie i witaminy na jedną dobę. Spakowany razem z sztuććami i podgrzewaczem chemicznym. Wymaga wody.
 
-**Dobra w hotelu kapsułowym [40c] :** xxx
+**Doba w hotelu kapsułowym [40c] :** xxx
 
-**Dobra w hotelu kapsułowym [40c] :** xxx
+**Wynajęcie pokoju na tydzień [500c] :** xxx
 
-**Wytrychy [200c] :** uniwersalny zestaw wytrychów elektromechanicznych, potrafi otworzyc większość zwykłch drzwi i zamków, bardziej zaawansowane wymagają całego zestawu narżędzi
+**Wynajęcie małego mieszkania na tydzień [1500c] :** xxx
+
+**Wytrychy [200c] :** uniwersalny zestaw wytrychów elektromechanicznych, potrafi otworzyc większość zwykłch drzwi i zamków, bardziej zaawansowane wymagają całego zestawu narzędzi
 
 **Narzędzia [4000c] :** wielka skrzynia narzędzi
 
@@ -166,9 +168,9 @@ W ciężkim pancerzu możesz efektywnie się poruszać tyle godzin ile wynosi ni
 
 **ElektroMaskałat [4000c] :** Maskuje ślad termiczny i elektromagnetyczny postaci. Zmienia wzór kamuflujący tak, żeby pasować do otoczenia. Używająca go postać używa silnych kostek w testach **Kamuflażu**.
 
-**MultiSkaner (Venator/Augur) [4000c] :** Wymaga sprzęgu. Używająca go postać używa silnych kostek w testach **Spostrzegawczości**. Hełm z goglami i czujnikami. Postać widzi w rozszerzonym spektrum (termowizja, noktowizja itdp.) zmysły albo luneta. 
+**MultiSkaner [4000c] :** Używająca go postać używa silnych kostek w testach **Spostrzegawczości**. Postać widzi w rozszerzonym spektrum (termowizja, noktowizja itdp.). Ma postać gogli z antenami albo lunety. **Wymaga Sprzęgu.**
 
-**Egzoszkielet [10000c] :** Wymaga sprzęgu. Postać ignoruje odrzut i nieporęczność broni, może nosić ciężki pancerz bez ograniczeń czasowych ale rzuca kostką mniej na inicjatywę.
+**Egzoszkielet [10000c] :** Postać ignoruje odrzut i nieporęczność broni, może nosić ciężki pancerz bez ograniczeń czasowych. **Traci kostkę z testów Sprawności i Kamuflażu. Wymaga Sprzęgu.**
 
 **Tarcza Balistyczna [5000c] :** Wielka i ciężka tarcza montowana na uprzęży z mechanicznym ramieniem, który pozwala manewrować masą tarczy za pomocą jednej ręki. Zamiast unikać postać blokuje ataki, mechanicznie wykonuje się ten sam test sprawności ale może też blokować ataki strzeleckie. Jeśli postać podebnie się sprzęgiem do upręży sterującej tarczą balistycznej jest w stanie używać jej tak szybko i sprawnie, że może blokować każdy atak tak długo jak wygrywa testy, po pierwszej porażce traci zdolność bloku aż do następnej tury. Tarcze balistyczną traktujemy jako **Nieporęczną** - potstać nie dodaje rzutu k10 do inicjatywy.
 
@@ -180,9 +182,9 @@ W ciężkim pancerzu możesz efektywnie się poruszać tyle godzin ile wynosi ni
 
 Drony są w pewnym stopniu autonomiczne i mogą podążać za użytkownikiem. W walce postać musi wybrać czy wykonuje swoją turę jako swoja postać czy jako dron. Jeśli drony pozwalają na kontry to działają według normalnych zasad, czyli cała tura jest przeznaczona na kontrę. Postać na raz może mieć aktywny tylko jeden typ drona.
 
-**Drona FPV**: [2000 kred] Standardowy dron bojowy. Podlatuje i wybucha zadając **zwykłe 5 kostek** obrażeń. W turze potrafi przelecieć 40 metrów. Do trafienia używana jest umiejętność **Pilotaż**. Może też wykonywać kontre - wlecieć w zbliżające się wrogie drony, granaty albo rakiety i wybuchąć. Nie trzeba rzutów na obrażenia - drony są na tyle delikatne, że wystarczy trafienie do zniszczenia. Żeby kontra była skuteczna trzeba uzyskać w rzucie na **Pilotaż** więcej niż atakujący miał w swoim rzucie na trafienie. Na raz może być aktywnych tyle dronów ile wynosi **Oprogramowanie** postaci, ale może sterować tylko jedną droną turę - chyba, że ma zdolność **Droniarz** (patrz zasady zdolności). Wersja nieuzbrojona jest o połowę tańsza.
+**Drona FPV [2000 kred] :** Standardowy dron bojowy. Podlatuje i wybucha zadając **zwykłe 5 kostek** obrażeń. W turze potrafi przelecieć 40 metrów. Do trafienia używana jest umiejętność **Pilotaż**. Może też wykonywać kontre - wlecieć w zbliżające się wrogie drony, granaty albo rakiety i wybuchąć. Nie trzeba rzutów na obrażenia - drony są na tyle delikatne, że wystarczy trafienie do zniszczenia. Żeby kontra była skuteczna trzeba uzyskać w rzucie na **Pilotaż** więcej niż atakujący miał w swoim rzucie na trafienie. Na raz może być aktywnych tyle dronów ile wynosi **Oprogramowanie** postaci, ale może sterować tylko jedną droną turę - chyba, że ma zdolność **Droniarz** (patrz zasady zdolności). Wersja nieuzbrojona jest o połowę tańsza.
 
-**Drona gąsienicowa**: [4000 + cena karabinu maszynowego] Mały gąsienicowy pojazd uzbrojony w karabin maszynowy. Poza poruszaniem się może wykonywać tylko akcje **Ogień Ciągły** albo **Ogień Zaporowy**. Pojazd nie jest zdolny do przeładowania broni, ale można mu zamonotować dwa razy dłuższą taśmę.
+**Drona gąsienicowa [4000 + cena karabinu maszynowego] :** Mały gąsienicowy pojazd uzbrojony w karabin maszynowy. Poza poruszaniem się może wykonywać tylko akcje **Ogień Ciągły** albo **Ogień Zaporowy**. Pojazd nie jest zdolny do przeładowania broni, ale można mu zamonotować dwa razy dłuższą taśmę.
 
 <h2> TacMod / Scrambler </h2>
 
@@ -193,7 +195,6 @@ Narzędzie do walki elektronicznej w postaci plecaka z zestawem anten. TacModa n
 **Zakłócanie Dron**: Możesz kontrować każdy atak dronów w zasięgu 50 metrów. Jeśli w swoim teście **Elektroniki** uzyskasz więcej sukcesów niż operator drony w teście **Pilotażu** drona zostaje rozbrojna i wyłączona. Dla operatora TacMod to całkowicie darmowa akcja i działa na każdą nadlatującą dronę, niezależnie od ich ilości.
 
 **Hackowanie IoT**: Wykonując test **Oprogramowania** możesz włamać się do podłączonych do sieci sprzętów domowych, telefonów i samochodów. Postać zyskuje wtedy pełną kontrolę nad urządzeniem. Przejęcie kontroli albo podsłuchanie telefonu to PT 1, przejęcie kontroli nad samochodem albo wojskjowym dronem PT 2, przejęcie kontroli nad helikopterem PT 3. Można przejmować kontrolę tylko nad włączonymi urządzeniami. Jeśli urządzenie jest używane przez kogoś zamiast testu przeciwko PT wykonuje się test przeciwstawny **Oprogramowania**
-
 
 <h2>Modyfikacje Broni i Specjalna Amunicja</h2>
 
