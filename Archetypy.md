@@ -1,22 +1,13 @@
 <h2>Archetypy</h2>
 
 
+<h3>Detektyw</h3>
 
-<h3>Weteran</h3>
+**Opis**: Jako detektyw masz talent do rozwiązywania zagadek i odkrywania ukrytych prawd. Czy to w dusznych zaułkach megamiasta, czy na pokładzie orbitalnej stacji, zawsze potrafisz połączyć fakty i znaleźć odpowiedzi tam, gdzie inni widzą tylko chaos. Twoje doświadczenie w pracy z ludźmi i dowodami daje Ci przewagę w śledztwach, a Twoja determinacja pozwala Ci dotrzeć do sedna sprawy.
 
-**Opis**: ?? Masz za sobą służbę w wojsku, gdzie stoczono brutalne bitwy i gdzie nie było miejsca na słabości. Niezależnie od tego, czy walczyłeś w wojnach ziemskich czy kolonialnych, twoje doświadczenie w boju i przetrwaniu sprawia, że stajesz twardo na nogach w każdej sytuacji. ??
+**Ekwipunek** : 1000 kredytów, Rewolwer .44, Kapelusz, Neon (dwie dawki)
 
-**Ekwipunek** : 1000 kredytów, Pistolet 9mm, Karbin Szturmowy albo Lekki Pancerz, Nokaina (dwie dawki)
-
-**Umiejętności** : Broń Długa, Broń Krótka, Sztuka Przetrwania, Wytrzymałość
-
-<h3>Łowca Nagród</h3>
-
-**Opis**: ...
-
-**Ekwipunek** : 1000 kredytów, Paralizator, Pałka Teleskopowa, Tarcza Balistyczna
-
-**Umiejętności** : Walka Wręcz, Broń Krótka, Charakter, Spostrzegawczość
+**Umiejętności** : Charakter, Intuicja, Spostrzegawczość, Kamuflaż
 
 <h3>Lekarz</h3>
 
@@ -26,13 +17,13 @@
 
 **Umiejętności** : Intuicja, Biotechnika, Medycyna, Spostrzegawczość
 
-<h3>Mechanik</h3>
+<h3>Łowca Nagród</h3>
 
-**Opis**: Jesteś mistrzem napraw i modyfikacji. Nie ma rzeczy, której nie da się naprawić, jeśli tylko masz odpowiednie narzędzia. Niezależnie od tego, czy to sprzęt w stacji kosmicznej, czy pojazd, zawsze znajdziesz sposób, by przywrócić wszystko do życia.
+**Opis**: ...
 
-**Ekwipunek** : 2000 kredytów, Narzędzia (dowolny rodzaj), Strzelba
+**Ekwipunek** : 1000 kredytów, Paralizator, Pałka Teleskopowa, Tarcza Balistyczna
 
-**Umiejętności** : Siła, Mechanika, Elektronika, Prowadzenie Pojazdów
+**Umiejętności** : Walka Wręcz, Broń Krótka, Charakter, Spostrzegawczość
 
 <h3>Pilot</h3>
 
@@ -41,6 +32,23 @@
 **Ekwipunek** : 2000 kredytów, Skafander Kosmiczny, Pistolet 9mm, Lux (dwie dawki)
 
 **Umiejętności** : Pilotaż, Pilotaż Kosmos, Oprogramowanie, Spostrzegawczość
+
+<h3>Technik</h3>
+
+**Opis**: Jesteś mistrzem napraw i modyfikacji. Nie ma rzeczy, której nie da się naprawić, jeśli tylko masz odpowiednie narzędzia. Niezależnie od tego, czy to sprzęt w stacji kosmicznej, czy pojazd, zawsze znajdziesz sposób, by przywrócić wszystko do życia.
+
+**Ekwipunek** : 2000 kredytów, Narzędzia (dowolny rodzaj), Strzelba
+
+**Umiejętności** : Siła, Mechanika, Elektronika, Prowadzenie Pojazdów
+
+<h3>Weteran</h3>
+
+**Opis**: ?? Masz za sobą służbę w wojsku, gdzie stoczono brutalne bitwy i gdzie nie było miejsca na słabości. Niezależnie od tego, czy walczyłeś w wojnach ziemskich czy kolonialnych, twoje doświadczenie w boju i przetrwaniu sprawia, że stajesz twardo na nogach w każdej sytuacji. ??
+
+**Ekwipunek** : 1000 kredytów, Pistolet 9mm, Karbin Szturmowy albo Lekki Pancerz, Nokaina (dwie dawki)
+
+**Umiejętności** : Broń Długa, Broń Krótka, Sztuka Przetrwania, Wytrzymałość
+
 
 
 
@@ -55,13 +63,6 @@
 
 **Umiejętności** : Siła, Wytrzymałość, Elektronika, Mechanika
 
-<h3>Detektyw</h3>
-
-**Opis**: Jako detektyw masz talent do rozwiązywania zagadek i odkrywania ukrytych prawd. Czy to w dusznych zaułkach megamiasta, czy na pokładzie orbitalnej stacji, zawsze potrafisz połączyć fakty i znaleźć odpowiedzi tam, gdzie inni widzą tylko chaos. Twoje doświadczenie w pracy z ludźmi i dowodami daje Ci przewagę w śledztwach, a Twoja determinacja pozwala Ci dotrzeć do sedna sprawy.
-
-**Ekwipunek** : 1000 kredytów, Rewolwer .44, Kapelusz, Neon (dwie dawki)
-
-**Umiejętności** : Charakter, Intuicja, Spostrzegawczość, Kamuflaż
 
 <h3>Gangster</h3>
 
