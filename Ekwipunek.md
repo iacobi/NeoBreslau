@@ -4,16 +4,16 @@
 
 |Broń | Obrażenia | Przerzuty | Cechy| Cena |
 |--|:--:|:--:|--|--|
-| **Bez Broni** |słabe 4 kostki|- |Tracisz kostkę z trafienia uzbrojonych|20 kred.| 
-| **Kastet, Butelka, Śrubokręt** |słabe 4 kostki| |Prosta Obsługa-|20 kred.| 
-| **Pałka** |słabe 4 kostki|1 | Prosta Obsługa|20 kred.|
-| **Młotek** |słabe 4 kostki| | Prosta Obsługa, Przeciwpancerny|20 kred.| 
-| **Nóż** |zwykłe 4 kostki|-| Prosta Obsługa, Rzut |20 kred.|
-| **Maczeta** | zwykłe 4 kostki |1| - |40 kred.| 
-| **Katana** | silne 4 kostki |2| Dwuręczna|2000 kred.|
-| **Topór Strażacki** | silne 4 kostki |1|Dwuręczny|200 kred.|
-| **Młot Budowlany**  |zwykłe 4 kostki|1 | Przeciwpancerny, Dwuręczny|20 kred.| 
-| **Taktyczny Tomahawk** | silne 4 kostki |-|Rzut|200 kred.|
+| **Bez Broni** |słabe 4 kostki|- |Tracisz kostkę z trafienia uzbrojonych|20c| 
+| **Kastet, Butelka, Śrubokręt** |słabe 4 kostki| |Prosta Obsługa-|20c| 
+| **Pałka** |słabe 4 kostki|1 | Prosta Obsługa|20c|
+| **Młotek** |słabe 4 kostki| | Prosta Obsługa, Przeciwpancerny|20c| 
+| **Nóż** |zwykłe 4 kostki|-| Prosta Obsługa, Rzut |20c|
+| **Maczeta** | zwykłe 4 kostki |1| - |40c| 
+| **Katana** | silne 4 kostki |2| Dwuręczna|2000c|
+| **Topór Strażacki** | silne 4 kostki |1|Dwuręczny|200c|
+| **Młot Budowlany**  |zwykłe 4 kostki|1 | Przeciwpancerny, Dwuręczny|20c| 
+| **Taktyczny Tomahawk** | silne 4 kostki |-|Rzut|200c|
 
 **Dwuręczna:** Tracisz kostkę z rzutu na trafienie jeśli używasz jednej ręki.
 
@@ -29,30 +29,30 @@
 
 ||Obrażenia|Magazynek|Ładowanie|Cechy|Cena|
 |--|:--:|:--:|--|--|--:|
-| **Pistolet 9mm**  |zwykłe&nbsp;3&nbsp;kostki| 15 | pół tury | Krótka Seria| 1000 kred.|
-| **Pistolet 10mm**  |silne&nbsp;3&nbsp;kostki| 12 | pół tury | Krótka Seria| 3000 kred.|
+| **Pistolet 9mm**  |zwykłe&nbsp;3&nbsp;kostki| 15 | pół tury | Krótka Seria| 1000c|
+| **Pistolet 10mm**  |silne&nbsp;3&nbsp;kostki| 12 | pół tury | Krótka Seria| 3000c|
 
 <h3>Rewolwery</h3>
 
 ||Obrażenia|Magazynek|Ładowanie|Cechy|Cena|
 |--|:--:|:--:|--|--|--:|
-| **.357 Magnum**  |silne&nbsp;3&nbsp;kostki| 6 | cała tura | Krótka Seria| 2000 kred.|
-| **.44 Magnum** |zwykłe&nbsp;4&nbsp;kostki| 6 | cała tura | - | 2000 kred.|
-| **.454 Casull** |silne&nbsp;4&nbsp;kostki| 6 | cała tura | Odrzut | 3000 kred.|
+| **.357 Magnum**  |silne&nbsp;3&nbsp;kostki| 6 | cała tura | Krótka Seria| 2000c|
+| **.44 Magnum** |zwykłe&nbsp;4&nbsp;kostki| 6 | cała tura | - | 2000c|
+| **.454 Casull** |silne&nbsp;4&nbsp;kostki| 6 | cała tura | Odrzut | 3000c|
 
 <h3> Pistolety Maszynowe</h3>
 
 ||Obrażenia|Magazynek|Ładowanie|Cechy|Cena|
 |--|:--:|:--:|--|--|--:|
-| **Pistolet Maszynowy 9mm**|zwykłe&nbsp;3&nbsp;kostki| 30| pół tury |Prosta Obsługa, Krótka Seria, Ogień&nbsp;Ciągły | 1000&nbsp;kred.|
-| **Pistolet Maszynowy 10mm**|silne&nbsp;3&nbsp;kostki| 30| pół tury |Prosta Obsługa, Krótka Seria, Ogień&nbsp;Ciągły | 2000&nbsp;kred.|
+| **Pistolet Maszynowy 9mm**|zwykłe&nbsp;3&nbsp;kostki| 30| pół tury |Prosta Obsługa, Krótka Seria, Ogień&nbsp;Ciągły | 1000c|
+| **Pistolet Maszynowy 10mm**|silne&nbsp;3&nbsp;kostki| 30| pół tury |Prosta Obsługa, Krótka Seria, Ogień&nbsp;Ciągły | 2000c|
 
 <h3>Karabiny</h3>
 
 ||Obrażenia|Magazynek|Ładowanie|Cechy|Cena|
 |--|:--:|:--:|--|--|--:|
-| **Karabinek Szturmowy //.233 Falcata**|zwykłe&nbsp;4&nbsp;kostki| 30| pół tury |Krótka Seria, Ogień Ciągły | 2000&nbsp;kred.|
-| **Karabin Bojowy //.277 Arcus**|silne&nbsp;4&nbsp;kostki| 24| pół tury |Krótka Seria| 3000&nbsp;kred.|
+| **Karabinek Szturmowy //.233 Falcata**|zwykłe&nbsp;4&nbsp;kostki| 30| pół tury |Krótka Seria, Ogień Ciągły | 2000c|
+| **Karabin Bojowy //.277 Arcus**|silne&nbsp;4&nbsp;kostki| 24| pół tury |Krótka Seria| 3000c|
 
 <h3>Strzelby</h3>
 
@@ -60,17 +60,17 @@
 
 |Nazwa|Obrażenia|Magazynek|Ładowanie|Cechy|Cena|
 |--|:--:|:--:|--|--|--:|
-| **Dubeltówka**|silne&nbsp;4&nbsp;kostki| 2 | 1 nabój na turę |Prosta Obsługa| 1000&nbsp;kred.|
-| **Strzelba**|silne&nbsp;4&nbsp;kostki| 6 | 1 nabój na turę |Prosta Obsługa| 1000&nbsp;kred.|
-| **Strzelba Automatyczna**|silne&nbsp;4&nbsp;kostki| 20 | cała tura | Krótka Seria, Ogień Ciągły| 2500&nbsp;kred.|
+| **Dubeltówka**|silne&nbsp;4&nbsp;kostki| 2 | 1 nabój na turę |Prosta Obsługa| 1000c|
+| **Strzelba**|silne&nbsp;4&nbsp;kostki| 6 | 1 nabój na turę |Prosta Obsługa| 1000c|
+| **Strzelba Automatyczna**|silne&nbsp;4&nbsp;kostki| 20 | cała tura | Krótka Seria, Ogień Ciągły| 2500c|
 
 <h3>Karabiny Wyborowe</h3>
 
 |Nazwa|Obrażenia|Magazynek|Ładowanie|Cechy|Cena|
 |--|:--:|:--:|--|--|--:|
-| **Karabin Wyborowy**|silne&nbsp;4&nbsp;kostki| 5 | cała tura|Jeden strzał na turę | 4000&nbsp;kred.|
-| **Samopowtarzalny Karabin Wyborowy**|silne&nbsp;4&nbsp;kostki| 12 | cała tura| Nieporęczny| 5000&nbsp;kred.|
-| **.338 Lupus**|zwykłe&nbsp;5&nbsp;kostek| 5 | cała tura|Jeden strzał na turę, Nieporęczny, Odrzut| 10000&nbsp;kred.|
+| **Karabin Wyborowy**|silne&nbsp;4&nbsp;kostki| 5 | cała tura|Jeden strzał na turę | 4000c|
+| **Samopowtarzalny Karabin Wyborowy**|silne&nbsp;4&nbsp;kostki| 12 | cała tura| Nieporęczny| 5000c|
+| **.338 Lupus**|zwykłe&nbsp;5&nbsp;kostek| 5 | cała tura|Jeden strzał na turę, Nieporęczny, Odrzut| 10000c|
 
 <h3>Karabiny Maszynowe</h3>
 
@@ -78,9 +78,9 @@ Optyka i Cyberoptyka nie poprawia celności karabinów maszynowych.
 
 |Nazwa|Obrażenia|Magazynek|Ładowanie|Cechy|Cena|
 |--|:--:|:--:|--|--|--:|
-|**5,56mm //.233&nbsp;Falx**|zwykłe&nbsp;4&nbsp;kostki| 100 |trzy tury| Krótka Seria, Ogień&nbsp;Ciągły| 4000&nbsp;kred.|
-|**7,62,, //.277**|silne&nbsp;4&nbsp;kostki| 100 |trzy tury| Krótka Seria, Ogień&nbsp;Ciągły, Nieporęczny| 5000&nbsp;kred.|
-|**.338**|zwykłe&nbsp;5&nbsp;kostek| 100 |pięć tur| Krótka Seria, Ogień&nbsp;Ciągły, Nieporęczny, Odrzut| 10000&nbsp;kred.|
+|**5,56mm //.233&nbsp;Falx**|zwykłe&nbsp;4&nbsp;kostki| 100 |trzy tury| Krótka Seria, Ogień&nbsp;Ciągły| 4000c|
+|**7,62,, //.277**|silne&nbsp;4&nbsp;kostki| 100 |trzy tury| Krótka Seria, Ogień&nbsp;Ciągły, Nieporęczny| 5000c|
+|**.338**|zwykłe&nbsp;5&nbsp;kostek| 100 |pięć tur| Krótka Seria, Ogień&nbsp;Ciągły, Nieporęczny, Odrzut| 10000c|
 
 <h3>Cechy Broni</h3>
 
@@ -98,25 +98,25 @@ Optyka i Cyberoptyka nie poprawia celności karabinów maszynowych.
 
 <h3> Granaty </h3>
 
-Granaty zadają **słabe 5 kostek** obrażeń w promieniu 5 metrów. Jeśli deklarujesz użycie granatu spadasz na koniec tury (granat trzeba wyciągnąć rzucić i musi dolecieć). Umiejętnośc odpowiedzialną za rzut granatem jest **Sprawność**. Koszt jednego granatu to 100 kred.
+Granaty zadają **słabe 5 kostek** obrażeń w promieniu 5 metrów. Jeśli deklarujesz użycie granatu spadasz na koniec tury (granat trzeba wyciągnąć rzucić i musi dolecieć). Umiejętnośc odpowiedzialną za rzut granatem jest **Sprawność**. Koszt jednego granatu to 100c
 
 <h2>Pancerze</h2>
 
 <h3>Lekki Pancerz</h3>
 
-**Wartość Pancerza**: 1 **Cena:** 2000 kred.
+**Wartość Pancerza**: 1 **Cena:** 2000c
 
 Można schować pod ubraniem i chodzić po mieście.
 
 <h3>Średni Pancerz</h3>
 
-**Wartość Pancerza**: 2 **Cena:** 4000 kred.
+**Wartość Pancerza**: 2 **Cena:** 4000c
 
 Nie da się ukryć noszenia średniego pancerza
 
 <h3>Ciężki Pancerz</h3>
 
-**Wartość Pancerza**: 3 **Cena:** 8000 kred.
+**Wartość Pancerza**: 3 **Cena:** 8000c
 
 W ciężkim pancerzu możesz efektywnie się poruszać tyle godzin ile wynosi niższa z cech **Siła** albo **Wytrzymałość**.
 
@@ -136,45 +136,45 @@ W ciężkim pancerzu możesz efektywnie się poruszać tyle godzin ile wynosi ni
 
 <h2>Utrzymanie, narzędzia, codzinne przedmioty</h2>
 
-**Ubranie Robocze** (200 kred.) : Soldine ubranie do pracy
+**Ubranie Robocze [200c] :** Soldine ubranie do pracy
 
-**Skadander Kosmiczny (zwykły)** (2000 kred.) : xxx
+**Skadander Kosmiczny - zwykły [2000c] :** xxx
 
-**Skafander Kosmiczny (zaawansowany)** (6000 kred.) : skafander kosmiczny z zestawem manewrowym (silniki do krókich lotów w kosmosie)
+**Skafander Kosmiczny - zaawansowany [6000c] :** skafander kosmiczny z zestawem manewrowym (silniki do krókich lotów w kosmosie)
 
-**Modne Ubranie** (500 kred.) : xxx
+**Modne Ubranie [500c] :** xxx
 
-**Pakiet żywieniowy** (20 kred.) : xxx
+**Pakiet żywieniowy [20c] :** xxx
 
-**Dobra w hotelu kapsułowym** (40 kred.) : xxx
+**Dobra w hotelu kapsułowym [40c] :** xxx
 
-**Dobra w hotelu kapsułowym** (40 kred.) : xxx
+**Dobra w hotelu kapsułowym [40c] :** xxx
 
-**Wytrychy** (200 kred.) : uniwersalny zestaw wytrychów elektromechanicznych, potrafi otworzyc większość zwykłch drzwi i zamków, bardziej zaawansowane wymagają całego zestawu narżędzi
+**Wytrychy [200c] :** uniwersalny zestaw wytrychów elektromechanicznych, potrafi otworzyc większość zwykłch drzwi i zamków, bardziej zaawansowane wymagają całego zestawu narżędzi
 
-**Narzędzia** (4000 kred.) : wielka skrzynia narzędzi
+**Narzędzia [4000c] :** wielka skrzynia narzędzi
 
 <h2>Ekwipunek Specjalny</h2>
 
-**TraumaPack** (500 kred.) : Zaawansowana apteczka i zestaw narzędzi chirurgicznych. Użycie trwa kilkanście minut. Przywraca tyle punktów żywotności ile uzyskało się sukcesów w rzucie na Medycyne. Używając TraumaPacka na samym sobie traci się kostę z testu Medycyny. Nie można przekroczyć maksymalnego poziomu Żywotności.
+**TraumaPack [500c] :** Zaawansowana apteczka i zestaw narzędzi chirurgicznych. Użycie trwa kilkanście minut. Przywraca tyle punktów żywotności ile uzyskało się sukcesów w rzucie na Medycyne. Używając TraumaPacka na samym sobie traci się kostę z testu Medycyny. Nie można przekroczyć maksymalnego poziomu Żywotności.
 
-**Optyka** (2000 kred.): montowane na broni. Silne kostki zamiast zwykłych kiedy testujesz umiejętność strzelania podczas strzałów mierzonych
+**Optyka [2000c]:** montowane na broni. Silne kostki zamiast zwykłych kiedy testujesz umiejętność strzelania podczas strzałów mierzonych
 
-**CyberOptyka** (4000 kred.): Wymaga sprzęgu, silne kostki zamiast zwykłych kiedy testujesz umiejętność strzelania (również strzały szybkie i ogień ciągły)
+**CyberOptyka [4000c] :** Wymaga sprzęgu, silne kostki zamiast zwykłych kiedy testujesz umiejętność strzelania (również strzały szybkie i ogień ciągły)
 
-**Paralizator** (1000 kred.) : Dwustrzałowy pistolet, ma 10 metrów zasięgu i zadaje **słabe 5 kostek obrażeń**. Trafienie z paralizatora nie powoduje utraty żywotnosci. Jeśli w rzucie na obrażenia udało się osiągnąć **próg bólu** celu jest on powalony i nie będzie zdolny do ruchu przez minutę. **Paralizator nie ignoruje pancerza**.
+**Paralizator [1000c] :** Dwustrzałowy pistolet, ma 10 metrów zasięgu i zadaje **słabe 5 kostek obrażeń**. Trafienie z paralizatora nie powoduje utraty żywotnosci. Jeśli w rzucie na obrażenia udało się osiągnąć **próg bólu** celu jest on powalony i nie będzie zdolny do ruchu przez minutę. **Paralizator nie ignoruje pancerza**.
 
-**ElektroMaskałat** (4000 kred.) : Maskuje ślad termiczny i elektromagnetyczny postaci. Zmienia wzór kamuflujący tak, żeby pasować do otoczenia. Używająca go postać używa silnych kostek w testach **Kamuflażu**.
+**ElektroMaskałat [4000c] :** Maskuje ślad termiczny i elektromagnetyczny postaci. Zmienia wzór kamuflujący tak, żeby pasować do otoczenia. Używająca go postać używa silnych kostek w testach **Kamuflażu**.
 
-**MultiSkaner (Venator/Augur)** (4000 kred.) : Wymaga sprzęgu. Używająca go postać używa silnych kostek w testach **Spostrzegawczości**. Hełm z goglami i czujnikami. Postać widzi w rozszerzonym spektrum (termowizja, noktowizja itdp.) zmysły albo luneta. 
+**MultiSkaner (Venator/Augur) [4000c] :** Wymaga sprzęgu. Używająca go postać używa silnych kostek w testach **Spostrzegawczości**. Hełm z goglami i czujnikami. Postać widzi w rozszerzonym spektrum (termowizja, noktowizja itdp.) zmysły albo luneta. 
 
-**Egzoszkielet** (10000 kred.) : Wymaga sprzęgu. Postać ignoruje odrzut i nieporęczność broni, może nosić ciężki pancerz bez ograniczeń czasowych ale rzuca kostką mniej na inicjatywę.
+**Egzoszkielet [10000c] :** Wymaga sprzęgu. Postać ignoruje odrzut i nieporęczność broni, może nosić ciężki pancerz bez ograniczeń czasowych ale rzuca kostką mniej na inicjatywę.
 
-**Tarcza Balistyczna** (5000 kred.) : Wielka i ciężka tarcza montowana na uprzęży z mechanicznym ramieniem, który pozwala manewrować masą tarczy za pomocą jednej ręki. Zamiast unikać postać blokuje ataki, mechanicznie wykonuje się ten sam test sprawności ale może też blokować ataki strzeleckie. Jeśli postać podebnie się sprzęgiem do upręży sterującej tarczą balistycznej jest w stanie używać jej tak szybko i sprawnie, że może blokować każdy atak tak długo jak wygrywa testy, po pierwszej porażce traci zdolność bloku aż do następnej tury. Tarcze balistyczną traktujemy jako **Nieporęczną** - potstać nie dodaje rzutu k10 do inicjatywy.
+**Tarcza Balistyczna [5000c] :** Wielka i ciężka tarcza montowana na uprzęży z mechanicznym ramieniem, który pozwala manewrować masą tarczy za pomocą jednej ręki. Zamiast unikać postać blokuje ataki, mechanicznie wykonuje się ten sam test sprawności ale może też blokować ataki strzeleckie. Jeśli postać podebnie się sprzęgiem do upręży sterującej tarczą balistycznej jest w stanie używać jej tak szybko i sprawnie, że może blokować każdy atak tak długo jak wygrywa testy, po pierwszej porażce traci zdolność bloku aż do następnej tury. Tarcze balistyczną traktujemy jako **Nieporęczną** - potstać nie dodaje rzutu k10 do inicjatywy.
 
-**Pilum** (4000 kred.) : Jednorazowy granatnik przeciwpancerny. Bezpośrednie trafienie w człowieka to automatyczna śmierć, odłamki zadają **słabe 5 kostek** obrażeń w probmieniu 5 metrów. Pilum wymaga umiejętności **Broń Ciężka** ma też wbudowany komputer sterujący, który daje postaci tą umiejętność na poziomie minimum 3.
+**Pilum [4000c] :** Jednorazowy granatnik przeciwpancerny. Bezpośrednie trafienie w człowieka to automatyczna śmierć, odłamki zadają **słabe 5 kostek** obrażeń w probmieniu 5 metrów. Pilum wymaga umiejętności **Broń Ciężka** ma też wbudowany komputer sterujący, który daje postaci tą umiejętność na poziomie minimum 3.
 
-**??Granat Pyłowy** : 500 kred. : Tworzy chmurę pyłu nie przepuszczającą promieniowania elektromagnetycznego. Zwalnia pociski i tłumi eksplozje. Broń palna i granaty tracą trzy kostki obrażeń w pyle, lub przelatując przez pył.
+**??Granat Pyłowy** : 500c : Tworzy chmurę pyłu nie przepuszczającą promieniowania elektromagnetycznego. Zwalnia pociski i tłumi eksplozje. Broń palna i granaty tracą trzy kostki obrażeń w pyle, lub przelatując przez pył.
 
 <h2> Drony </h2>
 
@@ -186,7 +186,7 @@ Drony są w pewnym stopniu autonomiczne i mogą podążać za użytkownikiem. W 
 
 <h2> TacMod / Scrambler </h2>
 
-**Cena:** 6000 kred.
+**Cena:** 6000c
 
 Narzędzie do walki elektronicznej w postaci plecaka z zestawem anten. TacModa nie można używać kiedy ma się włączoną tarczę retrokinetyczną albo elektromaskałat. Każdy TacMod można podłączyć sprzęgiem do postaci, daje do +1 do wszystkich testów. Sprzęg pozwala na **hackowanie iot** w walce, zajmuje to jedną turę. Jeśli operator nie ma sprzęgu hackowanie zajmuje za dużo czasu i musi to robić poza walką
 
