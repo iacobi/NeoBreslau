@@ -1,6 +1,5 @@
 <h2>Archetypy</h2>
 
-
 <h3>Detektyw</h3>
 
 **Opis**: Jako detektyw masz talent do rozwiązywania zagadek i odkrywania ukrytych prawd. Czy to w dusznych zaułkach megamiasta, czy na pokładzie orbitalnej stacji, zawsze potrafisz połączyć fakty i znaleźć odpowiedzi tam, gdzie inni widzą tylko chaos. Twoje doświadczenie w pracy z ludźmi i dowodami daje Ci przewagę w śledztwach, a Twoja determinacja pozwala Ci dotrzeć do sedna sprawy.
@@ -9,15 +8,15 @@
 
 **Umiejętności** : Charakter, Intuicja, Spostrzegawczość, Kamuflaż
 
-<h3>Gangster</h3>
+<h3>Fixer</h3>
 
-**Opis**: Żyłeś poza prawem, w świecie, gdzie honor to tylko puste słowa, a pieniądze rządzą wszystkim. Jako gangster wiesz, jak poruszać się w mrocznych zakamarkach miast, jak utrzymać kontrolę nad terenem i jak rozmawiać z tymi, którzy są gotowi zrobić wszystko dla zysku. Twoje życie to nieustanna walka o władzę, zyski i przetrwanie, gdzie nie ma miejsca na sentymenty. Od brudnych interesów po brutalne konfrontacje – nie boisz się działać poza granicami prawa. Masz swoich ludzi i nie zawahasz się ich wykorzystać, by zdobyć to, czego pragniesz.
+**Opis**: ...
 
 **Ekwipunek** : 1000 kredytów, Pistolet Maszynowy 9mm, Pałka Teleskopowa, Blitz (dwie dawki), Wendigo (dwie dawki)
 
-**Umiejętności** : Charakter, Kamuflaż, Kradzież, Walka Wręcz
+**Umiejętności** : Charakter, Oprogramowanie, Kradzież, Spostrzegawczość
 
-<h3>Lekarz</h3>
+<h3>Medyk</h3>
 
 **Opis**: Im lepsze metody wymyślimy na łatanie ludzi tym ludzie znajdą lepsze metody na rozwalanie się na kawałki. Tak długo jak znajdą wszystkie kawałki będziesz w stanie pomóc.
 
@@ -33,7 +32,7 @@
 
 **Umiejętności** : Walka Wręcz, Broń Krótka, Charakter, Spostrzegawczość
 
-<h3>Outsider/Nomad</h3>
+<h3>Nomad</h3>
 
 **Opis**: ...
 
@@ -51,7 +50,7 @@
 
 <h3>Technik</h3>
 
-**Opis**: Jesteś mistrzem napraw i modyfikacji. Nie ma rzeczy, której nie da się naprawić, jeśli tylko masz odpowiednie narzędzia. Niezależnie od tego, czy to sprzęt w stacji kosmicznej, czy pojazd, zawsze znajdziesz sposób, by przywrócić wszystko do życia.
+**Opis**: ...
 
 **Ekwipunek** : 2000 kredytów, Narzędzia, Strzelba
 
