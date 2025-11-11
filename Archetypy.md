@@ -1,4 +1,51 @@
-<h2>Przeszłość</h2>
+<h2>Archetypy</h2>
+
+
+
+<h3>Weteran</h3>
+
+**Opis**: ?? Masz za sobą służbę w wojsku, gdzie stoczono brutalne bitwy i gdzie nie było miejsca na słabości. Niezależnie od tego, czy walczyłeś w wojnach ziemskich czy kolonialnych, twoje doświadczenie w boju i przetrwaniu sprawia, że stajesz twardo na nogach w każdej sytuacji. ??
+
+**Ekwipunek** : 1000 kredytów, Pistolet 9mm, Karbin Szturmowy albo Lekki Pancerz, Nokaina (dwie dawki)
+
+**Umiejętności** : Broń Długa, Broń Krótka, Sztuka Przetrwania, Wytrzymałość
+
+<h3>Łowca Nagród</h3>
+
+**Opis**: ...
+
+**Ekwipunek** : 1000 kredytów, Paralizator, Pałka Teleskopowa, Tarcza Balistyczna
+
+**Umiejętności** : Walka Wręcz, Broń Krótka, Charakter, Spostrzegawczość
+
+<h3>Lekarz</h3>
+
+**Opis**: Im lepsze metody wymyślimy na łatanie ludzi tym ludzie znajdą lepsze metody na rozwalanie się na kawałki. Tak długo jak znajdą wszystkie kawałki będziesz w stanie pomóc.
+
+**Ekwipunek** : 2000 kredytów, Paralizator, Narzędzia Medyczne, TraumaPack (3 sztuki)
+
+**Umiejętności** : Intuicja, Biotechnika, Medycyna, Spostrzegawczość
+
+<h3>Mechanik</h3>
+
+**Opis**: Jesteś mistrzem napraw i modyfikacji. Nie ma rzeczy, której nie da się naprawić, jeśli tylko masz odpowiednie narzędzia. Niezależnie od tego, czy to sprzęt w stacji kosmicznej, czy pojazd, zawsze znajdziesz sposób, by przywrócić wszystko do życia.
+
+**Ekwipunek** : 2000 kredytów, Narzędzia (dowolny rodzaj), Strzelba
+
+**Umiejętności** : Siła, Mechanika, Elektronika, Prowadzenie Pojazdów
+
+<h3>Pilot</h3>
+
+**Opis**: Niebo nigdy nie było dla ciebie limitem, a przestrzeń kosmiczna jest twoim drugim domem. Potrafisz wyczuć maszynę, jakby była częścią ciebie. Wiesz, jak omijać zagrożenia, przemycać ładunki i ewakuować ludzi z najgorszych miejsc w galaktyce. Jeśli zapłacą odpowiednio, polecisz wszędzie, nawet w najczarniejszy zakątek kosmosu.
+
+**Ekwipunek** : 2000 kredytów, Skafander Kosmiczny, Pistolet 9mm, Lux (dwie dawki)
+
+**Umiejętności** : Pilotaż, Pilotaż Kosmos, Oprogramowanie, Spostrzegawczość
+
+
+
+<h2>Stare</h2>
+
 
 <h3>AstroGórnik</h3>
 
@@ -56,30 +103,6 @@
 
 **Umiejętności** : Charakter, Intuicja, Oprogramowanie, Wytrzymałość
 
-<h3>Lekarz</h3>
-
-**Opis**: Im lepsze metody wymyślimy na łatanie ludzi tym ludzie znajdą lepsze metody na rozwalanie się na kawałki. Tak długo jak znajdą wszystkie kawałki będziesz w stanie pomóc.
-
-**Ekwipunek** : 2000 kredytów, Paralizator, Narzędzia Medyczne, TraumaPack (3 sztuki)
-
-**Umiejętności** : Intuicja, Biotechnika, Medycyna, Spostrzegawczość
-
-<h3>Mechanik</h3>
-
-**Opis**: Jesteś mistrzem napraw i modyfikacji. Nie ma rzeczy, której nie da się naprawić, jeśli tylko masz odpowiednie narzędzia. Niezależnie od tego, czy to sprzęt w stacji kosmicznej, czy pojazd, zawsze znajdziesz sposób, by przywrócić wszystko do życia.
-
-**Ekwipunek** : 2000 kredytów, Narzędzia (dowolny rodzaj), Strzelba
-
-**Umiejętności** : Siła, Mechanika, Elektronika, Prowadzenie Pojazdów
-
-<h3>Pilot</h3>
-
-**Opis**: Niebo nigdy nie było dla ciebie limitem, a przestrzeń kosmiczna jest twoim drugim domem. Potrafisz wyczuć maszynę, jakby była częścią ciebie. Wiesz, jak omijać zagrożenia, przemycać ładunki i ewakuować ludzi z najgorszych miejsc w galaktyce. Jeśli zapłacą odpowiednio, polecisz wszędzie, nawet w najczarniejszy zakątek kosmosu.
-
-**Ekwipunek** : 2000 kredytów, Skafander Kosmiczny, Pistolet 9mm, Lux (dwie dawki)
-
-**Umiejętności** : Pilotaż, Pilotaż Kosmos, Oprogramowanie, Spostrzegawczość
-
 <h3>Robotnik Kosmiczny</h3>
 
 **Opis**: Byłeś jednym z setek tysięcy anonimowych robotników, którzy trzymają do kupy cały wysiłek kolonizacyjny ludzkości. Spędziłeś niezliczone godziny w próżni kosmicznej łatając panele słoneczne, uszczelniając zbiorniki spawając uszkodzenia po mikro-asteroidach.
@@ -96,10 +119,4 @@
 
 **Umiejętności** : Broń Krótka, Walka Bronią, Sprawność, Kamuflaż
 
-<h3>Weteran</h3>
 
-**Opis**: Masz za sobą służbę w wojsku, gdzie stoczono brutalne bitwy i gdzie nie było miejsca na słabości. Niezależnie od tego, czy walczyłeś w wojnach ziemskich czy kolonialnych, twoje doświadczenie w boju i przetrwaniu sprawia, że stajesz twardo na nogach w każdej sytuacji.
-
-**Ekwipunek** : 1000 kredytów, Falcata, Lekki Pancerz, Nokaina (dwie dawki)
-
-**Umiejętności** : Broń Długa, Charakter, Wytrzymałość, Sprawność
