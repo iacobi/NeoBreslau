@@ -57,9 +57,9 @@
 
 **Umiejętności** : Siła, Mechanika, Elektronika, Prowadzenie Pojazdów
 
-<h3>Weteran</h3>
+<h3>Najemnik</h3>
 
-**Opis**: ?? Masz za sobą służbę w wojsku, gdzie stoczono brutalne bitwy i gdzie nie było miejsca na słabości. Niezależnie od tego, czy walczyłeś w wojnach ziemskich czy kolonialnych, twoje doświadczenie w boju i przetrwaniu sprawia, że stajesz twardo na nogach w każdej sytuacji. ??
+**Opis**: ...
 
 **Ekwipunek** : 1000 kredytów, Pistolet 9mm, Karbin Szturmowy albo Lekki Pancerz, Nokaina (dwie dawki)
 
