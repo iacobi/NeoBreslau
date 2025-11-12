@@ -66,7 +66,7 @@
 
 **Ekwipunek** : 2000 kredytów, Strzelba, Pałka Teleskopowa, Wendigo (dwie dawki)
 
-**Umiejętności** : Siła, Walka Wręcz, Broń Krótka, Wytrzymałość
+**Umiejętności** : Siła, Walka Wręcz, Broń Krótka, Charakter
 
 **Cechy** : Wielki albo Twardziel
 
