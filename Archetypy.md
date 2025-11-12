@@ -1,4 +1,4 @@
-<h2>Archetypy</h2>
+<h2>Archetypy / Rola</h2>
 
 <h3>Detektyw</h3>
 
@@ -59,6 +59,16 @@
 **Umiejętności** : Pilotaż, Pilotaż Kosmos, Oprogramowanie, Spostrzegawczość
 
 **Cechy** : Cała naprzód albo Technik
+
+<h3>Silnoręki</h3>
+
+**Opis**: Ludzkość poleciała w kosmos, ale umiejętność ustawienia ludzi za pomocą kilku ostrych słów albo strzału w pysk jest nadal w cenie.
+
+**Ekwipunek** : 2000 kredytów, Strzelba, Pałka Teleskopowa, Wendigo (dwie dawki)
+
+**Umiejętności** : Siła, Walka Wręcz, Broń Krótka, Wytrzymałość
+
+**Cechy** : Wielki albo Twardziel
 
 <h3>Technik</h3>
 
