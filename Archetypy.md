@@ -20,7 +20,17 @@
 
 **Cechy** : Cwaniak albo Groźny
 
-<h3>Medyk</h3>
+<h3>Idealista_OK</h3>
+
+**Opis**: ...
+
+**Ekwipunek** : 2000 kredytów, Strzelba albo Rewolwer .357
+
+**Umiejętności** : Charakter, Wola, Siła, Spostrzegawczość
+
+**Cechy** : Ego albo Misja
+
+<h3>Medyk_OK</h3>
 
 **Opis**: Im lepsze metody wymyślimy na łatanie ludzi tym ludzie znajdą lepsze metody na rozwalanie się na kawałki. Tak długo jak znajdą wszystkie kawałki będziesz w stanie pomóc.
 
@@ -50,7 +60,7 @@
 
 **Cechy** : brak obowiązkowej
 
-<h3>Pilot</h3>
+<h3>Pilot_OK</h3>
 
 **Opis**: Niebo nigdy nie było dla ciebie limitem, a przestrzeń kosmiczna jest twoim drugim domem. Potrafisz wyczuć maszynę, jakby była częścią ciebie. Wiesz, jak omijać zagrożenia, przemycać ładunki i ewakuować ludzi z najgorszych miejsc w galaktyce. Jeśli zapłacą odpowiednio, polecisz wszędzie, nawet w najczarniejszy zakątek kosmosu.
 
@@ -60,7 +70,7 @@
 
 **Cechy** : Cała naprzód albo Technik
 
-<h3>Silnoręki</h3>
+<h3>Silnoręki_OK</h3>
 
 **Opis**: Ludzkość poleciała w kosmos, ale umiejętność ustawienia ludzi za pomocą kilku ostrych słów albo strzału w pysk jest nadal w cenie.
 
@@ -70,7 +80,7 @@
 
 **Cechy** : Wielki albo Twardziel
 
-<h3>Technik</h3>
+<h3>Technik_OK</h3>
 
 **Opis**: ...
 
@@ -80,7 +90,7 @@
 
 **Cechy** : Spec albo Inżynieria Polowa
 
-<h3>Najemnik</h3>
+<h3>Najemnik_OK</h3>
 
 **Opis**: ...
 
