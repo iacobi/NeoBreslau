@@ -7,7 +7,7 @@ Niektóre zdolności mają alternatywne wersje oznaczone *, nie można mieć jed
 
 **Cała naprzód** : Przerzut do testów sterowania dowolnym pojazdem tak długo jak postać jest w tym pojeżdzie.
 
-**Charyzma** : Przerzut do **Charakteru**.
+**Charyzma** : Przerzut do **Charakteru**. Używasz silnych kostek podczas testów Charakteru.
 >
 >**Cwaniak** : Masz cięty język i zwinne palce. Przerzut do **Charakteru** i **Kradzieży**. Kiedy ukrywasz się w skupiskach ludzi możesz używać Charakteru zamiast Kamuflażu.
 >
