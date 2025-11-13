@@ -28,7 +28,7 @@
 
 **Umiejętności** : Charakter, Wola, Siła, Spostrzegawczość
 
-**Cechy** : Ego albo Misja
+**Cechy** : Charyzma albo Ego
 
 <h3>Medyk_OK</h3>
 
@@ -78,7 +78,7 @@
 
 **Umiejętności** : Siła, Walka Wręcz, Broń Krótka, Charakter
 
-**Cechy** : Wielki albo Twardziel
+**Cechy** : Cwaniak albo Groźny
 
 <h3>Technik_OK</h3>
 
