@@ -7,6 +7,11 @@ Niektóre zdolności mają alternatywne wersje oznaczone *, nie można mieć jed
 
 **Cała naprzód** : Przerzut do testów sterowania dowolnym pojazdem tak długo jak postać jest w tym pojeżdzie.
 
+**Charyzma** : Przerzut do **Charakteru**.
+>
+>**Ego** : Przerzut do **Charakteru** i dwa punkty Siły Woli więcej. Tracisz kostkę z każdego testu **Intuicji**.
+>
+
 **Chirurg** : Przerzut do **Medycyny**. Jeśli postać używa ostrzy może w walce użyć poziomu Medycyny zamiast Siły. Płacąc jeden punkt SW potrafi stworzyć improwizowany TraumaPack pod warunkiem, że ma dostęp do apteki albo dowolnego miejsca gdzie może dostać podstawowe materiały medyczne. Improwizowany TraumaPack musi być użyty natychmiast po stworzeniu i używając go postać traci kostkę z rzutu na Medycynę.
 
 **Cyngiel** : Wyciągnięcie pistoletu albo rewolweru z kabury nie zajmuje akcji. Możesz wykonać trzy szybkie strzały w rundzie używając 4 kostek w rzucie na trafienie. Strzelając ogniem ciągłym zadajesz kostkę obrażeń więcej.
@@ -24,8 +29,6 @@ Niektóre zdolności mają alternatywne wersje oznaczone *, nie można mieć jed
 **Droniarz** : Przerzut do testów **Pilotażu** i **Prowadzenia Pojazdów** kiedy postać steruje dronami. Jesteś tak dobry w obsłudze dron, że nie poświęcasz tury, żeby sterować nimi w walce. Efektywnie postać wykonuje w swojej inicjatywie dwie tury. Jedną dla siebie i jedną dla swojego drona. Jeśli zapłacisz punkt SW możesz wykonać akcje dla wszystkich swoich aktywnych dronów (albo użyć ich do kontry podczas czyjeś tury)
 
 **Dynamiczne Sploty Mięśniowe** : Mięśnie postaci zostały zmodyfikowane tak, żeby generować mnóstwo siły w krótkim impulsie. Potrafi skoczyć pionowo w górę na wysokość w metrach równą Sile. Z solidnego rozbiegu skoczyć w dal na odległość równej podwojonej Sile. Może też całkowicie bezpiecznie spaść z wysokości równej czterokrotnej Sile. Może dostać dodatkową kostkę obrażeń w walce wręcz/bronią lub podczas ataków bronią miotaną jeśli rzuci kostką mniej na trafienie. Jest w stanie uderzyć szybciej i mocniej ale mięśnie potrzebują ułamku sekundy na załadowanie uderzenia co czyni je bardziej przewidywalnym.
-
-**Ego** : Przerzut do **Charakteru** i dwa punkty Siły Woli więcej. Tracisz kostkę z każdego testu **Intuicji** i **Kamuflażu**.
 
 **Farciarz** : Możesz powtórzyć trzy dowolne rzuty na sesji.
 
