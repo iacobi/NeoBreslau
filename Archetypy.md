@@ -1,4 +1,24 @@
-<h2>Archetypy / Rola</h2>
+<h2>Role</h2>
+
+<h3>Cień</h3>
+
+**Opis**: Jesteś bardzo dobry w pozostawaniu niezauważonym
+
+**Ekwipunek** : 2000 kredytów, Pistolet 9mm z tłumikiem, Paralizator, Zestaw Wytrychów
+
+**Umiejętności** : Sprawność, Kamuflaż, Kradzież, Spostrzegawczość
+
+**Cechy** : Złodziej
+
+<h3>Frontman</h3>
+
+**Opis**: ...
+
+**Ekwipunek** : 2000 kredytów, Rewolwer .357 albo Strzelba
+
+**Umiejętności** : Charakter, Wola, Intuicja, Spostrzegawczość
+
+**Cechy** : Charyzma albo Cwaniak
 
 <h3>Medyk</h3>
 
@@ -9,6 +29,16 @@
 **Umiejętności** : Intuicja, Wola, Medycyna, Spostrzegawczość
 
 **Cechy** : Chirurg
+
+<h3>Najemnik</h3>
+
+**Opis**: ...
+
+**Ekwipunek** : 1000 kredytów, Pistolet 9mm, Karbin Szturmowy albo Lekki Pancerz, Speed (2 sztuki)
+
+**Umiejętności** : Broń Długa, Broń Krótka, Sztuka Przetrwania, Wytrzymałość
+
+**Cechy** : Groźny albo Twardziel
 
 <h3>Pilot</h3>
 
@@ -39,67 +69,3 @@
 **Umiejętności** : Oprogramowanie, Mechanika, Elektronika, Prowadzenie Pojazdów
 
 **Cechy** : Spec albo Sprzęg
-
-<h3>Najemnik</h3>
-
-**Opis**: ...
-
-**Ekwipunek** : 1000 kredytów, Pistolet 9mm, Karbin Szturmowy albo Lekki Pancerz, Nokaina (dwie dawki)
-
-**Umiejętności** : Broń Długa, Broń Krótka, Sztuka Przetrwania, Wytrzymałość
-
-**Cechy** : Groźny albo Twardziel
-
-<h3>Idealista/Gwiazda</h3>
-
-**Opis**: ...
-
-**Ekwipunek** : 2000 kredytów, Strzelba albo Rewolwer .357
-
-**Umiejętności** : Charakter, Wola, Intuicja, Spostrzegawczość
-
-**Cechy** : Charyzma albo Cwaniak
-
-<h3>Fantom</h3>
-
-**Opis**: ...
-
-**Ekwipunek** : 2000 kredytów, Strzelba albo Rewolwer .357
-
-**Umiejętności** : Sprawność, Kamuflaż, Kradzież, Spostrzegawczość
-
-**Cechy** : Szpieg albo Złodziej
-
-
-
-
-
-<h3>Detektyw</h3>
-
-**Opis**: Jako detektyw masz talent do rozwiązywania zagadek i odkrywania ukrytych prawd. Czy to w dusznych zaułkach megamiasta, czy na pokładzie orbitalnej stacji, zawsze potrafisz połączyć fakty i znaleźć odpowiedzi tam, gdzie inni widzą tylko chaos. Twoje doświadczenie w pracy z ludźmi i dowodami daje Ci przewagę w śledztwach, a Twoja determinacja pozwala Ci dotrzeć do sedna sprawy.
-
-**Ekwipunek** : 1000 kredytów, Rewolwer .44, Kapelusz, Neon (dwie dawki)
-
-**Umiejętności** : Charakter, Intuicja, Spostrzegawczość, Kamuflaż
-
-**Cechy** : brak obowiązkowej
-
-<h3>Łowca Nagród</h3>
-
-**Opis**: ...
-
-**Ekwipunek** : 1000 kredytów, Paralizator, Pałka Teleskopowa, Tarcza Balistyczna
-
-**Umiejętności** : Walka Wręcz, Broń Krótka, Charakter, Spostrzegawczość
-
-**Cechy** : brak obowiązkowej
-
-<h3>Nomad</h3>
-
-**Opis**: ...
-
-**Ekwipunek** : 1000 kredytów, Narzędzia, Skafander Kosmiczny, Strzelba, TraumaPack
-
-**Umiejętności** : Wytrzymałość, Mechanika, Sztuka Przetrwania, Prowadzenie Pojazdów
-
-**Cechy** : brak obowiązkowej
