@@ -30,16 +30,6 @@
 
 **Cechy** : Chirurg
 
-<h3>Najemnik</h3>
-
-**Opis**: ...
-
-**Ekwipunek** : 1000 kredytów, Pistolet 9mm, Karbin Szturmowy albo Lekki Pancerz, Speed (2 sztuki)
-
-**Umiejętności** : Broń Długa, Broń Krótka, Sztuka Przetrwania, Wytrzymałość
-
-**Cechy** : Groźny albo Twardziel
-
 <h3>Pilot</h3>
 
 **Opis**: ...
@@ -69,3 +59,13 @@
 **Umiejętności** : Oprogramowanie, Mechanika, Elektronika, Prowadzenie Pojazdów
 
 **Cechy** : Spec albo Sprzęg
+
+<h3>Weteran</h3>
+
+**Opis**: Walka to jedyna rzecz, która się liczy i jedyny moment kiedy czujesz, że żyjesz.
+
+**Ekwipunek** : 1000 kredytów, Pistolet 9mm, Karbin Szturmowy albo Lekki Pancerz, Speed (2 sztuki)
+
+**Umiejętności** : Broń Długa, Broń Krótka, Sztuka Przetrwania, Wytrzymałość
+
+**Cechy** : Groźny albo Twardziel
