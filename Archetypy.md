@@ -68,7 +68,7 @@
 
 **Umiejętności** : Sprawność, Kamuflaż, Kradzież, Spostrzegawczość
 
-**Cechy** : Złodziej
+**Cechy** : Fantom albo Złodziej
 
 
 
