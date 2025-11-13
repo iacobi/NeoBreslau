@@ -60,7 +60,7 @@
 
 **Cechy** : Charyzma albo Cwaniak
 
-<h3>Szpieg</h3>
+<h3>Fantom</h3>
 
 **Opis**: ...
 
@@ -68,7 +68,7 @@
 
 **Umiejętności** : Sprawność, Kamuflaż, Kradzież, Spostrzegawczość
 
-**Cechy** : Fantom albo Złodziej
+**Cechy** : Szpieg albo Złodziej
 
 
 
