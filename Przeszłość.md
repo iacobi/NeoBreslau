@@ -88,9 +88,9 @@
 
 **Umiejętności** : Sprawność, Mechanika, Oprogramowanie, Pilotaż Kosmos
 
-<h3>Ronin</h3>
+<h3>Najemnik</h3>
 
-**Opis**: Korporacyjny najemnik, wykonujący brudną robotę tam, gdzie liczy się efektywność, a nie zasady. Zwinny w walce i zawsze gotowy do działań w cieniu, jesteś idealnym rozwiązaniem w sytuacjach, w których inne opcje zawiodły.
+**Opis**: ...
 
 **Ekwipunek** : 2000 kredytów, Pistolet Maszynowy 10mm albo Katana, Lekki Pancerz, Granat Pyłowy, Blitz (dwie dawki)
 
@@ -100,6 +100,6 @@
 
 **Opis**: Masz za sobą służbę w wojsku, gdzie stoczono brutalne bitwy i gdzie nie było miejsca na słabości. Niezależnie od tego, czy walczyłeś w wojnach ziemskich czy kolonialnych, twoje doświadczenie w boju i przetrwaniu sprawia, że stajesz twardo na nogach w każdej sytuacji.
 
-**Ekwipunek** : 1000 kredytów, Falcata, Lekki Pancerz, Nokaina (dwie dawki)
+**Ekwipunek** : 1000 kredytów, Pistolet 9mm, Karabin Szturmowy albo Lekki Pancerz, Nokaina (dwie dawki)
 
 **Umiejętności** : Broń Długa, Charakter, Wytrzymałość, Sprawność
