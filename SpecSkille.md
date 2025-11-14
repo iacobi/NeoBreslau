@@ -1,12 +1,13 @@
 <h2>Cechy</h2>
 
-Niektóre cechy wykluczają się wzajemnie. Są umieszczone w jednej grupi i oznaczone oznaczone \*. Np. postać nie może jednocześnie posiadać cech **Nożownik** i **Kensei**
+Niektóre cechy wykluczają się wzajemnie. Są umieszczone obok siebie i oznaczone oznaczone \*. Np. postać nie może jednocześnie posiadać cech **Nożownik** i **Kensei**
 <hr>
 
 **Analityk** : Przerzut do **Spostrzegawczości** ???
 
 **Cała naprzód** : Przerzut do testów sterowania dowolnym pojazdem tak długo jak postać jest w tym pojeżdzie.
 
+**\> Cechy związane z umiejętnościami społecznymi**
 >
 >**\*Cwaniak** : Masz cięty język i zwinne palce. Przerzut do **Charakteru** i **Kradzieży**. Kiedy ukrywasz się w skupiskach ludzi możesz używać Charakteru zamiast Kamuflażu.
 >
@@ -15,6 +16,7 @@ Niektóre cechy wykluczają się wzajemnie. Są umieszczone w jednej grupi i ozn
 
 **Chirurg** : Przerzut do **Medycyny**. Jeśli postać używa ostrzy może w walce użyć poziomu Medycyny zamiast Siły. Płacąc jeden punkt SW potrafi stworzyć improwizowany TraumaPack pod warunkiem, że ma dostęp do apteki albo dowolnego miejsca gdzie może dostać podstawowe materiały medyczne. Improwizowany TraumaPack musi być użyty natychmiast po stworzeniu i używając go postać traci kostkę z rzutu na Medycynę.
 
+**\> Cechy związane ze strzelaniem**
 >
 >**\*Cyngiel** : Wyciągnięcie pistoletu albo rewolweru z kabury nie zajmuje akcji. Możesz wykonać trzy szybkie strzały w rundzie używając 4 kostek w rzucie na trafienie. Strzelając ogniem ciągłym zadajesz kostkę obrażeń więcej.
 >
@@ -33,6 +35,7 @@ Niektóre cechy wykluczają się wzajemnie. Są umieszczone w jednej grupi i ozn
 
 **Kameleon** : Płacąc jeden punkt SW potrafisz zmienić swój wygląd - kolor i długość włosów, kolor oczu, barwę głosu. Wizualnie potrafisz nawet udawać inny wzrost albo wagę (bez przesady). Gracz kupując cechę wybiera czy jest to makijaż i postać nosi ze sobą zaawansowany zestaw do charakteryzacji czy cybertechnologia. 
 
+**\> Cechy związane z walką bronią**
 >
 >**\*Kensei** : Kiedy używasz dowolnych ostrzy testy **Walka Bronia**  wykonujesz silnymi kostkami zamiast zwykłych. Masz też swoją jedną ulubioną broń - postać wyciąga tą broń tak szybko i sprawnie, że jest traktowana jakby zawsze była w dłoni postaci. >Korzystając z niej podczas szybkich ataków może wybrać czy chce dodatkową kostkę w rzucie na trafienie, czy w rzucie na obrażenia. Może zmienić swoją ulubioną broń między sesjami ale na jednej sesji może mieć tylko jedną ulubioną broń.
 >
@@ -45,6 +48,7 @@ Niektóre cechy wykluczają się wzajemnie. Są umieszczone w jednej grupi i ozn
 
 **Regeneracja** : Raz podczas sesji możesz całkowice zregenrować swoją Żywotność.
 
+**\> Cechy związane z kamuflażem**
 >
 >**\*Snajper** : Przerzut do **Kamuflażu**. Jeden przerzut podczas strzałów mierzonych.
 >
