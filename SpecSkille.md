@@ -1,6 +1,6 @@
-<h2>Zdolności</h2>
+<h2>Cechy</h2>
 
-Niektóre zdolności mają alternatywne wersje oznaczone *, nie można mieć jednocześnie wersji podstawowej i alternatywnej. Np. postać musi wybrać czy chce zaletę **Cwaniak** czy **Silnoręki**
+Niektóre cechy wykluczają się wzajemnie - jeśli weźmierz Cwaniak nie możesz zabrać Charyzmy albo Groźnego
 <hr>
 
 **Analityk** : Przerzut do **Spostrzegawczości** ???
