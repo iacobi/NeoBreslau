@@ -1,28 +1,22 @@
 <h2>Cechy</h2>
 
-Niektóre cechy wykluczają się wzajemnie. Są umieszczone obok siebie i oznaczone oznaczone \*. Np. postać nie może jednocześnie posiadać cech **Nożownik** i **Kensei**
+Niektóre cechy wykluczają się wzajemnie np. **Nożownik** i **Kensei**
 <hr>
 
 **Analityk** : Przerzut do **Spostrzegawczości** ???
 
 **Cała naprzód** : Przerzut do testów sterowania dowolnym pojazdem tak długo jak postać jest w tym pojeżdzie.
 
-**\> Cechy związane z umiejętnościami społecznymi**
+**Cwaniak** : Masz cięty język i zwinne palce. Przerzut do **Charakteru** i **Kradzieży**. Kiedy ukrywasz się w skupiskach ludzi możesz używać Charakteru zamiast Kamuflażu.
 >
->**\*Cwaniak** : Masz cięty język i zwinne palce. Przerzut do **Charakteru** i **Kradzieży**. Kiedy ukrywasz się w skupiskach ludzi możesz używać Charakteru zamiast Kamuflażu.
+>**Silnoręki** (zamiast cechy **Cwaniak**) : Potrafisz ustawiać sobie ludzi. W większości przypadków wystaczy kilka ostrych słów albo strzału w pysk żeby tańczyli jak im zagrasz. Przerzut do **Charakteru** i **Walki Wręcz**.
 >
->**\*Silnoręki** : Potrafisz ustawiać ludzi za pomocą kilku ostrych słów albo strzału w pysk jeśli trzeba. Przerzut do **Charakteru** i **Walki Wręcz**.
->
-
 **Chirurg** : Przerzut do **Medycyny**. Jeśli postać używa ostrzy może w walce użyć poziomu Medycyny zamiast Siły. Płacąc jeden punkt SW potrafi stworzyć improwizowany TraumaPack pod warunkiem, że ma dostęp do apteki albo dowolnego miejsca gdzie może dostać podstawowe materiały medyczne. Improwizowany TraumaPack musi być użyty natychmiast po stworzeniu i używając go postać traci kostkę z rzutu na Medycynę.
 
-**\> Cechy związane ze strzelaniem**
+**Cyngiel** : Wyciągnięcie pistoletu albo rewolweru z kabury nie zajmuje akcji. Możesz wykonać trzy szybkie strzały w rundzie używając 4 kostek w rzucie na trafienie. Strzelając ogniem ciągłym zadajesz kostkę obrażeń więcej.
 >
->**\*Cyngiel** : Wyciągnięcie pistoletu albo rewolweru z kabury nie zajmuje akcji. Możesz wykonać trzy szybkie strzały w rundzie używając 4 kostek w rzucie na trafienie. Strzelając ogniem ciągłym zadajesz kostkę obrażeń więcej.
+>**Kowboj** (zamiast cechy **Cyngiel**) : Wyciągnięcie rewolweru z kabury nie zajmuje akcji. Przerzut do **Broń Krótka** kiedy strzelasz z rewolwerów.
 >
->**\*Kowboj** : Wyciągnięcie rewolweru z kabury nie zajmuje akcji. Przerzut do **Broń Krótka** kiedy strzelasz z rewolwerów.
->
-
 **Droniarz** : Przerzut do testów **Pilotażu** i **Prowadzenia Pojazdów** kiedy postać steruje dronami. Jesteś tak dobry w obsłudze dron, że nie poświęcasz tury, żeby sterować nimi w walce. Efektywnie postać wykonuje w swojej inicjatywie dwie tury. Jedną dla siebie i jedną dla swojego drona. Jeśli zapłacisz punkt SW możesz wykonać akcje dla wszystkich swoich aktywnych dronów (albo użyć ich do kontry podczas czyjeś tury)
 
 **Dynamiczne Sploty Mięśniowe** : Mięśnie postaci zostały zmodyfikowane tak, żeby generować mnóstwo siły w krótkim impulsie. Potrafi skoczyć pionowo w górę na wysokość w metrach równą Sile. Z solidnego rozbiegu skoczyć w dal na odległość równej podwojonej Sile. Może też całkowicie bezpiecznie spaść z wysokości równej czterokrotnej Sile. Może dostać dodatkową kostkę obrażeń w walce wręcz/bronią lub podczas ataków bronią miotaną jeśli rzuci kostką mniej na trafienie. Jest w stanie uderzyć szybciej i mocniej ale mięśnie potrzebują ułamku sekundy na załadowanie uderzenia co czyni je bardziej przewidywalnym.
@@ -35,11 +29,10 @@ Niektóre cechy wykluczają się wzajemnie. Są umieszczone obok siebie i oznacz
 
 **Kameleon** : Płacąc jeden punkt SW potrafisz zmienić swój wygląd - kolor i długość włosów, kolor oczu, barwę głosu. Wizualnie potrafisz nawet udawać inny wzrost albo wagę (bez przesady). Gracz kupując cechę wybiera czy jest to makijaż i postać nosi ze sobą zaawansowany zestaw do charakteryzacji czy cybertechnologia. 
 
-**\> Cechy związane z walką bronią**
+
+**Nożownik** : Masz niemal nadnaturalny talent do posługiwania się nożami. Nigdy nie tracisz akcji wyciągając nóż, nawet jeśli schowany jest głęboko pod ubraniem. Kiedy używasz noży w rzutach na trafienie używasz silnych kostek zamiast zwykłych. Płacąc jeden punkt SW jesteś w stanie w każdej sytuacji wydobyć jeden schowany nóż, nawet jeśli wcześniej byłeś kilkukrtonie przesłuchany, rozbebrany do naga i przywiązany do krzesła. Postać ma też swój jeden ulubiony wielki nóż, który zadaje silne kostki obrażeń zamiast zwykłych.
 >
->**\*Kensei** : Kiedy używasz dowolnych ostrzy testy **Walka Bronia**  wykonujesz silnymi kostkami zamiast zwykłych. Masz też swoją jedną ulubioną broń - postać wyciąga tą broń tak szybko i sprawnie, że jest traktowana jakby zawsze była w dłoni postaci. >Korzystając z niej podczas szybkich ataków może wybrać czy chce dodatkową kostkę w rzucie na trafienie, czy w rzucie na obrażenia. Może zmienić swoją ulubioną broń między sesjami ale na jednej sesji może mieć tylko jedną ulubioną broń.
->
->**\*Nożownik** : Masz niemal nadnaturalny talent do posługiwania się nożami. Nigdy nie tracisz akcji wyciągając nóż, nawet jeśli schowany jest głęboko pod ubraniem. Kiedy używasz noży w rzutach na trafienie używasz silnych kostek zamiast zwykłych. Płacąc jeden punkt SW jesteś w stanie w każdej sytuacji wydobyć jeden schowany nóż, nawet jeśli wcześniej byłeś kilkukrtonie przesłuchany, rozbebrany do naga i przywiązany do krzesła. Postać ma też swój jeden ulubiony wielki nóż, który zadaje silne kostki obrażeń zamiast zwykłych.
+>**Kensei** (zamiast cechy **Nożownik**) : Kiedy używasz dowolnych ostrzy testy **Walka Bronia**  wykonujesz silnymi kostkami zamiast zwykłych. Masz też swoją jedną ulubioną broń - postać wyciąga tą broń tak szybko i sprawnie, że jest traktowana jakby zawsze była w dłoni postaci. Korzystając z niej podczas szybkich ataków może wybrać czy chce dodatkową kostkę w rzucie na trafienie, czy w rzucie na obrażenia. Może zmienić swoją ulubioną broń między sesjami ale na jednej sesji może mieć tylko jedną ulubioną broń.
 >
 
 **MonoStruny** : Superwytrzymałe struny mogą służyć do cięcia, obezwładniania albo jako prowizoryczna lina. W walce traktowane są jako broń dwuręczna z dwoma przerzutami zadająca zwykłe 4 kostki obrażeń. Postać wybiera czy używa **Walki Wręcz** czy **Walki Bronią** jako swojej umiejętności. Struna jest również w stanie utrzymać Twój ciężar i obwiązać się wokół przedmiotów w odległości 10 metrów. Ten dodatkowy zasięg można wykorzystać tylko do wspianania się albo łapania przedmiotów w walce zasięg struny jest identyczny jak każdej innej broni białej.
@@ -48,13 +41,10 @@ Niektóre cechy wykluczają się wzajemnie. Są umieszczone obok siebie i oznacz
 
 **Regeneracja** : Raz podczas sesji możesz całkowice zregenrować swoją Żywotność.
 
-**\> Cechy związane z kamuflażem**
+**Snajper** : Przerzut do **Kamuflażu**. Jeden przerzut podczas strzałów mierzonych.
 >
->**\*Snajper** : Przerzut do **Kamuflażu**. Jeden przerzut podczas strzałów mierzonych.
+>**Łowca** (zamiast cechy **Snajper**) : Przerzut do **Kamuflażu** i **Sztuki Przetrwania**.
 >
->**\*Łowca** : Przerzut do **Kamuflażu** i **Sztuki Przetrwania**.
->
-
 **Sprzęg** : Pozwala postaci korzystać z cybersprzętu (cyberoptyka, smartowane pojazdy, lepsza elektronika itd itp.) Zazwyczaj oznacza to wykonywanie testu umięjętności silnymi kostkami zamiast zwykłych. Sprzęg działa też jako wbudowany telefon i komputer. Jeśli postać ma swobodny dostęp do sieci może wydać punkt SW i za pomocą sprzęgu wgrać sobie repozytorum wiedzy do dowolnej umiejętności i używać tej umiejętności z poziomem równym 4. Dotyczy to również czysto fizycznych umiejętności jak np. walka wręcz i siła - repozytorium wymusi na układzie nerwowym i mięśniowym pracę ponad swoje normalne normy. Podniesione umiejętności wracają do normy po tym jak postać straci przytomność. Jedynym limitem w ilości użycia repozytorium jest ilośc punktów SW, które postać może wydać.
 
 **Spec** : Przerzut do **Elektroniki** i **Mechaniki**.
