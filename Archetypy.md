@@ -1,15 +1,5 @@
 <h2>Role</h2>
 
-<h3>Cień</h3>
-
-**Opis**: Jesteś bardzo dobry w pozostawaniu niezauważonym
-
-**Ekwipunek** : 2000 kredytów, Pistolet 9mm z tłumikiem, Paralizator, Zestaw Wytrychów
-
-**Umiejętności** : Sprawność, Kamuflaż, Kradzież, Spostrzegawczość
-
-**Cechy** : Złodziej
-
 <h3>Frontman</h3>
 
 **Opis**: ...
@@ -29,6 +19,16 @@
 **Umiejętności** : Intuicja, Wola, Medycyna, Spostrzegawczość
 
 **Cechy** : Chirurg
+
+<h3>Outsider</h3>
+
+**Opis**: ...
+
+**Ekwipunek** : 2000 kredytów, Pistolet 9mm, Paralizator, Zestaw Wytrychów
+
+**Umiejętności** : Sprawność, Kamuflaż, Kradzież, Spostrzegawczość
+
+**Cechy** : Złodziej
 
 <h3>Pilot</h3>
 
