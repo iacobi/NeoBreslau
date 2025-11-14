@@ -1,6 +1,6 @@
 <h2>Cechy</h2>
 
-Niektóre cechy wykluczają się wzajemnie np. **Nożownik** i **Kensei**
+Niektóre cechy wykluczają się wzajemnie np. **Cwaniak** i **Silnoręki**
 <hr>
 
 **Analityk** : Przerzut do **Spostrzegawczości** ???
@@ -9,7 +9,7 @@ Niektóre cechy wykluczają się wzajemnie np. **Nożownik** i **Kensei**
 
 **Cwaniak** : Masz cięty język i zwinne palce. Przerzut do **Charakteru** i **Kradzieży**. Kiedy ukrywasz się w skupiskach ludzi możesz używać Charakteru zamiast Kamuflażu.
 >
->**Silnoręki** (zamiast cechy **Cwaniak**) : Potrafisz ustawiać sobie ludzi. W większości przypadków wystaczy kilka ostrych słów albo strzału w pysk żeby tańczyli jak im zagrasz. Przerzut do **Charakteru** i **Walki Wręcz**.
+>**Silnoręki** (zamiast cechy **Cwaniak**) : Umiesz ustawić sobie ludzi. Wystaczy twardy charakter, kilka ostrych słów albo strzału w pysk żeby tańczyli jak im zagrasz. Przerzut do **Charakteru** i **Walki Wręcz**.
 >
 **Chirurg** : Przerzut do **Medycyny**. Jeśli postać używa ostrzy może w walce użyć poziomu Medycyny zamiast Siły. Płacąc jeden punkt SW potrafi stworzyć improwizowany TraumaPack pod warunkiem, że ma dostęp do apteki albo dowolnego miejsca gdzie może dostać podstawowe materiały medyczne. Improwizowany TraumaPack musi być użyty natychmiast po stworzeniu i używając go postać traci kostkę z rzutu na Medycynę.
 
@@ -32,7 +32,7 @@ Niektóre cechy wykluczają się wzajemnie np. **Nożownik** i **Kensei**
 
 **Nożownik** : Masz niemal nadnaturalny talent do posługiwania się nożami. Nigdy nie tracisz akcji wyciągając nóż, nawet jeśli schowany jest głęboko pod ubraniem. Kiedy używasz noży w rzutach na trafienie używasz silnych kostek zamiast zwykłych. Płacąc jeden punkt SW jesteś w stanie w każdej sytuacji wydobyć jeden schowany nóż, nawet jeśli wcześniej byłeś kilkukrtonie przesłuchany, rozbebrany do naga i przywiązany do krzesła. Postać ma też swój jeden ulubiony wielki nóż, który zadaje silne kostki obrażeń zamiast zwykłych.
 >
->**Kensei** (zamiast cechy **Nożownik**) : Kiedy używasz dowolnych ostrzy testy **Walka Bronia**  wykonujesz silnymi kostkami zamiast zwykłych. Masz też swoją jedną ulubioną broń - postać wyciąga tą broń tak szybko i sprawnie, że jest traktowana jakby zawsze była w dłoni postaci. Korzystając z niej podczas szybkich ataków może wybrać czy chce dodatkową kostkę w rzucie na trafienie, czy w rzucie na obrażenia. Może zmienić swoją ulubioną broń między sesjami ale na jednej sesji może mieć tylko jedną ulubioną broń.
+>**Fechtmistrz** (zamiast cechy **Nożownik**) : Kiedy używasz dowolnych ostrzy testy **Walka Bronia**  wykonujesz silnymi kostkami zamiast zwykłych. Masz też swoją jedną ulubioną broń - postać wyciąga tą broń tak szybko i sprawnie, że jest traktowana jakby zawsze była w dłoni postaci. Korzystając z niej podczas szybkich ataków może wybrać czy chce dodatkową kostkę w rzucie na trafienie, czy w rzucie na obrażenia. Może zmienić swoją ulubioną broń między sesjami ale na jednej sesji może mieć tylko jedną ulubioną broń.
 >
 
 **MonoStruny** : Superwytrzymałe struny mogą służyć do cięcia, obezwładniania albo jako prowizoryczna lina. W walce traktowane są jako broń dwuręczna z dwoma przerzutami zadająca zwykłe 4 kostki obrażeń. Postać wybiera czy używa **Walki Wręcz** czy **Walki Bronią** jako swojej umiejętności. Struna jest również w stanie utrzymać Twój ciężar i obwiązać się wokół przedmiotów w odległości 10 metrów. Ten dodatkowy zasięg można wykorzystać tylko do wspianania się albo łapania przedmiotów w walce zasięg struny jest identyczny jak każdej innej broni białej.
@@ -41,7 +41,7 @@ Niektóre cechy wykluczają się wzajemnie np. **Nożownik** i **Kensei**
 
 **Regeneracja** : Raz podczas sesji możesz całkowice zregenrować swoją Żywotność.
 
-**Snajper** : Przerzut do **Kamuflażu**. Jeden przerzut podczas strzałów mierzonych.
+**Snajper** : Przerzut do **Kamuflażu**. Przerzut do **Broni Długiej** ale wyłącznie podczas strzałów mierzonych.
 >
 >**Łowca** (zamiast cechy **Snajper**) : Przerzut do **Kamuflażu** i **Sztuki Przetrwania**.
 >
