@@ -7,9 +7,11 @@ Niektóre cechy wykluczają się wzajemnie np. **Cwaniak** i **Silnoręki**
 
 **Cała naprzód** : Przerzut do testów sterowania dowolnym pojazdem tak długo jak postać jest w tym pojeżdzie.
 
-**Cwaniak** : Masz cięty język i zwinne palce. Przerzut do **Charakteru** i **Kradzieży**. Kiedy ukrywasz się w skupiskach ludzi możesz używać Charakteru zamiast Kamuflażu.
+**Charyzma** : Przerzut do **Charakteru** i **Intuicji**.
 >
->**Silnoręki** (zamiast cechy **Cwaniak**) : Umiesz ustawić sobie ludzi. Wystaczy twardy charakter, kilka ostrych słów albo strzału w pysk żeby tańczyli jak im zagrasz. Przerzut do **Charakteru** i **Walki Wręcz**.
+>**Cwaniak** (zamiast cechy **Charyzma**) : Masz cięty język i zwinne palce. Przerzut do **Charakteru** i **Kradzieży**. Kiedy ukrywasz się w skupiskach ludzi możesz używać Charakteru zamiast Kamuflażu.
+>
+>**Silnoręki** (zamiast cechy **Charyzma**) : Umiesz ustawić sobie ludzi. Wystaczy twardy charakter, kilka ostrych słów albo strzału w pysk żeby tańczyli jak im zagrasz. Przerzut do **Charakteru** i **Walki Wręcz**.
 >
 **Chirurg** : Przerzut do **Medycyny**. Jeśli postać używa ostrzy może w walce użyć poziomu Medycyny zamiast Siły. Płacąc jeden punkt SW potrafi stworzyć improwizowany TraumaPack pod warunkiem, że ma dostęp do apteki albo dowolnego miejsca gdzie może dostać podstawowe materiały medyczne. Improwizowany TraumaPack musi być użyty natychmiast po stworzeniu i używając go postać traci kostkę z rzutu na Medycynę.
 
@@ -21,12 +23,9 @@ Niektóre cechy wykluczają się wzajemnie np. **Cwaniak** i **Silnoręki**
 
 **Farciarz** : Możesz powtórzyć trzy dowolne rzuty na sesji.
 
-**Instynkt** : Przerzut do **Intuicji**. Masz nadnaturalną zdolność wyczuwania zagrożenia. Za punkt SW możesz kupić jeden dodatkowy unik w rundzie, który używa **Intuicji** zamiast **Sprawności**. Możesz go wykorzystać przeciwko dowolnemu atakowi, również atakom broni palnej pod warunkiem, że widzisz atakującą osobę.
-
 **Inżynieria Polowa** : Przerzut do **Mechaniki** i **Sztuki Przetrwania**. Jesteś bardzo dobry w improwizowaniu. Zawsze masz przy sobie drobne przedmioty jak zapałki, śrubki i małe narzędzia jak pilnik albo śrubokręt schowane w kieszeniach ubrania. Jeśli zapłacisz punkt SW, możesz wyciągnąć bardziej skomplikowane części zamienne, narzędzia albo zapasową amunicje pod warunkiem, że można je upchnąć w ubraniu. Jeśli masz dostęp do zwykłego gospodarstwa domowego możesz zapłącić punkt SW, żeby złożyć granat. Jeśli masz dostęp do warsztatu możesz złożyć improwizowany pistolet maszynowy albo strzelbę. Broń jest jednorazowa i po opróżnieniu magazynka nie da się już jej naprawić ani przeładować.
 
 **Kameleon** : Płacąc jeden punkt SW potrafisz zmienić swój wygląd - kolor i długość włosów, kolor oczu, barwę głosu. Wizualnie potrafisz nawet udawać inny wzrost albo wagę (bez przesady). Gracz kupując cechę wybiera czy jest to makijaż i postać nosi ze sobą zaawansowany zestaw do charakteryzacji czy cybertechnologia. 
-
 
 **Nożownik** : Masz niemal nadnaturalny talent do posługiwania się nożami. Nigdy nie tracisz akcji wyciągając nóż, nawet jeśli schowany jest głęboko pod ubraniem. Kiedy używasz noży w rzutach na trafienie używasz silnych kostek zamiast zwykłych. Płacąc jeden punkt SW jesteś w stanie w każdej sytuacji wydobyć jeden schowany nóż, nawet jeśli wcześniej byłeś kilkukrtonie przesłuchany, rozbebrany do naga i przywiązany do krzesła. Postać ma też swój jeden ulubiony wielki nóż, który zadaje silne kostki obrażeń zamiast zwykłych.
 >
