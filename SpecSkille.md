@@ -1,9 +1,7 @@
 <h2>Cechy</h2>
 
-Niektóre cechy wykluczają się wzajemnie np. **Cyngiel** i **Kowboj**
+Jeśli opis na to pozwala gracz wybiera czy cechy to naturalne wrodzone zdolności, czy wynik implantów, modyfikacji genetycznych lub cokolwiek pośrodku. Np. postać może urodzić sie jako **Wielka** albo poddać się modyfikacją później w kampanii. Niektóre cechy wykluczają się wzajemnie np. **Cyngiel** i **Kowboj**
 <hr>
-
-**Analityk** : Przerzut do **Spostrzegawczości** ???
 
 **Cała naprzód** : Przerzut do testów sterowania dowolnym pojazdem tak długo jak postać jest w tym pojeżdzie.
 
@@ -32,7 +30,7 @@ Niektóre cechy wykluczają się wzajemnie np. **Cyngiel** i **Kowboj**
 >**Fechtmistrz** (zamiast cechy **Nożownik**) : Kiedy używasz dowolnych ostrzy testy **Walka Bronia**  wykonujesz silnymi kostkami zamiast zwykłych. Masz też swoją jedną ulubioną broń - postać wyciąga tą broń tak szybko i sprawnie, że jest traktowana jakby zawsze była w dłoni postaci. Korzystając z niej podczas szybkich ataków może wybrać czy chce dodatkową kostkę w rzucie na trafienie, czy w rzucie na obrażenia. Może zmienić swoją ulubioną broń między sesjami ale na jednej sesji może mieć tylko jedną ulubioną broń.
 >
 
-**MonoStruny** : Superwytrzymałe struny mogą służyć do cięcia, obezwładniania albo jako prowizoryczna lina. W walce traktowane są jako broń dwuręczna z dwoma przerzutami zadająca zwykłe 4 kostki obrażeń. Postać wybiera czy używa **Walki Wręcz** czy **Walki Bronią** jako swojej umiejętności. Struna jest również w stanie utrzymać Twój ciężar i obwiązać się wokół przedmiotów w odległości 10 metrów. Ten dodatkowy zasięg można wykorzystać tylko do wspianania się albo łapania przedmiotów w walce zasięg struny jest identyczny jak każdej innej broni białej.
+**MonoStruny** : Superwytrzymałe struny mogą służyć do cięcia, obezwładniania albo jako prowizoryczna lina. W walce traktowane są jako broń dwuręczna z dwoma przerzutami zadająca zwykłe 4 kostki obrażeń. Postać wybiera czy używa **Walki Wręcz** czy **Walki Bronią** jako swojej umiejętności. Struna jest również w stanie utrzymać Twój ciężar i obwiązać się wokół przedmiotów w odległości 10 metrów. Ten dodatkowy zasięg można wykorzystać tylko do wspianania się albo łapania przedmiotów w walce zasięg struny jest identyczny jak każdej innej broni białej. Gracz może wybrać czy monostruny to implant, czy tylko przedmiot używany przez postać.
 
 **Pancerz Wewnętrzny** : Postać ma jeden punkt pancerza, który kumuluje się z noszonym pancerzem zewnętrznym. Z powodu masy postaci trwale **traci jedną kostkę** z każdego testu **Sprawności** i nie dostajesz dodatkowych kostek do rzutu na inicjatywę.
 
