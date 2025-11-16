@@ -44,9 +44,15 @@ Niektóre cechy wykluczają się wzajemnie np. **Cwaniak** i **Silnoręki**
 >
 **Sprzęg** : Pozwala postaci korzystać z cybersprzętu (cyberoptyka, smartowane pojazdy, lepsza elektronika itd itp.) Zazwyczaj oznacza to wykonywanie testu umięjętności silnymi kostkami zamiast zwykłych. Sprzęg działa też jako wbudowany telefon i komputer.
 
+**Sprzęg** : Pozwala postaci korzystać z cybersprzętu (cyberoptyka, smartowane pojazdy, lepsza elektronika itd itp.) Zazwyczaj oznacza to wykonywanie testu umięjętności silnymi kostkami zamiast zwykłych. Sprzęg działa też jako wbudowany telefon i komputer.
+
+**Sprzęg Bojowy** : **Pozwala korzystać z cyberspzętu**. Rzucasz dodatkową kostką na inicjatywę.
+
+**Sprzęg Techniczny** : **Pozwala korzystać z cybersprzętu**. Repozytorium
+
 **Spec** : Przerzut do **Elektroniki** i **Mechaniki**.
 
-**Szybki** : Przerzut do **Sprawności**, dodatkowa kostka do rzutu na inicjatywę (wybierasz lepszą).
+**Szybki** : Przerzut do **Sprawności**, możesz zapłacić punkt SW, żeby dostać drugi unik w rundzie.
 
 **Twardziel**: Przerzut do każdego testu **Wytrzymałości**. **Próg Bólu** jest podniesiony o punkt, a **Żywotność** o dwa punkty
 
