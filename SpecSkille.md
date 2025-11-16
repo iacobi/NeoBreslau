@@ -1,6 +1,6 @@
 <h2>Cechy</h2>
 
-Niektóre cechy wykluczają się wzajemnie np. **Cwaniak** i **Silnoręki**
+Niektóre cechy wykluczają się wzajemnie np. **Cyngiel** i **Kowboj**
 <hr>
 
 **Analityk** : Przerzut do **Spostrzegawczości** ???
@@ -10,9 +10,7 @@ Niektóre cechy wykluczają się wzajemnie np. **Cwaniak** i **Silnoręki**
 **Charyzma** : Przerzut do **Charakteru** i **Intuicji**.
 >
 >**Cwaniak** (zamiast cechy **Charyzma**) : Masz cięty język i zwinne palce. Przerzut do **Charakteru** i **Kradzieży**. Kiedy ukrywasz się w skupiskach ludzi możesz używać Charakteru zamiast Kamuflażu.
->
->**Silnoręki** (zamiast cechy **Charyzma**) : Umiesz ustawić sobie ludzi. Wystaczy twardy charakter, kilka ostrych słów albo strzału w pysk żeby tańczyli jak im zagrasz. Przerzut do **Charakteru** i **Walki Wręcz**.
->
+
 **Chirurg** : Przerzut do **Medycyny**. Jeśli postać używa ostrzy może w walce użyć poziomu Medycyny zamiast Siły. Płacąc jeden punkt SW potrafi stworzyć improwizowany TraumaPack pod warunkiem, że ma dostęp do apteki albo dowolnego miejsca gdzie może dostać podstawowe materiały medyczne. Improwizowany TraumaPack musi być użyty natychmiast po stworzeniu i używając go postać traci kostkę z rzutu na Medycynę.
 
 **Cyngiel** : Wyciągnięcie pistoletu albo rewolweru z kabury nie zajmuje akcji. Możesz wykonać trzy szybkie strzały w rundzie używając 4 kostek w rzucie na trafienie. Strzelając ogniem ciągłym zadajesz kostkę obrażeń więcej.
@@ -38,6 +36,8 @@ Niektóre cechy wykluczają się wzajemnie np. **Cwaniak** i **Silnoręki**
 
 **Regeneracja** : Raz podczas sesji możesz całkowice zregenrować swoją Żywotność.
 
+**Silnoręki** : Przerzut do **Walki Wręcz**. Nie tracisz kostki kiedy nieuzbrojony atakujesz uzbrojonych ludzi. Możesz użyć **Siły** postaci zamiast **Charakteru** do testów zastraszania ale tylko w warunkach gdzie Twoja postać jest w stanie uderzyć zastraszaną osobę. Nie musi fizycznie atakować zastraszanego ale sama możliwosć wystarczy.
+
 **Snajper** : Przerzut do **Kamuflażu**. Przerzut do **Broni Długiej** ale wyłącznie podczas strzałów mierzonych.
 >
 >**Łowca** (zamiast cechy **Snajper**) : Przerzut do **Kamuflażu** i **Sztuki Przetrwania**.
@@ -53,7 +53,7 @@ Niektóre cechy wykluczają się wzajemnie np. **Cwaniak** i **Silnoręki**
 
 **Twardziel**: Przerzut do każdego testu **Wytrzymałości**. **Próg Bólu** jest podniesiony o punkt, a **Żywotność** o dwa punkty
 
-**Wielki** : **Siła** postaci jest o jeden wyższa niż wynika to z normalnych zasad. **Żywotność** postaci jest wyższa o punkt. Ignorujesz Odrzut i Nieporęczność broni. Jeśli próbujesz kogoś zastraszyć możesz użyć swojej Siły zamiast Charakteru pod warunkiem, że jesteś w stanie fizycznie go dotknąć. Wystarczy sama możliwość dotknięcia, zastraszanie nadal może być wyłącznie słowne.
+**Wielki** : **Siła** postaci jest o jeden wyższa niż wynika to z normalnych zasad. **Żywotność** postaci jest wyższa o punkt. Ignorujesz Odrzut i Nieporęczność broni.
 
 **Wirus** : Przerzut do **Oprogramowania**. Jeśli masz fizyczny dostęp do sprzęgu dowolnej osoby możesz spróbować przejąć and nią kontrolę. Musisz zapłacić jeden punkt SW i wygrać test swojej umiejętności Oprogramowanie kontra Wytrzymałość celu. Można przeprowadzić tylko na nieprzytomnej albo obezwładnionej osobie. Kontrola ciała trwa do momentu świadomego wyłączenia albo utraty przytomności przez cel. Kontrolujący pozostaje wtedy w stanie letargu. Wszystkie testy wykonuje się wtedy mniejszą z dwóch umiejętności kontrolowanego lub konotrolującego. 
 
