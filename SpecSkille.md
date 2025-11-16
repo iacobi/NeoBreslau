@@ -42,13 +42,10 @@ Niektóre cechy wykluczają się wzajemnie np. **Cwaniak** i **Silnoręki**
 >
 >**Łowca** (zamiast cechy **Snajper**) : Przerzut do **Kamuflażu** i **Sztuki Przetrwania**.
 >
-**Sprzęg** : Pozwala postaci korzystać z cybersprzętu (cyberoptyka, smartowane pojazdy, lepsza elektronika itd itp.) Zazwyczaj oznacza to wykonywanie testu umięjętności silnymi kostkami zamiast zwykłych. Sprzęg działa też jako wbudowany telefon i komputer.
 
-**Sprzęg** : Pozwala postaci korzystać z cybersprzętu (cyberoptyka, smartowane pojazdy, lepsza elektronika itd itp.) Zazwyczaj oznacza to wykonywanie testu umięjętności silnymi kostkami zamiast zwykłych. Sprzęg działa też jako wbudowany telefon i komputer.
+**Sprzęg Bojowy** : **Pozwala podłączyć się do cyberspzętu**. Rzucasz dodatkową kostką na inicjatywę.
 
-**Sprzęg Bojowy** : **Pozwala korzystać z cyberspzętu**. Rzucasz dodatkową kostką na inicjatywę.
-
-**Sprzęg Techniczny** : **Pozwala korzystać z cybersprzętu**. Repozytorium
+**Sprzęg Techniczny** : **Pozwala podłączyć się do cybersprzętu**. Jeśli postać ma swobodny dostęp do sieci może wydać punkt SW i za pomocą sprzęgu wgrać sobie repozytorum wiedzy do dowolnej umiejętności i używać tej umiejętności z poziomem równym 4. Dotyczy to również czysto fizycznych umiejętności jak np. walka wręcz i siła - repozytorium wymusi na układzie nerwowym i mięśniowym pracę ponad swoje normalne normy. Podniesione umiejętności wracają do normy po tym jak postać straci przytomność. Jedynym limitem w ilości użycia repozytorium jest ilośc punktów SW, które postać może wydać.
 
 **Spec** : Przerzut do **Elektroniki** i **Mechaniki**.
 
