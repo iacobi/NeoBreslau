@@ -23,7 +23,9 @@ Niektóre cechy wykluczają się wzajemnie np. **Cyngiel** i **Kowboj**
 
 **Inżynieria Polowa** : Przerzut do **Mechaniki** i **Sztuki Przetrwania**. Jesteś bardzo dobry w improwizowaniu. Zawsze masz przy sobie drobne przedmioty jak zapałki, śrubki i małe narzędzia jak pilnik albo śrubokręt schowane w kieszeniach ubrania. Jeśli zapłacisz punkt SW, możesz wyciągnąć bardziej skomplikowane części zamienne, narzędzia albo zapasową amunicje pod warunkiem, że można je upchnąć w ubraniu. Jeśli masz dostęp do zwykłego gospodarstwa domowego możesz zapłącić punkt SW, żeby złożyć granat. Jeśli masz dostęp do warsztatu możesz złożyć improwizowany pistolet maszynowy albo strzelbę. Broń jest jednorazowa i po opróżnieniu magazynka nie da się już jej naprawić ani przeładować.
 
-**Kameleon** : Płacąc jeden punkt SW potrafisz zmienić swój wygląd - kolor i długość włosów, kolor oczu, barwę głosu. Wizualnie potrafisz nawet udawać inny wzrost albo wagę (bez przesady). Gracz kupując cechę wybiera czy jest to makijaż i postać nosi ze sobą zaawansowany zestaw do charakteryzacji czy cybertechnologia. 
+**Kameleon** : Płacąc jeden punkt SW potrafisz zmienić swój wygląd - kolor i długość włosów, kolor oczu, barwę głosu. Wizualnie potrafisz nawet udawać inny wzrost albo wagę (bez przesady). Gracz kupując cechę wybiera czy jest to makijaż i postać nosi ze sobą zaawansowany zestaw do charakteryzacji czy cybertechnologia.
+
+**Koprocesor** : Przerzut do **Spostrzegawczości** i **Oprogramowania**. Twój umysł został zmodyfikowany tak, żeby sprawniej przetwarzać dane.
 
 **Nożownik** : Masz niemal nadnaturalny talent do posługiwania się nożami. Nigdy nie tracisz akcji wyciągając nóż, nawet jeśli schowany jest głęboko pod ubraniem. Kiedy używasz noży w rzutach na trafienie używasz silnych kostek zamiast zwykłych. Płacąc jeden punkt SW jesteś w stanie w każdej sytuacji wydobyć jeden schowany nóż, nawet jeśli wcześniej byłeś kilkukrtonie przesłuchany, rozbebrany do naga i przywiązany do krzesła. Postać ma też swój jeden ulubiony wielki nóż, który zadaje silne kostki obrażeń zamiast zwykłych.
 >
@@ -55,7 +57,7 @@ Niektóre cechy wykluczają się wzajemnie np. **Cyngiel** i **Kowboj**
 
 **Wielki** : **Siła** postaci jest o jeden wyższa niż wynika to z normalnych zasad. **Żywotność** postaci jest wyższa o punkt. Ignorujesz Odrzut i Nieporęczność broni.
 
-**Wirus** : Przerzut do **Oprogramowania**. Jeśli masz fizyczny dostęp do sprzęgu dowolnej osoby możesz spróbować przejąć and nią kontrolę. Musisz zapłacić jeden punkt SW i wygrać test swojej umiejętności Oprogramowanie kontra Wytrzymałość celu. Można przeprowadzić tylko na nieprzytomnej albo obezwładnionej osobie. Kontrola ciała trwa do momentu świadomego wyłączenia albo utraty przytomności przez cel. Kontrolujący pozostaje wtedy w stanie letargu. Wszystkie testy wykonuje się wtedy mniejszą z dwóch umiejętności kontrolowanego lub konotrolującego. 
+**Wirus** : Przerzut do **Oprogramowania**. Jeśli masz fizyczny dostęp do sprzęgu dowolnej osoby możesz spróbować przejąć and nią kontrolę. Musisz zapłacić jeden punkt SW i wygrać test swojej umiejętności Oprogramowanie kontra Wola celu. Można przeprowadzić tylko na nieprzytomnej albo obezwładnionej osobie. Kontrola ciała trwa do momentu świadomego wyłączenia albo utraty przytomności przez cel. Kontrolujący pozostaje wtedy w stanie letargu. Wszystkie testy wykonuje się wtedy mniejszą z dwóch umiejętności kontrolowanego lub konotrolującego. 
 
 **Włamywacz** : Przerzut do **Kradzieży**. Możesz używać umiejętności **Kradzież** podczas testów otwierania zamków zamiast Mechaniki albo Eletkroniki.
 
