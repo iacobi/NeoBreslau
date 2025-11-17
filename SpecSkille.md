@@ -53,7 +53,7 @@ Jeśli opis na to pozwala gracz wybiera czy cechy to naturalne wrodzone zdolnoś
 
 **Twardziel**: Przerzut do każdego testu **Wytrzymałości**. **Próg Bólu** jest podniesiony o punkt, a **Żywotność** o dwa punkty
 
-**Wielki** : **Siła** postaci jest o jeden wyższa niż wynika to z normalnych zasad. **Żywotność** postaci jest wyższa o punkt. Ignorujesz Odrzut i Nieporęczność broni.
+**Wielki** : **Siła** i **Żywotność** postaci są wyższe o punkt. Ignoruje **Odrzut** i **Nieporęczność** broni. W przypadku **Siły** dodatkowy punkt może podnieść poziom umiejętności ponad te wykupione przez gracza.
 
 **Wirus** : Przerzut do **Oprogramowania**. Jeśli masz fizyczny dostęp do sprzęgu dowolnej osoby możesz spróbować przejąć and nią kontrolę. Musisz zapłacić jeden punkt SW i wygrać test swojej umiejętności Oprogramowanie kontra Wola celu. Można przeprowadzić tylko na nieprzytomnej albo obezwładnionej osobie. Kontrola ciała trwa do momentu świadomego wyłączenia albo utraty przytomności przez cel. Kontrolujący pozostaje wtedy w stanie letargu. Wszystkie testy wykonuje się wtedy mniejszą z dwóch umiejętności kontrolowanego lub konotrolującego. 
 
