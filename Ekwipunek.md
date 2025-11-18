@@ -74,7 +74,9 @@
 
 <h3>Karabiny Maszynowe</h3>
 
-Optyka i Cyberoptyka nie poprawia celności karabinów maszynowych.
+**Optyka** i **Cyberoptyka** nie poprawia celności karabinów maszynowych.
+
+**Ogień Ciągły** karabinów maszynowych zużywa 20 pocisków zamiast 15, ale każde trafienie zadaje kostke obrażeń więcej.
 
 |Nazwa|Obrażenia|Magazynek|Ładowanie|Cechy|Cena|
 |--|:--:|:--:|--|--|--:|
@@ -89,8 +91,6 @@ Optyka i Cyberoptyka nie poprawia celności karabinów maszynowych.
 **Krótka Seria:** zużywa 3 pociski, przerzut do ataku, może być użyta zarówno jako szybki strzał, albo jako strzał mierzony
 
 **Ogień Ciągły:** Zajmuje całą turę i zużywa 15 pocisków. Postać wykonuje 3 ataki, używając 6 kostek, potem 5 kostek, potem 4 kostek na trafienie. Jeśli którykolwiek atak spudłuje nie wykonuje już kolejnych.
-
-**Ogień Zaporowy:** Jeśli broń posiada cechę **Ogień Ciągły** postać nie wykonała jeszcze zadnej akcji w turze, może kontrować dowolny atak/czynność innej postaci. Jeśli w swoim teście strzelania wyrzucą więcej sukcesów niż atakujący, obie postacie tracą tą turę. Muszą widzieć postać, która wykonuje atak, który chcą skontrować. Ogień zaporowy zużywa 15 pocisków.
 
 **Odrzut:** Tracisz kostkę z rzutu na trafienie z każdego ataku poza strzałem mierzonym. Jeśli postać poświęci turę i rozstawi broń na dwójnogu ignoruje odrzut broni.
 
@@ -172,9 +172,9 @@ W ciężkim pancerzu możesz efektywnie się poruszać tyle godzin ile wynosi ni
 
 **MultiSkaner [4000c] :** Używająca go postać używa silnych kostek w testach **Spostrzegawczości**. Postać widzi w rozszerzonym spektrum (termowizja, noktowizja itdp.). Ma postać gogli z antenami albo lunety. **Wymaga Sprzęgu.**
 
-**Egzoszkielet [10000c] :** Postać ignoruje odrzut i nieporęczność broni, może nosić ciężki pancerz bez ograniczeń czasowych. **Traci kostkę z testów Sprawności i Kamuflażu. Wymaga Sprzęgu.**
+**Lekka Tarcza [2000c] :** W walce wręcz/walce bronią postać może wykonać blok zamiast uniku. Test wykonuje się identycznie, ale zamiast uzyskać więcej sukcesów niż atakujących wystarczy remis. **Przeciwko atakom strzeleckim podnosi pancerz o punkt** pod warunkiem, że atakujący jest bezpośrednio przed trzymającym tarczę. **Strzelający mogą ominąć tarcze strzelając w miejsca których nie zasłania (PT trafienia +1)**.
 
-**Tarcza Balistyczna [5000c] :** Wielka i ciężka tarcza montowana na uprzęży z mechanicznym ramieniem, który pozwala manewrować masą tarczy za pomocą jednej ręki. Zamiast unikać postać blokuje ataki, mechanicznie wykonuje się ten sam test sprawności ale może też blokować ataki strzeleckie. Jeśli postać podebnie się sprzęgiem do upręży sterującej tarczą balistycznej jest w stanie używać jej tak szybko i sprawnie, że może blokować każdy atak tak długo jak wygrywa testy, po pierwszej porażce traci zdolność bloku aż do następnej tury. Tarcze balistyczną traktujemy jako **Nieporęczną** - potstać nie dodaje rzutu k10 do inicjatywy.
+**Ciężka Tarcza [6000c] :** W walce wręcz/walce bronią postać może wykonać blok zamiast uniku. Test wykonuje się identycznie, ale zamiast uzyskać więcej sukcesów niż atakujących wystarczy remis. **Przeciwko atakom strzeleckim podnosi pancerz o trzy punkty** pod warunkiem, że atakujący jest bezpośrednio przed trzymającym tarczę. **Strzelający mogą ominąć tarcze strzelając w miejsca których nie zasłania (PT trafienia +1)**. Tarcza jest **Nieporęczna** (postać nie dolicza rzutu k10 do inicjatywy). Wymaga Siły co najmniej 4, żeby jej używac w jednej ręcę.
 
 **Pilum [4000c] :** Jednorazowy granatnik przeciwpancerny. Bezpośrednie trafienie w człowieka to automatyczna śmierć, odłamki zadają **słabe 5 kostek** obrażeń w probmieniu 5 metrów. Pilum wymaga umiejętności **Broń Ciężka** ma też wbudowany komputer sterujący, który daje postaci tą umiejętność na poziomie minimum 3.
 
