@@ -28,7 +28,7 @@
 
 **Opis**: Doświadczony były funkcjonariusz służb porządkowych. Doskonale radzisz sobie w trudnych sytuacjach, zarówno w walce, jak i przy rozwiązywaniu konfliktów. Twoje umiejętności pomagają utrzymać porządek, niezależnie od sytuacji.
 
-**Ekwipunek** : 1000 kredytów, Paralizator, Pałka Teleskopowa, Tarcza Balistyczna
+**Ekwipunek** : 1000 kredytów, Paralizator, Pałka Teleskopowa, Lekka Tarcza
 
 **Umiejętności** : Walka Wręcz, Broń Krótka, Charakter, Prowadzenie Pojazdów
 
@@ -100,6 +100,6 @@
 
 **Opis**: Masz za sobą służbę w wojsku, gdzie stoczono brutalne bitwy i gdzie nie było miejsca na słabości. Niezależnie od tego, czy walczyłeś w wojnach ziemskich czy kolonialnych, twoje doświadczenie w boju i przetrwaniu sprawia, że stajesz twardo na nogach w każdej sytuacji.
 
-**Ekwipunek** : 1000 kredytów, Pistolet 9mm, Karabin Szturmowy albo Lekki Pancerz, Nokaina (dwie dawki)
+**Ekwipunek** : 1000 kredytów, Pistolet 9mm, Karabin Szturmowy albo Lekki Pancerz
 
 **Umiejętności** : Broń Długa, Charakter, Wytrzymałość, Sprawność
