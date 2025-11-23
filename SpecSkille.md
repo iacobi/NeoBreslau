@@ -43,7 +43,7 @@ Jeśli opis na to pozwala gracz wybiera czy cechy to naturalne wrodzone zdolnoś
 >**Łowca** (zamiast cechy **Snajper**) : Przerzut do **Kamuflażu** i **Sztuki Przetrwania**.
 >
 
-**Sprzęg Bojowy** : **Pozwala podłączyć się do cybersprzętu**. Rzucasz dodatkową kostką na inicjatywę.
+**Sprzęg Bojowy** : **Pozwala podłączyć się do cybersprzętu**. Rzucasz dodatkową kostką na inicjatywę i **Próg Bólu** jest podniesiony o punkt. Sprzęg Bojowy działa tylko z jednym rodzajem cybesprzętu na raz. Przekaliborwanie na inny cybersprzęt trwa godzinę i wymaga wydania jednego punktu Siły Woli.
 
 **Sprzęg Techniczny** : **Pozwala podłączyć się do cybersprzętu**. Jeśli postać ma swobodny dostęp do sieci może wydać punkt SW i za pomocą sprzęgu wgrać sobie repozytorum wiedzy do dowolnej umiejętności i używać tej umiejętności z poziomem równym 4. Dotyczy to również czysto fizycznych umiejętności jak np. walka wręcz i siła - repozytorium wymusi na układzie nerwowym i mięśniowym pracę ponad swoje normalne normy. Podniesione umiejętności wracają do normy po tym jak postać straci przytomność. Jedynym limitem w ilości użycia repozytorium jest ilośc punktów SW, które postać może wydać.
 
@@ -53,7 +53,7 @@ Jeśli opis na to pozwala gracz wybiera czy cechy to naturalne wrodzone zdolnoś
 
 **Twardziel**: Przerzut do każdego testu **Wytrzymałości**. **Próg Bólu** jest podniesiony o punkt, a **Żywotność** o dwa punkty
 
-**Wielki** : **Siła** i **Żywotność** postaci są wyższe o punkt. Ignoruje **Odrzut** i **Nieporęczność** broni. W przypadku **Siły** dodatkowy punkt może podnieść poziom umiejętności ponad te wykupione przez gracza.
+**Wielki** : Przerzut do **Siły**. Nie tracisz kostki obrażeń podczas szybkich ataków w Walce Wręcz i Walce Bronią. Możesz nosić **Ciężki Pancerz** bez ograniczeń.
 
 **Wirus** : Przerzut do **Oprogramowania**. Jeśli masz fizyczny dostęp do sprzęgu dowolnej osoby możesz spróbować przejąć and nią kontrolę. Musisz zapłacić jeden punkt SW i wygrać test swojej umiejętności Oprogramowanie kontra Wola celu. Można przeprowadzić tylko na nieprzytomnej albo obezwładnionej osobie. Kontrola ciała trwa do momentu świadomego wyłączenia albo utraty przytomności przez cel. Kontrolujący pozostaje wtedy w stanie letargu. Wszystkie testy wykonuje się wtedy mniejszą z dwóch umiejętności kontrolowanego lub konotrolującego. 
 
