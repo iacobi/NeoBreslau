@@ -51,7 +51,7 @@ Jeśli opis na to pozwala gracz wybiera czy cechy to naturalne wrodzone zdolnoś
 
 **Twardziel**: Przerzut do każdego testu **Wytrzymałości**. **Próg Bólu** jest podniesiony o punkt, a **Żywotność** o dwa punkty
 
-**Wielki** : Przerzut do **Siły**. Nie tracisz kostki obrażeń podczas szybkich ataków w Walce Wręcz i Walce Bronią. Możesz nosić **Ciężki Pancerz** bez ograniczeń.
+**Wielki** : Przerzut do **Siły**. Nie tracisz kostki obrażeń podczas szybkich ataków w Walce Wręcz i Walce Bronią. Ignorujesz **Odrzut** i **Nieporęczność** broni.
 
 **Wirus** : Przerzut do **Oprogramowania**. Jeśli masz fizyczny dostęp do sprzęgu dowolnej osoby możesz spróbować przejąć and nią kontrolę. Musisz zapłacić jeden punkt SW i wygrać test swojej umiejętności Oprogramowanie kontra Wola celu. Można przeprowadzić tylko na nieprzytomnej albo obezwładnionej osobie. Kontrola ciała trwa do momentu świadomego wyłączenia albo utraty przytomności przez cel. Kontrolujący pozostaje wtedy w stanie letargu. Wszystkie testy wykonuje się wtedy mniejszą z dwóch umiejętności kontrolowanego lub konotrolującego. 
 
