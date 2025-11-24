@@ -19,7 +19,7 @@
 
 **Prosta Obsługa:** postać wybiera czy używa Walki Wręcz czy Walki Bronią
 
-**Przeciwpancerna:** Jeśli w rzucie na obrażenia wypadnie jedynka zamiast rzucać ponownie tą kostkę możesz uznać, że ten cios ignoruje pancerz
+**Przeciwpancerna:** Jeśli w rzucie na obrażenia wypadnie jedynka atak ignoruje pancerz.
 
 **Rzut:** zamiast wykonywać szybki albo potężny atak możesz rzucić bronią. Szybki rzut, traci kostkę obrażeń tak samo jak szybki atak. **Rzucając zawsze używasz umiejętności walka bronią i nie masz żadnych przerzutów**. Jeśli rzucasz bronią, która nie ma cechy rzucanie, tracisz dodatkową kostkę w teście trafienie i w teście obrażeń. Np. szybki rzut łopatą to 4 kostki na trafeinie i zwykłe 2 kostki obrażeń.
 
