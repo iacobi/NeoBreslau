@@ -34,8 +34,6 @@ Jeśli opis na to pozwala gracz wybiera czy cechy to naturalne wrodzone zdolnoś
 
 **MonoStruny** : Superwytrzymałe struny mogą służyć do cięcia, obezwładniania albo jako prowizoryczna lina. W walce traktowane są jako broń dwuręczna z dwoma przerzutami zadająca zwykłe 4 kostki obrażeń. Postać wybiera czy używa **Walki Wręcz** czy **Walki Bronią** jako swojej umiejętności. Struna jest również w stanie utrzymać Twój ciężar i obwiązać się wokół przedmiotów w odległości 10 metrów. Ten dodatkowy zasięg można wykorzystać tylko do wspianania się albo łapania przedmiotów w walce zasięg struny jest identyczny jak każdej innej broni białej. Gracz może wybrać czy monostruny to implant, czy tylko przedmiot używany przez postać.
 
-**Pancerz Wewnętrzny** : Postać ma jeden punkt pancerza, który kumuluje się z noszonym pancerzem zewnętrznym. Z powodu masy postaci trwale **traci jedną kostkę** z każdego testu **Sprawności** i nie dostajesz dodatkowych kostek do rzutu na inicjatywę.
-
 **Regeneracja** : Raz podczas sesji możesz całkowice zregenrować swoją Żywotność.
 
 **Snajper** : Przerzut do **Kamuflażu**. Przerzut do **Broni Długiej** ale wyłącznie podczas strzałów mierzonych.
