@@ -8,7 +8,9 @@ Jeśli opis na to pozwala gracz wybiera czy cechy to naturalne wrodzone zdolnoś
 **Charyzma** : Przerzut do **Charakteru** i **Intuicji**.
 >
 >**Cwaniak** (zamiast cechy **Charyzma**) : Masz cięty język i zwinne palce. Przerzut do **Charakteru** i **Kradzieży**. Kiedy ukrywasz się w skupiskach ludzi możesz używać Charakteru zamiast Kamuflażu.
-
+>
+>**Silnoręki** (zamiast cechy **Charyzma**) : Przerzut do **Charakteru** i **Walki Wręcz**.
+>
 **Chirurg** : Przerzut do **Medycyny**. Jeśli postać używa ostrzy może w walce użyć poziomu Medycyny zamiast Siły. Płacąc jeden punkt SW potrafi stworzyć improwizowany TraumaPack pod warunkiem, że ma dostęp do apteki albo dowolnego miejsca gdzie może dostać podstawowe materiały medyczne. Improwizowany TraumaPack musi być użyty natychmiast po stworzeniu i używając go postać traci kostkę z rzutu na Medycynę.
 
 **Cyngiel** : Wyciągnięcie pistoletu albo rewolweru z kabury nie zajmuje akcji. Możesz wykonać trzy szybkie strzały w rundzie używając 4 kostek w rzucie na trafienie. Strzelając ogniem ciągłym każdy rzut na trafienie wykonujesz 6 kostkami.
@@ -36,14 +38,12 @@ Jeśli opis na to pozwala gracz wybiera czy cechy to naturalne wrodzone zdolnoś
 
 **Regeneracja** : Raz podczas sesji możesz całkowice zregenrować swoją Żywotność.
 
-**Silnoręki** : Przerzut do **Walki Wręcz**. Nie tracisz kostki kiedy nieuzbrojony atakujesz uzbrojonych ludzi. Możesz użyć **Siły** postaci zamiast **Charakteru** do testów zastraszania ale tylko w warunkach gdzie Twoja postać jest w stanie uderzyć zastraszaną osobę. Nie musi fizycznie atakować zastraszanego ale sama możliwosć wystarczy.
-
 **Snajper** : Przerzut do **Kamuflażu**. Przerzut do **Broni Długiej** ale wyłącznie podczas strzałów mierzonych.
 >
 >**Łowca** (zamiast cechy **Snajper**) : Przerzut do **Kamuflażu** i **Sztuki Przetrwania**.
 >
 
-**Sprzęg Bojowy** : **Pozwala podłączyć się do cybersprzętu**. Rzucasz dodatkową kostką na inicjatywę i **Próg Bólu** jest podniesiony o punkt. Sprzęg Bojowy działa tylko z jednym rodzajem cybesprzętu na raz. Przekaliborwanie na inny cybersprzęt trwa godzinę i wymaga wydania jednego punktu Siły Woli.
+**Sprzęg Bojowy** : **Pozwala podłączyć się do cybersprzętu**. Rzucasz dodatkową kostką na inicjatywę. Sprzęg Bojowy działa tylko z jedną sztuką cybesprzętu na raz. Przekaliborwanie na inny cybersprzęt trwa godzinę i wymaga wydania jednego punktu Siły Woli.
 
 **Sprzęg Techniczny** : **Pozwala podłączyć się do cybersprzętu**. Jeśli postać ma swobodny dostęp do sieci może wydać punkt SW i za pomocą sprzęgu wgrać sobie repozytorum wiedzy do dowolnej umiejętności i używać tej umiejętności z poziomem równym 4. Dotyczy to również czysto fizycznych umiejętności jak np. walka wręcz i siła - repozytorium wymusi na układzie nerwowym i mięśniowym pracę ponad swoje normalne normy. Podniesione umiejętności wracają do normy po tym jak postać straci przytomność. Jedynym limitem w ilości użycia repozytorium jest ilośc punktów SW, które postać może wydać.
 
@@ -57,7 +57,7 @@ Jeśli opis na to pozwala gracz wybiera czy cechy to naturalne wrodzone zdolnoś
 
 **Wirus** : Przerzut do **Oprogramowania**. Jeśli masz fizyczny dostęp do sprzęgu dowolnej osoby możesz spróbować przejąć and nią kontrolę. Musisz zapłacić jeden punkt SW i wygrać test swojej umiejętności Oprogramowanie kontra Wola celu. Można przeprowadzić tylko na nieprzytomnej albo obezwładnionej osobie. Kontrola ciała trwa do momentu świadomego wyłączenia albo utraty przytomności przez cel. Kontrolujący pozostaje wtedy w stanie letargu. Wszystkie testy wykonuje się wtedy mniejszą z dwóch umiejętności kontrolowanego lub konotrolującego. 
 
-**Włamywacz** : Przerzut do **Kradzieży**. Możesz używać umiejętności **Kradzież** podczas testów otwierania zamków zamiast Mechaniki albo Eletkroniki.
+**Włamywacz** : Przerzut do **Kradzieży**. Możesz używać umiejętności **Kradzież** podczas testów otwierania zamków zamiast Mechaniki albo Eletkroniki. Jeśli nie masz przy sobie specjalistycznych narzędzi do otwierania zamków możesz zapłacić punkt SW, żeby znaleźć w kieszeni dokładnie ten typ narzędzia, który potrzebujesz.
 
 <h3>Shadowrun mod: Rasy</h3>
 
