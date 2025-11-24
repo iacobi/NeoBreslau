@@ -118,7 +118,7 @@ Nie da się ukryć noszenia średniego pancerza
 
 **Wartość Pancerza**: 3 **Cena:** 8000c
 
-W ciężkim pancerzu możesz efektywnie się poruszać tyle godzin ile wynosi niższa z cech **Siła** albo **Wytrzymałość**.
+Tracisz kostkę z testów **Sprawności** i **Kamuflażu** w tym pancerzu.
 
 <h2>Chemia Bojowa/Narkotyki</h2>
 
@@ -132,7 +132,7 @@ W ciężkim pancerzu możesz efektywnie się poruszać tyle godzin ile wynosi ni
 
 **Wendigo**: zastrzyk albo inhalator; 200kred. : +1 Żywotności, może podnieść Żywotność ponad maksymalny poziom dla postaci. Ignoruje zasady progu bólu, jedynym sposobem na powalenie jest sprowadzenie jej do zera żywotności.
 
-**Blitz**: inhalator albo proszek; 200kred. : Rzucasz dodatkową kostkę na Inicjatywę. Można unikać proni palnej.
+**Blitz**: inhalator albo proszek; 200kred. : Rzucasz dodatkową kostkę na Inicjatywę. Nie tracisz kostki unikając broni palnej.
 
 <h2>Utrzymanie, narzędzia, codzinne przedmioty</h2>
 
