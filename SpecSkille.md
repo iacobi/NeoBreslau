@@ -9,7 +9,7 @@ Jeśli opis na to pozwala gracz wybiera czy cechy to naturalne wrodzone zdolnoś
 >
 >**Cwaniak** (zamiast cechy **Charyzma**) : Masz cięty język i zwinne palce. Przerzut do **Charakteru** i **Kradzieży**. Kiedy ukrywasz się w skupiskach ludzi możesz używać Charakteru zamiast Kamuflażu.
 >
->**Silnoręki** (zamiast cechy **Charyzma**) : Przerzut do **Charakteru** i **Walki Wręcz**.
+>**Ego** (zamiast cechy **Charyzma**) : Przerzut do **Charakteru**, zaczynasz sesje z dwoma punktami Siły Woli więcej.
 >
 **Chirurg** : Przerzut do **Medycyny**. Jeśli postać używa ostrzy może w walce użyć poziomu Medycyny zamiast Siły. Płacąc jeden punkt SW potrafi stworzyć improwizowany TraumaPack pod warunkiem, że ma dostęp do apteki albo dowolnego miejsca gdzie może dostać podstawowe materiały medyczne. Improwizowany TraumaPack musi być użyty natychmiast po stworzeniu i używając go postać traci kostkę z rzutu na Medycynę.
 
@@ -51,7 +51,7 @@ Jeśli opis na to pozwala gracz wybiera czy cechy to naturalne wrodzone zdolnoś
 
 **Twardziel**: Przerzut do każdego testu **Wytrzymałości**. **Próg Bólu** jest podniesiony o punkt, a **Żywotność** o dwa punkty
 
-**Wielki** : Przerzut do **Siły**. Nie tracisz kostki obrażeń podczas szybkich ataków w Walce Wręcz i Walce Bronią. Ignorujesz **Odrzut** i **Nieporęczność** broni.
+**Wielki** : Przerzut do **Siły** i **Walki Wręcz**. **Żywotność** jest podniesiona o punkt.
 
 **Wirus** : Przerzut do **Oprogramowania**. Jeśli masz fizyczny dostęp do sprzęgu dowolnej osoby możesz spróbować przejąć and nią kontrolę. Musisz zapłacić jeden punkt SW i wygrać test swojej umiejętności Oprogramowanie kontra Wola celu. Można przeprowadzić tylko na nieprzytomnej albo obezwładnionej osobie. Kontrola ciała trwa do momentu świadomego wyłączenia albo utraty przytomności przez cel. Kontrolujący pozostaje wtedy w stanie letargu. Wszystkie testy wykonuje się wtedy mniejszą z dwóch umiejętności kontrolowanego lub konotrolującego. 
 
