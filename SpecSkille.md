@@ -9,7 +9,7 @@ Jeśli opis na to pozwala gracz wybiera czy cechy to naturalne wrodzone zdolnoś
 >
 >**Cwaniak** (zamiast cechy **Charyzma**) : Masz cięty język i zwinne palce. Przerzut do **Charakteru** i **Kradzieży**. Kiedy ukrywasz się w skupiskach ludzi możesz używać Charakteru zamiast Kamuflażu.
 >
->**Ego** (zamiast cechy **Charyzma**) : Przerzut do **Charakteru**, zaczynasz sesje z dwoma punktami Siły Woli więcej.
+>**Gravitas** (zamiast cechy **Charyzma**) : Przerzut do **Charakteru**, zaczynasz sesje z dwoma punktami Siły Woli więcej.
 >
 **Chirurg** : Przerzut do **Medycyny**. Jeśli postać używa ostrzy może w walce użyć poziomu Medycyny zamiast Siły. Płacąc jeden punkt SW potrafi stworzyć improwizowany TraumaPack pod warunkiem, że ma dostęp do apteki albo dowolnego miejsca gdzie może dostać podstawowe materiały medyczne. Improwizowany TraumaPack musi być użyty natychmiast po stworzeniu i używając go postać traci kostkę z rzutu na Medycynę.
 
