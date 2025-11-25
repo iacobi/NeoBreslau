@@ -5,7 +5,7 @@ Jeśli opis na to pozwala gracz wybiera czy cechy to naturalne wrodzone zdolnoś
 
 **Cała naprzód** : Przerzut do testów sterowania dowolnym pojazdem tak długo jak postać jest w tym pojeżdzie.
 
-**Charyzma** : Przerzut do **Charakteru** i **Intuicji**.
+**Charyzma** : Przerzut do **Charakteru**. Jeśli rozmawiasz z kimś podczas fizycznego spotkania twarzą w twarz używasz silnych kostek podczas testu Charakteru.
 >
 >**Cwaniak** (zamiast cechy **Charyzma**) : Masz cięty język i zwinne palce. Przerzut do **Charakteru** i **Kradzieży**. Kiedy ukrywasz się w skupiskach ludzi możesz używać Charakteru zamiast Kamuflażu.
 >
@@ -25,8 +25,12 @@ Jeśli opis na to pozwala gracz wybiera czy cechy to naturalne wrodzone zdolnoś
 
 **Kameleon** : Płacąc jeden punkt SW potrafisz zmienić swój wygląd - kolor i długość włosów, kolor oczu, barwę głosu. Wizualnie potrafisz nawet udawać inny wzrost albo wagę (bez przesady). Gracz kupując cechę wybiera czy jest to makijaż i postać nosi ze sobą zaawansowany zestaw do charakteryzacji czy cybertechnologia.
 
-**Koprocesor** : Przerzut do **Spostrzegawczości** i **Oprogramowania**. Twój umysł został zmodyfikowany tak, żeby sprawniej przetwarzać dane.
+**Kontakty** : Przerzut do **Intuicji**. Masz talent do zawierania cennych znajomości. Ciężko o miejsce gdzie nie miałbyś jakiś kontaktów. Możesz zapłacić punkt SW, żeby wyciągnąć przysługę od któregoś z nich. Jeden punkt to mała przysługa, trzy punkty to przysługa wymagająca narażenia życia lub kariery.
 
+**Koprocesor** : Przerzut do **Oprogramowania**. Możesz się sprzeżyć z dowolną ilością cybersprzętu na raz. Jeśli postać ma swobodny dostęp do sieci może wydać punkt SW i za pomocą sprzęgu wgrać sobie repozytorum wiedzy do dowolnej umiejętności i używać tej umiejętności z poziomem równym 4. Dotyczy to również czysto fizycznych umiejętności jak np. walka wręcz i siła - repozytorium wymusi na układzie nerwowym i mięśniowym pracę ponad swoje normalne normy. Podniesione umiejętności wracają do normy po tym jak postać straci przytomność. Jedynym limitem w ilości użycia repozytorium jest ilośc punktów SW, które postać może wydać.
+>
+> **Koprocesor Taktyczny** : Przerzut do **Spostrzegawczości**. Rzucasz dodatkową kostką na inicjatywę.
+>
 **Nożownik** : Masz niemal nadnaturalny talent do posługiwania się nożami. Nigdy nie tracisz akcji wyciągając nóż, nawet jeśli schowany jest głęboko pod ubraniem. Kiedy używasz noży w rzutach na trafienie i na obrażenia używasz silnych kostek zamiast zwykłych. Płacąc jeden punkt SW jesteś w stanie w każdej sytuacji wydobyć jeden schowany nóż, nawet jeśli wcześniej byłeś kilkukrtonie przesłuchany, rozbebrany do naga i przywiązany do krzesła.
 >
 >**Fechtmistrz** (zamiast cechy **Nożownik**) : Używasz silnych kostek w testach **Walki Bronią** pod warunkiem, że używasz dowolnych ostrzy (noże, miecze, maczety itp.). Postać wybiera jedną ulubioną broń. Postać wyciąga tą broń tak szybko i sprawnie, że jest traktowana jakby zawsze była w dłoni postaci. Podczas szybkich ataków rzuca 6 kostkami na trafienie zamiast 5. Może zmienić swoją ulubioną broń między sesjami ale na jednej sesji może mieć tylko jedną ulubioną broń.
@@ -40,11 +44,6 @@ Jeśli opis na to pozwala gracz wybiera czy cechy to naturalne wrodzone zdolnoś
 >
 >**Łowca** (zamiast cechy **Snajper**) : Przerzut do **Kamuflażu** i **Sztuki Przetrwania**.
 >
-
-**Sprzęg Bojowy** : **Pozwala podłączyć się do cybersprzętu**. Rzucasz dodatkową kostką na inicjatywę. Sprzęg Bojowy działa tylko z jedną sztuką cybesprzętu na raz. Przekaliborwanie na inny cybersprzęt trwa godzinę i wymaga wydania jednego punktu Siły Woli.
-
-**Sprzęg Techniczny** : **Pozwala podłączyć się do cybersprzętu**. Jeśli postać ma swobodny dostęp do sieci może wydać punkt SW i za pomocą sprzęgu wgrać sobie repozytorum wiedzy do dowolnej umiejętności i używać tej umiejętności z poziomem równym 4. Dotyczy to również czysto fizycznych umiejętności jak np. walka wręcz i siła - repozytorium wymusi na układzie nerwowym i mięśniowym pracę ponad swoje normalne normy. Podniesione umiejętności wracają do normy po tym jak postać straci przytomność. Jedynym limitem w ilości użycia repozytorium jest ilośc punktów SW, które postać może wydać.
-
 **Spec** : Przerzut do **Elektroniki** i **Mechaniki**.
 
 **Szybki** : Przerzut do **Sprawności**, możesz zapłacić punkt SW, żeby dostać drugi unik w rundzie.
