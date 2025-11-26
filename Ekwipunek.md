@@ -176,6 +176,8 @@ Tracisz kostkę z testów **Sprawności** i **Kamuflażu** w tym pancerzu.
 
 **Ciężka Tarcza [6000c] :** W walce wręcz/walce bronią postać może wykonać blok zamiast uniku. Test wykonuje się identycznie, ale zamiast uzyskać więcej sukcesów niż atakujących wystarczy remis. **Przeciwko atakom strzeleckim podnosi pancerz o trzy punkty** pod warunkiem, że atakujący jest bezpośrednio przed trzymającym tarczę. **Strzelający mogą ominąć tarcze strzelając w miejsca których nie zasłania (PT trafienia +1)**. Tarcza jest **Nieporęczna** i wymaga Siły co najmniej 4, żeby jej używac w jednej ręcę.
 
+**Repo [2500c/5000c] :** Podpinane do sprzęgu repozytorium z pojedynczą umiejętnością na poziomie 3/4. Postać z podpiętym repozytorium potrafi wykonywać wszystkie czynności związanne z tą umiejętnością na poziomie repo. Instalowanie nowego repozytorum jest natychmiastowe ale to męczący i wymagający dla układu nerwowego proces i wymaga wydania jednego punktu SW.
+
 **Pilum [4000c] :** Jednorazowy granatnik przeciwpancerny. Bezpośrednie trafienie w człowieka to automatyczna śmierć, odłamki zadają **słabe 5 kostek** obrażeń w probmieniu 5 metrów. Pilum wymaga umiejętności **Broń Ciężka** ma też wbudowany komputer sterujący, który daje postaci tą umiejętność na poziomie minimum 3.
 
 **??Granat Pyłowy** : 500c : Tworzy chmurę pyłu nie przepuszczającą promieniowania elektromagnetycznego. Zwalnia pociski i tłumi eksplozje. Broń palna i granaty tracą trzy kostki obrażeń w pyle, lub przelatując przez pył.
