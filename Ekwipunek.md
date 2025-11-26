@@ -166,7 +166,7 @@ Tracisz kostkę z testów **Sprawności** i **Kamuflażu** w tym pancerzu.
 
 **CyberOptyka [4000c] :** Wymaga sprzęgu, silne kostki zamiast zwykłych kiedy testujesz umiejętność strzelania (również strzały szybkie i ogień ciągły)
 
-**Paralizator [1000c] :** Dwustrzałowy pistolet, ma 10 metrów zasięgu i zadaje **słabe 5 kostek obrażeń**. Trafienie z paralizatora nie powoduje utraty żywotnosci. Jeśli w rzucie na obrażenia udało się osiągnąć **próg bólu** celu jest on powalony i nie będzie zdolny do ruchu przez minutę. **Paralizator nie ignoruje pancerza**.
+**Paralizator [1000c] :** Jednostrzałowy pistolet, ma 10 metrów zasięgu i zadaje **słabe 5 kostek obrażeń**. Trafienie z paralizatora nie powoduje utraty żywotnosci. Jeśli w rzucie na obrażenia udało się osiągnąć **próg bólu** celu jest on powalony i nie będzie zdolny do ruchu przez minutę. Paralizator traktujemy jakby miał cechę **przeciwpancerny** jeśli w rzucie na obrażenia będzie chociaż jedna jedynka to obrażenia ignorują pancerz.
 
 **ElektroMaskałat [4000c] :** Maskuje ślad termiczny i elektromagnetyczny postaci. Zmienia wzór kamuflujący tak, żeby pasować do otoczenia. Używająca go postać używa silnych kostek w testach **Kamuflażu**.
 
