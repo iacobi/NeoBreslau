@@ -27,15 +27,16 @@ Jeśli opis na to pozwala gracz wybiera czy cechy to naturalne wrodzone zdolnoś
 
 **Kontakty** : Przerzut do **Intuicji**. Masz talent do zawierania cennych znajomości. Ciężko o miejsce gdzie nie miałbyś jakiś kontaktów. Możesz zapłacić punkt SW, żeby wyciągnąć przysługę od któregoś z nich. Jeden punkt to mała przysługa, trzy punkty to przysługa wymagająca narażenia życia lub kariery.
 
-**Koprocesor** : Przerzut do **Oprogramowania**. Możesz się sprzeżyć z dowolną ilością cybersprzętu na raz. Jeśli postać ma swobodny dostęp do sieci może wydać punkt SW i za pomocą sprzęgu wgrać sobie repozytorum wiedzy do dowolnej umiejętności i używać tej umiejętności z poziomem równym 4. Dotyczy to również czysto fizycznych umiejętności jak np. walka wręcz i siła - repozytorium wymusi na układzie nerwowym i mięśniowym pracę ponad swoje normalne normy. Podniesione umiejętności wracają do normy po tym jak postać straci przytomność. Jedynym limitem w ilości użycia repozytorium jest ilośc punktów SW, które postać może wydać.
+**Koprocesor** : Przerzut do **Oprogramowania**. Możesz się sprzeżyć z dowolną ilością cybersprzętu na raz.
 >
-> **Koprocesor Taktyczny** : Przerzut do **Spostrzegawczości**. Rzucasz dodatkową kostką na inicjatywę.
+>**Koprocesor Taktyczny** : Przerzut do **Spostrzegawczości**. Rzucasz dodatkową kostką na inicjatywę.
 >
 **Nożownik** : Masz niemal nadnaturalny talent do posługiwania się nożami. Nigdy nie tracisz akcji wyciągając nóż, nawet jeśli schowany jest głęboko pod ubraniem. Kiedy używasz noży w rzutach na trafienie i na obrażenia używasz silnych kostek zamiast zwykłych. Płacąc jeden punkt SW jesteś w stanie w każdej sytuacji wydobyć jeden schowany nóż, nawet jeśli wcześniej byłeś kilkukrtonie przesłuchany, rozbebrany do naga i przywiązany do krzesła.
 >
 >**Fechtmistrz** (zamiast cechy **Nożownik**) : Używasz silnych kostek w testach **Walki Bronią** pod warunkiem, że używasz dowolnych ostrzy (noże, miecze, maczety itp.). Postać wybiera jedną ulubioną broń. Postać wyciąga tą broń tak szybko i sprawnie, że jest traktowana jakby zawsze była w dłoni postaci. Podczas szybkich ataków rzuca 6 kostkami na trafienie zamiast 5. Może zmienić swoją ulubioną broń między sesjami ale na jednej sesji może mieć tylko jedną ulubioną broń.
 >
-
+>**Gladiator** (zamiast cechy **Nożownik**) : Szybkie ataki w Walce Wręcz/Walce Bronią nie tracą kostki obrażeń.
+>
 **MonoStruny** : Superwytrzymałe struny mogą służyć do cięcia, obezwładniania albo jako prowizoryczna lina. W walce traktowane są jako broń dwuręczna z dwoma przerzutami zadająca zwykłe 4 kostki obrażeń. Postać wybiera czy używa **Walki Wręcz** czy **Walki Bronią** jako swojej umiejętności. Struna jest również w stanie utrzymać Twój ciężar i obwiązać się wokół przedmiotów w odległości 10 metrów. Ten dodatkowy zasięg można wykorzystać tylko do wspianania się albo łapania przedmiotów w walce zasięg struny jest identyczny jak każdej innej broni białej. Gracz może wybrać czy monostruny to implant, czy tylko przedmiot używany przez postać.
 
 **Regeneracja** : Raz podczas sesji możesz całkowice zregenrować swoją Żywotność.
