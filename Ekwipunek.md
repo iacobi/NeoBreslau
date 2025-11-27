@@ -118,7 +118,7 @@ Nie da się ukryć noszenia średniego pancerza
 
 **Wartość Pancerza**: 3 **Cena:** 8000c
 
-Tracisz kostkę z testów **Sprawności** i **Kamuflażu** w tym pancerzu.
+W ciężkim pancerzu postać wytrzyma tyle godzin ile wynosi jej Wytrzymałość. Za każdą godzinę w pancerzu trzeba spędzić godzinę poza. Jeśli ktoś się uprze i zacznie nosić Ciężki Pancerz bez przerwy traci kostkę z każdego możliwego testu.
 
 <h2>Chemia Bojowa/Narkotyki</h2>
 
