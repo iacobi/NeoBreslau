@@ -122,17 +122,17 @@ W ciężkim pancerzu postać wytrzyma tyle godzin ile wynosi jej Wytrzymałość
 
 <h2>Chemia Bojowa/Narkotyki</h2>
 
-**Na jednej sesji postać może zabrać tyle dawek narkotyków ile wynosi jej Wytrzymałość, efekty narkotyków tego samego typu nie kumulują się**
+**Na jednej sesji postać może zabrać tyle dawek narkotyków ile wynosi jej Wytrzymałość** Jeśli nie dotyczą Żywotności albo Siły Woli to efekty narkotyków tego samego typu nie kumulują się. Dla uproszczenia zakładamy, że efekty każdego narkotyku trwają od momentu zażycia do momentu utraty przytomności albo zasnięcia.
 
-**Nokaina** : zastrzyk; 500kred. : +2 Żywotności, może podnieść Żywotność ponad maksymalny poziom dla postaci.
+**Blitz [400c] :** Daje dwa puntky Żywotności i dodatkowa kostkę do rzutu na inicjatywę. Może podnieść żywotność maksymalnie o trzy punkty ponad normalny poziom.
 
-**Lux** : inhalator albo krople; 800kred. : +2 SW.
+**Lux [600c] :** Daje dwa punkty Siły Woli. Nie może podnieść Siły Woli ponad nromalny poziom.
 
-**Neon** : tabletki albo krople; 200kred. : +1 SW. **Charakter**, **Intuicja** i **Spostrzegawczość** na potrzeby testów są wyższe o jeden.
+**Wendigo [200c] :** Postać ignoruje zasady progu bólu, jedynym sposobem na powalenie jest sprowadzenie jej do zera żywotności. Zadaje dodatkową kostkę obrażeń w walce wręcz/walce bronią.
 
-**Wendigo**: zastrzyk albo inhalator; 200kred. : +1 Żywotności, może podnieść Żywotność ponad maksymalny poziom dla postaci. Ignoruje zasady progu bólu, jedynym sposobem na powalenie jest sprowadzenie jej do zera żywotności.
+**Neon [400c] :** Podnosi dowolną umiejętność techniczną, intelektualną albo społeczną o punkt na potrzeby jednego testu, ale musi zabrać Neon przed rzutem na umiejętnośc.
 
-**Blitz**: inhalator albo proszek; 200kred. : Rzucasz dodatkową kostkę na Inicjatywę. Nie tracisz kostki unikając broni palnej.
+**Nokaina [100c] :** Przerzut do każdego testu związanego z długotrwałym wysiłkiem.  Daje dwa punkty Żywotności. Nie może podnieść żywotności ponad normalny poziom.
 
 <h2>Utrzymanie, narzędzia, codzinne przedmioty</h2>
 
