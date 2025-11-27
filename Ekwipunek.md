@@ -123,15 +123,15 @@ W ciężkim pancerzu postać wytrzyma tyle godzin ile wynosi jej Wytrzymałość
 
 **Na jednej sesji postać może zabrać tyle dawek narkotyków ile wynosi jej Wytrzymałość** Jeśli nie dotyczą Żywotności albo Siły Woli to efekty narkotyków tego samego typu nie kumulują się. Dla uproszczenia zakładamy, że efekty każdego narkotyku trwają od momentu zażycia do momentu utraty przytomności albo zasnięcia.
 
-**Blitz [400c] :** Inhalator. Daje dwa puntky Żywotności i dodatkowa kostkę do rzutu na inicjatywę. Może podnieść żywotność maksymalnie o trzy punkty ponad normalny poziom.
+**Nokaina [200c] :** Zastrzyki, krople albo tabletki. Podnosi próg bólu o punkt. Daje dwa punkty żywotności i może podnieść żywotność o dwa punkty ponad normalny poziom.
 
-**Lux [600c] :** Krople albo Inhalator. Daje dwa punkty Siły Woli. Nie może podnieść Siły Woli ponad nromalny poziom.
+**Blitz [200c] :** Inhalator. Postać rzuca dodatkową kostką na inicjatywę i nie traci kostki podczas unikania broni palnej.
 
-**Wendigo [200c] :** Zastrzyk. Postać ignoruje zasady progu bólu, jedynym sposobem na powalenie jest sprowadzenie jej do zera żywotności. Zadaje dodatkową kostkę obrażeń w walce wręcz/walce bronią.
+**Lux [500c] :** Krople albo Inhalator. Daje dwa punkty Siły Woli. Nie może podnieść Siły Woli ponad nromalny poziom.
+
+**Wendigo [200c] :** Zastrzyk. Zadaje dodatkową kostkę obrażeń w walce wręcz/walce bronią.
 
 **Neon [400c] :** Tabletki albo Krople. Podnosi dowolną umiejętność techniczną, intelektualną albo społeczną o punkt na potrzeby jednego testu, ale musi zabrać Neon przed rzutem na umiejętnośc.
-
-**Nokaina [100c] :** Tabletki. Przerzut do każdego testu związanego z długotrwałym wysiłkiem.  Daje dwa punkty Żywotności. Nie może podnieść żywotności ponad normalny poziom.
 
 <h2>Utrzymanie, narzędzia, codzinne przedmioty</h2>
 
