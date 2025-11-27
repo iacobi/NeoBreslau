@@ -4,24 +4,23 @@
 
 |Broń | Obrażenia | Przerzuty | Cechy| Cena |
 |--|:--:|:--:|--|--|
-| **Bez Broni** |słabe 4 kostki|- |Tracisz kostkę z trafienia uzbrojonych|--| 
-| **Kastet, Butelka, Śrubokręt** |słabe 4 kostki| |Prosta Obsługa-|--| 
-| **Pałka** |słabe 4 kostki|1 | Prosta Obsługa|20c|
-| **Młotek** |słabe 4 kostki| | Prosta Obsługa, Przeciwpancerny|20c| 
-| **Nóż** |zwykłe 4 kostki|-| Prosta Obsługa, Rzut |20c|
-| **Maczeta** | zwykłe 4 kostki |1| - |40c| 
+| **Bez Broni** |słabe 4 kostki|-- |Tracisz kostkę z trafienia uzbrojonych|--| 
+| **Kastet (Butelka, Śrubokręt, Broń Improwizowana)** |słabe 4 kostki| |Prosta Obsługa|--| 
+| **Nóż** |zwykłe 4 kostki|--| Prosta Obsługa |20c|
+| **Tasak (Toporek, Tomahawk)** | silne 4 kostki |--|--|40c|
+| **Maczeta** | zwykłe 4 kostki |1| -- |40c| 
+| **Topór Strażacki** | silne 4 kostki |1|Dwuręczny|80c|
 | **Katana** | silne 4 kostki |2| Dwuręczna|2000c|
-| **Topór Strażacki** | silne 4 kostki |1|Dwuręczny|200c|
-| **Młot Budowlany**  |zwykłe 4 kostki|1 | Przeciwpancerny, Dwuręczny|20c| 
-| **Taktyczny Tomahawk** | silne 4 kostki |-|Rzut|200c|
+| **Pałka** |słabe 4 kostki|1 | Prosta Obsługa|20c|
+| **Młotek** |słabe 4 kostki| --| Prosta Obsługa, Przeciwpancerny|20c| 
+| **Łopata** | zwykłe 4 kostki |1|Dwuręczny|200c|
+| **Młot Budowlany**  |zwykłe 4 kostki|1 | Przeciwpancerny, Dwuręczny|80c| 
 
 **Dwuręczna:** Tracisz kostkę z rzutu na trafienie jeśli używasz jednej ręki.
 
 **Prosta Obsługa:** postać wybiera czy używa Walki Wręcz czy Walki Bronią
 
 **Przeciwpancerna:** Jeśli w rzucie na obrażenia wypadnie jedynka atak ignoruje pancerz.
-
-**Rzut:** zamiast wykonywać szybki albo potężny atak możesz rzucić bronią. Szybki rzut, traci kostkę obrażeń tak samo jak szybki atak. **Rzucając zawsze używasz umiejętności walka bronią i nie masz żadnych przerzutów**. Jeśli rzucasz bronią, która nie ma cechy rzucanie, tracisz dodatkową kostkę w teście trafienie i w teście obrażeń. Np. szybki rzut łopatą to 4 kostki na trafeinie i zwykłe 2 kostki obrażeń.
 
 <h2>Broń Palna</h2>
 
@@ -124,15 +123,15 @@ W ciężkim pancerzu postać wytrzyma tyle godzin ile wynosi jej Wytrzymałość
 
 **Na jednej sesji postać może zabrać tyle dawek narkotyków ile wynosi jej Wytrzymałość** Jeśli nie dotyczą Żywotności albo Siły Woli to efekty narkotyków tego samego typu nie kumulują się. Dla uproszczenia zakładamy, że efekty każdego narkotyku trwają od momentu zażycia do momentu utraty przytomności albo zasnięcia.
 
-**Blitz [400c] :** Daje dwa puntky Żywotności i dodatkowa kostkę do rzutu na inicjatywę. Może podnieść żywotność maksymalnie o trzy punkty ponad normalny poziom.
+**Blitz [400c] :** Inhalator. Daje dwa puntky Żywotności i dodatkowa kostkę do rzutu na inicjatywę. Może podnieść żywotność maksymalnie o trzy punkty ponad normalny poziom.
 
-**Lux [600c] :** Daje dwa punkty Siły Woli. Nie może podnieść Siły Woli ponad nromalny poziom.
+**Lux [600c] :** Krople albo Inhalator. Daje dwa punkty Siły Woli. Nie może podnieść Siły Woli ponad nromalny poziom.
 
-**Wendigo [200c] :** Postać ignoruje zasady progu bólu, jedynym sposobem na powalenie jest sprowadzenie jej do zera żywotności. Zadaje dodatkową kostkę obrażeń w walce wręcz/walce bronią.
+**Wendigo [200c] :** Zastrzyk. Postać ignoruje zasady progu bólu, jedynym sposobem na powalenie jest sprowadzenie jej do zera żywotności. Zadaje dodatkową kostkę obrażeń w walce wręcz/walce bronią.
 
-**Neon [400c] :** Podnosi dowolną umiejętność techniczną, intelektualną albo społeczną o punkt na potrzeby jednego testu, ale musi zabrać Neon przed rzutem na umiejętnośc.
+**Neon [400c] :** Tabletki albo Krople. Podnosi dowolną umiejętność techniczną, intelektualną albo społeczną o punkt na potrzeby jednego testu, ale musi zabrać Neon przed rzutem na umiejętnośc.
 
-**Nokaina [100c] :** Przerzut do każdego testu związanego z długotrwałym wysiłkiem.  Daje dwa punkty Żywotności. Nie może podnieść żywotności ponad normalny poziom.
+**Nokaina [100c] :** Tabletki. Przerzut do każdego testu związanego z długotrwałym wysiłkiem.  Daje dwa punkty Żywotności. Nie może podnieść żywotności ponad normalny poziom.
 
 <h2>Utrzymanie, narzędzia, codzinne przedmioty</h2>
 
