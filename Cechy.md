@@ -19,6 +19,8 @@ Jeśli opis na to pozwala gracz wybiera czy cechy to naturalne wrodzone zdolnoś
 >
 **Droniarz** : Przerzut do testów **Pilotażu** i **Prowadzenia Pojazdów** kiedy postać steruje dronami. Jesteś tak dobry w obsłudze dron, że nie poświęcasz tury, żeby sterować nimi w walce. Efektywnie postać wykonuje w swojej inicjatywie dwie tury. Jedną dla siebie i jedną dla swojego drona. Jeśli zapłacisz punkt SW możesz wykonać akcje dla wszystkich swoich aktywnych dronów (albo użyć ich do kontry podczas czyjeś tury)
 
+**Droniarz_Alternatywa** : Przerzut do testów **Pilotażu** i **Prowadzenia Pojazdów** kiedy postać steruje dronami. Postać ma swój specjalny plecak, torbę albo skrzynie do przenoszenia i serwisowania dron. W dowolnym momencie może zapłacić jeden punkt SW, żeby znalazła się tam jedna dodatkowa drona FPV. Jeśli zrobi w to walce może od razu wykonać tą droną atak albo kontrę. Traktujemy to jako całkowicie darmową akcje.
+
 **Farciarz** : Możesz powtórzyć trzy dowolne rzuty na sesji.
 
 **Inżynieria Polowa** : Przerzut do **Mechaniki** i **Sztuki Przetrwania**. Jesteś bardzo dobry w improwizowaniu. Zawsze masz przy sobie drobne przedmioty jak zapałki, śrubki i małe narzędzia jak pilnik albo śrubokręt schowane w kieszeniach ubrania. Jeśli zapłacisz punkt SW, możesz wyciągnąć bardziej skomplikowane części zamienne, narzędzia albo zapasową amunicje pod warunkiem, że można je upchnąć w ubraniu. Jeśli masz dostęp do zwykłego gospodarstwa domowego możesz zapłącić punkt SW, żeby złożyć granat. Jeśli masz dostęp do warsztatu możesz złożyć improwizowany pistolet maszynowy albo strzelbę. Broń jest jednorazowa i po opróżnieniu magazynka nie da się już jej naprawić ani przeładować.
