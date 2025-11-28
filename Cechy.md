@@ -29,10 +29,24 @@ Jeśli opis na to pozwala gracz wybiera czy cechy to naturalne wrodzone zdolnoś
 
 **Kontakty** : Przerzut do **Intuicji**. Masz talent do zawierania cennych znajomości. Ciężko o miejsce gdzie nie miałbyś jakiś kontaktów. Możesz zapłacić punkt SW, żeby wyciągnąć przysługę od któregoś z nich. Jeden punkt to mała przysługa, trzy punkty to przysługa wymagająca narażenia życia lub kariery.
 
+**Komandos** : Przerzut do **Kamuflażu**. Rzucasz dodatkową kostką na inicjatywę, wybierasz większą wartość.
+>
+>**Snajper** (zamiast cechy **Komandos**) : Przerzut do **Kamuflażu**. Przerzut do **Broni Długiej** ale wyłącznie podczas strzałów mierzonych.
+>
+>**Łowca** (zamiast cechy **Komandos**) : Przerzut do **Kamuflażu** i **Sztuki Przetrwania**.
+>
+>**Szturmowiec** (zamiast cechy **Komandos**) : Ignorujesz kary Ciężkiego Pancerza i Nieporęcznej broni.
+>
+>**Szpieg** (zamiast cechy **Komandos**) : Przerzut do kamufalżu, zmiana wyglądu i produkcja fałszywych papierów??
+>
+
 **Koprocesor** : Przerzut do **Oprogramowania**. Możesz się sprzeżyć z dowolną ilością cybersprzętu na raz.
 >
 >**Koprocesor Taktyczny** : Przerzut do **Spostrzegawczości**. Rzucasz dodatkową kostką na inicjatywę.
 >
+>**Koprocesor Kognitywny** : Przerzut do **Spostrzegawczości**. Rzucasz dodatkową kostką na inicjatywę.
+>
+
 **Nożownik** : Masz niemal nadnaturalny talent do posługiwania się nożami. Nigdy nie tracisz akcji wyciągając nóż, nawet jeśli schowany jest głęboko pod ubraniem. Kiedy używasz noży w rzutach na trafienie i na obrażenia używasz silnych kostek zamiast zwykłych. Płacąc jeden punkt SW jesteś w stanie w każdej sytuacji wydobyć jeden schowany nóż, nawet jeśli wcześniej byłeś kilkukrtonie przesłuchany, rozbebrany do naga i przywiązany do krzesła.
 >
 >**Fechtmistrz** (zamiast cechy **Nożownik**) : Używasz silnych kostek w testach **Walki Bronią** pod warunkiem, że używasz dowolnych ostrzy (noże, miecze, maczety itp.). Postać wybiera jedną ulubioną broń. Postać wyciąga tą broń tak szybko i sprawnie, że jest traktowana jakby zawsze była w dłoni postaci. Podczas szybkich ataków rzuca 6 kostkami na trafienie zamiast 5. Może zmienić swoją ulubioną broń między sesjami ale na jednej sesji może mieć tylko jedną ulubioną broń.
@@ -43,10 +57,6 @@ Jeśli opis na to pozwala gracz wybiera czy cechy to naturalne wrodzone zdolnoś
 
 **Regeneracja** : Raz podczas sesji możesz całkowice zregenrować swoją Żywotność.
 
-**Snajper** : Przerzut do **Kamuflażu**. Przerzut do **Broni Długiej** ale wyłącznie podczas strzałów mierzonych.
->
->**Łowca** (zamiast cechy **Snajper**) : Przerzut do **Kamuflażu** i **Sztuki Przetrwania**.
->
 **Spec** : Przerzut do **Elektroniki** i **Mechaniki**.
 
 **Szybki** : Przerzut do **Sprawności**, możesz zapłacić punkt SW, żeby dostać drugi unik w rundzie.
