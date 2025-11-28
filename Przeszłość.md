@@ -80,6 +80,14 @@
 
 **Umiejętności** : Pilotaż, Pilotaż Kosmos, Oprogramowanie, Spostrzegawczość
 
+<h3>Przemytnik</h3>
+
+**Opis**: ...
+
+**Ekwipunek** : 2000 kredytów, Skafander Kosmiczny, Pistolet 9mm, Lux (dwie dawki)
+
+**Umiejętności** : Kamuflaż, Pilotaż Kosmos, Oprogramowanie, Spostrzegawczość
+
 <h3>Inżynier</h3>
 
 **Opis**: ...
