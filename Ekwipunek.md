@@ -50,8 +50,8 @@
 
 ||Obrażenia|Magazynek|Ładowanie|Cechy|Cena|
 |--|:--:|:--:|--|--|--:|
-| **Karabinek Szturmowy //.233 Falcata**|zwykłe&nbsp;4&nbsp;kostki| 30| pół tury |Krótka Seria, Ogień Ciągły | 2000c|
-| **Karabin Bojowy //.277 Arcus**|silne&nbsp;4&nbsp;kostki| 24| pół tury |Krótka Seria| 3000c|
+| **Karabinek Szturmowy**|zwykłe&nbsp;4&nbsp;kostki| 30| pół tury |Krótka Seria, Ogień Ciągły | 2000c|
+| **Ciężki Karabin**|silne&nbsp;4&nbsp;kostki| 24| pół tury |Krótka Seria| 3000c|
 
 <h3>Strzelby</h3>
 
@@ -69,7 +69,7 @@
 |--|:--:|:--:|--|--|--:|
 | **Karabin Wyborowy**|silne&nbsp;4&nbsp;kostki| 5 | cała tura|Jeden strzał na turę | 4000c|
 | **Samopowtarzalny Karabin Wyborowy**|silne&nbsp;4&nbsp;kostki| 12 | cała tura| Nieporęczny| 5000c|
-| **.338 Lupus**|zwykłe&nbsp;5&nbsp;kostek| 5 | cała tura|Jeden strzał na turę, Nieporęczny, Odrzut| 10000c|
+| **Ciężki Karabin Wyborowy***|zwykłe&nbsp;5&nbsp;kostek| 5 | cała tura|Jeden strzał na turę, Nieporęczny, Odrzut| 10000c|
 
 <h3>Karabiny Maszynowe</h3>
 
@@ -79,9 +79,9 @@
 
 |Nazwa|Obrażenia|Magazynek|Ładowanie|Cechy|Cena|
 |--|:--:|:--:|--|--|--:|
-|**5,56mm //.233&nbsp;Falx**|zwykłe&nbsp;4&nbsp;kostki| 100 |trzy tury| Krótka Seria, Ogień&nbsp;Ciągły| 4000c|
-|**7,62,, //.277**|silne&nbsp;4&nbsp;kostki| 100 |trzy tury| Krótka Seria, Ogień&nbsp;Ciągły, Nieporęczny| 5000c|
-|**.338**|zwykłe&nbsp;5&nbsp;kostek| 100 |pięć tur| Krótka Seria, Ogień&nbsp;Ciągły, Nieporęczny, Odrzut| 10000c|
+|**Lekki Karabin Maszynowy (Falx)**|zwykłe&nbsp;4&nbsp;kostki| 100 |trzy tury| Krótka Seria, Ogień&nbsp;Ciągły| 4000c|
+|**Uniwersalny Karabin Maszynowy**|silne&nbsp;4&nbsp;kostki| 100 |trzy tury| Krótka Seria, Ogień&nbsp;Ciągły, Nieporęczny| 5000c|
+|**Ciężki Karabin Maszynowy**|zwykłe&nbsp;5&nbsp;kostek| 100 |pięć tur| Krótka Seria, Ogień&nbsp;Ciągły, Nieporęczny, Odrzut| 10000c|
 
 <h3>Cechy Broni</h3>
 
