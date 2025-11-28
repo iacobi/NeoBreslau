@@ -26,7 +26,7 @@
 
 <h3>Gliniarz</h3>
 
-**Opis**: Od ulic ziemskich miast przez niezliczone korytarze kosmicznych stacji po piaszczyste drogi najdalszych kolonii. Gliniarze dbają o prawo i porządek.
+**Opis**: Od ulic ziemskich miast przez niezliczone korytarze kosmicznych stacji po przeszklone habitaty najdalszych kolonii - armia podobnych Ci ludzi dba o prawo i porządek.
 
 **Ekwipunek** : 1000 kredytów, Pałka Teleskopowa, Paralizator albo Pistolet 9mm, Strzelba albo Lekki Pancerz, TraumaPack
 
