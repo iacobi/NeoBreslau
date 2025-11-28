@@ -2,9 +2,9 @@
 
 <h3>Łowca Nagród</h3>
 
-**Opis**: ...
+**Opis**: Gdzie nie sięga prawo, tam trzeba kupić sprawiedliwość. Eksploracja kosmosu postępuje znacznie szybciej niż jego cywilizowanie. W skolonizowanej przestrzeni istnieją setki, jeśli nie tysiące, stacji i osiedli ludzkich całkowicie pozbawionych policji lub choćby jej namiastki. Do tego dochodzą dziesiątki tysięcy korporacyjnych enklaw, prywatnych miast oraz terenów spornych o niejasnym statusie prawnym. Tak rodzi się zapotrzebowanie na łowców nagród. Za odpowiednią cenę jest w stanie schwytać każdego poszukiwanego i doprowadzić go przed oblicze wymiaru sprawiedliwości. W niektórych ekstremalnych przypadkach może nawet wymierzyć sprawiedliwość samodzielnie. Łowcy nagród sami również często działają na granicy prawa — zwłaszcza tam, gdzie poszukiwani przekraczają granice wielu jurysdykcji.
 
-**Ekwipunek** : 2000 kredytów, Paralizator albo Rewolwer .357
+**Ekwipunek** : 2000 kredytów, Paralizator, Pistolet Maszynowy 10mm albo Strzelba, Wytrychy
 
 **Umiejętności** : Broń Krótka, Charakter, Walka Bronią, Spostrzegawczość
 
@@ -26,7 +26,7 @@
 
 <h3>Gliniarz</h3>
 
-**Opis**: ...
+**Opis**: Od ulic ziemskich miast przez niezliczone korytarze kosmicznych stacji po piaszczyste drogi najdalszych kolonii. Gliniarze dbają o prawo i porządek.
 
 **Ekwipunek** : 1000 kredytów, Pałka Teleskopowa, Paralizator albo Pistolet 9mm, Strzelba albo Lekki Pancerz, TraumaPack
 
