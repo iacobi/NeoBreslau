@@ -69,7 +69,7 @@
 |--|:--:|:--:|--|--|--:|
 | **Karabin Wyborowy**|silne&nbsp;4&nbsp;kostki| 5 | cała tura|Jeden strzał na turę | 4000c|
 | **Samopowtarzalny Karabin Wyborowy**|silne&nbsp;4&nbsp;kostki| 12 | cała tura| Nieporęczny| 5000c|
-| **Ciężki Karabin Wyborowy***|zwykłe&nbsp;5&nbsp;kostek| 5 | cała tura|Jeden strzał na turę, Nieporęczny, Odrzut| 10000c|
+| **Ciężki Karabin Wyborowy**|zwykłe&nbsp;5&nbsp;kostek| 5 | cała tura|Jeden strzał na turę, Nieporęczny, Odrzut| 10000c|
 
 <h3>Karabiny Maszynowe</h3>
 
