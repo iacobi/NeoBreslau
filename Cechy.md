@@ -33,11 +33,7 @@ Jeśli opis na to pozwala gracz wybiera czy cechy to naturalne wrodzone zdolnoś
 >
 >**Snajper** (zamiast cechy **Komandos**) : Przerzut do **Kamuflażu**. Przerzut do **Broni Długiej** ale wyłącznie podczas strzałów mierzonych.
 >
->**Łowca** (zamiast cechy **Komandos**) : Przerzut do **Kamuflażu** i **Sztuki Przetrwania**.
->
->**Szturmowiec** (zamiast cechy **Komandos**) : Ignorujesz kary Ciężkiego Pancerza i Nieporęcznej broni.
->
->**Szpieg** (zamiast cechy **Komandos**) : Przerzut do kamufalżu, zmiana wyglądu i produkcja fałszywych papierów??
+>**Szturmowiec** (zamiast cechy **Komandos**) : Nie masz ograniczeń czasowych w noszeniu Ciężkiego Pancerza. Strzelając Ogniem Ciągłym rzucasz 6 kostkami na trafienie w każdym ataku.
 >
 
 **Koprocesor** : Przerzut do **Oprogramowania**. Możesz się sprzeżyć z dowolną ilością cybersprzętu na raz.
