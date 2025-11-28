@@ -125,7 +125,7 @@ W ciężkim pancerzu postać wytrzyma tyle godzin ile wynosi jej Wytrzymałość
 
 **Nokaina [200c] :** Zastrzyki, krople albo tabletki. Podnosi próg bólu o punkt. Daje dwa punkty żywotności i może podnieść żywotność o dwa punkty ponad normalny poziom.
 
-**Blitz [200c] :** Inhalator. Postać rzuca dodatkową kostką na inicjatywę i nie traci kostki podczas unikania broni palnej.
+**Blitz [200c] :** Inhalator. Postać rzuca dodatkową kostką na inicjatywę, przerzut do Sprawności.
 
 **Lux [500c] :** Krople albo Inhalator. Daje dwa punkty Siły Woli. Nie może podnieść Siły Woli ponad nromalny poziom.
 
