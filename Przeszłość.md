@@ -28,7 +28,7 @@
 
 **Opis**: Doświadczony były funkcjonariusz służb porządkowych. Doskonale radzisz sobie w trudnych sytuacjach, zarówno w walce, jak i przy rozwiązywaniu konfliktów. Twoje umiejętności pomagają utrzymać porządek, niezależnie od sytuacji.
 
-**Ekwipunek** : 1000 kredytów, Paralizator albo Pałka Teleskopowa, Strzelba albo Lekki Pancerz, TraumaPack
+**Ekwipunek** : 1000 kredytów, Pałka Teleskopowa, Paralizator albo Pistolet 9mm, Strzelba albo Lekki Pancerz, TraumaPack
 
 **Umiejętności** : Walka Wręcz, Broń Krótka, Charakter, Prowadzenie Pojazdów
 
