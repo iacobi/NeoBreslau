@@ -111,3 +111,11 @@
 **Ekwipunek** : 1000 kredytów, Pistolet 9mm, Karabin Szturmowy albo Lekki Pancerz
 
 **Umiejętności** : Broń Długa, Charakter, Wytrzymałość, Sprawność
+
+<h3>Pancerniak</h3>
+
+**Opis**: ...
+
+**Ekwipunek** : 2000 kredytów, Karabin Szturmowy albo Pistolet Maszynowy 10mm, Narzędzia, Blitz (dwie dawki)
+
+**Umiejętności** : Broń Długa, Broń Ciężka, Prowadzenie Pojazdów, Mechanika
