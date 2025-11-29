@@ -13,7 +13,7 @@
 | **Katana** | silne 4 kostki |2| Dwuręczna|2000c|
 | **Pałka** |słabe 4 kostki|1 | Prosta Obsługa|20c|
 | **Młotek** |słabe 4 kostki| --| Prosta Obsługa, Przeciwpancerny|20c| 
-| **Łopata** | zwykłe 4 kostki |1|Dwuręczny|200c|
+| **Łopata (łom, ciężkie narzędzia)** | zwykłe 4 kostki |1|Dwuręczny|200c|
 | **Młot Budowlany**  |zwykłe 4 kostki|1 | Przeciwpancerny, Dwuręczny|80c| 
 
 **Dwuręczna:** Tracisz kostkę z rzutu na trafienie jeśli używasz jednej ręki.
