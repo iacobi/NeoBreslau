@@ -19,9 +19,7 @@ Jeśli opis na to pozwala gracz wybiera czy cechy to naturalne wrodzone zdolnoś
 >**Kowboj** (zamiast cechy **Cyngiel**) : Wyciągnięcie rewolweru z kabury nie zajmuje akcji. Przerzut do **Broń Krótka** kiedy strzelasz z rewolwerów.
 >
 
-**Droniarz** : Przerzut do testów **Pilotażu** i **Prowadzenia Pojazdów** kiedy postać steruje dronami. Jesteś tak dobry w obsłudze dron, że nie poświęcasz tury, żeby sterować nimi w walce. Efektywnie postać wykonuje w swojej inicjatywie dwie tury. Jedną dla siebie i jedną dla swojego drona. Jeśli zapłacisz punkt SW możesz wykonać akcje dla wszystkich swoich aktywnych dronów (albo użyć ich do kontry podczas czyjeś tury)
-
-**Droniarz_Alternatywa** : Przerzut do testów **Pilotażu** i **Prowadzenia Pojazdów** kiedy postać steruje dronami. Postać ma swój specjalny plecak, torbę albo skrzynie do przenoszenia i serwisowania dron. W dowolnym momencie może zapłacić jeden punkt SW, żeby znalazła się tam jedna dodatkowa drona FPV. Jeśli zrobi w to walce może od razu wykonać tą droną atak albo kontrę. Traktujemy to jako całkowicie darmową akcje.
+**Droniarz** : Przerzut do testów **Pilotażu** i **Prowadzenia Pojazdów** kiedy postać steruje dronami. Postać ma swój specjalny plecak, torbę albo skrzynie do przenoszenia i serwisowania dron. W dowolnym momencie może zapłacić jeden punkt SW, żeby znalazła się tam jedna dodatkowa drona FPV. Jeśli zrobi w to walce może od razu wykonać tą droną atak albo kontrę. Traktujemy to jako całkowicie darmową akcje.
 
 **Farciarz** : Możesz powtórzyć trzy dowolne rzuty na sesji.
 
@@ -31,7 +29,7 @@ Jeśli opis na to pozwala gracz wybiera czy cechy to naturalne wrodzone zdolnoś
 
 **Kontakty** : Przerzut do **Intuicji**. Masz talent do zawierania cennych znajomości. Ciężko o miejsce gdzie nie miałbyś jakiś kontaktów. Możesz zapłacić punkt SW, żeby wyciągnąć przysługę od któregoś z nich. Jeden punkt to mała przysługa, trzy punkty to przysługa wymagająca narażenia życia lub kariery.
 >
->**Outsider/Samotny Wilk** (zamiast cechy **Kontakty**) : Przerzut do **Intuicji** i **Sztuki Przetrwania**. Nie tracisz kostek kiedy musisz leczyć sam siebie.
+>**Outsider** (zamiast cechy **Kontakty**) : Przerzut do **Intuicji** i **Sztuki Przetrwania**.
 >
 
 **Komandos** : Przerzut do **Kamuflażu**. Rzucasz dodatkową kostką na inicjatywę, wybierasz większą wartość.
