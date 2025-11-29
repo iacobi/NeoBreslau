@@ -1,5 +1,7 @@
 <h2>Przeszłość</h2>
 
+Podstawowy ekwipunek: Nóż, 1k10*1000 kredytów
+
 <h3>Łowca Nagród</h3>
 
 **Opis**: Gdzie nie sięga prawo, tam sprawiedliwość trzeba kupić. Eksploracja kosmosu postępuje znacznie szybciej niż jego cywilizowanie. W skolonizowanej przestrzeni istnieją setki, jeśli nie tysiące, stacji i osiedli ludzkich całkowicie pozbawionych choćby namiastki policji. Do tego dochodzą dziesiątki tysięcy korporacyjnych enklaw, prywatnych miast oraz terenów spornych o niejasnym statusie prawnym. Tak rodzi się zapotrzebowanie na łowców nagród. Za odpowiednią cenę są w stanie schwytać każdego poszukiwanego i doprowadzić go przed oblicze wymiaru sprawiedliwości. W niektórych ekstremalnych przypadkach samodzielnie wymierzyć sprawiedliwość. Łowcy nagród sami również często działają na granicy prawa — zwłaszcza tam, gdzie poszukiwani przekraczają granice wielu jurysdykcji.
@@ -20,9 +22,9 @@
 
 **Opis**: ...
 
-**Ekwipunek** : Pistolet Maszynowy 9mm, Blitz (trzy dawki)
+**Ekwipunek** : Pistolet Maszynowy 9mm, Maczeta, Blitz (trzy dawki)
 
-**Umiejętności** : Charakter, Kamuflaż, Kradzież, Sprawność
+**Umiejętności** : Broń Krótka, Walka Bronią, Kradzież, Sprawność
 
 <h3>Gliniarz</h3>
 
