@@ -74,8 +74,6 @@ Pistolet Maszynowy 9mm ze złożoną kolbą jest rozmiaru dużego pistoletu i be
 
 **Optyka** i **Cyberoptyka** nie poprawia celności karabinów maszynowych.
 
-**Ogień Ciągły** karabinów maszynowych zużywa 20 pocisków zamiast 15, ale każde trafienie zadaje kostke obrażeń więcej.
-
 |Nazwa|Obrażenia|Magazynek|Ładowanie|Cechy|Cena|
 |--|:--:|:--:|--|--|--:|
 |**Lekki Karabin Maszynowy (Falx)**|zwykłe&nbsp;4&nbsp;kostki| 100 |trzy tury| Krótka Seria, Ogień&nbsp;Ciągły| 4000c|
@@ -88,7 +86,7 @@ Pistolet Maszynowy 9mm ze złożoną kolbą jest rozmiaru dużego pistoletu i be
 
 **Krótka Seria:** zużywa 3 pociski, przerzut do ataku, może być użyta zarówno jako szybki strzał, albo jako strzał mierzony
 
-**Ogień Ciągły:** Zajmuje całą turę i zużywa 15 pocisków. Postać wykonuje 3 ataki, używając 6 kostek, potem 5 kostek, potem 4 kostek na trafienie. Jeśli którykolwiek atak spudłuje nie wykonuje już kolejnych.
+**Ogień Ciągły:** Zajmuje całą turę i zużywa 15 pocisków. Postać wykonuje 3 ataki, używając 6 kostek, potem 5 kostek, potem 4 kostek na trafienie. Każdy atak zadaje jedną kostkę obrażeń więcej. Jeśli którykolwiek atak spudłuje nie wykonuje już kolejnych.
 
 **Odrzut:** Tracisz kostkę z rzutu na trafienie z każdego ataku poza strzałem mierzonym. Jeśli postać poświęci turę i rozstawi broń na dwójnogu ignoruje odrzut broni.
 
