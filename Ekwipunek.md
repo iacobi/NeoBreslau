@@ -170,9 +170,9 @@ W ciężkim pancerzu postać wytrzyma tyle godzin ile wynosi jej Wytrzymałość
 
 **MultiSkaner [4000c] :** Używająca go postać używa silnych kostek w testach **Spostrzegawczości**. Postać widzi w rozszerzonym spektrum (termowizja, noktowizja itdp.). Ma postać gogli z antenami albo lunety. **Wymaga Sprzęgu.**
 
-**Lekka Tarcza [2000c] :** W walce wręcz/walce bronią postać może wykonać blok zamiast uniku. Test wykonuje się identycznie, ale zamiast uzyskać więcej sukcesów niż atakujących wystarczy remis. **Przeciwko atakom strzeleckim podnosi pancerz o punkt** pod warunkiem, że atakujący jest bezpośrednio przed trzymającym tarczę. **Strzelający mogą ominąć tarcze strzelając w miejsca których nie zasłania (PT trafienia +1)**.
+**Tarcza Policyjna [2000c] :** Blok zastępuje Unik. Test wykonuje się identycznie, ale zamiast uzyskać więcej sukcesów niż atakujących wystarczy remis. **Działa tylko przeciwko broni białej.**
 
-**Ciężka Tarcza [6000c] :** W walce wręcz/walce bronią postać może wykonać blok zamiast uniku. Test wykonuje się identycznie, ale zamiast uzyskać więcej sukcesów niż atakujących wystarczy remis. **Przeciwko atakom strzeleckim podnosi pancerz o trzy punkty** pod warunkiem, że atakujący jest bezpośrednio przed trzymającym tarczę. **Strzelający mogą ominąć tarcze strzelając w miejsca których nie zasłania (PT trafienia +1)**. Tarcza jest **Nieporęczna** i wymaga Siły co najmniej 4, żeby jej używac w jednej ręcę.
+**Pawęż Balistyczna [6000c] :** Blok zastępuje Unik. Test wykonuje się identycznie, ale zamiast uzyskać więcej sukcesów niż atakujących wystarczy remis. Masz dwa darmowe akcje bloku w rundzie. **Działa przeciwko broni białej i broni palnej oraz dostajesz.** Pawęż jest traktowana jako **Nieporęczna** broń i postać musi mieć **Siłę** minimum 4, żeby używać jej w jednej ręce.
 
 **Repo [2500c/5000c] :** Podpinane do sprzęgu repozytorium z pojedynczą umiejętnością na poziomie 3/4. Postać z podpiętym repozytorium potrafi wykonywać wszystkie czynności związanne z tą umiejętnością na poziomie repo. Instalowanie nowego repozytorum jest natychmiastowe ale to męczący i wymagający dla układu nerwowego proces i wymaga wydania jednego punktu SW.
 
