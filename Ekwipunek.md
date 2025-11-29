@@ -41,6 +41,8 @@
 
 <h3> Pistolety Maszynowe</h3>
 
+Pistolet Maszynowy 9mm ze złożoną kolbą jest rozmiaru dużego pistoletu i bez problemu można go schować pod ubraniem.
+
 ||Obrażenia|Magazynek|Ładowanie|Cechy|Cena|
 |--|:--:|:--:|--|--|--:|
 | **Pistolet Maszynowy 9mm**|zwykłe&nbsp;3&nbsp;kostki| 30| pół tury |Prosta Obsługa, Krótka Seria, Ogień&nbsp;Ciągły | 1000c|
@@ -50,16 +52,13 @@
 
 ||Obrażenia|Magazynek|Ładowanie|Cechy|Cena|
 |--|:--:|:--:|--|--|--:|
-| **Karabinek Szturmowy**|zwykłe&nbsp;4&nbsp;kostki| 30| pół tury |Krótka Seria, Ogień Ciągły | 2000c|
+| **Karabin Szturmowy**|zwykłe&nbsp;4&nbsp;kostki| 30| pół tury |Krótka Seria, Ogień Ciągły | 2000c|
 | **Ciężki Karabin**|silne&nbsp;4&nbsp;kostki| 24| pół tury |Krótka Seria| 3000c|
 
 <h3>Strzelby</h3>
 
-**Dubeltówka** jeśli wystrzeli z obur rur podczas jednego ataku dostaje dodatkową kostkę do rzutu na obrażenia.
-
 |Nazwa|Obrażenia|Magazynek|Ładowanie|Cechy|Cena|
 |--|:--:|:--:|--|--|--:|
-| **Dubeltówka**|silne&nbsp;4&nbsp;kostki| 2 | 1 nabój na turę |Prosta Obsługa| 1000c|
 | **Strzelba**|silne&nbsp;4&nbsp;kostki| 6 | 1 nabój na turę |Prosta Obsługa| 1000c|
 | **Strzelba Automatyczna**|silne&nbsp;4&nbsp;kostki| 20 | cała tura | Krótka Seria, Ogień Ciągły| 2500c|
 
