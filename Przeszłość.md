@@ -117,4 +117,5 @@
 **Opis**: ...
 
 **Ekwipunek** : Karabin Szturmowy albo Pistolet Maszynowy 10mm, Narzędzia, Blitz (dwie dawki), Repozytorium (Broń Ciężka 4 albo Pojazdy Cieżkie 4)
+
 **Umiejętności** : Broń Długa, Wytrzymałość, Prowadzenie Pojazdów, Mechanika
