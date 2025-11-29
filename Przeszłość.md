@@ -1,12 +1,10 @@
 <h2>Przeszłość</h2>
 
-Podstawowy ekwipunek: Nóż, 1k10*1000 kredytów
-
 <h3>Łowca Nagród</h3>
 
 **Opis**: Gdzie nie sięga prawo, tam sprawiedliwość trzeba kupić. Eksploracja kosmosu postępuje znacznie szybciej niż jego cywilizowanie. W skolonizowanej przestrzeni istnieją setki, jeśli nie tysiące, stacji i osiedli ludzkich całkowicie pozbawionych choćby namiastki policji. Do tego dochodzą dziesiątki tysięcy korporacyjnych enklaw, prywatnych miast oraz terenów spornych o niejasnym statusie prawnym. Tak rodzi się zapotrzebowanie na łowców nagród. Za odpowiednią cenę są w stanie schwytać każdego poszukiwanego i doprowadzić go przed oblicze wymiaru sprawiedliwości. W niektórych ekstremalnych przypadkach samodzielnie wymierzyć sprawiedliwość. Łowcy nagród sami również często działają na granicy prawa — zwłaszcza tam, gdzie poszukiwani przekraczają granice wielu jurysdykcji.
 
-**Ekwipunek** : Paralizator, Pistolet Maszynowy 10mm albo Strzelba, Wytrychy
+**Ekwipunek** : 1000 kredytów,  Paralizator, Pistolet Maszynowy 10mm albo Strzelba, Wytrychy
 
 **Umiejętności** : Broń Krótka, Charakter, Walka Bronią, Spostrzegawczość
 
@@ -14,7 +12,7 @@ Podstawowy ekwipunek: Nóż, 1k10*1000 kredytów
 
 **Opis**: ...
 
-**Ekwipunek** : Paralizator albo Rewolwer .357
+**Ekwipunek** : 1000 kredytów,  Paralizator albo Rewolwer .357
 
 **Umiejętności** : Charakter, Intuicja, Spostrzegawczość, Kamuflaż
 
@@ -22,7 +20,7 @@ Podstawowy ekwipunek: Nóż, 1k10*1000 kredytów
 
 **Opis**: ...
 
-**Ekwipunek** : Pistolet Maszynowy 9mm, Maczeta, Blitz (trzy dawki)
+**Ekwipunek** : 1000 kredytów,  Pistolet Maszynowy 9mm, Maczeta, Blitz (trzy dawki)
 
 **Umiejętności** : Broń Krótka, Walka Bronią, Kradzież, Sprawność
 
@@ -30,7 +28,7 @@ Podstawowy ekwipunek: Nóż, 1k10*1000 kredytów
 
 **Opis**: Od ulic ziemskich miast przez niezliczone korytarze kosmicznych stacji po przeszklone habitaty najdalszych kolonii - armia podobnych Ci ludzi dba o prawo i porządek.
 
-**Ekwipunek** : Pałka Teleskopowa, Paralizator albo Pistolet 9mm, Strzelba albo Lekki Pancerz, TraumaPack
+**Ekwipunek** : 1000 kredytów,  Pałka Teleskopowa, Paralizator albo Pistolet 9mm, Strzelba albo Lekki Pancerz, TraumaPack
 
 **Umiejętności** : Walka Wręcz, Broń Krótka, Charakter, Prowadzenie Pojazdów
 
@@ -38,7 +36,7 @@ Podstawowy ekwipunek: Nóż, 1k10*1000 kredytów
 
 **Opis**: ...
 
-**Ekwipunek** : Paralizator, Scrambler/TacMod
+**Ekwipunek** : 1000 kredytów,  Paralizator, Scrambler/TacMod
 
 **Umiejętności** : Oprogramowanie, Elektronika, Intuicja, Kradzież
 
@@ -46,7 +44,7 @@ Podstawowy ekwipunek: Nóż, 1k10*1000 kredytów
 
 **Opis**: ...
 
-**Ekwipunek** : Narzędzia (dowolny rodzaj), Skafander Kosmiczny, Strzelba, TraumaPack
+**Ekwipunek** : 1000 kredytów,  Narzędzia (dowolny rodzaj), Skafander Kosmiczny, Strzelba, TraumaPack
 
 **Umiejętności** : Wytrzymałość, Mechanika, Sztuka Przetrwania, Prowadzenie Pojazdów
 
@@ -54,7 +52,7 @@ Podstawowy ekwipunek: Nóż, 1k10*1000 kredytów
 
 **Opis**: ...
 
-**Ekwipunek** : Pistolet 9mm, Lux (trzy dawki)
+**Ekwipunek** : 1000 kredytów,  Pistolet 9mm, Lux (trzy dawki)
 
 **Umiejętności** : Charakter, Intuicja, Oprogramowanie, Wytrzymałość
 
@@ -62,7 +60,7 @@ Podstawowy ekwipunek: Nóż, 1k10*1000 kredytów
 
 **Opis**: ...
 
-**Ekwipunek** : Paralizator, Narzędzia Medyczne, TraumaPack (3 sztuki)
+**Ekwipunek** : 1000 kredytów,  Paralizator, Narzędzia Medyczne, TraumaPack (3 sztuki)
 
 **Umiejętności** : Intuicja, Biotechnika, Medycyna, Spostrzegawczość
 
@@ -70,7 +68,7 @@ Podstawowy ekwipunek: Nóż, 1k10*1000 kredytów
 
 **Opis**: ...
 
-**Ekwipunek** : 2000 kredytów, Narzędzia (dowolny rodzaj), Strzelba
+**Ekwipunek** : 1000 kredytów,  2000 kredytów, Narzędzia (dowolny rodzaj), Strzelba
 
 **Umiejętności** : Siła, Mechanika, Elektronika, Prowadzenie Pojazdów
 
@@ -78,7 +76,7 @@ Podstawowy ekwipunek: Nóż, 1k10*1000 kredytów
 
 **Opis**: ...
 
-**Ekwipunek** : Skafander Kosmiczny, Pistolet 9mm, Lux (dwie dawki)
+**Ekwipunek** : 1000 kredytów,  Skafander Kosmiczny, Pistolet 9mm, Lux (dwie dawki)
 
 **Umiejętności** : Pilotaż, Pilotaż Kosmos, Oprogramowanie, Spostrzegawczość
 
@@ -86,7 +84,7 @@ Podstawowy ekwipunek: Nóż, 1k10*1000 kredytów
 
 **Opis**: ...
 
-**Ekwipunek** : Skafander Kosmiczny, Pistolet 9mm, Lux (dwie dawki)
+**Ekwipunek** : 1000 kredytów,  Skafander Kosmiczny, Pistolet 9mm, Lux (dwie dawki)
 
 **Umiejętności** : Kamuflaż, Pilotaż Kosmos, Oprogramowanie, Spostrzegawczość
 
@@ -94,7 +92,7 @@ Podstawowy ekwipunek: Nóż, 1k10*1000 kredytów
 
 **Opis**: ...
 
-**Ekwipunek** : Pistolet 9mm, Narzędzia
+**Ekwipunek** : 1000 kredytów,  Pistolet 9mm, Narzędzia
 
 **Umiejętności** : Cybernetyka, Elektronika, Mechanika, Oprogramowanie, Pilotaż Kosmos
 
@@ -102,7 +100,7 @@ Podstawowy ekwipunek: Nóż, 1k10*1000 kredytów
 
 **Opis**: ...
 
-**Ekwipunek** : Pistolet Maszynowy 10mm albo Katana, Lekki Pancerz, Granat Pyłowy, Blitz (dwie dawki)
+**Ekwipunek** : 1000 kredytów,  Pistolet Maszynowy 10mm albo Katana, Lekki Pancerz, Granat Pyłowy, Blitz (dwie dawki)
 
 **Umiejętności** : Broń Krótka, Walka Bronią, Sprawność, Kamuflaż
 
@@ -110,7 +108,7 @@ Podstawowy ekwipunek: Nóż, 1k10*1000 kredytów
 
 **Opis**: ...
 
-**Ekwipunek** : Pistolet 9mm, Karabin Szturmowy albo Lekki Pancerz
+**Ekwipunek** : 1000 kredytów,  Pistolet 9mm, Karabin Szturmowy albo Lekki Pancerz
 
 **Umiejętności** : Broń Długa, Charakter, Wytrzymałość, Sprawność
 
@@ -118,6 +116,6 @@ Podstawowy ekwipunek: Nóż, 1k10*1000 kredytów
 
 **Opis**: ...
 
-**Ekwipunek** : Karabin Szturmowy albo Pistolet Maszynowy 10mm, Narzędzia, Blitz (dwie dawki), Repozytorium (Broń Ciężka 4 albo Pojazdy Cieżkie 4)
+**Ekwipunek** : 1000 kredytów,  Karabin Szturmowy albo Pistolet Maszynowy 10mm, Narzędzia, Blitz (dwie dawki), Repozytorium (Broń Ciężka 4 albo Pojazdy Cieżkie 4)
 
 **Umiejętności** : Broń Długa, Wytrzymałość, Prowadzenie Pojazdów, Mechanika
