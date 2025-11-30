@@ -4,31 +4,23 @@
 
 **Opis**: Gdzie nie sięga prawo, tam sprawiedliwość trzeba kupić. Eksploracja kosmosu postępuje znacznie szybciej niż jego cywilizowanie. W skolonizowanej przestrzeni istnieją setki, jeśli nie tysiące, stacji i osiedli ludzkich całkowicie pozbawionych choćby namiastki policji. Do tego dochodzą dziesiątki tysięcy korporacyjnych enklaw, prywatnych miast oraz terenów spornych o niejasnym statusie prawnym. Tak rodzi się zapotrzebowanie na łowców nagród. Za odpowiednią cenę są w stanie schwytać każdego poszukiwanego i doprowadzić go przed oblicze wymiaru sprawiedliwości. W niektórych ekstremalnych przypadkach samodzielnie wymierzyć sprawiedliwość. Łowcy nagród sami również często działają na granicy prawa — zwłaszcza tam, gdzie poszukiwani przekraczają granice wielu jurysdykcji.
 
-**Ekwipunek** : 1000 kredytów,  Paralizator, Pistolet Maszynowy 10mm albo Strzelba, Wytrychy
+**Ekwipunek** : Rewolwer .44 albo Strzelba, Paralizator albo Maczeta, Wytrychy
 
 **Umiejętności** : Broń Krótka, Charakter, Walka Bronią, Spostrzegawczość
-
-<h3>Detektyw</h3>
-
-**Opis**: ...
-
-**Ekwipunek** : 1000 kredytów,  Paralizator albo Rewolwer .357
-
-**Umiejętności** : Charakter, Intuicja, Spostrzegawczość, Kamuflaż
 
 <h3>Gangster</h3>
 
 **Opis**: ...
 
-**Ekwipunek** : 1000 kredytów,  Pistolet Maszynowy 9mm, Maczeta, Blitz (trzy dawki)
+**Ekwipunek** : Pistolet Maszynowy 9mm, Blitz (trzy dawki)
 
-**Umiejętności** : Broń Krótka, Walka Bronią, Kradzież, Sprawność
+**Umiejętności** : Broń Krótka, Walka Bronią, Kradzież, Siła
 
 <h3>Gliniarz</h3>
 
 **Opis**: Od ulic ziemskich miast przez niezliczone korytarze kosmicznych stacji po przeszklone habitaty najdalszych kolonii - armia podobnych Ci ludzi dba o prawo i porządek.
 
-**Ekwipunek** : 1000 kredytów,  Pałka Teleskopowa, Paralizator albo Pistolet 9mm, Strzelba albo Lekki Pancerz, TraumaPack
+**Ekwipunek** : Paralizator albo Pistolet 9mm, Strzelba albo Lekki Pancerz, TraumaPack
 
 **Umiejętności** : Walka Wręcz, Broń Krótka, Charakter, Prowadzenie Pojazdów
 
@@ -36,15 +28,15 @@
 
 **Opis**: ...
 
-**Ekwipunek** : 1000 kredytów,  Paralizator, Scrambler/TacMod
+**Ekwipunek** : 1000 kredytów,  Pistolet 9mm, Scrambler/TacMod
 
 **Umiejętności** : Oprogramowanie, Elektronika, Intuicja, Kradzież
 
 <h3>Kolonista</h3>
 
-**Opis**: ...
+**Opis**: Rubieże cywilizacji przyciągają najodważniejszych — lub, jak twierdzą niektórzy, najbardziej szalonych. Koloniści muszą znać się na wszystkim: od produkcji tlenu i żywności, przez opiekę medyczną, po konserwację sprzętu i budowę habitatów. Wszystko zależy od garstki niesamowicie zawziętych i zaradnych ludzi. Najbliższa pomoc może być oddalona o miesiące, podróży z podświetlnymi prędkościami. Koloniści szybko uczą się, że każda rzecz jest cenna — pojedyncza śrubka albo rolka folii może stanowić różnicę między szczelną, solidną kopułą a skażeniem połowy habitatu obcą atmosferą lub kosmicznym promieniowaniem. Do wszystkich nieznanych zagrożeń czyhających na nich w kosmosie dochodzą jeszcze te, które zabraliśmy ze sobą z Ziemi: bandyci grasujący na krańcach cywilizacji czy kolejny korporacyjny spór o kawałek księżyca, który potrafi zamienić kolonię w poligon dla taktycznych głowic jądrowych.
 
-**Ekwipunek** : 1000 kredytów,  Narzędzia (dowolny rodzaj), Skafander Kosmiczny, Strzelba, TraumaPack
+**Ekwipunek** : Narzędzia, Strzelba, TraumaPack, Drona FPV (nieuzbrojona), Repozytorium (Medycyna 3 albo Broń Długa 3)
 
 **Umiejętności** : Wytrzymałość, Mechanika, Sztuka Przetrwania, Prowadzenie Pojazdów
 
@@ -52,15 +44,15 @@
 
 **Opis**: ...
 
-**Ekwipunek** : 1000 kredytów,  Pistolet 9mm, Lux (trzy dawki)
+**Ekwipunek** : Pistolet 10mm, Lux (trzy dawki), Repozytorium (Dowolna Umiejętność 4)
 
-**Umiejętności** : Charakter, Intuicja, Oprogramowanie, Wytrzymałość
+**Umiejętności** : Charakter, Intuicja, Oprogramowanie, Wola
 
 <h3>Lekarz</h3>
 
 **Opis**: ...
 
-**Ekwipunek** : 1000 kredytów,  Paralizator, Narzędzia Medyczne, TraumaPack (3 sztuki)
+**Ekwipunek** : Paralizator albo Rewolwer .357, Narzędzia Medyczne, TraumaPack (3 sztuki)
 
 **Umiejętności** : Intuicja, Biotechnika, Medycyna, Spostrzegawczość
 
@@ -68,7 +60,7 @@
 
 **Opis**: ...
 
-**Ekwipunek** : 1000 kredytów,  2000 kredytów, Narzędzia (dowolny rodzaj), Strzelba
+**Ekwipunek** : Strzelba albo Rewolwer .357, Narzędzia, Paral
 
 **Umiejętności** : Siła, Mechanika, Elektronika, Prowadzenie Pojazdów
 
@@ -76,7 +68,7 @@
 
 **Opis**: ...
 
-**Ekwipunek** : 1000 kredytów,  Skafander Kosmiczny, Pistolet 9mm, Lux (dwie dawki)
+**Ekwipunek** : Pistolet 9mm, Lux (dwie dawki)
 
 **Umiejętności** : Pilotaż, Pilotaż Kosmos, Oprogramowanie, Spostrzegawczość
 
@@ -84,7 +76,7 @@
 
 **Opis**: ...
 
-**Ekwipunek** : 1000 kredytów,  Skafander Kosmiczny, Pistolet 9mm, Lux (dwie dawki)
+**Ekwipunek** : Pistolet 9mm, Lux (dwie dawki)
 
 **Umiejętności** : Kamuflaż, Pilotaż Kosmos, Oprogramowanie, Spostrzegawczość
 
@@ -92,7 +84,7 @@
 
 **Opis**: ...
 
-**Ekwipunek** : 1000 kredytów,  Pistolet 9mm, Narzędzia
+**Ekwipunek** : Pistolet 9mm, Narzędzia
 
 **Umiejętności** : Cybernetyka, Elektronika, Mechanika, Oprogramowanie, Pilotaż Kosmos
 
@@ -100,7 +92,7 @@
 
 **Opis**: ...
 
-**Ekwipunek** : 1000 kredytów,  Pistolet Maszynowy 10mm albo Katana, Lekki Pancerz, Granat Pyłowy, Blitz (dwie dawki)
+**Ekwipunek** : Pistolet Maszynowy 10mm albo Katana, Lekki Pancerz, Blitz (dwie dawki)
 
 **Umiejętności** : Broń Krótka, Walka Bronią, Sprawność, Kamuflaż
 
@@ -108,7 +100,7 @@
 
 **Opis**: ...
 
-**Ekwipunek** : 1000 kredytów,  Pistolet 9mm, Karabin Szturmowy albo Lekki Pancerz
+**Ekwipunek** : Karabin Szturmowy albo Lekki Pancerz
 
 **Umiejętności** : Broń Długa, Charakter, Wytrzymałość, Sprawność
 
@@ -116,6 +108,6 @@
 
 **Opis**: ...
 
-**Ekwipunek** : 1000 kredytów,  Karabin Szturmowy albo Pistolet Maszynowy 10mm, Narzędzia, Blitz (dwie dawki), Repozytorium (Broń Ciężka 4 albo Pojazdy Cieżkie 4)
+**Ekwipunek** : Karabin Szturmowy albo Pistolet Maszynowy 10mm, Narzędzia, Blitz (dwie dawki), Repozytorium (Broń Ciężka 4 albo Pojazdy Cieżkie 4)
 
 **Umiejętności** : Broń Długa, Wytrzymałość, Prowadzenie Pojazdów, Mechanika
