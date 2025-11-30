@@ -44,7 +44,7 @@
 
 <h3>Korpos</h3>
 
-**Opis**: ...
+**Opis**: Dla korposa liczą się tylko dwie rzeczy: władza i pieniądze, reszta świata to tylko ludzie po których wspina się na szczyt kariery. 
 
 **Ekwipunek** : Modne Ubranie, Pistolet 10mm, Lux (trzy dawki), Repozytorium (Dowolna Umiejętność 4)
 
