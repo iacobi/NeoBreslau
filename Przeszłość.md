@@ -38,7 +38,7 @@
 
 **Opis**: Rubieże cywilizacji przyciągają najodważniejszych — lub, jak twierdzą niektórzy, najbardziej szalonych. Koloniści muszą znać się na wszystkim: od produkcji tlenu i żywności, przez opiekę medyczną, po konserwację sprzętu i budowę habitatów. Wszystko zależy od garstki niesamowicie zawziętych i zaradnych ludzi. Najbliższa pomoc może być oddalona o miesiące, podróży z podświetlnymi prędkościami. Koloniści szybko uczą się, że każda rzecz jest cenna — pojedyncza śrubka albo rolka folii może stanowić różnicę między szczelną, solidną kopułą a skażeniem połowy habitatu obcą atmosferą lub kosmicznym promieniowaniem. Do wszystkich nieznanych zagrożeń czyhających na nich w kosmosie dochodzą jeszcze te, które zabraliśmy ze sobą z Ziemi: bandyci grasujący na krańcach cywilizacji czy kolejny korporacyjny spór o kawałek księżyca, który potrafi zamienić kolonię w poligon dla taktycznych głowic jądrowych.
 
-**Ekwipunek** : Narzędzia, Strzelba, TraumaPack, Drona FPV (nieuzbrojona), Repozytorium (Medycyna 3 albo Broń Długa 3)
+**Ekwipunek** : Strzelba, Narzędzia, MultiSkaner, Repozytorium (Medycyna 3 albo Broń Długa 3)
 
 **Umiejętności** : Wytrzymałość, Mechanika, Sztuka Przetrwania, Prowadzenie Pojazdów
 
