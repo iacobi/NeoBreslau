@@ -1,25 +1,28 @@
 <h1>Ekwipunek</h1>
 
-Nieuzbrojona postać ma zwykłe 4 kostki obrażeń podczas pełnych ataków i zwykłe 3 kostki podczas szybkich ataków, traci też kostkę z rzutu na trafienie jeśli atakuje kogokolwiek uzbrojonego (wliczając to broń palną). W rzucie na obrażenia nie ma gwarancji jednego punktu obrażeń.
-Postac uzbrojona w broń improwizowaną (kastet, butelka, śrubokręt, noże kuchenne itd itp) również traci kostkę z rzutu na trafienie jeśli atakuje uzbrojną postać, ale w rzucie na obrażenia
+Rzut na obrażenia zawsze ma minimalnie jeden sukces niezależnie od tego co wypadnie na kościach pod warunkiem, że postać nie jest **bez broni** ani nie używa **broni improwizowanej**
 
 <h2>Broń Biała</h2>
 
-|Broń | Obrażenia | Przerzuty | Cechy| Cena |
+|Broń | Obrażenia* | Przerzuty | Cechy| Cena |
 |--|:--:|:--:|--|--|
-| **Bez Broni** |zwykłe 4 kostki|-- |traci kostkę z trafienia uzbrojonych, brak gwarancji obrażeń|--| 
-| **Kastet (Butelka, Śrubokręt, Broń Improwizowana)** |zwykłe 4 kostki| |Prosta Obsługa, traci kostkę z trafienia uzbrojonych|--| 
+| **Bez Broni\*\*** |zwykłe 4 kostki|-- |--|--| 
+| **Broń Improwizowana (Kastet, Butelka, Śrubokręt, Krzesło)** |zwykłe 4 kostki| --|Prosta Obsługa|--| 
 | **Nóż, Pałka, Młotek** |zwykłe 4 kostki|--| Prosta Obsługa |20c|
-| **Tasak (Toporek, Tomahawk)** | silne 4 kostki |--|--|40c|
+| **Toporek (Tasak, Tomahawk)** | silne 4 kostki |--|--|40c|
 | **Maczeta** | zwykłe 4 kostki |1| -- |40c| 
-| **Topór Strażacki** | silne 4 kostki |1|Dwuręczny|80c|
 | **Katana** | silne 4 kostki |2| Dwuręczna|2000c|
-| **Łopata (łom, ciężkie narzędzia)** | zwykłe 4 kostki |1|Dwuręczny|200c|
+| **Topór Strażacki** | silne 4 kostki |1|Dwuręczny|80c|
+| **Łom** | zwykłe 4 kostki |1|Dwuręczny|200c|
 | **Młot Budowlany**  |zwykłe 4 kostki|1 | Przeciwpancerny, Dwuręczny|80c| 
 
-**Dwuręczna:** Tracisz kostkę z rzutu na trafienie jeśli używasz jednej ręki.
+\***Obrażenia:** Każda broń biała traci jedną kostkę obrażeń podczas szykbich ataków.
+
+\*\***Bez Broni:** Traci kostkę z rzutu na trafienie jeśli atakuje kogokolwiek uzbrojonego.
 
 **Prosta Obsługa:** postać wybiera czy używa Walki Wręcz czy Walki Bronią
+
+**Dwuręczna:** Wymaga użycia obu rąk
 
 **Przeciwpancerna:** Jeśli w rzucie na obrażenia wypadnie jedynka atak ignoruje pancerz.
 
