@@ -1,18 +1,19 @@
 <h1>Ekwipunek</h1>
 
+Nieuzbrojona postać ma zwykłe 4 kostki obrażeń podczas pełnych ataków i zwykłe 3 kostki podczas szybkich ataków, traci też kostkę z rzutu na trafienie jeśli atakuje kogokolwiek uzbrojonego (wliczając to broń palną). W rzucie na obrażenia nie ma gwarancji jednego punktu obrażeń.
+Postac uzbrojona w broń improwizowaną (kastet, butelka, śrubokręt, noże kuchenne itd itp) również traci kostkę z rzutu na trafienie jeśli atakuje uzbrojną postać, ale w rzucie na obrażenia
+
 <h2>Broń Biała</h2>
 
 |Broń | Obrażenia | Przerzuty | Cechy| Cena |
 |--|:--:|:--:|--|--|
-| **Bez Broni** |słabe 4 kostki|-- |Tracisz kostkę z trafienia uzbrojonych|--| 
-| **Kastet (Butelka, Śrubokręt, Broń Improwizowana)** |słabe 4 kostki| |Prosta Obsługa|--| 
-| **Nóż** |zwykłe 4 kostki|--| Prosta Obsługa |20c|
+| **Bez Broni** |zwykłe 4 kostki|-- |traci kostkę z trafienia uzbrojonych, brak gwarancji obrażeń|--| 
+| **Kastet (Butelka, Śrubokręt, Broń Improwizowana)** |zwykłe 4 kostki| |Prosta Obsługa, traci kostkę z trafienia uzbrojonych|--| 
+| **Nóż, Pałka, Młotek** |zwykłe 4 kostki|--| Prosta Obsługa |20c|
 | **Tasak (Toporek, Tomahawk)** | silne 4 kostki |--|--|40c|
 | **Maczeta** | zwykłe 4 kostki |1| -- |40c| 
 | **Topór Strażacki** | silne 4 kostki |1|Dwuręczny|80c|
 | **Katana** | silne 4 kostki |2| Dwuręczna|2000c|
-| **Pałka** |słabe 4 kostki|1 | Prosta Obsługa|20c|
-| **Młotek** |słabe 4 kostki| --| Prosta Obsługa, Przeciwpancerny|20c| 
 | **Łopata (łom, ciężkie narzędzia)** | zwykłe 4 kostki |1|Dwuręczny|200c|
 | **Młot Budowlany**  |zwykłe 4 kostki|1 | Przeciwpancerny, Dwuręczny|80c| 
 
