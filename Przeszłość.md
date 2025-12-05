@@ -108,7 +108,7 @@
 
 <h3>Pancerniak</h3>
 
-**Opis**: ...
+**Opis**: "zmech w kosmosie"
 
 **Ekwipunek** : Karabin Szturmowy, Blitz (dwie dawki), Repozytorium (Broń Ciężka 4 albo Pojazdy Cieżkie 4)
 
