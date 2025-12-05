@@ -98,7 +98,7 @@ Pistolet Maszynowy 9mm ze złożoną kolbą jest rozmiaru dużego pistoletu i be
 
 <h3> Granaty </h3>
 
-Granaty zadają **słabe 5 kostek** obrażeń w promieniu 5 metrów. Jeśli deklarujesz użycie granatu spadasz na koniec tury (granat trzeba wyciągnąć rzucić i musi dolecieć). Umiejętnośc odpowiedzialną za rzut granatem jest **Sprawność**. Koszt jednego granatu to 100c
+Granaty zadają **silne 4 kostki** obrażeń w promieniu 5 metrów. Jeśli deklarujesz użycie granatu spadasz na koniec tury (granat trzeba wyciągnąć rzucić i musi dolecieć). Umiejętnośc odpowiedzialną za rzut granatem jest **Sprawność**. Koszt jednego granatu to 100c
 
 <h2>Pancerze</h2>
 
@@ -166,7 +166,7 @@ W ciężkim pancerzu postać wytrzyma tyle godzin ile wynosi jej Wytrzymałość
 
 **CyberOptyka [4000c] :** Wymaga sprzęgu, silne kostki zamiast zwykłych kiedy testujesz umiejętność strzelania (również strzały szybkie i ogień ciągły)
 
-**Paralizator [1000c] :** Jednostrzałowy pistolet, ma 10 metrów zasięgu i zadaje **słabe 5 kostek obrażeń**. Trafienie z paralizatora nie powoduje utraty żywotnosci. Jeśli w rzucie na obrażenia udało się osiągnąć **próg bólu** celu jest on powalony i nie będzie zdolny do ruchu przez minutę. Paralizator traktujemy jakby miał cechę **przeciwpancerny** jeśli w rzucie na obrażenia będzie chociaż jedna jedynka to obrażenia ignorują pancerz.
+**Paralizator [1000c] :** Jednostrzałowy pistolet, ma 10 metrów zasięgu i zadaje **silne 4 kostki obrażeń**. Trafienie z paralizatora nie powoduje utraty żywotnosci. Jeśli w rzucie na obrażenia udało się osiągnąć **próg bólu** celu jest on powalony i nie będzie zdolny do ruchu przez minutę. Paralizator traktujemy jakby miał cechę **przeciwpancerny** jeśli w rzucie na obrażenia będzie chociaż jedna jedynka to obrażenia ignorują pancerz.
 
 **ElektroMaskałat [4000c] :** Maskuje ślad termiczny i elektromagnetyczny postaci. Zmienia wzór kamuflujący tak, żeby pasować do otoczenia. Używająca go postać używa silnych kostek w testach **Kamuflażu**.
 
@@ -178,7 +178,7 @@ W ciężkim pancerzu postać wytrzyma tyle godzin ile wynosi jej Wytrzymałość
 
 **Repo [2500c/5000c] :** Podpinane do sprzęgu repozytorium z pojedynczą umiejętnością na poziomie 3/4. Postać z podpiętym repozytorium potrafi wykonywać wszystkie czynności związanne z tą umiejętnością na poziomie repo. Instalowanie nowego repozytorum jest natychmiastowe ale to męczący i wymagający dla układu nerwowego proces i wymaga wydania jednego punktu SW.
 
-**Pilum [4000c] :** Jednorazowy granatnik przeciwpancerny. Bezpośrednie trafienie w człowieka to automatyczna śmierć, odłamki zadają **słabe 5 kostek** obrażeń w probmieniu 5 metrów. Pilum wymaga umiejętności **Broń Ciężka** ma też wbudowany komputer sterujący, który daje postaci tą umiejętność na poziomie minimum 3.
+**Pilum [4000c] :** Jednorazowy granatnik przeciwpancerny. Bezpośrednie trafienie w człowieka to automatyczna śmierć, odłamki zadają **silne 4 kostki** obrażeń w probmieniu 5 metrów. Pilum wymaga umiejętności **Broń Ciężka** ma też wbudowany komputer sterujący, który daje postaci tą umiejętność na poziomie minimum 3.
 
 **??Granat Pyłowy** : 500c : Tworzy chmurę pyłu nie przepuszczającą promieniowania elektromagnetycznego. Zwalnia pociski i tłumi eksplozje. Broń palna i granaty tracą trzy kostki obrażeń w pyle, lub przelatując przez pył.
 
