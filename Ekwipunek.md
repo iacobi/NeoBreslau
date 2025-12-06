@@ -1,14 +1,14 @@
 <h1>Ekwipunek</h1>
 
-Postacie **bez broni** i używające **broni improwizowanej** mogą zadać zero obrażeń jeśli nie uzyskają żadnego sukcesu w rzucie na obrażenia.
+Walcząc **Bez Broni** Siła postaci jest niższa o punkt podczas zadawania obrażeń i tracisz kostę z rzutu na trafienie jeśli atakujesz uzbrojoną postać.
 
-Każda inna postać zawsze zadaje **minimum jeden punkt obrażeń** nawet jeśli nie uzyskała sukcesu w rzucie na obrażenia.
+Walcząc**Bronią Improwizowaną** Siła postaci jest nizsza o punkt podczas zadawania obrażeń.
 
 <h2>Broń Biała</h2>
 
 |Broń | Obrażenia* | Przerzuty | Cechy| Cena |
 |--|:--:|:--:|--|--|
-| **Bez Broni** |zwykłe 4 kostki|-- |Traci kostkę z rzutu na trafienie atakując uzbrojoną postać|--| 
+| **Bez Broni** |zwykłe 4 kostki|-- |--|--| 
 | **Broń Improwizowana (Kastet, Butelka, Śrubokręt, Krzesło)** |zwykłe 4 kostki| --|Prosta Obsługa|--| 
 | **Nóż, Pałka, Młotek** |zwykłe 4 kostki|--| Prosta Obsługa |20c|
 | **Toporek (Tasak, Tomahawk)** | silne 4 kostki |--|--|40c|
