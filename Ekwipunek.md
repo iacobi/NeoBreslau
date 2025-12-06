@@ -2,7 +2,7 @@
 
 Walcząc **Bez Broni** Siła postaci jest niższa o punkt podczas zadawania obrażeń i tracisz kostę z rzutu na trafienie jeśli atakujesz uzbrojoną postać.
 
-Walcząc**Bronią Improwizowaną** Siła postaci jest nizsza o punkt podczas zadawania obrażeń.
+Walcząc **Bronią Improwizowaną** Siła postaci jest nizsza o punkt podczas zadawania obrażeń.
 
 <h2>Broń Biała</h2>
 
