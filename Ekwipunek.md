@@ -1,12 +1,14 @@
 <h1>Ekwipunek</h1>
 
-Rzut na obrażenia zawsze ma minimalnie jeden sukces niezależnie od tego co wypadnie na kościach pod warunkiem, że postać nie jest **bez broni** ani nie używa **broni improwizowanej**
+Postacie **bez broni** i używające **broni improwizowanej** mogą zadać zero obrażeń jeśli nie uzyskają żadnego sukcesu
+
+Każda inna postać zawsze zadaje **minimum jeden punkt obrażeń** nawet jeśli nie uzyskała sukcesu w rzucie na obrażenia.
 
 <h2>Broń Biała</h2>
 
 |Broń | Obrażenia* | Przerzuty | Cechy| Cena |
 |--|:--:|:--:|--|--|
-| **Bez Broni\*\*** |zwykłe 4 kostki|-- |--|--| 
+| **Bez Broni** |zwykłe 4 kostki|-- |Traci kostkę z rzutu na trafienie atakując uzbrojoną postać|--| 
 | **Broń Improwizowana (Kastet, Butelka, Śrubokręt, Krzesło)** |zwykłe 4 kostki| --|Prosta Obsługa|--| 
 | **Nóż, Pałka, Młotek** |zwykłe 4 kostki|--| Prosta Obsługa |20c|
 | **Toporek (Tasak, Tomahawk)** | silne 4 kostki |--|--|40c|
@@ -15,10 +17,6 @@ Rzut na obrażenia zawsze ma minimalnie jeden sukces niezależnie od tego co wyp
 | **Topór Strażacki** | silne 4 kostki |1|Dwuręczny|80c|
 | **Łom** | zwykłe 4 kostki |1|Dwuręczny|200c|
 | **Młot Budowlany**  |zwykłe 4 kostki|1 | Przeciwpancerny, Dwuręczny|80c| 
-
-\***Obrażenia:** Każda broń biała traci jedną kostkę obrażeń podczas szykbich ataków.
-
-\*\***Bez Broni:** Traci kostkę z rzutu na trafienie jeśli atakuje kogokolwiek uzbrojonego.
 
 **Prosta Obsługa:** postać wybiera czy używa Walki Wręcz czy Walki Bronią
 
