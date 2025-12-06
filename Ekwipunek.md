@@ -1,6 +1,6 @@
 <h1>Ekwipunek</h1>
 
-Postacie **bez broni** i używające **broni improwizowanej** mogą zadać zero obrażeń jeśli nie uzyskają żadnego sukcesu
+Postacie **bez broni** i używające **broni improwizowanej** mogą zadać zero obrażeń jeśli nie uzyskają żadnego sukcesu w rzucie na obrażenia.
 
 Każda inna postać zawsze zadaje **minimum jeden punkt obrażeń** nawet jeśli nie uzyskała sukcesu w rzucie na obrażenia.
 
