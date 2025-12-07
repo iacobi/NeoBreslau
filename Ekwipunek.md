@@ -2,17 +2,25 @@
 
 <h2>Broń Biała</h2>
 
-|Broń | Obrażenia* | Przerzuty | Cechy| Cena |
+|Broń | Obrażenia | Przerzuty | Cechy| Cena |
 |--|:--:|:--:|--|--|
 | **Bez Broni** |zwykłe 3 kostki|-- |--|--| 
 | **Broń Improwizowana (Kastet, Butelka, Śrubokręt, Krzesło)** |zwykłe 3 kostki| --|Prosta Obsługa|--| 
 | **Nóż, Pałka, Młotek** |zwykłe 4 kostki|--| Prosta Obsługa |20c|
-| **Toporek (Tasak, Tomahawk)** | silne 4 kostki |--|--|40c|
+| **Tasak** | silne 4 kostki |--|--|40c|
 | **Maczeta** | zwykłe 4 kostki |1| -- |40c| 
 | **Katana** | silne 4 kostki |2| Dwuręczna|2000c|
 | **Topór Strażacki** | silne 4 kostki |1|Dwuręczny|80c|
 | **Łom** | zwykłe 4 kostki |1|Dwuręczny|200c|
 | **Młot Budowlany**  |zwykłe 4 kostki|1 | Przeciwpancerny, Dwuręczny|80c| 
+
+
+|?Nietypowa Broń | Obrażenia | Przerzuty | Cechy| Cena |
+|--|:--:|:--:|--|--|
+| **Toporek Bojowy** | silne 4 kostki |1|--|???c|
+| **Szabla** | zwykłe 4 kostki |2|--|???c|
+| **Wielki Topór**  |zwykłe 5 kostek|1 | Dwuręczny|???c| 
+
 
 **Bez Broni:** postać traci kostkę z rzutu na trafienie atakując uzbrojonych przeciwników
 
