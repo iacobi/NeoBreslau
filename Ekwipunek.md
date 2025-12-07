@@ -11,7 +11,7 @@ Walcząc bez broni albo uzbrojonym w kastet postać traci kostkę z rzutu na tra
 | **Bez Broni** |zwykłe 3 kostki|-- |--|--| 
 | **Kastet** |silne 3 kostki| --|--|--| 
 
-<h3>Narzędzia</h3>
+<h3>Narzędzia i Broń Improwizowana</h3>
 
 |Broń | Obrażenia | Przerzuty | Cechy| Cena |
 |--|:--:|:--:|--|--|
