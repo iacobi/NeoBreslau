@@ -2,27 +2,39 @@
 
 <h2>Broń Biała</h2>
 
+<h3>Walka Wręcz</h3>
+
+Walcząc bez broni albo uzbrojonym w kastet postać traci kostkę z rzutu na trafienie każdej uzbrojonej postaci.
+
 |Broń | Obrażenia | Przerzuty | Cechy| Cena |
 |--|:--:|:--:|--|--|
 | **Bez Broni** |zwykłe 3 kostki|-- |--|--| 
-| **Broń Improwizowana (Kastet, Butelka, Śrubokręt, Krzesło)** |zwykłe 3 kostki| --|Prosta Obsługa|--| 
-| **Nóż, Pałka, Młotek** |zwykłe 4 kostki|--| Prosta Obsługa |20c|
-| **Tasak** | silne 4 kostki |--|--|40c|
-| **Maczeta** | zwykłe 4 kostki |1| -- |40c| 
-| **Katana** | silne 4 kostki |2| Dwuręczna|2000c|
+| **Kastet** |silne 3 kostki| --|--|--| 
+
+<h3>Narzędzia</h3>
+
+|Broń | Obrażenia | Przerzuty | Cechy| Cena |
+|--|:--:|:--:|--|--|
+| **Butelka** |zwykłe 3 kostki| --|Prosta Obsługa|--| 
+| **Młotek** |zwykłe 4 kostki|--| Prosta Obsługa |20c|
 | **Topór Strażacki** | silne 4 kostki |1|Dwuręczny|80c|
 | **Łom** | zwykłe 4 kostki |1|Dwuręczny|200c|
 | **Młot Budowlany**  |zwykłe 4 kostki|1 | Przeciwpancerny, Dwuręczny|80c| 
 
+<h3>Broń</h3>
 
-|?Nietypowa Broń | Obrażenia | Przerzuty | Cechy| Cena |
+| Broń | Obrażenia | Przerzuty | Cechy| Cena |
 |--|:--:|:--:|--|--|
-| **Toporek Bojowy** | silne 4 kostki |1|--|???c|
-| **Szabla** | zwykłe 4 kostki |2|--|???c|
-| **Wielki Topór**  |zwykłe 5 kostek|1 | Dwuręczny|???c| 
-
-
-**Bez Broni:** postać traci kostkę z rzutu na trafienie atakując uzbrojonych przeciwników
+| **Pałka** |zwykłe 4 kostki|--| Prosta Obsługa |20c|
+| **Nóż** |zwykłe 4 kostki|--| Prosta Obsługa |20c|
+| **Tomahawk, Tasak** | silne 4 kostki |--|--|40c|
+| **Maczeta** | zwykłe 4 kostki |1| -- |40c| 
+| **Szabla** | zwykłe 4 kostki |2|--|2000c|
+| **Katana** | silne 4 kostki |2| Dwuręczna|2000c|
+| **Toporek Bojowy** | silne 4 kostki |1|--|1000c|
+| **Wielki Topór**  |zwykłe 5 kostek|1 | Dwuręczny|1000c| 
+| **Włócznia**  |zwykłe 4 kostki|2 | Dwuręczna, Walka Bronią +1|2000c| 
+| **Naginata**  |zwykłe 5 kostek|2 | Dwuręczna|2000c| 
 
 **Prosta Obsługa:** postać wybiera czy używa Walki Wręcz czy Walki Bronią
 
