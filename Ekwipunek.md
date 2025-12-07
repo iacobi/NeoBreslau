@@ -4,7 +4,7 @@
 
 <h3>Walka Wręcz</h3>
 
-Walcząc bez broni albo uzbrojonym w kastet postać traci kostkę z rzutu na trafienie każdej uzbrojonej postaci.
+Walcząc bez broni albo uzbrojonym w kastet postać traci kostkę z rzutu na trafienie jeśli atakuje kogoś uzbrojonego.
 
 |Broń | Obrażenia | Przerzuty | Cechy| Cena |
 |--|:--:|:--:|--|--|
