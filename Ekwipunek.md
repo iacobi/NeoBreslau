@@ -196,7 +196,7 @@ W ciężkim pancerzu postać wytrzyma tyle godzin ile wynosi jej Wytrzymałość
 
 **Pilum [4000c] :** Jednorazowy granatnik przeciwpancerny. Bezpośrednie trafienie w człowieka to automatyczna śmierć, odłamki zadają **silne 4 kostki** obrażeń w probmieniu 5 metrów. Pilum wymaga umiejętności **Broń Ciężka** ma też wbudowany komputer sterujący, który daje postaci tą umiejętność na poziomie minimum 3.
 
-**??Granat Pyłowy** : 500c : Tworzy chmurę pyłu nie przepuszczającą promieniowania elektromagnetycznego. Zwalnia pociski i tłumi eksplozje. Broń palna i granaty tracą trzy kostki obrażeń w pyle, lub przelatując przez pył.
+**Granat Pyłowy [1000c] :**  Wybuch tworzy natychmiastowe chmurę gęstego dymu i pyłu o promieniu pięciu metrów. Wiszący w powietrzy pył drastycznie spowalnia pociski, tłumi wybuchy i promieniowanie elektromagnetyczne. Każdy atak z użyciem broni palnej, wybuch drony albo granatu rzuca połową kostek na obrażenia (zaokrąglając w dół). Chmura nie wpływa na broń białą. Broń ciężka jak rakiety, działka itp. jest zbyt mocna i ignoruje pył. Wewnątrz pyłu nie da się sterować dronami i traci się również kontakt z dronami, które wlatują w pył.
 
 <h2> Drony </h2>
 
