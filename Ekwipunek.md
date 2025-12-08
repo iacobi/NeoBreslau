@@ -31,8 +31,7 @@ Walcząc bez broni albo uzbrojonym w kastet postać traci kostkę z rzutu na tra
 | **Maczeta** | zwykłe 4 kostki |1| -- |40c| 
 | **Szabla** | zwykłe 4 kostki |2|--|2000c|
 | **Katana** | silne 4 kostki |2| Dwuręczna|2000c|
-| **Toporek Bojowy** | silne 4 kostki |1|--|1000c|
-| **Wielki Topór**  |zwykłe 5 kostek|1 | Dwuręczny|1000c| 
+| **Wielki Topór**  |zwykłe 5 kostek|1 | Dwuręczny, Prosta Obsługa|1000c| 
 | **Włócznia**  |zwykłe 4 kostki|2 | Dwuręczna, Walka Bronią +1|2000c| 
 | **Naginata**  |zwykłe 5 kostek|2 | Dwuręczna|2000c| 
 
