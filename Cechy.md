@@ -25,9 +25,6 @@ Jeśli opis na to pozwala gracz wybiera czy cechy to naturalne wrodzone zdolnoś
 **Farciarz** : Możesz powtórzyć trzy dowolne rzuty na sesji.
 
 **Inżynieria Polowa/Monter** : Przerzut do **Mechaniki**. Jesteś bardzo dobry w improwizowaniu. Zawsze masz przy sobie drobne przedmioty jak zapałki, śrubki i małe narzędzia jak pilnik albo śrubokręt schowane w kieszeniach ubrania. Jeśli zapłacisz punkt SW, możesz wyciągnąć bardziej skomplikowane części zamienne, narzędzia albo zapasową amunicje pod warunkiem, że można je upchnąć w ubraniu. Jeśli masz dostęp do zwykłego gospodarstwa domowego możesz zapłącić punkt SW, żeby złożyć granat. Jeśli masz dostęp do warsztatu możesz złożyć improwizowany pistolet maszynowy albo strzelbę. Broń jest jednorazowa i po opróżnieniu magazynka nie da się już jej naprawić ani przeładować.
->
->**???Saper** (zamiast cechy **Monter**) : Przerzut do **Mechaniki** i **Chemii** (jeśli postać wykupiła). Możesz zapłacić punkt SW, żeby wyciągnąć z kieszeni dowolny granat. Przerzut do obrażeń granatów i granatników ?
->
 
 **Kontakty** : Przerzut do **Intuicji**. Masz talent do zawierania cennych znajomości. Ciężko o miejsce gdzie nie miałbyś jakiś kontaktów. Możesz zapłacić punkt SW, żeby wyciągnąć przysługę od któregoś z nich. Jeden punkt to mała przysługa, trzy punkty to przysługa wymagająca narażenia życia lub kariery.
 >
@@ -53,6 +50,8 @@ Jeśli opis na to pozwala gracz wybiera czy cechy to naturalne wrodzone zdolnoś
 **MonoStruny** : Superwytrzymałe struny mogą służyć do cięcia, obezwładniania albo jako prowizoryczna lina. W walce traktowane są jako broń dwuręczna z dwoma przerzutami zadająca zwykłe 4 kostki obrażeń. Postać wybiera czy używa **Walki Wręcz** czy **Walki Bronią** jako swojej umiejętności. Struna jest również w stanie utrzymać Twój ciężar i obwiązać się wokół przedmiotów w odległości 10 metrów. Ten dodatkowy zasięg można wykorzystać tylko do wspianania się albo łapania przedmiotów w walce zasięg struny jest identyczny jak każdej innej broni białej. Gracz może wybrać czy monostruny to implant, czy tylko przedmiot używany przez postać.
 
 **Regeneracja** : Raz podczas sesji możesz całkowice zregenrować swoją Żywotność.
+
+**Saper** : Używając bomb, granatów, materiałów wybuchowych i podobnych postać zawsze zadaje jeden punkt obrażeń więcej niż wynika to z kostek. Może wydać 1 punkt SW, żeby wyciągnąć z kieszeni dowolny granat (odłamkowy, ogłuszający, pyłowy) i użyć go nie tracąć żadnej akcji w turze. Może tą akcje wyknoać tylko w sytuacjach i miejscach gdzie bez problemu wniósłby granat przy sobie. Może też zapłacić jeden punkt SW, żeby zbudować granat pod warunkiem, że ma dostęp do warsztatu albo laboratorium.
 
 **Spec** : Przerzut do **Elektroniki** i **Mechaniki**.
 
