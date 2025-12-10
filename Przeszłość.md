@@ -74,6 +74,23 @@
 
 **Umiejętności** : Pilotaż, Pilotaż Kosmos, Oprogramowanie, Spostrzegawczość
 
+<h3>Pirat</h3>
+
+**Opis**: Większośc piratów kosmicznych to małe zorganizowane grupy napadające na bezałogowe transporty towarów albo żerujące w olbrzymich orbitalnych składach towarów, gdzie mogą zniknąć pomiędzy tysiącami kontenerów wiszącymi w przestrzeni. Balansują na niebezpiecznej granicy, ukraść dość, żeby utrzymać swoje staki na chodzi ale nie tak dużo i nie tak ważnych rzeczy, żeby rząd i korporacje nie zaangażowały wszystkich dostępnych środków do ich wytropienia. Druga, dużo rzadsza odmiana to Ci, którzy są na tyle zuchwali i szaleni, żeby porwać się na naprawdę drogocenny transport, np. podróżujący cenni pracownicy, których można odsprzedać korporacji.
+???
+
+**Ekwipunek** : Katana albo Rewolwer .44, Trzy granaty pyłowe
+
+**Umiejętności** : Pilotaż Kosmos, Kradzież, Kamuflaż, Walka Broną
+
+<h3>Korpo-Niewolnik</h3>
+
+**Opis**: Korporacja wykupiła Twoje długi i stałeś się jej własnością.
+
+**Ekwipunek** : Pistolet 9mm, dwa repozytoria (dwie dowolne umiejętności, jedna na poziomie 3, druga na poziomie 4)
+
+**Umiejętności** : Wytrzymałość, Oprogramowanie, Intuicja, Sprawność
+
 <h3>Przemytnik</h3>
 
 **Opis**: ...
