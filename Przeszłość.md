@@ -76,16 +76,16 @@
 
 <h3>Pirat</h3>
 
-**Opis**: Większośc piratów kosmicznych to małe zorganizowane grupy napadające na bezałogowe transporty towarów albo żerujące w olbrzymich orbitalnych składach towarów, gdzie mogą zniknąć pomiędzy tysiącami kontenerów wiszącymi w przestrzeni. Balansują na niebezpiecznej granicy, ukraść dość, żeby utrzymać swoje staki na chodzi ale nie tak dużo i nie tak ważnych rzeczy, żeby rząd i korporacje nie zaangażowały wszystkich dostępnych środków do ich wytropienia. Druga, dużo rzadsza odmiana to Ci, którzy są na tyle zuchwali i szaleni, żeby porwać się na naprawdę drogocenny transport, np. podróżujący cenni pracownicy, których można odsprzedać korporacji.
+**Opis**: ??? Większośc piratów kosmicznych to małe zorganizowane grupy napadające na bezałogowe transporty towarów albo żerujące w olbrzymich orbitalnych składach towarów, gdzie mogą zniknąć pomiędzy tysiącami kontenerów wiszącymi w przestrzeni. Balansują na niebezpiecznej granicy, ukraść dość, żeby utrzymać swoje staki na chodzi ale nie tak dużo i nie tak ważnych rzeczy, żeby rząd i korporacje nie zaangażowały wszystkich dostępnych środków do ich wytropienia. Druga, dużo rzadsza odmiana to Ci, którzy są na tyle zuchwali i szaleni, żeby porwać się na naprawdę drogocenny transport, np. podróżujący cenni pracownicy, których można odsprzedać korporacji.
 ???
 
 **Ekwipunek** : Katana albo Rewolwer .44, Trzy granaty pyłowe
 
 **Umiejętności** : Pilotaż Kosmos, Kradzież, Kamuflaż, Walka Broną
 
-<h3>Korpo-Niewolnik</h3>
+<h3>Niewolnik Kontraktowy</h3>
 
-**Opis**: Korporacja wykupiła Twoje długi i stałeś się jej własnością.
+**Opis**: ??? Jesteś byłym skazańcem albo dłużnikiem. Twój wyrok albo zobowiązania zostały wykupione przez korporacje a Ty zmuszony do ich odpracowania. Dla niektórych niewolnictwo kontraktowe to okazja do skrócenia odsiadki albo wyjścia z długów. Dla większości to pułapka gdzie wynagrodzenie jest pochłaniane przed odsetki, karne opłaty i setki pułapek w tysiącach stron niezrozumiałych kontraktów. ???
 
 **Ekwipunek** : Pistolet 9mm, dwa repozytoria (dwie dowolne umiejętności, jedna na poziomie 3, druga na poziomie 4)
 
