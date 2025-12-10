@@ -56,3 +56,9 @@ Breneka - kostka obrażeń więcej?
 **Celne Oko** : Silne kostki w testach **Strzelania**
 
 **Autorytet** : Silne kostki w testach **Charyzmy**
+
+<h3>Bramkarz</h3>
+
+**Styl Pijanego Mistrza** : Silne kostki w testach **Bijatyki**
+
+**Suplementy** : Silne kostki w testach **Medycyny**, **Żywotność** jest wyższa o dwa punkty
