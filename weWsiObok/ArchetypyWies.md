@@ -5,7 +5,7 @@
 
 **Styl Pijanego Mistrza** : Silne kostki w testach **Bijatyki**
 
-**Samogon** : Bimbrownik może pociągnać łyk samogonu, wydać punkt SW i odzyskać tyle punktów Żywotności ile uzyska sukcesów z testu Krzepy
+**Samogon** : Bimbrownik może pociągnać łyk samogonu, wydać punkt SW i odzyskać tyle punktów Żywotności ile uzyska sukcesów z testu Krzepy. Może wykonać to w dowolnym momencie, nawet kiedy jest nieprzytomny albo w trakcie walki.
 
 <h3>Znachor</h3>
 
@@ -17,48 +17,53 @@
 
 **Boska Opatrzność** : Postać ma pancerz o wartości 1
 
-**Wiara** : postać zaczyna z podwójną ilością punktów Siły Woli
+**Wiara** : **Siła Woli** jest wyższa o trzy punkty (jeśli podnosisz Siłę Woli Punktami Doświadczenia, bierzesz pod uwagę bazowy poziom, nie ten podniesiony za pomocą Wiary)
 
 <h3>Kłusownik</h3>
 
-**Cichociemny** : Silne kostki w testach **Cwaniactwa**
+**Sprytny** : Silne kostki w testach **Cwaniactwa**
 
-**Celne Oko** : Silne kostki w testach **Strzelania**
-
-Breneka - kostka obrażeń więcej?
+**Samopał** : Raz na sesje możesz przerobić dowolną broń palną na swój samopał. Kiedy z niego korzysztasz używasz Silnych kostek w testach **Strzelania** i zadajesz **kostkę obrażeń więcej**. Samopałem możesz zaatakować tylko raz na turę.
 
 <h3>Sołtys</h3>
 
 **Gospodarz** : Silne kostki w testach **Krzepy** i **Charyzmy**
 
-**Landara** : Silne kostki w testach **Mechaniki** ale tylko kiedy jeździsz pojazdami
+**Krewni** : Możesz wydać jeden punkt SW, żeby zwołać krewniaków, przez najbliższą dobę masz dwa ataki w walce zamiast jednego (dla potrzeb testów bierzemy pod uwagę Twoją broń i umiejętności). Możesz też wydać punkt SW, żeby zadzwonić do kuzyna z miasta i użyć jego wiedzy (umiejętność 4) w dowolnym teście. Za dwa punkty SW możesz zadzwonić do siostrzenicy z miasta - jest mądrzejsza (umiejętność 5).
 
 <h3>Majster</h3>
 
 **Fach w łapie** : Silne kostki w testach **Krzepy** i **Mechaniki**
 
-**Majętny** : Możesz wydać punkt SW i dostać rzeczy
+**Warsztat** : ???
 
 <h3>Cygan</h3>
 
-**Cichociemny** : Silne kostki w testach **Cwaniactwa**
+**Sprytny** : Silne kostki w testach **Cwaniactwa**
 
 **Farciarz** : Możesz powtórzyć trzy rzuty na sesji.
 
 <h3>Policjant</h3>
 
-**Celne Oko** : Silne kostki w testach **Strzelania**
+**Szkolenia** : Silne kostki w testach **Strzelania**
 
-**Autorytet** : Silne kostki w testach **Charyzmy**
+**Landara** : Silne kostki w testach **Mechaniki**.
 
 <h3>Artysta</h3>
 
-**Celne Oko** : Silne kostki w testach **Strzelania**
+**Sprytny** : Silne kostki w testach **Cwaniactwa**
 
-**Autorytet** : Silne kostki w testach **Charyzmy**
+**Oczytany** : Silne kostki w testach **Charyzmy** i **Wiedzy**
 
 <h3>Bramkarz</h3>
 
 **Styl Pijanego Mistrza** : Silne kostki w testach **Bijatyki**
 
-**Suplementy** : Silne kostki w testach **Medycyny**, **Żywotność** jest wyższa o dwa punkty
+**Suplementy Diety** : Silne kostki w testach **Krzepy**, **Żywotność** jest wyższa o dwa punkty (jeśli podnosisz Żywotność Punktami Doświadczenia, bierzesz pod uwagę bazowy poziom, nie ten podniesiony za pomocą suplementów)
+
+<h3>Nowobogacki</h3>
+
+**Nowoczesność w domu i zagrodzie** : Silne kostki w testach **Mechaniki** i **Wiedzy**
+
+**Suplementy Diety** : Silne kostki w testach **Krzepy**, **Żywotność** jest wyższa o dwa punkty (jeśli podnosisz Żywotność Punktami Doświadczenia, bierzesz pod uwagę bazowy poziom, nie ten podniesiony za pomocą suplementów)
+
