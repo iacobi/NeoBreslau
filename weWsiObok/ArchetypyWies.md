@@ -25,6 +25,8 @@
 
 **Celne Oko** : Silne kostki w testach **Strzelania**
 
+Breneka - kostka obrażeń więcej?
+
 <h3>Sołtys</h3>
 
 **Gospodarz** : Silne kostki w testach **Krzepy** i **Charyzmy**
