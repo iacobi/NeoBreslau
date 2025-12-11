@@ -40,16 +40,16 @@ xxx
 |35|Telefon|--|85|Komputer|--|
 |36|Telefon|--|86|Kij baseballowy|--|
 |37|Telefon|--|87|Fotel bujany|na początku sesji dostajesz dodatkowy punkt SW|
-|38|Telefon|--|88|Telefon|--|
-|39|Telefon|--|89|Telefon|--|
-|40|Telefon|--|90|Telefon|--|
-|41|Telefon|--|91|Telefon|--|
-|42|Telefon|--|92|Telefon|--|
-|43|Telefon|--|93|Telefon|--|
-|44|Telefon|--|94|Telefon|--|
-|45|Telefon|--|95|Telefon|--|
-|46|Telefon|--|96|Telefon|--|
-|47|Telefon|--|97|Telefon|--|
-|48|Telefon|--|98|Telefon|--|
+|38|Telefon|--|88|Maska Przeciwgazowa|--|
+|39|Telefon|--|89|Kredens z carską porcelanową zastawą|na początku sesji dostajesz dodatkowy punkt SW, przerzut do Charyzmy w każdej sytuacji w której uda się jej użyć|
+|40|Telefon|--|90|Łom|--|
+|41|Telefon|--|91|Ordery dziadka|Pancerz +1|
+|42|Telefon|--|92|Obora ze świniami olimpijczykami|na początku sesji dostajesz dodatkowy punky Żywotności|
+|43|Telefon|--|93|Woda Święcona|4 buteleczki, poświęcisz dowolną broń i zadaje silne kostki obrażeń do końca sesji|
+|44|Telefon|--|94|Kapelusz i pas kowbowjski z kaburą|Rewolwer albo pistolet w kaburze jest traktowany jakby zawsze był w dłoni postaci|
+|45|Telefon|--|95|Kusza|broń, tylko jeden atak w rundzie|
+|46|Telefon|--|96|Trucizna|4 fiolki|
+|47|Telefon|--|97|biblioteczka i 12 tomów encyklopedii powszechnej|kiedy postać jest w domu przerzut do testów Wiedzy |
+|48|Telefon|--|98|Złoty Zegarek|--|
 |49|Telefon|--|99|Telefon|--|
 |50|Telefon|--|00|Telefon|--|
