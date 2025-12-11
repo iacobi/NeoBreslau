@@ -23,8 +23,8 @@ xxx
 |18|Samochód Dostawczy|--|68|Granaty|3 sztuki|
 |19|Cep Bojowy|Wielka Broń, przerzut do bijatyki|69|Kastet|Broń|
 |20|Kamizelka Kuloodporna|Pancerz +1|70|Amerykańskie Okulary Przeciwsłoneczne|Przerzut do Charyzmy|
-|21|Telefon|--|71|Kolczuga|Dwa punkty pancerza ale tylko przeciwko broni białej|
-|22|Telefon|--|72|Przyczepka Kempingowa|--|
+|21|Wieczorówka|Nauczyłeś się jakiegoś języka obcego|71|Kolczuga|Dwa punkty pancerza ale tylko przeciwko broni białej|
+|22|Wieczorówka|Twoja najniższa umiejętność jest podniesiona o punkt|72|Przyczepka Kempingowa|--|
 |23|Telefon|--|73|Policyjna Tarcza|Przeciwko broni białej wystarczy zremisować, żeby Unik się udał|
 |24|Telefon|--|74|Piesek|możesz zapłacić punkt SW, żeby dostać darmowy atak w rundzie, używamy broni i umiejętności postaci|
 |25|Telefon|--|75|Panzerfaust|2 sztuki|
@@ -49,7 +49,7 @@ xxx
 |44|Telefon|--|94|Kapelusz i pas kowbowjski z kaburą|Rewolwer albo pistolet w kaburze jest traktowany jakby zawsze był w dłoni postaci|
 |45|Telefon|--|95|Kusza|broń, tylko jeden atak w rundzie|
 |46|Telefon|--|96|Trucizna|4 fiolki|
-|47|Telefon|--|97|biblioteczka i 12 tomów encyklopedii powszechnej|kiedy postać jest w domu przerzut do testów Wiedzy |
+|47|Telefon|--|97|Biblioteczka i 12 tomów encyklopedii powszechnej|kiedy postać jest w domu przerzut do testów Wiedzy |
 |48|Telefon|--|98|Złoty Zegarek|--|
-|49|Telefon|--|99|Telefon|--|
-|50|Telefon|--|00|Telefon|--|
+|49|Telefon|--|99|Potrzask|Duża pułapka na niedźwiedzie|
+|50|Telefon|--|00|Powypadkowe BMW|Tracisz kostkę z każdego testu Mechaniki|
