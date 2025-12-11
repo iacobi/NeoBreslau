@@ -67,9 +67,9 @@
 
 **Suplementy Diety** : Silne kostki w testach **Krzepy**, **Żywotność** jest wyższa o dwa punkty (jeśli podnosisz Żywotność Punktami Doświadczenia, bierzesz pod uwagę bazowy poziom, nie ten podniesiony za pomocą suplementów)
 
-<h3>???</h3>
+<h3>Urzędas</h3>
 
-**???** : ???
+**Sprytny** : Silne kostki w testach **Cwaniactwa**
 
 **Krewni** : Możesz wydać jeden punkt SW, żeby zwołać krewniaków, przez najbliższą dobę masz dwa ataki w walce zamiast jednego (dla potrzeb testów bierzemy pod uwagę Twoją broń i umiejętności). Możesz też wydać punkt SW, żeby zadzwonić do rodziny w mieście i wykonać dowolny test z umiejętnością na poziomie 5.
 
