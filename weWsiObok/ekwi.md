@@ -17,7 +17,7 @@ xxx
 |12|Łańcuch|Broń|62|Latarka|--|
 |13|Pieniądze|--|63|Noktowizor|--|
 |14|Koń|Krzepa odpowiada za testy jeździectwa|64|Lina|20 metrów liny|
-|15|Motorynka|--|65|Ruskie sterydy|Regenrują dwa punkty żywotności|
+|15|Motorynka|--|65|Apteczka|jednorazowa, leczy tyle sukcesów ile wyrzucisz z medycyny|
 |16|Motocykl|--|66|Granaty|2 sztuki|
 |17|Samochód Osobowy|--|67|Podrasowany Maluch|przerzut do Mechaniki|
 |18|Samochód Dostawczy|--|68|Granaty|3 sztuki|
@@ -31,15 +31,15 @@ xxx
 |26|Telefon|--|76|Garnitur i Lakierki|--|
 |27|Telefon|--|77|Ochraniacze Motocrossowe|Pancerz 1 ale tylko przeciwko broni białej|
 |28|Telefon|--|78|Katana|Broń, przerzut do bijatyki i silne kostki obrażeń|
-|29|Telefon|--|79|Mefedron|Trzy działki, każda przywraca jeden punkt żywotności i jeden siły woli|
+|29|Telefon|--|79|Apteczka|jednorazowa, leczy tyle sukcesów ile wyrzucisz z medycyny|
 |30|Telefon|--|80|Maczeta|--|
 |31|Telefon|--|81|Apteczka|jednorazowa, leczy tyle sukcesów ile wyrzucisz z medycyny|
 |32|Telefon|--|82|Wytrychy|--|
 |33|Telefon|--|83|Tłumik|Wycisza dowolną broń palną|
 |34|Telefon|--|84|Karabinek Sportowy|broń palna, ale zadaje kostkę obrażeń mniej|
 |35|Telefon|--|85|Komputer|--|
-|36|Telefon|--|86|Telefon|--|
-|37|Telefon|--|87|Telefon|--|
+|36|Telefon|--|86|Kij baseballowy|--|
+|37|Telefon|--|87|Fotel bujany|na początku sesji dostajesz dodatkowy punkt SW|
 |38|Telefon|--|88|Telefon|--|
 |39|Telefon|--|89|Telefon|--|
 |40|Telefon|--|90|Telefon|--|
