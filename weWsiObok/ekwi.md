@@ -12,7 +12,7 @@ xxx
 |07|Kałasznikow|Broń, przerzut do strzelania|57|Obrzyn|zadaje kostkę obrażeń więcej, ale tracisz kostkę z testu strzelania|
 |08|Pepesza|Broń, przerzut do strzelania|58|Ciągnik|--|
 |09|Apteczka|jednorazowa, leczy tyle sukcesów ile wyrzucisz z medycyny|59|Rewolwer|--|
-|10|Maskałata|przerzut do cwaniactwa podczas ukrywania się|60|Koń|--|
+|10|Maskałata|przerzut do cwaniactwa podczas ukrywania się|60|Kosa|--|
 |11|Narzędzia|--|61|Mina Przeciwpiechotna|możesz zapłacić punkt SW i powiedzieć, że gdzieś ją zakopałeś już|
 |12|Łańcuch|Broń|62|Latarka|--|
 |13|Pieniądze|--|63|Noktowizor|--|
@@ -23,33 +23,33 @@ xxx
 |18|Samochód Dostawczy|--|68|Granaty|3 sztuki|
 |19|Cep Bojowy|Wielka Broń, przerzut do bijatyki|69|Kastet|Broń|
 |20|Kamizelka Kuloodporna|Pancerz +1|70|Amerykańskie Okulary Przeciwsłoneczne|Przerzut do Charyzmy|
-|21|Koń|--|71|Kolczuga|Dwa punkty pancerza ale tylko przeciwko broni białej|
-|22|Koń|--|72|Przyczepka Kempingowa|--|
-|23|Koń|--|73|Policyjna Tarcza|Przeciwko broni białej wystarczy zremisować, żeby Unik się udał|
-|24|Koń|--|74|Piesek|możesz zapłacić punkt SW, żeby dostać darmowy atak w rundzie, używamy broni i umiejętności postaci|
-|25|Koń|--|75|Panzerfaust|2 sztuki|
-|26|Koń|--|76|Garnitur i Lakierki|--|
-|27|Koń|--|77|Ochraniacze Motocrossowe|Pancerz 1 ale tylko przeciwko broni białej|
-|28|Koń|--|78|Katana|Broń, przerzut do bijatyki i silne kostki obrażeń|
-|29|Koń|--|79|Mefedron|Trzy działki, każda przywraca jeden punkt żywotności i jeden siły woli|
-|30|Koń|--|80|Maczeta|--|
-|31|Koń|--|81|Apteczka|jednorazowa, leczy tyle sukcesów ile wyrzucisz z medycyny|
-|32|Koń|--|82|Wytrychy|--|
-|33|Koń|--|83|Tłumik|Wycisza dowolną broń palną|
-|34|Koń|--|84|Karabinek Sportowy|broń palna, ale zadaje kostkę obrażeń mniej|
-|35|Koń|--|85|Koń|--|
-|36|Koń|--|86|Koń|--|
-|37|Koń|--|87|Koń|--|
-|38|Koń|--|88|Koń|--|
-|39|Koń|--|89|Koń|--|
-|40|Koń|--|90|Koń|--|
-|41|Koń|--|91|Koń|--|
-|42|Koń|--|92|Koń|--|
-|43|Koń|--|93|Koń|--|
-|44|Koń|--|94|Koń|--|
-|45|Koń|--|95|Koń|--|
-|46|Koń|--|96|Koń|--|
-|47|Koń|--|97|Koń|--|
-|48|Koń|--|98|Koń|--|
-|49|Koń|--|99|Koń|--|
-|50|Koń|--|00|Koń|--|
+|21|Telefon|--|71|Kolczuga|Dwa punkty pancerza ale tylko przeciwko broni białej|
+|22|Telefon|--|72|Przyczepka Kempingowa|--|
+|23|Telefon|--|73|Policyjna Tarcza|Przeciwko broni białej wystarczy zremisować, żeby Unik się udał|
+|24|Telefon|--|74|Piesek|możesz zapłacić punkt SW, żeby dostać darmowy atak w rundzie, używamy broni i umiejętności postaci|
+|25|Telefon|--|75|Panzerfaust|2 sztuki|
+|26|Telefon|--|76|Garnitur i Lakierki|--|
+|27|Telefon|--|77|Ochraniacze Motocrossowe|Pancerz 1 ale tylko przeciwko broni białej|
+|28|Telefon|--|78|Katana|Broń, przerzut do bijatyki i silne kostki obrażeń|
+|29|Telefon|--|79|Mefedron|Trzy działki, każda przywraca jeden punkt żywotności i jeden siły woli|
+|30|Telefon|--|80|Maczeta|--|
+|31|Telefon|--|81|Apteczka|jednorazowa, leczy tyle sukcesów ile wyrzucisz z medycyny|
+|32|Telefon|--|82|Wytrychy|--|
+|33|Telefon|--|83|Tłumik|Wycisza dowolną broń palną|
+|34|Telefon|--|84|Karabinek Sportowy|broń palna, ale zadaje kostkę obrażeń mniej|
+|35|Telefon|--|85|Komputer|--|
+|36|Telefon|--|86|Telefon|--|
+|37|Telefon|--|87|Telefon|--|
+|38|Telefon|--|88|Telefon|--|
+|39|Telefon|--|89|Telefon|--|
+|40|Telefon|--|90|Telefon|--|
+|41|Telefon|--|91|Telefon|--|
+|42|Telefon|--|92|Telefon|--|
+|43|Telefon|--|93|Telefon|--|
+|44|Telefon|--|94|Telefon|--|
+|45|Telefon|--|95|Telefon|--|
+|46|Telefon|--|96|Telefon|--|
+|47|Telefon|--|97|Telefon|--|
+|48|Telefon|--|98|Telefon|--|
+|49|Telefon|--|99|Telefon|--|
+|50|Telefon|--|00|Telefon|--|
