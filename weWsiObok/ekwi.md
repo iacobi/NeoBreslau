@@ -1,5 +1,7 @@
 
-xxx
+<h2>Tabela Ekwipunku</h2>
+
+Każda postać dostaje trzy losowe przedmioty z tabeli.
 
 |Rzut | Przedmiot| Opis |Rzut | Przedmiot| Opis |
 |--|--|--|--|--|--|
@@ -14,7 +16,7 @@ xxx
 |09|Apteczka|jednorazowa, leczy tyle sukcesów ile wyrzucisz z medycyny|59|Rewolwer|--|
 |10|Maskałata|przerzut do cwaniactwa podczas ukrywania się|60|Kosa|--|
 |11|Narzędzia|--|61|Mina Przeciwpiechotna|możesz zapłacić punkt SW i powiedzieć, że gdzieś ją zakopałeś już|
-|12|Łańcuch|Broń|62|Latarka|--|
+|12|Łańcuch|Broń|62|Telefon|--|
 |13|Pieniądze|--|63|Noktowizor|--|
 |14|Koń|Krzepa odpowiada za testy jeździectwa|64|Lina|20 metrów liny|
 |15|Motorynka|--|65|Apteczka|jednorazowa, leczy tyle sukcesów ile wyrzucisz z medycyny|
@@ -23,33 +25,33 @@ xxx
 |18|Samochód Dostawczy|--|68|Granaty|3 sztuki|
 |19|Cep Bojowy|Wielka Broń, przerzut do bijatyki|69|Kastet|Broń|
 |20|Kamizelka Kuloodporna|Pancerz +1|70|Amerykańskie Okulary Przeciwsłoneczne|Przerzut do Charyzmy|
-|21|Wieczorówka|Nauczyłeś się jakiegoś języka obcego|71|Kolczuga|Dwa punkty pancerza ale tylko przeciwko broni białej|
+|21|Emigracja|Nauczyłeś się jakiegoś języka obcego|71|Kolczuga|Dwa punkty pancerza ale tylko przeciwko broni białej|
 |22|Wieczorówka|Twoja najniższa umiejętność jest podniesiona o punkt|72|Przyczepka Kempingowa|--|
-|23|Telefon|--|73|Policyjna Tarcza|Przeciwko broni białej wystarczy zremisować, żeby Unik się udał|
-|24|Telefon|--|74|Piesek|możesz zapłacić punkt SW, żeby dostać darmowy atak w rundzie, używamy broni i umiejętności postaci|
-|25|Telefon|--|75|Panzerfaust|2 sztuki|
-|26|Telefon|--|76|Garnitur i Lakierki|--|
+|23|Gosposia|na początku sesji dostajesz dodatkowy punky Żywotności|73|Policyjna Tarcza|Przeciwko broni białej wystarczy zremisować, żeby Unik się udał|
+|24|Dron z kamerką|--|74|Piesek|możesz zapłacić punkt SW, żeby dostać darmowy atak w rundzie, używamy broni i umiejętności postaci|
+|25|Wykrywacz Metalu|--|75|Panzerfaust|2 sztuki|
+|26|Sprzęt do Nurkowania|--|76|Garnitur i Lakierki|--|
 |27|Telefon|--|77|Ochraniacze Motocrossowe|Pancerz 1 ale tylko przeciwko broni białej|
-|28|Telefon|--|78|Katana|Broń, przerzut do bijatyki i silne kostki obrażeń|
-|29|Telefon|--|79|Apteczka|jednorazowa, leczy tyle sukcesów ile wyrzucisz z medycyny|
-|30|Telefon|--|80|Maczeta|--|
-|31|Telefon|--|81|Apteczka|jednorazowa, leczy tyle sukcesów ile wyrzucisz z medycyny|
-|32|Telefon|--|82|Wytrychy|--|
-|33|Telefon|--|83|Tłumik|Wycisza dowolną broń palną|
-|34|Telefon|--|84|Karabinek Sportowy|broń palna, ale zadaje kostkę obrażeń mniej|
-|35|Telefon|--|85|Komputer|--|
+|28|Race|Zestaw pistolet i 8 rac w różnych kolorach, można też użyć jako broni|78|Katana|Broń, przerzut do bijatyki i silne kostki obrażeń|
+|29|Tresowana Kuna|Można zapłacić punkt SW i wysyłać ją żeby kraść rzeczy, ma cwaniactwo o punkt wyższe od postaci|79|Apteczka|jednorazowa, leczy tyle sukcesów ile wyrzucisz z medycyny|
+|30|Fajkowe Ziele|trzy paczki, każda odnawia dwa punkty Siły Woli|80|Maczeta|--|
+|31|Rower|--|81|Apteczka|jednorazowa, leczy tyle sukcesów ile wyrzucisz z medycyny|
+|32|Shurikeny|Broń miotana, używasz Krzepy jako umiejętności do testów|82|Wytrychy|--|
+|33|Ochraniacze Prewencji i Kask|Dwa punkty pancerza ale tylko przeciwko broni białej|83|Tłumik|Wycisza dowolną broń palną|
+|34|Zaklęta Piła Łańcuchowa|Dwa przerzuty i używa Mechaniki do trafiania, ale na końcu każdej tury walki 10% szans, że skończy sie benzyna|84|Karabinek Sportowy|broń palna, ale zadaje kostkę obrażeń mniej|
+|35|Proca|Broń, używa Cwaniactwa do trafiania, zadaje kostkę obrażeń mniej|85|Komputer|--|
 |36|Telefon|--|86|Kij baseballowy|--|
-|37|Telefon|--|87|Fotel bujany|na początku sesji dostajesz dodatkowy punkt SW|
-|38|Telefon|--|88|Maska Przeciwgazowa|--|
-|39|Telefon|--|89|Kredens z carską porcelanową zastawą|na początku sesji dostajesz dodatkowy punkt SW, przerzut do Charyzmy w każdej sytuacji w której uda się jej użyć|
-|40|Telefon|--|90|Łom|--|
-|41|Telefon|--|91|Ordery dziadka|Pancerz +1|
-|42|Telefon|--|92|Obora ze świniami olimpijczykami|na początku sesji dostajesz dodatkowy punky Żywotności|
-|43|Telefon|--|93|Woda Święcona|4 buteleczki, poświęcisz dowolną broń i zadaje silne kostki obrażeń do końca sesji|
-|44|Telefon|--|94|Kapelusz i pas kowbowjski z kaburą|Rewolwer albo pistolet w kaburze jest traktowany jakby zawsze był w dłoni postaci|
-|45|Telefon|--|95|Kusza|broń, tylko jeden atak w rundzie|
+|37|Siekiera|--|87|Fotel bujany|na początku sesji dostajesz dodatkowy punkt SW|
+|38|Szwajcarska Czekolada|przywraca trzy punkty SW, można się podzielić|88|Maska Przeciwgazowa|--|
+|39|Złoto|--|89|Kredens z carską porcelanową zastawą|na początku sesji dostajesz dodatkowy punkt SW, przerzut do Charyzmy w każdej sytuacji w której uda się jej użyć|
+|40|Magiczny Bicz|jako broń ma przerzut do bijatyki, można też łapać nim przedmioty|90|Łom|--|
+|41|Kufajka|Drelichowa kurtka pod którą można w magiczny sposób schować jeden przedmiot nawet bardzo duży jak np. karabin|91|Ordery dziadka|Pancerz +1|
+|42|Wilczy Kieł|Postać zadaje zwierzętom jeden punkt obrażeń więcej niż wynika to z kostek|92|Obora ze świniami olimpijczykami|na początku sesji dostajesz dodatkowy punky Żywotności|
+|43|Miód Pitny|wypicie przywraca trzy punkty SW, można się podzielić|93|Woda Święcona|4 buteleczki, poświęcisz dowolną broń i zadaje silne kostki obrażeń do końca sesji|
+|44|Gaz Pieprzowy|jednorazowy, trafienie natychmiast nokatuje|94|Kapelusz i pas kowbowjski z kaburą|Rewolwer albo pistolet w kaburze jest traktowany jakby zawsze był w dłoni postaci|
+|45|Pałka Teleskopowa|--|95|Kusza|broń, tylko jeden atak w rundzie|
 |46|Telefon|--|96|Trucizna|4 fiolki|
-|47|Telefon|--|97|Biblioteczka i 12 tomów encyklopedii powszechnej|kiedy postać jest w domu przerzut do testów Wiedzy |
-|48|Telefon|--|98|Złoty Zegarek|--|
-|49|Telefon|--|99|Potrzask|Duża pułapka na niedźwiedzie|
-|50|Telefon|--|00|Powypadkowe BMW|Tracisz kostkę z każdego testu Mechaniki|
+|47|Kompas|--|97|Biblioteczka i 12 tomów encyklopedii powszechnej|kiedy postać jest w domu przerzut do testów Wiedzy |
+|48|Lornetka|--|98|Złoty Zegarek|--|
+|49|Latarka|--|99|Potrzask|Duża pułapka na niedźwiedzie|
+|50|Widerhakenszpica|Broń, przezrzut do Bijatyki i do Strzelania|00|Powypadkowe BMW|Tracisz kostkę z każdego testu Mechaniki|
