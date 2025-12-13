@@ -32,7 +32,7 @@ Walcząc bez broni albo uzbrojonym w kastet postać traci kostkę z rzutu na tra
 | Broń | Obrażenia | Przerzuty | Cechy| Cena |
 |--|:--:|:--:|--|--|
 | **Włócznia** |zwykłe 4 kostki|2|+1 do umiejętności walki|--||
-| **ZweiHander** |silne 5 kostek|2|--||
+| **Zweihander** |silne 5 kostek|2|Podczas poteżnego ataku i kontry 3 przerzuty||
 | **Halabarda** |zwykłe 5 kostek|2|--||
 
 <h3>Broń Palna</h3>
