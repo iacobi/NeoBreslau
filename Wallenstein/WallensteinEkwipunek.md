@@ -13,8 +13,9 @@ Walcząc bez broni albo uzbrojonym w kastet postać traci kostkę z rzutu na tra
 
 |Broń | Obrażenia | Przerzuty | Cechy| Cena |
 |--|:--:|:--:|--|--|
-| **Nadziak\***|silne 4 kostki|1|Ignoruje miękki pancerz|| 
 | **Buzdygan**|silne 4 kostki|0|Ignoruje miękki pancerz||
+| **Nadziak\***|silne 4 kostki|1|Ignoruje miękki pancerz|| 
+| **Czekan**|silne 4 kostki|2|Dwuręczny|| 
 
 \***Nadziak:** Jeśli zadane obrażenia są większe od siły atakującego nadziak utknął w celu i trzeba poświęcić całą turę, żeby go wyciągnąć
 
