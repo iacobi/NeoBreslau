@@ -28,13 +28,15 @@ Walcząc bez broni albo uzbrojonym w kastet postać traci kostkę z rzutu na tra
 | **Szabla** | zwykłe 4 kostki |2|Udany unik daje szybki atak||
 | **Rapier** | zwykłe 4 kostki |2|Podczas poteżnego ataku i kontry 3 przerzuty||
 | **Pałasz** | silne 4 kostki |2|--|| 
+| **Katana** | silne 4 kostki |2|Dwuuręczna. Udany unik daje szybki atak|| 
+| **Zweihander** |silne 5 kostek|2|Dwuręczny. Podczas poteżnego ataku i kontry 3 przerzuty||
 
-<h3>Wielka Broń</h3>
+
+<h3>Drzewce</h3>
 
 | Broń | Obrażenia | Przerzuty | Cechy| Cena |
 |--|:--:|:--:|--|--|
 | **Włócznia** |zwykłe 4 kostki|2|+1 do umiejętności walki|--||
-| **Zweihander** |silne 5 kostek|2|Podczas poteżnego ataku i kontry 3 przerzuty||
 | **Halabarda** |zwykłe 5 kostek|2|--||
 
 <h3>Broń Palna</h3>
