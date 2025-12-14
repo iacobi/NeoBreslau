@@ -5,7 +5,7 @@
 
 **Styl Pijanego Mistrza** : Przerzut do testów **Bijatyki**
 
-**Samogon** : Bimbrownik może pociągnać łyk samogonu, wydać punkt SW i odzyskać tyle punktów Żywotności ile uzyska sukcesów z testu Krzepy. Może wykonać to w dowolnym momencie, nawet kiedy jest nieprzytomny albo w trakcie walki.
+**Samogon** : Bimbrownik może pociągnać łyk samogonu, wydać punkt SW i odzyskać całą Żywotność. Jeśli zapłaci dwa punkty SW może wykonać to w środku walki nie tracąc zadnej akcji albo kiedy stracił przytomność. Jeśli bimbrownik chce poczęstować inną postać, obie postacie muszą wydać jeden punkt SW. Pijący odzyskuje tyle SW ile sukcesów uzyska z testu Krzepy.
 
 <h3>Znachor</h3>
 
