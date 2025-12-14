@@ -28,7 +28,7 @@ Walcząc bez broni albo uzbrojonym w kastet postać traci kostkę z rzutu na tra
 | **Szabla** | zwykłe 4 kostki |2|Udany unik daje szybki atak||
 | **Rapier** | zwykłe 4 kostki |2|Podczas poteżnego ataku i kontry 3 przerzuty||
 | **Pałasz** | silne 4 kostki |2|--|| 
-| **Katana** | silne 4 kostki |2|Dwuuręczna. Udany unik daje szybki atak|| 
+| **Katana** | silne 4 kostki |2|Dwuręczna. Udany unik daje szybki atak|| 
 | **Zweihander** |silne 5 kostek|2|Dwuręczny. Podczas poteżnego ataku i kontry 3 przerzuty||
 
 
