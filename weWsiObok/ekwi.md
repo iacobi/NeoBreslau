@@ -32,13 +32,13 @@ Każda postać dostaje trzy losowe przedmioty z tabeli.
 |25|Wykrywacz Metalu|--|75|Panzerfaust|2 sztuki|
 |26|Sprzęt do Nurkowania|--|76|Garnitur i Lakierki|--|
 |27|Telefon|--|77|Ochraniacze Motocrossowe|Pancerz 1 ale tylko przeciwko broni białej|
-|28|Race|Zestaw pistolet i 8 rac w różnych kolorach, można też użyć jako broni|78|Katana|Broń, przerzut do bijatyki i silne kostki obrażeń|
+|28|Pistolet Sygnałowy|strzela różnokolorwymi racami, użyty jako broń traci kostkę z testu strzelania|78|Katana|Broń, przerzut do bijatyki i silne kostki obrażeń|
 |29|Tresowana Kuna|Można zapłacić punkt SW i wysyłać ją żeby kraść rzeczy, ma cwaniactwo o punkt wyższe od postaci|79|Apteczka|jednorazowa, leczy tyle sukcesów ile wyrzucisz z medycyny|
 |30|Fajkowe Ziele|trzy paczki, każda odnawia dwa punkty Siły Woli|80|Maczeta|--|
 |31|Rower|--|81|Apteczka|jednorazowa, leczy tyle sukcesów ile wyrzucisz z medycyny|
-|32|Shurikeny|Broń miotana, używasz Krzepy jako umiejętności do testów|82|Wytrychy|--|
+|32|Shurikeny|Broń miotana, używasz Krzepy jako umiejętności do testów trafienia|82|Wytrychy|--|
 |33|Ochraniacze Prewencji i Kask|Dwa punkty pancerza ale tylko przeciwko broni białej|83|Tłumik|Wycisza dowolną broń palną|
-|34|Zaklęta Piła Łańcuchowa|Dwa przerzuty i używa Mechaniki do trafiania, ale na końcu każdej tury walki 10% szans, że skończy sie benzyna|84|Karabinek Sportowy|broń palna, ale zadaje kostkę obrażeń mniej|
+|34|Zaklęta Piła Łańcuchowa|Broń, używa mechaniki jako umiejętności trafienia i daje przerzut do mechaniki podczas walki|84|Karabinek Sportowy|broń palna, ale zadaje kostkę obrażeń mniej|
 |35|Proca|Broń, używa Cwaniactwa do trafiania, zadaje kostkę obrażeń mniej|85|Komputer|--|
 |36|Telefon|--|86|Kij baseballowy|--|
 |37|Siekiera|--|87|Fotel bujany|na początku sesji dostajesz dodatkowy punkt SW|
@@ -54,4 +54,4 @@ Każda postać dostaje trzy losowe przedmioty z tabeli.
 |47|Kompas|--|97|Biblioteczka i 12 tomów encyklopedii powszechnej|kiedy postać jest w domu przerzut do testów Wiedzy |
 |48|Lornetka|--|98|Złoty Zegarek|--|
 |49|Latarka|--|99|Potrzask|Duża pułapka na niedźwiedzie|
-|50|Widerhakenszpica|Broń, przezrzut do Bijatyki i do Strzelania|00|Powypadkowe BMW|Tracisz kostkę z każdego testu Mechaniki|
+|50|Widerhakenszpica|broń, zadaje kostke obrażeń więcej, gracz wybiera czy to broń do walki wręcz czy strzelania|00|Powypadkowe BMW|Tracisz kostkę z każdego testu Mechaniki|
