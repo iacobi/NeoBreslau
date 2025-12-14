@@ -73,3 +73,9 @@
 
 **Krewni** : Możesz wydać jeden punkt SW, żeby zwołać krewniaków, przez najbliższą dobę masz dwa ataki w walce zamiast jednego (dla potrzeb testów bierzemy pod uwagę Twoją broń i umiejętności). Możesz też wydać punkt SW, żeby zadzwonić do rodziny w mieście i wykonać dowolny test z umiejętnością na poziomie 5.
 
+<h3>Strażak</h3>
+
+**Boska Opatrzność** : Postać ma pancerz o wartości 1
+
+**Fach w łapie** : Przerzut do testów **Krzepy** i **Mechaniki**
+
