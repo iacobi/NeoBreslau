@@ -1,6 +1,6 @@
 <h2>Broń Biała</h2>
 
-<h3>Walka Wręcz</h3>
+<h3>Bijatyka</h3>
 
 Walcząc bez broni albo uzbrojonym w kastet postać traci kostkę z rzutu na trafienie jeśli atakuje kogoś uzbrojonego.
 
@@ -8,11 +8,7 @@ Walcząc bez broni albo uzbrojonym w kastet postać traci kostkę z rzutu na tra
 |--|:--:|:--:|--|--|
 | **Bez Broni** |zwykłe 3 kostki|0|--|--| 
 | **Kastet** |silne 3 kostki|0|--|--| 
-
-<h3>Obuchy</h3>
-
-|Broń | Obrażenia | Przerzuty | Cechy| Cena |
-|--|:--:|:--:|--|--|
+| **Pałka** |zwykłe 4 kostki|0|--|--| 
 | **Buzdygan**|silne 4 kostki|0|Ignoruje miękki pancerz||
 | **Nadziak\***|silne 4 kostki|1|Ignoruje miękki pancerz|| 
 | **Czekan**|zwykłe 4 kostki|2|Dwuręczny, Ignoruje miękki pancerz|| 
