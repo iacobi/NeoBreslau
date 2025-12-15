@@ -56,12 +56,16 @@ Walcząc bez broni albo uzbrojonym w kastet postać traci kostkę z rzutu na tra
 | **Łuk** |zwykłe 4 kostki|0|Używa siły postaci||
 | **Kusza** |zwykłe 4 kostki|0|Ignoruje miękki pancerz||
 
-<h3>Broń Parująca</h3>
+<h3>Broń w Lewej Ręce</h3>
 
 **Lewak:** Remisy podczas kontry powoduje, że nikt nie zadaje obrażeń
 
-**Puklerz:** Wystarczy remis podczas uniku, żeby unik się udał. Działa tylko na broń białą.
+**Puklerz:** Wystarczy remis podczas uniku, żeby unik się udał. Działa na broń białą. Nie działa na ataki strzeleckie.
 
-**Tarcza:**  Wystarczy remis podczas uniku, żeby unik się udał.  Działa tylko na broń białą, łuki i kusze
+**Tarcza:**  Wystarczy remis podczas uniku, żeby unik się udał.  Działa na broń białą, łuki i kusze. Nie działa na broń palną.
 
 **Płaszcz:**  1 punkt SW kupuje dwa sukcesy podczas uniku
+
+**Pistolet:** Jeśli postać ma nabity pistolet w lewej ręce może nią wykonać całkowicie darmową kontrę. Wystarczy remis, żeby kontra się udała. Używa broni palnej jako umiejętności i zadaje obrażenia jak normalny wystrzał.
+
+**Zwykła Broń:** Możesz zapłacić jeden punkt SW, żeby wykonać nią szybki atak.
