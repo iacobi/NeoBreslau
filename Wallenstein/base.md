@@ -1,22 +1,39 @@
 
-**Szabla** Riposta - udany unik daje szybki atak przeciwko atakującemu
-
-**Pałasz** Ciężkie Ostrze - silne kostki obrażeń w pełnym ataku i kontrze
-
-**Rapier** Przeciwtempo - trzeci przerzut w pełnym ataku i kontrze jeśli używasz lewaku albo płaszcza w lewej ręce
-Precyzja? Możesz przerzucać zera?
-
 
 Fetchmistrz?
--Anatomia?
-Zwinny
 
-Kirasjer
-Wielki
-Cyngiel
+Kawaler: Anatomia, Zwinny, Farciarz
+
+Kirasjer: Wielki, Rębajło, Urodzony w siodle
+
+Korsarz: Zwinny, Twardziel, Cyngiel
 
 
 
+**Anatomia** : Przerzut do **Medycyny**, możesz używać Medycyny zamiast siły podczas zadawania obrażeń.
+
+**Zwinny** : Przerzut do **Sprawności**, możesz zapłacić punkt SW, żeby dostać drugi unik w rundzie.
+
+**Twardziel**: Przerzut do każdego testu **Wytrzymałości**. **Próg Bólu** jest podniesiony o punkt, a **Żywotność** o dwa punkty
+
+**Wielki** : Przerzut do **Siły**. **Żywotność** jest podniesiona o dwa punkty.
+
+**Rębajło** : Nie tracisz kostki obrażeń podczas szykbich ataków.
+
+**Urodzony w siodle** : Przerzut do **Jeździectwa**. Nie tracisz kostki strzelając z konia.
+
+**Cyngiel** : Wyciągnięcie pistoletu nie zabiera akcji, jeśli masz dość nabitych pistoletów możesz zrobić trzy szybkie strzały rundzie.
+
+**Farciarz** : Możesz powtórzyć trzy dowolne rzuty na sesji.
+
+**Ryngraf** : Magiczny Przedmiot. Dostajesz pancerz +1/0
+
+**Skrytobójca** : 
+
+
+
+
+**Tempo** : Jeśli trafisz pe
 
 <h2>Cechy</h2>
 
@@ -33,16 +50,7 @@ Jeśli opis na to pozwala gracz wybiera czy cechy to naturalne wrodzone zdolnoś
 >
 > **Szpieg** (zamiast cechy **Charyzma**) : Przerzut do **Charakteru**. Płacąc jeden punkt SW potrafisz zmienić swój wygląd - kolor i długość włosów, kolor oczu, barwę głosu. Wizualnie potrafisz nawet udawać inny wzrost albo wagę (bez przesady). Gracz kupując cechę wybiera czy jest to makijaż i postać nosi ze sobą zaawansowany zestaw do charakteryzacji czy cybertechnologia.
 >
-**Chirurg** : Przerzut do **Medycyny**. Jeśli postać używa ostrzy może w walce użyć poziomu Medycyny zamiast Siły. Płacąc jeden punkt SW potrafi stworzyć improwizowany TraumaPack pod warunkiem, że ma dostęp do apteki albo dowolnego miejsca gdzie może dostać podstawowe materiały medyczne. Improwizowany TraumaPack musi być użyty natychmiast po stworzeniu i używając go postać traci kostkę z rzutu na Medycynę.
 
-**Cyngiel** : Wyciągnięcie pistoletu albo rewolweru z kabury nie zajmuje akcji. Jeśli trafiłeś dwoma szybkimi strzałami w rundzie możesz wykonać trzeci szybki strzał.
->
->**Kowboj** (zamiast cechy **Cyngiel**) : Wyciągnięcie rewolweru z kabury nie zajmuje akcji. Przerzut do **Broń Krótka** kiedy strzelasz z rewolwerów.
->
-
-**Droniarz** : Przerzut do testów **Pilotażu** i **Prowadzenia Pojazdów** kiedy postać steruje dronami. Postać ma swój specjalny plecak, torbę albo skrzynie do przenoszenia i serwisowania dron. W dowolnym momencie może zapłacić jeden punkt SW, żeby znalazła się tam jedna dodatkowa drona FPV. Jeśli zrobi w to walce może od razu wykonać tą droną atak albo kontrę. Traktujemy to jako całkowicie darmową akcje.
-
-**Farciarz** : Możesz powtórzyć trzy dowolne rzuty na sesji.
 
 **Inżynieria Polowa/Monter** : Przerzut do **Mechaniki**. Jesteś bardzo dobry w improwizowaniu. Zawsze masz przy sobie drobne przedmioty jak zapałki, śrubki i małe narzędzia jak pilnik albo śrubokręt schowane w kieszeniach ubrania. Jeśli zapłacisz punkt SW, możesz wyciągnąć bardziej skomplikowane części zamienne, narzędzia albo zapasową amunicje pod warunkiem, że można je upchnąć w ubraniu. Jeśli masz dostęp do zwykłego gospodarstwa domowego możesz zapłącić punkt SW, żeby złożyć granat. Jeśli masz dostęp do warsztatu możesz złożyć improwizowany pistolet maszynowy albo strzelbę. Broń jest jednorazowa i po opróżnieniu magazynka nie da się już jej naprawić ani przeładować.
 
@@ -75,11 +83,6 @@ Jeśli opis na to pozwala gracz wybiera czy cechy to naturalne wrodzone zdolnoś
 
 **Spec** : Przerzut do **Elektroniki** i **Mechaniki**.
 
-**Szybki** : Przerzut do **Sprawności**, możesz zapłacić punkt SW, żeby dostać drugi unik w rundzie.
-
-**Twardziel**: Przerzut do każdego testu **Wytrzymałości**. **Próg Bólu** jest podniesiony o punkt, a **Żywotność** o dwa punkty
-
-**Wielki** : Przerzut do **Siły** i **Walki Wręcz**. **Żywotność** jest podniesiona o punkt.
 
 **Wirus** : Przerzut do **Oprogramowania**. Jeśli masz fizyczny dostęp do sprzęgu dowolnej osoby możesz spróbować przejąć and nią kontrolę. Musisz zapłacić jeden punkt SW i wygrać test swojej umiejętności Oprogramowanie kontra Wola celu. Można przeprowadzić tylko na nieprzytomnej albo obezwładnionej osobie. Kontrola ciała trwa do momentu świadomego wyłączenia albo utraty przytomności przez cel. Kontrolujący pozostaje wtedy w stanie letargu. Wszystkie testy wykonuje się wtedy mniejszą z dwóch umiejętności kontrolowanego lub konotrolującego. 
 
