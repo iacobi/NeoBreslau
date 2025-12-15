@@ -27,7 +27,7 @@ Korsarz: Zwinny, Twardziel, Cyngiel
 
 **Farciarz** : Możesz powtórzyć trzy dowolne rzuty na sesji.
 
-**Ryngraf** : Magiczny Przedmiot. Dostajesz pancerz +1/0
+**Ryngraf** : Podnosi miękki pancerz o punkt
 
 **Skrytobójca** : 
 
