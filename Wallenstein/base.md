@@ -9,6 +9,7 @@ Kirasjer: Wielki, Rębajło, Urodzony w siodle
 Korsarz: Zwinny, Twardziel, Cyngiel
 
 
+**Alchemik** : Przerzut do Alchemii?, może zapłacić SW, żeby dostać darmowy rzut granatem.
 
 **Anatomia** : Przerzut do **Medycyny**, możesz używać Medycyny zamiast siły podczas zadawania obrażeń.
 
