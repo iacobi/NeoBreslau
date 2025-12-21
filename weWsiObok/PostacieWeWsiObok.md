@@ -9,7 +9,7 @@
 
 <h3>Znachor</h3>
 
-**Mądry** : Przerzut do testów **Medycyny** i **Wiedzy** 
+**Chłopski Rozum** : Przerzut do testów **Medycyny** i **Wiedzy** 
 
 **Ziołolecznictwo** : Wydaje punkt SW i leczy dowolną postać tyle punktów Żywotności ile uzyska z testu Medycyny.
 
@@ -23,11 +23,11 @@
 
 **Sprytny** : Przerzut do testów **Cwaniactwa**
 
-**Samopał** : Raz na sesje możesz przerobić dowolną broń palną na swój samopał. Kiedy z niego korzysztasz używasz masz przerzut do testów **Strzelania** i zadajesz **kostkę obrażeń więcej**.
+**Samopał** : Możesz przerobić dowolną broń palną na swój samopał. Kiedy z niego korzysztasz używasz masz przerzut do testów **Strzelania** i zadajesz **kostkę obrażeń więcej**.
 
 <h3>Gospodarz</h3>
 
-**Gospodarz** : Przerzut do testów **Krzepy** i **Charyzmy**
+**Ojciec** : Przerzut do testów **Krzepy** i **Charyzmy**
 
 **Krewni** : Możesz wydać jeden punkt SW, żeby zwołać krewniaków, przez najbliższą dobę masz dwa ataki w walce zamiast jednego (dla potrzeb testów bierzemy pod uwagę Twoją broń i umiejętności). Możesz też wydać punkt SW, żeby zadzwonić do rodziny w mieście i wykonać dowolny test z umiejętnością na poziomie 5.
 
