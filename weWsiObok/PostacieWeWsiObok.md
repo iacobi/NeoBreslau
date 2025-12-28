@@ -23,7 +23,7 @@
 
 **Sprytny** : Przerzut do testów **Cwaniactwa**
 
-**Samopał** : Możesz przerobić dowolną broń palną na swój samopał. Kiedy z niego korzysztasz używasz masz przerzut do testów **Strzelania** i zadajesz **kostkę obrażeń więcej**.
+**Snajper** : Przerzut do testów **Strzelania**
 
 <h3>Gospodarz</h3>
 
@@ -45,9 +45,9 @@
 
 <h3>Policjant</h3>
 
-**Szkolenia** : Przerzut do testów **Strzelania**
+**Snajper** : Przerzut do testów **Strzelania**
 
-**Landara** : Przerzut do testów **Mechaniki**.
+**Fach w łapie** : Przerzut do testów **Krzepy** i **Mechaniki**
 
 <h3>Artysta</h3>
 
